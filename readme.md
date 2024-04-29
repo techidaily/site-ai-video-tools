@@ -1,6 +1,6 @@
-# TechiDaily
+# Ai Video Tools Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://ai-video-tools.techidaily.com](https://ai-video-tools.techidaily.com)
 
 ## Publish
 
