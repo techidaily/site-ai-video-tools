@@ -3,12 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate -c 12",
+    "build": "hexo generate -c 10",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
     "algolia": "hexo algolia",
-    "publish": "hexo deploy -g -c 12"
+    "publish": "hexo deploy -g -c 10"
   },
   "hexo": {
     "version": "7.2.0"
@@ -22,7 +22,7 @@
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-index": "^3.0.0",
-    "hexo-generator-sitemap-ex": "^3.3.4",
+    "hexo-generator-sitemap-ex": "^3.5.2",
     "hexo-generator-tag": "^2.0.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^6.3.0",
