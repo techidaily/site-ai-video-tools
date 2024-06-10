@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Online Video Trimming Made Easy A Kapwing Tutorial
-date: 2024-04-28T05:28:39.697Z
-updated: 2024-04-29T05:28:39.697Z
+date: 2024-06-08T23:13:51.715Z
+updated: 2024-06-09T23:13:51.715Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Online Video Trimming Made Easy A Kapwing Tutorial
 excerpt: This Article Describes New In 2024, Online Video Trimming Made Easy A Kapwing Tutorial
 keywords: online video editing made easy trimming with kapwing editor,online video trimming made easy a kapwing tutorial,kapwing video trimming tutorial edit videos in minutes,online video trimming made easy a tutorial on using kapwing,kapwing editor tutorial trimming videos made easy,online video editing made easy trimming with kapwing,online video cutting made easy a kapwing editor tutorial
-thumbnail: https://www.lifewire.com/thmb/sc_11h-4MIwIvQmqfGAXxwLWyt8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istabletworthit-a75b20684e5241b8a64efc0733092fcd.jpg
+thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
 ---
 
 ## Online Video Trimming Made Easy: A Kapwing Tutorial

@@ -1,7 +1,7 @@
 ---
 title: New Mastering Facebook Video The Ultimate Aspect Ratio Handbook
-date: 2024-05-19T16:00:29.233Z
-updated: 2024-05-20T16:00:29.233Z
+date: 2024-06-08T23:13:40.143Z
+updated: 2024-06-09T23:13:40.143Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mastering Facebook Video The Ultimate Aspect Ratio Handbook
 excerpt: This Article Describes New Mastering Facebook Video The Ultimate Aspect Ratio Handbook
 keywords: the facebook video size handbook aspect ratios explained,mastering facebook video the ultimate aspect ratio cheat sheet,the ultimate cheat sheet mastering facebook video aspect ratios,ai animation the ultimate cheat sheet mastering facebook video aspect ratios,ai animation mastering facebook video the ultimate aspect ratio cheat sheet,mastering facebook video the ultimate aspect ratio handbook,tiktok video dimensions 2024 the ultimate aspect ratio handbook
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## Mastering Facebook Video: The Ultimate Aspect Ratio Handbook

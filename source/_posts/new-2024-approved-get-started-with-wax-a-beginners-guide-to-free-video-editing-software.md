@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Get Started with Wax A Beginners Guide to Free Video Editing Software
-date: 2024-04-28T05:24:02.430Z
-updated: 2024-04-29T05:24:02.430Z
+date: 2024-06-08T23:13:40.338Z
+updated: 2024-06-09T23:13:40.338Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Get Started with Wax A Beginners Guide to Free Video Editing Software
 excerpt: This Article Describes New 2024 Approved Get Started with Wax A Beginners Guide to Free Video Editing Software
 keywords: get started with wax a beginners guide to free video editing software,get started with jaycut a beginners guide to free online video editing,get started with video editing best beginner friendly software 2024,ai animation get started with jaycut a beginners guide to free online video editing,get started with video editing on mac a beginners software selection guide,get started with jaycut a beginners guide to free video editing,get started with wax a free video editing software tutorial
-thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-time-of-day-to-instagram-3485858-1-5bb3cc9046e0fb002612537d.jpg
+thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00c96089d339b8e4537366b75.jpg
 ---
 
 ## Get Started with Wax: A Beginner's Guide to Free Video Editing Software

@@ -1,7 +1,7 @@
 ---
 title: New Mirroring Magic How to Flip a Video Clip in Final Cut Pro for 2024
-date: 2024-04-28T05:27:36.554Z
-updated: 2024-04-29T05:27:36.554Z
+date: 2024-06-08T23:13:48.520Z
+updated: 2024-06-09T23:13:48.520Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mirroring Magic How to Flip a Video Clip in Final Cut Pro for 2024
 excerpt: This Article Describes New Mirroring Magic How to Flip a Video Clip in Final Cut Pro for 2024
 keywords: easy video editing how to reverse clips in final cut pro 2023 tutorial,transform your video how to flip a clip in final cut pro,flip video clips in final cut pro a 4 step guide for beginners,mirroring magic how to flip a video clip in final cut pro,flip it how to reverse video clips in final cut pro like a pro,mastering final cut pro how to flip a clip in 4 simple steps,mirror your media how to flip a clip in final cut pro quickly
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## Mirroring Magic: How to Flip a Video Clip in Final Cut Pro

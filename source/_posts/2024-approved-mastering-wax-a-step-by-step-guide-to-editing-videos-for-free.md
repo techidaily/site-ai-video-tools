@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Wax A Step-by-Step Guide to Editing Videos for Free
-date: 2024-05-19T16:00:29.994Z
-updated: 2024-05-20T16:00:29.994Z
+date: 2024-06-08T23:13:58.967Z
+updated: 2024-06-09T23:13:58.967Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Mastering Wax A Step-by-Step Guide to Editing Videos for Free
 excerpt: This Article Describes 2024 Approved Mastering Wax A Step-by-Step Guide to Editing Videos for Free
 keywords: free video editing for beginners a step by step guide to getting started,mastering wax a step by step guide to editing videos for free,mastering wax a step by step guide to free video editing,ai animation mastering wax a step by step guide to free video editing,mastering mp4 video editing a step by step guide for mac and windows,mastering mp4 video editing a step by step guide for mac and windows users,mastering video editing a step by step guide to windows movie maker
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## Mastering Wax: A Step-by-Step Guide to Editing Videos for Free

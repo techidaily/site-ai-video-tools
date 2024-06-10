@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Make Stunning Animated Videos with These 10 Free Whiteboard Tools for Windows and Mac
-date: 2024-05-19T16:00:28.643Z
-updated: 2024-05-20T16:00:28.643Z
+date: 2024-06-08T23:13:40.269Z
+updated: 2024-06-09T23:13:40.269Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Make Stunning Animated Videos with These 10 Free Whiteboard Tools for Windows and Mac
 excerpt: This Article Describes 2024 Approved Make Stunning Animated Videos with These 10 Free Whiteboard Tools for Windows and Mac
 keywords: top 10 free whiteboard video makers for windows and mac,create stunning animations with these 12 free tools for windows and mac,make stunning animated videos with these 10 free whiteboard tools for windows and mac,ai animation create stunning animations with these 12 free tools for windows and mac,create stunning animations with these free tools for windows and mac,top 10 free whiteboard animation tools for windows and mac,create engaging videos with these 10 free whiteboard animation tools windows and mac compatible
-thumbnail: https://www.lifewire.com/thmb/5TQ2qNutxP1-2d0Nqc32lnx5qyc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-16-best-shows-to-watch-on-discovery-plus-right-now-5116795-b17411d87cfd4bd690fda5be50ea188c.jpg
+thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg
 ---
 
 ## Make Stunning Animated Videos with These 10 Free Whiteboard Tools for Windows and Mac

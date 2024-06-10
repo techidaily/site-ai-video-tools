@@ -1,7 +1,7 @@
 ---
 title: In 2024, Simple yet Powerful Video Editors for Learners
-date: 2024-05-19T16:00:40.029Z
-updated: 2024-05-20T16:00:40.029Z
+date: 2024-06-08T23:13:40.905Z
+updated: 2024-06-09T23:13:40.905Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Simple yet Powerful Video Editors for Learners
 excerpt: This Article Describes In 2024, Simple yet Powerful Video Editors for Learners
 keywords: top picks simple video editors for beginners,vn video editor for mac simple and powerful video editor,simple yet powerful video editing programs,free yet powerful top wmv video editors,top simple video editors for newbies,simple yet powerful video editing options,simple yet powerful video editors for learners
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## Simple yet Powerful Video Editors for Learners

@@ -1,7 +1,7 @@
 ---
 title: New VHS Nostalgia Made Easy Final Cut Pro Tutorials for 2024
-date: 2024-05-19T16:01:30.952Z
-updated: 2024-05-20T16:01:30.952Z
+date: 2024-06-08T23:13:49.888Z
+updated: 2024-06-09T23:13:49.888Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New VHS Nostalgia Made Easy Final Cut Pro Tutorials for 2024
 excerpt: This Article Describes New VHS Nostalgia Made Easy Final Cut Pro Tutorials for 2024
 keywords: vhs vibes made easy a final cut pro tutorial,vhs nostalgia made easy final cut pro tutorials,flip your footage easy final cut pro tutorial,title design made easy a final cut pro x tutorial,final cut pro 2024 essential tutorials for video editors,ai animation vhs nostalgia made easy final cut pro tutorials,final cut pro meets vhs easy tutorials for a retro look
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## VHS Nostalgia Made Easy: Final Cut Pro Tutorials

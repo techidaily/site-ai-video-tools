@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Lego Stop Motion Producers for 2024
-date: 2024-05-19T16:00:52.246Z
-updated: 2024-05-20T16:00:52.246Z
+date: 2024-06-08T23:13:47.805Z
+updated: 2024-06-09T23:13:47.805Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Ultimate List of Lego Stop Motion Producers for 2024
 excerpt: This Article Describes The Ultimate List of Lego Stop Motion Producers for 2024
 keywords: the ultimate list of lego stop motion producers,the ultimate list of lego stop motion experts,the ultimate list of meme creation apps for mobile,the ultimate list 10 best video players for slow motion,ranking the best lego stop motion producers,the ultimate list of stop motion animation programs for mac and pc,ai animation the ultimate list of lego stop motion experts
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## The Ultimate List of Lego Stop Motion Producers

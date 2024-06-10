@@ -1,7 +1,7 @@
 ---
 title: In 2024, New to Video Editing? Here Are 15 Free and Easy-to-Use Options
-date: 2024-05-19T16:00:31.911Z
-updated: 2024-05-20T16:00:31.911Z
+date: 2024-06-08T23:13:59.735Z
+updated: 2024-06-09T23:13:59.735Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, New to Video Editing? Here Are 15 Free and Easy-to-Use Options
 excerpt: This Article Describes In 2024, New to Video Editing? Here Are 15 Free and Easy-to-Use Options
 keywords: free and easy avi video editing software options,new to video editing here are the best software options,easy and free video editing options for new creators,ai animation new to video editing here are the best software options,ai animation top 15 free video editing software for beginners easy to use,new to video editing here are the best free software options,new to video editing here are 15 free and easy to use options
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## New to Video Editing? Here Are 15 Free and Easy-to-Use Options

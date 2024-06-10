@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Online Video Editing Course From Basics to Advanced Techniques for 2024
-date: 2024-04-28T05:33:06.930Z
-updated: 2024-04-29T05:33:06.930Z
+date: 2024-06-08T23:13:57.352Z
+updated: 2024-06-09T23:13:57.352Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Complete Online Video Editing Course From Basics to Advanced Techniques for 2024
 excerpt: This Article Describes Updated The Complete Online Video Editing Course From Basics to Advanced Techniques for 2024
 keywords: download edit and share the complete online video editing course,fcp audio editing tutorial from basics to advanced techniques,the online video editors blueprint from concept to completion,bring your vision to life advanced video editing techniques for home movie makers,elevate your storytelling advanced video editing techniques for sony camcorder users,the complete online video editing course from basics to advanced techniques,the complete online video editor tips tricks and techniques
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## The Complete Online Video Editing Course: From Basics to Advanced Techniques

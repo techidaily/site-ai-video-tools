@@ -1,7 +1,7 @@
 ---
 title: New Subtitle Like a Pro A Tutorial on Adding Captions in Final Cut Pro X
-date: 2024-05-19T16:00:42.166Z
-updated: 2024-05-20T16:00:42.166Z
+date: 2024-06-08T23:13:47.971Z
+updated: 2024-06-09T23:13:47.971Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Subtitle Like a Pro A Tutorial on Adding Captions in Final Cut Pro X
 excerpt: This Article Describes New Subtitle Like a Pro A Tutorial on Adding Captions in Final Cut Pro X
 keywords: fcpx subtitle tutorial how to add captions like a pro,ai animation how to add subtitlescaptions in final cut pro x,unlock accessibility adding subtitles and captions in final cut pro x,final cut pro x a step by step guide to adding subtitles and captions,subtitle like a pro a tutorial on adding captions in final cut pro x,final cut pro tutorial fading in and out of audio like a pro,how to add subtitlescaptions in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Subtitle Like a Pro: A Tutorial on Adding Captions in Final Cut Pro X

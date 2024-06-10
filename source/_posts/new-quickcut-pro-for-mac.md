@@ -1,7 +1,7 @@
 ---
 title: New QuickCut Pro for Mac
-date: 2024-05-19T16:00:35.297Z
-updated: 2024-05-20T16:00:35.297Z
+date: 2024-06-08T23:13:48.820Z
+updated: 2024-06-09T23:13:48.820Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New QuickCut Pro for Mac
 excerpt: This Article Describes New QuickCut Pro for Mac
 keywords: av editor pro for mac,quickcut pro for mac,splice for mac,intro maker for pc,viddyo for mac,gopro quik for desktop,gopro quik for mac
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## QuickCut Pro for Mac

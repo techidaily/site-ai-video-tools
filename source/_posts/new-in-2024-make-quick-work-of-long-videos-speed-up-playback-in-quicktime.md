@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Make Quick Work of Long Videos Speed Up Playback in QuickTime
-date: 2024-04-28T05:26:40.501Z
-updated: 2024-04-29T05:26:40.501Z
+date: 2024-06-08T23:13:39.937Z
+updated: 2024-06-09T23:13:39.937Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Make Quick Work of Long Videos Speed Up Playback in QuickTime
 excerpt: This Article Describes New In 2024, Make Quick Work of Long Videos Speed Up Playback in QuickTime
 keywords: take control of your video playback speed up or slow down in quicktime,mastering video playback speed in quicktime tips and tricks,make quick work of long videos speed up playback in quicktime,video on the go how to speed up playback in quicktime player,how to speed up videos on quicktime player,how to speed up videos on quicktime player windowsmac,speed up or slow down videos in quicktime player for windows and mac
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Make Quick Work of Long Videos: Speed Up Playback in QuickTime

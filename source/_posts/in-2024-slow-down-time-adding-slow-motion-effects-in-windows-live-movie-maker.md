@@ -1,7 +1,7 @@
 ---
 title: In 2024, Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker
-date: 2024-05-19T16:02:24.755Z
-updated: 2024-05-20T16:02:24.755Z
+date: 2024-06-08T23:13:53.252Z
+updated: 2024-06-09T23:13:53.252Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker
 excerpt: This Article Describes In 2024, Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker
 keywords: slow down time adding slow motion effects in windows live movie maker,slow and steady wins the game mastering slow motion in windows live movie maker,how to use windows live movie maker slow motion effect,ai animation how to use windows live movie maker slow motion effect,slow down time using slow motion effects in windows live movie maker 2023,slow down and savor how to add slow motion effects in windows live movie maker,slow down time using windows live movie makers slow motion feature
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## Slow Down Time: Adding Slow Motion Effects in Windows Live Movie Maker

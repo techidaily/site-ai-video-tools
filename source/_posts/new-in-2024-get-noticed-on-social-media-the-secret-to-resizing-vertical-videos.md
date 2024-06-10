@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Get Noticed on Social Media The Secret to Resizing Vertical Videos
-date: 2024-04-28T05:23:47.372Z
-updated: 2024-04-29T05:23:47.372Z
+date: 2024-06-08T23:13:45.156Z
+updated: 2024-06-09T23:13:45.156Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Get Noticed on Social Media The Secret to Resizing Vertical Videos
 excerpt: This Article Describes New In 2024, Get Noticed on Social Media The Secret to Resizing Vertical Videos
 keywords: the secret to perfect proportions resizing vertical videos for social,master vertical video top secret to resize for social media,from widescreen to vertical the essential guide to resizing social media videos,get noticed on social media the secret to resizing vertical videos,the secret to making vertical videos work on social media its not what you think,get noticed on social media the ultimate guide to vertical video resizing,get noticed on social media the importance of proper video resizing
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## Get Noticed on Social Media: The Secret to Resizing Vertical Videos

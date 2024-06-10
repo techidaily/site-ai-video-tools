@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Jump Cut Like a Pro Advanced Editing Techniques in FCPX
-date: 2024-05-19T16:01:25.130Z
-updated: 2024-05-20T16:01:25.130Z
+date: 2024-06-08T23:13:58.018Z
+updated: 2024-06-09T23:13:58.018Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Jump Cut Like a Pro Advanced Editing Techniques in FCPX
 excerpt: This Article Describes New In 2024, Jump Cut Like a Pro Advanced Editing Techniques in FCPX
 keywords: pro editing techniques l cuts and j cuts in fcpx made easy,time lapse like a pro advanced techniques in final cut pro,ai animation jump cut like a pro advanced editing techniques in fcpx,blur like a pro advanced motion blur techniques in final cut pro,jump cutting like a pro in fcpx expert techniques revealed,pip like a pro advanced techniques in final cut pro,jump cut like a pro advanced editing techniques in fcpx
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Jump Cut Like a Pro: Advanced Editing Techniques in FCPX

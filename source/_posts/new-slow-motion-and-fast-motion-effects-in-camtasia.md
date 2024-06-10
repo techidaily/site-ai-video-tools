@@ -1,7 +1,7 @@
 ---
 title: New Slow Motion and Fast Motion Effects in Camtasia
-date: 2024-05-19T16:00:40.369Z
-updated: 2024-05-20T16:00:40.369Z
+date: 2024-06-08T23:13:58.486Z
+updated: 2024-06-09T23:13:58.486Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Slow Motion and Fast Motion Effects in Camtasia
 excerpt: This Article Describes New Slow Motion and Fast Motion Effects in Camtasia
 keywords: slow and steady wins the game mastering vlcs slow motion effects,ai animation how to use windows live movie maker slow motion effect,ai animation how to play video in slow motion effects on vlc desktopmobile,slow motion and fast motion effects in camtasia,from fast to furious how to create slow motion effects on kapwing,slow down time adding slow motion effects in windows live movie maker,ai animation how to fast forward or slow down videos in camtasia
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Slow Motion and Fast Motion Effects in Camtasia

@@ -1,7 +1,7 @@
 ---
 title: Twitter Video Size Guide What You Need to Know for 2024
-date: 2024-05-19T16:01:00.383Z
-updated: 2024-05-20T16:01:00.383Z
+date: 2024-06-08T23:14:00.282Z
+updated: 2024-06-09T23:14:00.282Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Twitter Video Size Guide What You Need to Know for 2024
 excerpt: This Article Describes Twitter Video Size Guide What You Need to Know for 2024
 keywords: the definitive guide to facebook video aspect ratios what you need to know,instagram video dimensions what you need to know,what you need to know before converting your music to video,avs video editor what you need to know before buying,twitter video dimensions what you need to know,twitter video size guide what you need to know,twitter video sizing made easy get the data you need now
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## Twitter Video Size Guide: What You Need to Know

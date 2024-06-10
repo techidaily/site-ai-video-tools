@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Social Media Image Sizes A Step-by-Step Handbook
-date: 2024-04-28T05:31:13.136Z
-updated: 2024-04-29T05:31:13.136Z
+date: 2024-06-08T23:13:57.947Z
+updated: 2024-06-09T23:13:57.947Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Social Media Image Sizes A Step-by-Step Handbook
 excerpt: This Article Describes New In 2024, Social Media Image Sizes A Step-by-Step Handbook
 keywords: social media image sizes a step by step handbook,top rated image resizing tools for web and social media,picture perfect a step by step guide to social media image dimensions,free commercial image sources a step by step guide,the ultimate cheat sheet social media image sizes and ratios,get noticed a step by step guide to perfect social media image sizes,the aspect ratio handbook a step by step guide to social media visuals
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## Social Media Image Sizes: A Step-by-Step Handbook

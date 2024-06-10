@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Final Cut Pro X Audio Fundamentals Working with L-Cuts and J-Cuts
-date: 2024-04-28T05:21:01.061Z
-updated: 2024-04-29T05:21:01.061Z
+date: 2024-06-08T23:13:54.101Z
+updated: 2024-06-09T23:13:54.101Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Final Cut Pro X Audio Fundamentals Working with L-Cuts and J-Cuts
 excerpt: This Article Describes New In 2024, Final Cut Pro X Audio Fundamentals Working with L-Cuts and J-Cuts
 keywords: pro level video editing l cuts and j cuts in final cut pro x,how to sync audio and video in final cut pro x 2024,smooth transitions mastering l cuts and j cuts in final cut pro x,audio editing mastery l cuts and j cuts in final cut pro x,final cut pro x audio fundamentals working with l cuts and j cuts,final cut pro x 2024 essentials syncing audio and video for smooth edits,cut like a pro l cuts and j cuts in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## Final Cut Pro X Audio Fundamentals: Working with L-Cuts and J-Cuts

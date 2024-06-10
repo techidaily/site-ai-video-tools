@@ -1,7 +1,7 @@
 ---
 title: Updated The Secret to Perfectly Sizing Your Vertical Videos for Social Platforms for 2024
-date: 2024-04-28T05:33:33.251Z
-updated: 2024-04-29T05:33:33.251Z
+date: 2024-06-08T23:13:51.970Z
+updated: 2024-06-09T23:13:51.970Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Secret to Perfectly Sizing Your Vertical Videos for Social Platforms for 2024
 excerpt: This Article Describes Updated The Secret to Perfectly Sizing Your Vertical Videos for Social Platforms for 2024
 keywords: the secret to perfectly sized social media videos every time,optimize your videos mastering vertical aspect ratio for social media,the secret to perfectly sized social media videos a game changing tip,the secret to perfectly sizing your vertical videos for social platforms,master vertical video top secret to resize for social media,the secret to perfect proportions resizing vertical videos for social,sizing up success how to optimize your vertical videos for social media
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## The Secret to Perfectly Sizing Your Vertical Videos for Social Platforms

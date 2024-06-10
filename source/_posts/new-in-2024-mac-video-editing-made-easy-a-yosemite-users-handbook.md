@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Mac Video Editing Made Easy A Yosemite Users Handbook
-date: 2024-04-28T05:26:14.408Z
-updated: 2024-04-29T05:26:14.408Z
+date: 2024-06-08T23:13:58.800Z
+updated: 2024-06-09T23:13:58.800Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Mac Video Editing Made Easy A Yosemite Users Handbook
 excerpt: This Article Describes New In 2024, Mac Video Editing Made Easy A Yosemite Users Handbook
 keywords: the mac beginners handbook to video editing software selection made easy,mac video editing made easy a yosemite users handbook,edit like a pro video file editing on mac os x yosemite made easy,mac video editing made easy yosemite edition,mac video editing essentials a yosemite users handbook,mastering video editing on mac a yosemite guide,mastering video editing on mac a step by step guide for yosemite users
-thumbnail: https://www.lifewire.com/thmb/gzHpHKbSd5o6D_hdSTFod8z3AV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-769729481-5bd367dcc9e77c007c015257.jpg
+thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
 ## Mac Video Editing Made Easy: A Yosemite User's Handbook
