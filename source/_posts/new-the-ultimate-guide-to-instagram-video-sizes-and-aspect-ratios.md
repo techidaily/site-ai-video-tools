@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Instagram Video Sizes and Aspect Ratios
-date: 2024-05-19T16:00:50.230Z
-updated: 2024-05-20T16:00:50.230Z
+date: 2024-06-16T20:21:21.374Z
+updated: 2024-06-17T20:21:21.374Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Ultimate Guide to Instagram Video Sizes and Aspect Ratios
 excerpt: This Article Describes New The Ultimate Guide to Instagram Video Sizes and Aspect Ratios
 keywords: ai animation optimal video size for instagram a guide to aspect ratios,the ultimate guide to twitter video aspect ratios,the ultimate guide to twitter video aspect ratio and size,optimal video size for instagram a guide to aspect ratios,the ultimate guide to instagram video sizes and aspect ratios,ai animation the ultimate guide to instagram video aspect ratios and sizes,the ultimate guide to instagram video aspect ratios and sizes
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## The Ultimate Guide to Instagram Video Sizes and Aspect Ratios

@@ -1,7 +1,7 @@
 ---
 title: New Mac Video Editing 101 Using QuickTime for Stunning Results
-date: 2024-05-19T16:00:27.880Z
-updated: 2024-05-20T16:00:27.880Z
+date: 2024-06-16T20:21:24.958Z
+updated: 2024-06-17T20:21:24.958Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mac Video Editing 101 Using QuickTime for Stunning Results
 excerpt: This Article Describes New Mac Video Editing 101 Using QuickTime for Stunning Results
 keywords: nikon video workflow efficient editing for stunning results,mac video editing 101 using quicktime for stunning results,quicktime video editing essentials for mac users,quicktime video editing for mac users a step by step tutorial,top 8 mac video editing software for cinematic results,quicktime video editing essentials for mac beginners,the ultimate quicktime video editing guide for mac os users
-thumbnail: https://www.lifewire.com/thmb/dlXSXWUVnvtFpXfW22z68Mqdr1g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TwitterVideoDownload-5b605aaac9e77c002c3a42f3.jpg
+thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c84a7394663cf2c5a8a40dbef.jpg
 ---
 
 ## Mac Video Editing 101: Using QuickTime for Stunning Results

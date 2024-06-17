@@ -1,7 +1,7 @@
 ---
 title: Updated Make This Valentines Day Unforgettable DIY Video Gift Ideas for 2024
-date: 2024-04-28T05:26:42.194Z
-updated: 2024-04-29T05:26:42.194Z
+date: 2024-06-16T20:21:13.040Z
+updated: 2024-06-17T20:21:13.040Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Make This Valentines Day Unforgettable DIY Video Gift Ideas for 2024
 excerpt: This Article Describes Updated Make This Valentines Day Unforgettable DIY Video Gift Ideas for 2024
 keywords: make it a valentines day to remember diy video ideas for your loved one,make this valentines day unforgettable diy video gift ideas,make unforgettable invitations top video apps for mobile,the ultimate list of music video makers for unforgettable videos,make this valentines day unforgettable tips for creating a personalized video gift,create unforgettable videos insider tips for home editors,send unforgettable invites best video apps for mobile phones
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Make This Valentine's Day Unforgettable: DIY Video Gift Ideas

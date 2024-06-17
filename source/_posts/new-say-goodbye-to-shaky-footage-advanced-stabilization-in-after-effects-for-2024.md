@@ -1,7 +1,7 @@
 ---
 title: New Say Goodbye to Shaky Footage Advanced Stabilization in After Effects for 2024
-date: 2024-04-28T05:30:27.491Z
-updated: 2024-04-29T05:30:27.491Z
+date: 2024-06-16T20:21:12.222Z
+updated: 2024-06-17T20:21:12.222Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Say Goodbye to Shaky Footage Advanced Stabilization in After Effects for 2024
 excerpt: This Article Describes New Say Goodbye to Shaky Footage Advanced Stabilization in After Effects for 2024
 keywords: say goodbye to shaky footage video stabilization tips and tricks in adobe premiere pro,say goodbye to shaky footage ae video stabilization made easy,say goodbye to shaky footage top video stabilization apps,say goodbye to shaky footage advanced stabilization in after effects,say goodbye to shaky cam after effects video stabilization tutorial,say goodbye to shaky footage adobe premiere pro stabilization tips and tricks,say goodbye to camera shake after effects stabilization techniques
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Say Goodbye to Shaky Footage: Advanced Stabilization in After Effects

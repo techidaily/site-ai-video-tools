@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac
-date: 2024-04-28T05:41:22.076Z
-updated: 2024-04-29T05:41:22.076Z
+date: 2024-06-16T20:21:28.682Z
+updated: 2024-06-17T20:21:28.682Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac
 excerpt: This Article Describes New 2024 Approved Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac
 keywords: editing videos on mac os x yosemite a beginners guide,video editing mastery a beginners guide to online download and editing,avs video editor 2023 review a beginners guide to video editing software,yosemite video editing 101 a beginners tutorial for mac os x,yosemite video editing 101 a beginners guide to editing videos on mac,video editing on mac os x yosemite a comprehensive beginners guide,a beginners guide to video editing on mac create stunning movies
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## Yosemite Video Editing 101: A Beginner's Guide to Editing Videos on Mac

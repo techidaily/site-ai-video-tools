@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Fade In, Fade Out Exploring Two Essential Audio Techniques in Final Cut Pro
-date: 2024-04-28T05:20:17.436Z
-updated: 2024-04-29T05:20:17.436Z
+date: 2024-06-16T20:21:18.785Z
+updated: 2024-06-17T20:21:18.785Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Fade In, Fade Out Exploring Two Essential Audio Techniques in Final Cut Pro
 excerpt: This Article Describes New 2024 Approved Fade In, Fade Out Exploring Two Essential Audio Techniques in Final Cut Pro
 keywords: the art of audio fading 2 techniques to elevate your videos in final cut pro,fade in fade out two essential audio techniques in fcp,ai animation fade in fade out two essential audio techniques in fcp,fast forward your video editing time lapse techniques in final cut pro,audio editing essentials two ways to create smooth fades in final cut pro,audio fade ins and outs made easy 2 final cut pro techniques,fade in fade out exploring two essential audio techniques in final cut pro
-thumbnail: https://www.lifewire.com/thmb/BPYPQrXsNWygpcoCT-Bo8NlAS2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1094009490-2694d308001d46049e0755f4dd7fdf4c.jpg
+thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
 ## Fade In, Fade Out: Exploring Two Essential Audio Techniques in Final Cut Pro

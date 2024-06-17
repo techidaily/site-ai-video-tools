@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Secret to Perfectly Sized Social Media Videos Every Time
-date: 2024-04-28T05:33:33.046Z
-updated: 2024-04-29T05:33:33.046Z
+date: 2024-06-16T20:21:11.040Z
+updated: 2024-06-17T20:21:11.040Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved The Secret to Perfectly Sized Social Media Videos Every Time
 excerpt: This Article Describes Updated 2024 Approved The Secret to Perfectly Sized Social Media Videos Every Time
 keywords: get noticed on social media the secret to resizing vertical videos,master vertical video top secret to resize for social media,the secret to perfectly sized social media videos a game changing tip,get noticed a step by step guide to perfect social media image sizes,the secret to perfect proportions resizing vertical videos for social,the secret to perfectly sized social media videos every time,the secret to perfectly sizing your vertical videos for social platforms
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## The Secret to Perfectly Sized Social Media Videos Every Time

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Video Ratio Made Simple A Beginners Guide to Resizing
-date: 2024-04-28T05:40:03.560Z
-updated: 2024-04-29T05:40:03.560Z
+date: 2024-06-16T20:21:15.660Z
+updated: 2024-06-17T20:21:15.660Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Video Ratio Made Simple A Beginners Guide to Resizing
 excerpt: This Article Describes Updated 2024 Approved Video Ratio Made Simple A Beginners Guide to Resizing
 keywords: aspect ratio made simple a beginners guide to calculating image sizes,gopro video editing simplified a beginners guide to amazing results,video reversal made simple a beginners guide to final cut pro,video ratio made simple a beginners guide to resizing,image size made simple a beginners guide to ratio calculators,ai animation video resizing made easy a beginners guide,avi file cutting made simple a beginners guide to video editing updated 2023
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## Video Ratio Made Simple: A Beginner's Guide to Resizing

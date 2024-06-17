@@ -1,7 +1,7 @@
 ---
 title: New Transform Your Footage A Step-by-Step Guide to GoPro Quik for MacBook
-date: 2024-05-19T16:00:59.045Z
-updated: 2024-05-20T16:00:59.045Z
+date: 2024-06-16T20:21:19.155Z
+updated: 2024-06-17T20:21:19.155Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Transform Your Footage A Step-by-Step Guide to GoPro Quik for MacBook
 excerpt: This Article Describes New Transform Your Footage A Step-by-Step Guide to GoPro Quik for MacBook
 keywords: transform your footage a step by step guide to ken burns effect in final cut pro,transform your gopro footage easy video editing for all,transform your footage a step by step guide to 3d video effects on windows,transform your footage a beginners guide to gopro quik editing on macbook,transform your gopro footage quick and easy video editing on macbook,transform your gopro clips a step by step mac video editing guide,transform your footage a step by step guide to gopro quik for macbook
-thumbnail: https://www.lifewire.com/thmb/g1kkp8ne6jm5E7rMiTd4CMgu2Fw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642981042-5a903651a18d9e0037d31742.jpg
+thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
 ## Transform Your Footage: A Step-by-Step Guide to GoPro Quik for MacBook

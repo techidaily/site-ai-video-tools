@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Design and Send Free Video Invitations with These Top Online Tools
-date: 2024-04-28T05:17:57.175Z
-updated: 2024-04-29T05:17:57.175Z
+date: 2024-06-16T20:21:20.867Z
+updated: 2024-06-17T20:21:20.867Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Design and Send Free Video Invitations with These Top Online Tools
 excerpt: This Article Describes Updated In 2024, Design and Send Free Video Invitations with These Top Online Tools
 keywords: design and send free video invitations with these top online tools,top rated free online invitation video editors and makers,design and send video invites for free best online tools,10 free online tools to create stunning invitation videos,free video invitation design tools the ultimate 2024 list,design and send video invites with these top ios and android apps,ai animation create stunning lyric videos with these top online tools
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## Design and Send Free Video Invitations with These Top Online Tools

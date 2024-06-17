@@ -1,7 +1,7 @@
 ---
 title: Updated Make Your Videos Epic How to Add Slow Motion in Windows Live Movie Maker
-date: 2024-05-19T16:00:28.925Z
-updated: 2024-05-20T16:00:28.925Z
+date: 2024-06-16T20:21:15.850Z
+updated: 2024-06-17T20:21:15.850Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Make Your Videos Epic How to Add Slow Motion in Windows Live Movie Maker
 excerpt: This Article Describes Updated Make Your Videos Epic How to Add Slow Motion in Windows Live Movie Maker
 keywords: how to edit videos in windows live movie maker lately windows movie maker,make your videos epic how to add slow motion in windows live movie maker,ai animation how to edit videos in windows live movie maker lately windows movie maker,windows live movie maker tutorial adding slow motion to your videos,slow motion magic how to use windows live movie makers advanced features,windows live movie maker tutorial adding a slow motion effect to your videos,ai animation how to split videos in windows live movie maker
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Make Your Videos Epic: How to Add Slow Motion in Windows Live Movie Maker

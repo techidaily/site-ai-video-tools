@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Meet the Top Lego Stop Motion Talent
-date: 2024-04-28T05:27:26.415Z
-updated: 2024-04-29T05:27:26.415Z
+date: 2024-06-16T20:21:17.194Z
+updated: 2024-06-17T20:21:17.194Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Meet the Top Lego Stop Motion Talent
 excerpt: This Article Describes New In 2024, Meet the Top Lego Stop Motion Talent
 keywords: lego stop motion mavens the top creators,unleashing the magic top lego stop motion artists,the most talented lego stop motion creators,the most talented lego stop motion artists this year,the most talented lego stop motion creators of the year,meet the top lego stop motion talent,unleashing imagination the top lego stop motion makers
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## Meet the Top Lego Stop Motion Talent

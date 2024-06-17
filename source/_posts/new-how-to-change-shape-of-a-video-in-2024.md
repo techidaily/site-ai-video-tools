@@ -1,7 +1,7 @@
 ---
 title: New How to Change Shape of a Video, In 2024
-date: 2024-05-19T16:01:24.283Z
-updated: 2024-05-20T16:01:24.283Z
+date: 2024-06-16T20:21:11.487Z
+updated: 2024-06-17T20:21:11.487Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New How to Change Shape of a Video, In 2024
 excerpt: This Article Describes New How to Change Shape of a Video, In 2024
 keywords: how to change ratio of video in a quick easy way,ai animation how to change shape of a video,how to change shape of a video,how to change shape of video,how to change ratio of video in a quick way,ai animation how to change ratio of video in a quick way,get the right fit how to change video shape and size
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## Unlock New Dimensions: A Beginner's Guide to Video Resizing

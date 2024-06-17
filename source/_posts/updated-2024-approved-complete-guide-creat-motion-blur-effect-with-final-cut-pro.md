@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Complete Guide Creat Motion Blur Effect with Final Cut Pro
-date: 2024-05-19T16:01:21.589Z
-updated: 2024-05-20T16:01:21.589Z
+date: 2024-06-16T20:21:14.876Z
+updated: 2024-06-17T20:21:14.876Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Complete Guide Creat Motion Blur Effect with Final Cut Pro
 excerpt: This Article Describes Updated 2024 Approved Complete Guide Creat Motion Blur Effect with Final Cut Pro
 keywords: motion blur magic a comprehensive guide to final cut pro effects,complete guide creat motion blur effect with final cut pro,the art of motion blur a comprehensive guide for final cut pro editors,ai animation complete guide creat motion blur effect with final cut pro,the complete final cut pro course 2024 edition,how to make a motion blur effect with final cut pro,get moving with motion blur a beginners guide to final cut pro effects
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## Complete Guide: Creat Motion Blur Effect with Final Cut Pro

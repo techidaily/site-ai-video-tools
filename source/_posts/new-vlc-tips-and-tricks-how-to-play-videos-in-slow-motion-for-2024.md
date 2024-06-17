@@ -1,7 +1,7 @@
 ---
 title: New VLC Tips and Tricks How to Play Videos in Slow Motion for 2024
-date: 2024-04-28T05:40:22.462Z
-updated: 2024-04-29T05:40:22.462Z
+date: 2024-06-16T20:21:09.098Z
+updated: 2024-06-17T20:21:09.098Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New VLC Tips and Tricks How to Play Videos in Slow Motion for 2024
 excerpt: This Article Describes New VLC Tips and Tricks How to Play Videos in Slow Motion for 2024
 keywords: master vlc how to play videos in slow motion on desktop and mobile,vlc hacks how to play videos in slow motion for enhanced viewing,ai animation how to play video in slow motion on vlc,mastering vlc how to play videos in slow motion on desktop and mobile,how to play video in slow motion on vlc,mastering vlc how to play videos in slow motion with ease,vlc tips and tricks how to play videos in slow motion
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## VLC Tips and Tricks: How to Play Videos in Slow Motion

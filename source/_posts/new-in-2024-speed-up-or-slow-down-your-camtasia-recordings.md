@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Speed Up or Slow Down Your Camtasia Recordings
-date: 2024-04-28T05:31:20.973Z
-updated: 2024-04-29T05:31:20.973Z
+date: 2024-06-16T20:21:11.727Z
+updated: 2024-06-17T20:21:11.727Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Speed Up or Slow Down Your Camtasia Recordings
 excerpt: This Article Describes New In 2024, Speed Up or Slow Down Your Camtasia Recordings
 keywords: time saving tips how to speed up or slow down videos in camtasia,video editing hack speed up or slow down clips in camtasia,unlocking camtasias power speed up slow down and more,speed up or slow down a comprehensive camtasia video guide,speed up or slow down your camtasia recordings,speeding up or slowing down footage in camtasia made easy,unlocking camtasias power how to speed up or slow down videos
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Speed Up or Slow Down Your Camtasia Recordings

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Transform Your Images A Beginners Guide to the Ken Burns Effect
-date: 2024-04-28T05:37:28.028Z
-updated: 2024-04-29T05:37:28.028Z
+date: 2024-06-16T20:21:29.038Z
+updated: 2024-06-17T20:21:29.038Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Transform Your Images A Beginners Guide to the Ken Burns Effect
 excerpt: This Article Describes Updated In 2024, Transform Your Images A Beginners Guide to the Ken Burns Effect
 keywords: transform your footage a step by step guide to ken burns effect in final cut pro,unlock the power of the ken burns effect a beginners guide,transform your images a beginners guide to the ken burns effect,the ultimate guide to ken burns effect in final cut pro tips tricks and best practices,transform your footage a beginners guide to flipping clips in fcp,elevate your videos a beginners guide to using ken burns effect in final cut pro,transform your videos a beginners guide to editing with windows movie maker
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## Transform Your Images: A Beginner's Guide to the Ken Burns Effect

@@ -1,7 +1,7 @@
 ---
 title: Updated Adjusting Video Playback Speed in QuickTime A Beginners Guide for 2024
-date: 2024-05-19T16:01:16.066Z
-updated: 2024-05-20T16:01:16.066Z
+date: 2024-06-16T20:21:29.604Z
+updated: 2024-06-17T20:21:29.604Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Adjusting Video Playback Speed in QuickTime A Beginners Guide for 2024
 excerpt: This Article Describes Updated Adjusting Video Playback Speed in QuickTime A Beginners Guide for 2024
 keywords: speed up video playback in quicktime player a step by step guide,adjusting video playback speed in quicktime a beginners guide,mastering quicktime player how to adjust video playback speed,avi file cutting made simple a beginners guide to video editing updated 2023,accelerate video playback in quicktime a step by step guide,mastering quicktime video editing on mac a beginners guide,mastering video playback speed in quicktime tips and tricks
-thumbnail: https://www.lifewire.com/thmb/BFplsHvF2W-tN_GPJVyxOAwi8YM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/E-reader-57b936e05f9b58cdfd3e07e1.jpg
+thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg
 ---
 
 ## Adjusting Video Playback Speed in QuickTime: A Beginner's Guide

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create Stunning Invites Top 10 Free Video Makers
-date: 2024-04-28T05:17:16.729Z
-updated: 2024-04-29T05:17:16.729Z
+date: 2024-06-16T20:21:19.871Z
+updated: 2024-06-17T20:21:19.871Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Create Stunning Invites Top 10 Free Video Makers
 excerpt: This Article Describes New 2024 Approved Create Stunning Invites Top 10 Free Video Makers
 keywords: create stunning video invites for free top online makers,ai animation create stunning videos from images 10 top online makers,create stunning invites top 10 free video makers,create stunning 3d videos top free and paid makers,create stunning invitations 10 free video maker options,create stunning videos from images 10 top online makers,create stunning videos top windows 10 movie makers
-thumbnail: https://www.lifewire.com/thmb/-k7XQuYCtDIqaSG0zopRVuv3liM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-unveils-new-products-at-its-annual-unpacked-event-1200186175-0a17180ae84e47f488f43d3afbb7daa6.jpg
+thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
 ---
 
 ## Create Stunning Invites: Top 10 Free Video Makers

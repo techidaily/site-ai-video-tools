@@ -1,7 +1,7 @@
 ---
 title: New Video Editing Made Easy A Windows Movie Maker Crash Course
-date: 2024-05-19T16:01:05.880Z
-updated: 2024-05-20T16:01:05.880Z
+date: 2024-06-16T20:21:16.785Z
+updated: 2024-06-17T20:21:16.785Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Video Editing Made Easy A Windows Movie Maker Crash Course
 excerpt: This Article Describes New Video Editing Made Easy A Windows Movie Maker Crash Course
 keywords: unleash your creativity a comprehensive guide to video editing with windows movie maker,video editing made easy a windows movie maker tutorial for all,unleash your creativity how to edit videos in windows movie maker,video editing made easy a windows movie maker crash course,mp4 video editing made easy a beginners guide for mac and windows,unleash your creativity top mac video editing software like windows movie maker,video editing made easy a comprehensive guide to windows movie maker
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## Video Editing Made Easy: A Windows Movie Maker Crash Course

@@ -1,7 +1,7 @@
 ---
 title: Updated Stand Out on LinkedIn Learn to Create Eye-Catching Video Thumbnails
-date: 2024-05-19T16:00:41.180Z
-updated: 2024-05-20T16:00:41.180Z
+date: 2024-06-16T20:21:16.089Z
+updated: 2024-06-17T20:21:16.089Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Stand Out on LinkedIn Learn to Create Eye-Catching Video Thumbnails
 excerpt: This Article Describes Updated Stand Out on LinkedIn Learn to Create Eye-Catching Video Thumbnails
 keywords: elevate your brand how to create eye catching linkedin video thumbnails,the secret to eye catching linkedin videos custom thumbnails,the secret to making your linkedin video thumbnails stand out,the secret to making your linkedin videos stand out custom thumbnails,boost your linkedin video views with eye catching thumbnails,get noticed on linkedin the art of creating custom video thumbnails,stand out on linkedin learn to create eye catching video thumbnails
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Stand Out on LinkedIn: Learn to Create Eye-Catching Video Thumbnails

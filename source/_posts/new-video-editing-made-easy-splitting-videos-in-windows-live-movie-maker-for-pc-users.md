@@ -1,7 +1,7 @@
 ---
 title: New Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users
-date: 2024-05-19T16:01:06.010Z
-updated: 2024-05-20T16:01:06.010Z
+date: 2024-06-16T20:21:26.873Z
+updated: 2024-06-17T20:21:26.873Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users
 excerpt: This Article Describes New Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users
 keywords: windows live movie maker tutorial splitting videos made easy,unleash your creativity splitting and editing videos in windows live movie maker,the ultimate guide to splitting videos in windows live movie maker for beginners,the ultimate guide to video editing splitting videos in windows live movie maker,cutting it up a beginners guide to splitting videos in windows live movie maker,video splitting made easy a step by step guide for windows live movie maker,video editing made easy splitting videos in windows live movie maker for pc users
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## Video Editing Made Easy: Splitting Videos in Windows Live Movie Maker for PC Users
