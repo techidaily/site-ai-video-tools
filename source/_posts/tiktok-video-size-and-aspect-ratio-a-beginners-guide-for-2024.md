@@ -1,7 +1,7 @@
 ---
 title: TikTok Video Size and Aspect Ratio A Beginners Guide for 2024
-date: 2024-05-19T16:00:53.915Z
-updated: 2024-05-20T16:00:53.915Z
+date: 2024-06-24T14:33:28.024Z
+updated: 2024-06-25T14:33:28.024Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes TikTok Video Size and Aspect Ratio A Beginners Guide for 2024
 excerpt: This Article Describes TikTok Video Size and Aspect Ratio A Beginners Guide for 2024
 keywords: the one stop shop for facebook video aspect ratios a beginners guide,optimize your facebook videos a beginners guide to aspect ratios,the 2024 tiktok creators guide to aspect ratio and video size,optimal video size for instagram a guide to aspect ratios,instagram video formatting 101 a beginners guide to aspect ratios and dimensions,twitter video aspect ratio 101 a beginners guide to success,tiktok video size and aspect ratio a beginners guide
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## TikTok Video Size and Aspect Ratio: A Beginner's Guide
@@ -413,7 +413,7 @@ If you want to [edit a video](https://tools.techidaily.com/wondershare/filmora/d
 
 ## Part 1: Best Free PC Game Download Sites
 
-#### 1 [Acid Play](http://www.acid-play.com/)
+#### 1 Acid Play
 
  **Platforms:** OS X and Windows
 
@@ -442,7 +442,7 @@ If you are new to this site or looking for a new game to play, you can choose on
 
 * The site is not updated, and no new games are introduced.
 
-#### 2 [Origin Games](https://www.origin.com/hkg/en-us/store/free-games)
+#### 2 Origin Games
 
  **Platforms:** OS X and Windows
 
@@ -476,7 +476,7 @@ The on-the-house features allow the customers to download a free trial of a prem
 * Customers have complained that they provide expired discount codes.
 * Customer service needs to be improved as it is not very responsive.
 
-#### 3 [AllGamesAtoZ](http://allgamesatoz.com/)
+#### 3 AllGamesAtoZ
 
  **Platforms:** OS X and Windows
 
@@ -503,7 +503,7 @@ If you want the best full version of a game for free, then AllGamesAtoZ is where
 * The downloading process is quite long.
 * The website is not updated with new games.
 
-#### 4 [Mega Games](https://megagames.com/)
+#### 4 Mega Games
 
  **Platforms:** OS X and Windows
 
@@ -534,7 +534,7 @@ Apart from all the standard gaming features, mega games also provide free cheat 
 
 * The website stops working after a while, and the download gets interrupted
 
-#### 5 [Caiman.us](http://www.caiman.us/)
+#### 5 Caiman.us
 
  **Platforms:** OS X and Windows
 
@@ -564,7 +564,7 @@ It is another digital distribution platform for free online gaming. After the de
 
 Android is growing very fast; now, almost everyone uses it and prefers it over any other software. Here are the best websites from where you can download free android apps:
 
-#### 1 [Google Play](https://play.google.com/store)
+#### 1 Google Play
 
 Google Play is the most common website to download free android apps. It is free, it is fast, and it is efficient. You can not only use this from your android mobile but also operate it and download apps using your laptop.
 
@@ -588,25 +588,25 @@ Google Play is the most common website to download free android apps. It is free
 * Since everyone and anyone can access it without paying any registration fee, it is exposed to scams and harassment.
 * A few games do not function and keep crashing.
 
-#### 2 [Android Games Room](http://www.androidgamesroom.com/)
+#### 2 Android Games Room
 
 ![android games room](https://images.wondershare.com/filmora/article-images/android-games-room.jpg)
 
 It contains thousands of free gaming apps in different categories like action, arcade, adventure, simulation, song games, and puzzle games. The download links are readily available; you can even access this site from your mobile by scanning a QR code. This site is a pretty good platform to download free games but has certain flaws. It does not allow a multiplayer gaming experience, and no customer services are provided.
 
-#### 3 [Android Apps](https://androidapps.com/)
+#### 3 Android Apps
 
 ![android apps](https://images.wondershare.com/filmora/article-images/android-apps.jpg)
 
 It is another platform to download android apps for free. This site is pretty good since it updates games that developers handpick almost daily. You can also promote your app using the ‘promote your app’ feature. The site has a lot of updates and takes an unreasonable amount of time to install and update the software. Furthermore, you can say that they do not have a customer service function because nobody ever responds to the customer’s queries.
 
-#### 4 [1 Mobile](http://www.1mobile.com/)
+#### 4 1 Mobile
 
 ![1 mobile](https://images.wondershare.com/filmora/article-images/1-mobile.jpg)
 
 One mobile is a free android store. It provides its users the easiest way to locate, download and manage free apps. 1 Mobile has over eighty (80) million apps. One mobile has just been recently updated, has a brand new interface design, and operates much smoother. The content is more prosperous, smoother, and a thousand times better than before the latest update. All the apps and games are 100% free forever without hidden charges. It supports various languages like English, Korean, Chinese, French, Spanish, Japanese, and Portugal.
 
-#### 5 [Approx](http://ww1.approb.com/)
+#### 5 Approx
 
 ![approb](https://images.wondershare.com/filmora/article-images/approb.jpg)
 
@@ -645,7 +645,7 @@ If you want to [edit a video](https://tools.techidaily.com/wondershare/filmora/d
 
 ## Part 1: Best Free PC Game Download Sites
 
-#### 1 [Acid Play](http://www.acid-play.com/)
+#### 1 Acid Play
 
  **Platforms:** OS X and Windows
 
@@ -674,7 +674,7 @@ If you are new to this site or looking for a new game to play, you can choose on
 
 * The site is not updated, and no new games are introduced.
 
-#### 2 [Origin Games](https://www.origin.com/hkg/en-us/store/free-games)
+#### 2 Origin Games
 
  **Platforms:** OS X and Windows
 
@@ -708,7 +708,7 @@ The on-the-house features allow the customers to download a free trial of a prem
 * Customers have complained that they provide expired discount codes.
 * Customer service needs to be improved as it is not very responsive.
 
-#### 3 [AllGamesAtoZ](http://allgamesatoz.com/)
+#### 3 AllGamesAtoZ
 
  **Platforms:** OS X and Windows
 
@@ -735,7 +735,7 @@ If you want the best full version of a game for free, then AllGamesAtoZ is where
 * The downloading process is quite long.
 * The website is not updated with new games.
 
-#### 4 [Mega Games](https://megagames.com/)
+#### 4 Mega Games
 
  **Platforms:** OS X and Windows
 
@@ -766,7 +766,7 @@ Apart from all the standard gaming features, mega games also provide free cheat 
 
 * The website stops working after a while, and the download gets interrupted
 
-#### 5 [Caiman.us](http://www.caiman.us/)
+#### 5 Caiman.us
 
  **Platforms:** OS X and Windows
 
@@ -796,7 +796,7 @@ It is another digital distribution platform for free online gaming. After the de
 
 Android is growing very fast; now, almost everyone uses it and prefers it over any other software. Here are the best websites from where you can download free android apps:
 
-#### 1 [Google Play](https://play.google.com/store)
+#### 1 Google Play
 
 Google Play is the most common website to download free android apps. It is free, it is fast, and it is efficient. You can not only use this from your android mobile but also operate it and download apps using your laptop.
 
@@ -820,25 +820,25 @@ Google Play is the most common website to download free android apps. It is free
 * Since everyone and anyone can access it without paying any registration fee, it is exposed to scams and harassment.
 * A few games do not function and keep crashing.
 
-#### 2 [Android Games Room](http://www.androidgamesroom.com/)
+#### 2 Android Games Room
 
 ![android games room](https://images.wondershare.com/filmora/article-images/android-games-room.jpg)
 
 It contains thousands of free gaming apps in different categories like action, arcade, adventure, simulation, song games, and puzzle games. The download links are readily available; you can even access this site from your mobile by scanning a QR code. This site is a pretty good platform to download free games but has certain flaws. It does not allow a multiplayer gaming experience, and no customer services are provided.
 
-#### 3 [Android Apps](https://androidapps.com/)
+#### 3 Android Apps
 
 ![android apps](https://images.wondershare.com/filmora/article-images/android-apps.jpg)
 
 It is another platform to download android apps for free. This site is pretty good since it updates games that developers handpick almost daily. You can also promote your app using the ‘promote your app’ feature. The site has a lot of updates and takes an unreasonable amount of time to install and update the software. Furthermore, you can say that they do not have a customer service function because nobody ever responds to the customer’s queries.
 
-#### 4 [1 Mobile](http://www.1mobile.com/)
+#### 4 1 Mobile
 
 ![1 mobile](https://images.wondershare.com/filmora/article-images/1-mobile.jpg)
 
 One mobile is a free android store. It provides its users the easiest way to locate, download and manage free apps. 1 Mobile has over eighty (80) million apps. One mobile has just been recently updated, has a brand new interface design, and operates much smoother. The content is more prosperous, smoother, and a thousand times better than before the latest update. All the apps and games are 100% free forever without hidden charges. It supports various languages like English, Korean, Chinese, French, Spanish, Japanese, and Portugal.
 
-#### 5 [Approx](http://ww1.approb.com/)
+#### 5 Approx
 
 ![approb](https://images.wondershare.com/filmora/article-images/approb.jpg)
 
@@ -877,7 +877,7 @@ If you want to [edit a video](https://tools.techidaily.com/wondershare/filmora/d
 
 ## Part 1: Best Free PC Game Download Sites
 
-#### 1 [Acid Play](http://www.acid-play.com/)
+#### 1 Acid Play
 
  **Platforms:** OS X and Windows
 
@@ -906,7 +906,7 @@ If you are new to this site or looking for a new game to play, you can choose on
 
 * The site is not updated, and no new games are introduced.
 
-#### 2 [Origin Games](https://www.origin.com/hkg/en-us/store/free-games)
+#### 2 Origin Games
 
  **Platforms:** OS X and Windows
 
@@ -940,7 +940,7 @@ The on-the-house features allow the customers to download a free trial of a prem
 * Customers have complained that they provide expired discount codes.
 * Customer service needs to be improved as it is not very responsive.
 
-#### 3 [AllGamesAtoZ](http://allgamesatoz.com/)
+#### 3 AllGamesAtoZ
 
  **Platforms:** OS X and Windows
 
@@ -967,7 +967,7 @@ If you want the best full version of a game for free, then AllGamesAtoZ is where
 * The downloading process is quite long.
 * The website is not updated with new games.
 
-#### 4 [Mega Games](https://megagames.com/)
+#### 4 Mega Games
 
  **Platforms:** OS X and Windows
 
@@ -998,7 +998,7 @@ Apart from all the standard gaming features, mega games also provide free cheat 
 
 * The website stops working after a while, and the download gets interrupted
 
-#### 5 [Caiman.us](http://www.caiman.us/)
+#### 5 Caiman.us
 
  **Platforms:** OS X and Windows
 
@@ -1028,7 +1028,7 @@ It is another digital distribution platform for free online gaming. After the de
 
 Android is growing very fast; now, almost everyone uses it and prefers it over any other software. Here are the best websites from where you can download free android apps:
 
-#### 1 [Google Play](https://play.google.com/store)
+#### 1 Google Play
 
 Google Play is the most common website to download free android apps. It is free, it is fast, and it is efficient. You can not only use this from your android mobile but also operate it and download apps using your laptop.
 
@@ -1052,25 +1052,25 @@ Google Play is the most common website to download free android apps. It is free
 * Since everyone and anyone can access it without paying any registration fee, it is exposed to scams and harassment.
 * A few games do not function and keep crashing.
 
-#### 2 [Android Games Room](http://www.androidgamesroom.com/)
+#### 2 Android Games Room
 
 ![android games room](https://images.wondershare.com/filmora/article-images/android-games-room.jpg)
 
 It contains thousands of free gaming apps in different categories like action, arcade, adventure, simulation, song games, and puzzle games. The download links are readily available; you can even access this site from your mobile by scanning a QR code. This site is a pretty good platform to download free games but has certain flaws. It does not allow a multiplayer gaming experience, and no customer services are provided.
 
-#### 3 [Android Apps](https://androidapps.com/)
+#### 3 Android Apps
 
 ![android apps](https://images.wondershare.com/filmora/article-images/android-apps.jpg)
 
 It is another platform to download android apps for free. This site is pretty good since it updates games that developers handpick almost daily. You can also promote your app using the ‘promote your app’ feature. The site has a lot of updates and takes an unreasonable amount of time to install and update the software. Furthermore, you can say that they do not have a customer service function because nobody ever responds to the customer’s queries.
 
-#### 4 [1 Mobile](http://www.1mobile.com/)
+#### 4 1 Mobile
 
 ![1 mobile](https://images.wondershare.com/filmora/article-images/1-mobile.jpg)
 
 One mobile is a free android store. It provides its users the easiest way to locate, download and manage free apps. 1 Mobile has over eighty (80) million apps. One mobile has just been recently updated, has a brand new interface design, and operates much smoother. The content is more prosperous, smoother, and a thousand times better than before the latest update. All the apps and games are 100% free forever without hidden charges. It supports various languages like English, Korean, Chinese, French, Spanish, Japanese, and Portugal.
 
-#### 5 [Approx](http://ww1.approb.com/)
+#### 5 Approx
 
 ![approb](https://images.wondershare.com/filmora/article-images/approb.jpg)
 
@@ -1109,7 +1109,7 @@ If you want to [edit a video](https://tools.techidaily.com/wondershare/filmora/d
 
 ## Part 1: Best Free PC Game Download Sites
 
-#### 1 [Acid Play](http://www.acid-play.com/)
+#### 1 Acid Play
 
  **Platforms:** OS X and Windows
 
@@ -1138,7 +1138,7 @@ If you are new to this site or looking for a new game to play, you can choose on
 
 * The site is not updated, and no new games are introduced.
 
-#### 2 [Origin Games](https://www.origin.com/hkg/en-us/store/free-games)
+#### 2 Origin Games
 
  **Platforms:** OS X and Windows
 
@@ -1172,7 +1172,7 @@ The on-the-house features allow the customers to download a free trial of a prem
 * Customers have complained that they provide expired discount codes.
 * Customer service needs to be improved as it is not very responsive.
 
-#### 3 [AllGamesAtoZ](http://allgamesatoz.com/)
+#### 3 AllGamesAtoZ
 
  **Platforms:** OS X and Windows
 
@@ -1199,7 +1199,7 @@ If you want the best full version of a game for free, then AllGamesAtoZ is where
 * The downloading process is quite long.
 * The website is not updated with new games.
 
-#### 4 [Mega Games](https://megagames.com/)
+#### 4 Mega Games
 
  **Platforms:** OS X and Windows
 
@@ -1230,7 +1230,7 @@ Apart from all the standard gaming features, mega games also provide free cheat 
 
 * The website stops working after a while, and the download gets interrupted
 
-#### 5 [Caiman.us](http://www.caiman.us/)
+#### 5 Caiman.us
 
  **Platforms:** OS X and Windows
 
@@ -1260,7 +1260,7 @@ It is another digital distribution platform for free online gaming. After the de
 
 Android is growing very fast; now, almost everyone uses it and prefers it over any other software. Here are the best websites from where you can download free android apps:
 
-#### 1 [Google Play](https://play.google.com/store)
+#### 1 Google Play
 
 Google Play is the most common website to download free android apps. It is free, it is fast, and it is efficient. You can not only use this from your android mobile but also operate it and download apps using your laptop.
 
@@ -1284,25 +1284,25 @@ Google Play is the most common website to download free android apps. It is free
 * Since everyone and anyone can access it without paying any registration fee, it is exposed to scams and harassment.
 * A few games do not function and keep crashing.
 
-#### 2 [Android Games Room](http://www.androidgamesroom.com/)
+#### 2 Android Games Room
 
 ![android games room](https://images.wondershare.com/filmora/article-images/android-games-room.jpg)
 
 It contains thousands of free gaming apps in different categories like action, arcade, adventure, simulation, song games, and puzzle games. The download links are readily available; you can even access this site from your mobile by scanning a QR code. This site is a pretty good platform to download free games but has certain flaws. It does not allow a multiplayer gaming experience, and no customer services are provided.
 
-#### 3 [Android Apps](https://androidapps.com/)
+#### 3 Android Apps
 
 ![android apps](https://images.wondershare.com/filmora/article-images/android-apps.jpg)
 
 It is another platform to download android apps for free. This site is pretty good since it updates games that developers handpick almost daily. You can also promote your app using the ‘promote your app’ feature. The site has a lot of updates and takes an unreasonable amount of time to install and update the software. Furthermore, you can say that they do not have a customer service function because nobody ever responds to the customer’s queries.
 
-#### 4 [1 Mobile](http://www.1mobile.com/)
+#### 4 1 Mobile
 
 ![1 mobile](https://images.wondershare.com/filmora/article-images/1-mobile.jpg)
 
 One mobile is a free android store. It provides its users the easiest way to locate, download and manage free apps. 1 Mobile has over eighty (80) million apps. One mobile has just been recently updated, has a brand new interface design, and operates much smoother. The content is more prosperous, smoother, and a thousand times better than before the latest update. All the apps and games are 100% free forever without hidden charges. It supports various languages like English, Korean, Chinese, French, Spanish, Japanese, and Portugal.
 
-#### 5 [Approx](http://ww1.approb.com/)
+#### 5 Approx
 
 ![approb](https://images.wondershare.com/filmora/article-images/approb.jpg)
 
@@ -1352,13 +1352,13 @@ So, let’s take a look at how you can reduce the size of your videos using **fr
 
 Shrinking a video’s size is easy, even after you record a video clip. Each of the free video compressor apps we included in our top five list allows you to **reduce a video’s size quickly** before sharing it on social media or sending it to your friends. Read on if you would like to find out more about the best free video compressor apps for iPhones and iPads.
 
-### 1\. [Compress Videos & Resize Videos](https://apps.apple.com/us/app/compress-videos-resize/id1473857051)
+### 1\. Compress Videos & Resize Videos
 
 **Price:** Free, but contains in-app purchases
 
 With this **free video compressor app**, you won’t have to worry about the quality of the videos you’re resizing, because it preserves the video’s quality even when videos are shrunk by more than 80%. In this manner, the Compress Videos & Resize Video app can help you **free up space** on your iPhone or iPad.
 
-![Compress Videos & Resize Videos App ](https://images.wondershare.com/filmora/article-images/compress-videos-resize-video.jpg)
+![Compress Videos & Resize Videos App](https://images.wondershare.com/filmora/article-images/compress-videos-resize-video.jpg)
 
 #### How to reduce video size with Compress Videos & Resize Videos?
 
@@ -1368,11 +1368,11 @@ After tapping on a particular category, you can proceed to select one or more vi
 
 Once you’ve selected the videos you’d like to shrink, you should click on the **Next button** and proceed to **the Compression Settings window**. Afterward, you can simply change the **Frame Rate and Video Dimensions settings** by dragging the sliders to the left or to the right. When ready, tap on the **Compress button** and the Compress Videos & Resize Video app will shrink your videos and save to the Compressed Videos album.
 
-### 2\. [Video Compress – Shrink Vids](https://apps.apple.com/us/app/video-compress-shrink-vids/id997699744)
+### 2\. Video Compress – Shrink Vids
 
 **Price:** Free, but offers in-app purchases
 
-![ Videos Compress & Shrink Vids ](https://images.wondershare.com/filmora/article-images/video-compress-shrink-vids.jpg)
+![Videos Compress & Shrink Vids](https://images.wondershare.com/filmora/article-images/video-compress-shrink-vids.jpg)
 
 You can **reduce the size of videos recorded in 4K, Full HD or HD resolution** in just a few simple steps. The app lets you **resize one or more videos at the same time** and **choose the resolution of the output video**. The only **downside** is that you must make in-app purchases to remove ads or unlock access to all of the app’s features.
 
@@ -1382,11 +1382,11 @@ Once you installed this free compressor app for iOS on your device, you should l
 
 After selecting the videos, you should tap on the **Choose Preset** button and select one of the available presets. Optionally, you can adjust the bitrate or preview how the videos look before and after the compression. Tap on the **Continue button** when you are ready and then select the destination album to which the resized videos are going to be exported. After the video compression process is completed the app will ask you if you want to delete the original video files and only keep their resized versions.
 
-### 3\. [Video Slimmer App](https://apps.apple.com/us/app/video-slimmer-shrink-trim-merge-rotate-movies/id594374096)
+### 3\. Video Slimmer App
 
 **Price:**  Free or $2,99 for Pro
 
-![ Videos  Slimmer app ](https://images.wondershare.com/filmora/article-images/video-slimmer-app.jpg)
+![Videos  Slimmer app](https://images.wondershare.com/filmora/article-images/video-slimmer-app.jpg)
 
 Video Slimmer is much **more than a simple video compressor app** for iOS, as it lets its **users trim, rotate or merge videos**. The app’s **batch processing capabilities** are remarkable since you can export resized videos from Video Slimmer quickly. You can free up to 80% of your iPhone’s or iPad’s storage space by compressing videos you store on your iOS-based device.
 
@@ -1398,11 +1398,11 @@ Tap on the **Gear icon** located in the lower right corner of the screen if you 
 
 Head back to the app’s main menu and tap on the **Slim Now button** to start compressing the videos you selected. After reducing the size of your videos you can share them on social media or send them to your friends much faster than the original high-resolution files.
 
-### 4\. [Video Compress – Reduce Movie Size – Shrink Video](https://apps.apple.com/us/app/video-compress-reduce-movie-size-shrink-video/id1163846234)
+### 4\. Video Compress – Reduce Movie Size – Shrink Video
 
 **Price:** Free
 
-![ Video Compress - Reduce Movie Size,Shrink Video  ](https://images.wondershare.com/filmora/article-images/video-compressor-reduce-movie-size.jpg)
+![Video Compress - Reduce Movie Size,Shrink Video](https://images.wondershare.com/filmora/article-images/video-compressor-reduce-movie-size.jpg)
 
 If you are looking for a simple and efficient free video compressor app for iPhone and iPad then Video Compress may be the right choice for you. Its interface is intuitive so you won’t need much time to get used to it even if you never compressed a video before.
 
@@ -1412,11 +1412,11 @@ All you have to do to start compressing a video is to launch the app and select 
 
  All the compressed videos can be easily shared on social media or sent through email and messaging apps directly from Video Compress.
 
-### 5\. [Video Compressor – Shrink Videos](https://apps.apple.com/us/app/video-compressor-shrink-videos/id1133417726)
+### 5\. Video Compressor – Shrink Videos
 
 **Price:** Free, but offers in-app purchases
 
-![ Video Compress Shrink Video app  ](https://images.wondershare.com/filmora/article-images/video-compressor-shrink-videos.jpg)
+![Video Compress Shrink Video app](https://images.wondershare.com/filmora/article-images/video-compressor-shrink-videos.jpg)
 
 Video Compressor app makes shrinking videos look easy because it **offers a number of presets** that let you choose how much you want to reduce the size of a video. Besides saving time this free video compressor for iPhones and iPads can create more storage space on your device.
 
@@ -1438,7 +1438,7 @@ Once you complete all video editing tasks you should exit the app’s **Edit win
 
 All recent iPhone and iPad models support recording in a broad spectrum of video resolutions. If you would like to **decrease the resolution** at which your device captures videos you should head to the **Settings menu** and tap on the Camera option.
 
-![ change video size at shooting on iphone ](https://images.wondershare.com/filmora/article-images/change-video-size-at-shooting-iphone.jpg)
+![change video size at shooting on iphone](https://images.wondershare.com/filmora/article-images/change-video-size-at-shooting-iphone.jpg)
 
 Select **Record Video** from the Camera menu and then choose the new resolution for your videos. The default resolution is set at 1080p at 30fps, but you can easily reduce it to 720p at 30fps if you want to create videos that don’t take too much storage space.
 
@@ -1481,13 +1481,13 @@ So, let’s take a look at how you can reduce the size of your videos using **fr
 
 Shrinking a video’s size is easy, even after you record a video clip. Each of the free video compressor apps we included in our top five list allows you to **reduce a video’s size quickly** before sharing it on social media or sending it to your friends. Read on if you would like to find out more about the best free video compressor apps for iPhones and iPads.
 
-### 1\. [Compress Videos & Resize Videos](https://apps.apple.com/us/app/compress-videos-resize/id1473857051)
+### 1\. Compress Videos & Resize Videos
 
 **Price:** Free, but contains in-app purchases
 
 With this **free video compressor app**, you won’t have to worry about the quality of the videos you’re resizing, because it preserves the video’s quality even when videos are shrunk by more than 80%. In this manner, the Compress Videos & Resize Video app can help you **free up space** on your iPhone or iPad.
 
-![Compress Videos & Resize Videos App ](https://images.wondershare.com/filmora/article-images/compress-videos-resize-video.jpg)
+![Compress Videos & Resize Videos App](https://images.wondershare.com/filmora/article-images/compress-videos-resize-video.jpg)
 
 #### How to reduce video size with Compress Videos & Resize Videos?
 
@@ -1497,11 +1497,11 @@ After tapping on a particular category, you can proceed to select one or more vi
 
 Once you’ve selected the videos you’d like to shrink, you should click on the **Next button** and proceed to **the Compression Settings window**. Afterward, you can simply change the **Frame Rate and Video Dimensions settings** by dragging the sliders to the left or to the right. When ready, tap on the **Compress button** and the Compress Videos & Resize Video app will shrink your videos and save to the Compressed Videos album.
 
-### 2\. [Video Compress – Shrink Vids](https://apps.apple.com/us/app/video-compress-shrink-vids/id997699744)
+### 2\. Video Compress – Shrink Vids
 
 **Price:** Free, but offers in-app purchases
 
-![ Videos Compress & Shrink Vids ](https://images.wondershare.com/filmora/article-images/video-compress-shrink-vids.jpg)
+![Videos Compress & Shrink Vids](https://images.wondershare.com/filmora/article-images/video-compress-shrink-vids.jpg)
 
 You can **reduce the size of videos recorded in 4K, Full HD or HD resolution** in just a few simple steps. The app lets you **resize one or more videos at the same time** and **choose the resolution of the output video**. The only **downside** is that you must make in-app purchases to remove ads or unlock access to all of the app’s features.
 
@@ -1511,11 +1511,11 @@ Once you installed this free compressor app for iOS on your device, you should l
 
 After selecting the videos, you should tap on the **Choose Preset** button and select one of the available presets. Optionally, you can adjust the bitrate or preview how the videos look before and after the compression. Tap on the **Continue button** when you are ready and then select the destination album to which the resized videos are going to be exported. After the video compression process is completed the app will ask you if you want to delete the original video files and only keep their resized versions.
 
-### 3\. [Video Slimmer App](https://apps.apple.com/us/app/video-slimmer-shrink-trim-merge-rotate-movies/id594374096)
+### 3\. Video Slimmer App
 
 **Price:**  Free or $2,99 for Pro
 
-![ Videos  Slimmer app ](https://images.wondershare.com/filmora/article-images/video-slimmer-app.jpg)
+![Videos  Slimmer app](https://images.wondershare.com/filmora/article-images/video-slimmer-app.jpg)
 
 Video Slimmer is much **more than a simple video compressor app** for iOS, as it lets its **users trim, rotate or merge videos**. The app’s **batch processing capabilities** are remarkable since you can export resized videos from Video Slimmer quickly. You can free up to 80% of your iPhone’s or iPad’s storage space by compressing videos you store on your iOS-based device.
 
@@ -1527,11 +1527,11 @@ Tap on the **Gear icon** located in the lower right corner of the screen if you 
 
 Head back to the app’s main menu and tap on the **Slim Now button** to start compressing the videos you selected. After reducing the size of your videos you can share them on social media or send them to your friends much faster than the original high-resolution files.
 
-### 4\. [Video Compress – Reduce Movie Size – Shrink Video](https://apps.apple.com/us/app/video-compress-reduce-movie-size-shrink-video/id1163846234)
+### 4\. Video Compress – Reduce Movie Size – Shrink Video
 
 **Price:** Free
 
-![ Video Compress - Reduce Movie Size,Shrink Video  ](https://images.wondershare.com/filmora/article-images/video-compressor-reduce-movie-size.jpg)
+![Video Compress - Reduce Movie Size,Shrink Video](https://images.wondershare.com/filmora/article-images/video-compressor-reduce-movie-size.jpg)
 
 If you are looking for a simple and efficient free video compressor app for iPhone and iPad then Video Compress may be the right choice for you. Its interface is intuitive so you won’t need much time to get used to it even if you never compressed a video before.
 
@@ -1541,11 +1541,11 @@ All you have to do to start compressing a video is to launch the app and select 
 
  All the compressed videos can be easily shared on social media or sent through email and messaging apps directly from Video Compress.
 
-### 5\. [Video Compressor – Shrink Videos](https://apps.apple.com/us/app/video-compressor-shrink-videos/id1133417726)
+### 5\. Video Compressor – Shrink Videos
 
 **Price:** Free, but offers in-app purchases
 
-![ Video Compress Shrink Video app  ](https://images.wondershare.com/filmora/article-images/video-compressor-shrink-videos.jpg)
+![Video Compress Shrink Video app](https://images.wondershare.com/filmora/article-images/video-compressor-shrink-videos.jpg)
 
 Video Compressor app makes shrinking videos look easy because it **offers a number of presets** that let you choose how much you want to reduce the size of a video. Besides saving time this free video compressor for iPhones and iPads can create more storage space on your device.
 
@@ -1567,7 +1567,7 @@ Once you complete all video editing tasks you should exit the app’s **Edit win
 
 All recent iPhone and iPad models support recording in a broad spectrum of video resolutions. If you would like to **decrease the resolution** at which your device captures videos you should head to the **Settings menu** and tap on the Camera option.
 
-![ change video size at shooting on iphone ](https://images.wondershare.com/filmora/article-images/change-video-size-at-shooting-iphone.jpg)
+![change video size at shooting on iphone](https://images.wondershare.com/filmora/article-images/change-video-size-at-shooting-iphone.jpg)
 
 Select **Record Video** from the Camera menu and then choose the new resolution for your videos. The default resolution is set at 1080p at 30fps, but you can easily reduce it to 720p at 30fps if you want to create videos that don’t take too much storage space.
 
@@ -1610,13 +1610,13 @@ So, let’s take a look at how you can reduce the size of your videos using **fr
 
 Shrinking a video’s size is easy, even after you record a video clip. Each of the free video compressor apps we included in our top five list allows you to **reduce a video’s size quickly** before sharing it on social media or sending it to your friends. Read on if you would like to find out more about the best free video compressor apps for iPhones and iPads.
 
-### 1\. [Compress Videos & Resize Videos](https://apps.apple.com/us/app/compress-videos-resize/id1473857051)
+### 1\. Compress Videos & Resize Videos
 
 **Price:** Free, but contains in-app purchases
 
 With this **free video compressor app**, you won’t have to worry about the quality of the videos you’re resizing, because it preserves the video’s quality even when videos are shrunk by more than 80%. In this manner, the Compress Videos & Resize Video app can help you **free up space** on your iPhone or iPad.
 
-![Compress Videos & Resize Videos App ](https://images.wondershare.com/filmora/article-images/compress-videos-resize-video.jpg)
+![Compress Videos & Resize Videos App](https://images.wondershare.com/filmora/article-images/compress-videos-resize-video.jpg)
 
 #### How to reduce video size with Compress Videos & Resize Videos?
 
@@ -1626,11 +1626,11 @@ After tapping on a particular category, you can proceed to select one or more vi
 
 Once you’ve selected the videos you’d like to shrink, you should click on the **Next button** and proceed to **the Compression Settings window**. Afterward, you can simply change the **Frame Rate and Video Dimensions settings** by dragging the sliders to the left or to the right. When ready, tap on the **Compress button** and the Compress Videos & Resize Video app will shrink your videos and save to the Compressed Videos album.
 
-### 2\. [Video Compress – Shrink Vids](https://apps.apple.com/us/app/video-compress-shrink-vids/id997699744)
+### 2\. Video Compress – Shrink Vids
 
 **Price:** Free, but offers in-app purchases
 
-![ Videos Compress & Shrink Vids ](https://images.wondershare.com/filmora/article-images/video-compress-shrink-vids.jpg)
+![Videos Compress & Shrink Vids](https://images.wondershare.com/filmora/article-images/video-compress-shrink-vids.jpg)
 
 You can **reduce the size of videos recorded in 4K, Full HD or HD resolution** in just a few simple steps. The app lets you **resize one or more videos at the same time** and **choose the resolution of the output video**. The only **downside** is that you must make in-app purchases to remove ads or unlock access to all of the app’s features.
 
@@ -1640,11 +1640,11 @@ Once you installed this free compressor app for iOS on your device, you should l
 
 After selecting the videos, you should tap on the **Choose Preset** button and select one of the available presets. Optionally, you can adjust the bitrate or preview how the videos look before and after the compression. Tap on the **Continue button** when you are ready and then select the destination album to which the resized videos are going to be exported. After the video compression process is completed the app will ask you if you want to delete the original video files and only keep their resized versions.
 
-### 3\. [Video Slimmer App](https://apps.apple.com/us/app/video-slimmer-shrink-trim-merge-rotate-movies/id594374096)
+### 3\. Video Slimmer App
 
 **Price:**  Free or $2,99 for Pro
 
-![ Videos  Slimmer app ](https://images.wondershare.com/filmora/article-images/video-slimmer-app.jpg)
+![Videos  Slimmer app](https://images.wondershare.com/filmora/article-images/video-slimmer-app.jpg)
 
 Video Slimmer is much **more than a simple video compressor app** for iOS, as it lets its **users trim, rotate or merge videos**. The app’s **batch processing capabilities** are remarkable since you can export resized videos from Video Slimmer quickly. You can free up to 80% of your iPhone’s or iPad’s storage space by compressing videos you store on your iOS-based device.
 
@@ -1656,11 +1656,11 @@ Tap on the **Gear icon** located in the lower right corner of the screen if you 
 
 Head back to the app’s main menu and tap on the **Slim Now button** to start compressing the videos you selected. After reducing the size of your videos you can share them on social media or send them to your friends much faster than the original high-resolution files.
 
-### 4\. [Video Compress – Reduce Movie Size – Shrink Video](https://apps.apple.com/us/app/video-compress-reduce-movie-size-shrink-video/id1163846234)
+### 4\. Video Compress – Reduce Movie Size – Shrink Video
 
 **Price:** Free
 
-![ Video Compress - Reduce Movie Size,Shrink Video  ](https://images.wondershare.com/filmora/article-images/video-compressor-reduce-movie-size.jpg)
+![Video Compress - Reduce Movie Size,Shrink Video](https://images.wondershare.com/filmora/article-images/video-compressor-reduce-movie-size.jpg)
 
 If you are looking for a simple and efficient free video compressor app for iPhone and iPad then Video Compress may be the right choice for you. Its interface is intuitive so you won’t need much time to get used to it even if you never compressed a video before.
 
@@ -1670,11 +1670,11 @@ All you have to do to start compressing a video is to launch the app and select 
 
  All the compressed videos can be easily shared on social media or sent through email and messaging apps directly from Video Compress.
 
-### 5\. [Video Compressor – Shrink Videos](https://apps.apple.com/us/app/video-compressor-shrink-videos/id1133417726)
+### 5\. Video Compressor – Shrink Videos
 
 **Price:** Free, but offers in-app purchases
 
-![ Video Compress Shrink Video app  ](https://images.wondershare.com/filmora/article-images/video-compressor-shrink-videos.jpg)
+![Video Compress Shrink Video app](https://images.wondershare.com/filmora/article-images/video-compressor-shrink-videos.jpg)
 
 Video Compressor app makes shrinking videos look easy because it **offers a number of presets** that let you choose how much you want to reduce the size of a video. Besides saving time this free video compressor for iPhones and iPads can create more storage space on your device.
 
@@ -1696,7 +1696,7 @@ Once you complete all video editing tasks you should exit the app’s **Edit win
 
 All recent iPhone and iPad models support recording in a broad spectrum of video resolutions. If you would like to **decrease the resolution** at which your device captures videos you should head to the **Settings menu** and tap on the Camera option.
 
-![ change video size at shooting on iphone ](https://images.wondershare.com/filmora/article-images/change-video-size-at-shooting-iphone.jpg)
+![change video size at shooting on iphone](https://images.wondershare.com/filmora/article-images/change-video-size-at-shooting-iphone.jpg)
 
 Select **Record Video** from the Camera menu and then choose the new resolution for your videos. The default resolution is set at 1080p at 30fps, but you can easily reduce it to 720p at 30fps if you want to create videos that don’t take too much storage space.
 
@@ -1739,13 +1739,13 @@ So, let’s take a look at how you can reduce the size of your videos using **fr
 
 Shrinking a video’s size is easy, even after you record a video clip. Each of the free video compressor apps we included in our top five list allows you to **reduce a video’s size quickly** before sharing it on social media or sending it to your friends. Read on if you would like to find out more about the best free video compressor apps for iPhones and iPads.
 
-### 1\. [Compress Videos & Resize Videos](https://apps.apple.com/us/app/compress-videos-resize/id1473857051)
+### 1\. Compress Videos & Resize Videos
 
 **Price:** Free, but contains in-app purchases
 
 With this **free video compressor app**, you won’t have to worry about the quality of the videos you’re resizing, because it preserves the video’s quality even when videos are shrunk by more than 80%. In this manner, the Compress Videos & Resize Video app can help you **free up space** on your iPhone or iPad.
 
-![Compress Videos & Resize Videos App ](https://images.wondershare.com/filmora/article-images/compress-videos-resize-video.jpg)
+![Compress Videos & Resize Videos App](https://images.wondershare.com/filmora/article-images/compress-videos-resize-video.jpg)
 
 #### How to reduce video size with Compress Videos & Resize Videos?
 
@@ -1755,11 +1755,11 @@ After tapping on a particular category, you can proceed to select one or more vi
 
 Once you’ve selected the videos you’d like to shrink, you should click on the **Next button** and proceed to **the Compression Settings window**. Afterward, you can simply change the **Frame Rate and Video Dimensions settings** by dragging the sliders to the left or to the right. When ready, tap on the **Compress button** and the Compress Videos & Resize Video app will shrink your videos and save to the Compressed Videos album.
 
-### 2\. [Video Compress – Shrink Vids](https://apps.apple.com/us/app/video-compress-shrink-vids/id997699744)
+### 2\. Video Compress – Shrink Vids
 
 **Price:** Free, but offers in-app purchases
 
-![ Videos Compress & Shrink Vids ](https://images.wondershare.com/filmora/article-images/video-compress-shrink-vids.jpg)
+![Videos Compress & Shrink Vids](https://images.wondershare.com/filmora/article-images/video-compress-shrink-vids.jpg)
 
 You can **reduce the size of videos recorded in 4K, Full HD or HD resolution** in just a few simple steps. The app lets you **resize one or more videos at the same time** and **choose the resolution of the output video**. The only **downside** is that you must make in-app purchases to remove ads or unlock access to all of the app’s features.
 
@@ -1769,11 +1769,11 @@ Once you installed this free compressor app for iOS on your device, you should l
 
 After selecting the videos, you should tap on the **Choose Preset** button and select one of the available presets. Optionally, you can adjust the bitrate or preview how the videos look before and after the compression. Tap on the **Continue button** when you are ready and then select the destination album to which the resized videos are going to be exported. After the video compression process is completed the app will ask you if you want to delete the original video files and only keep their resized versions.
 
-### 3\. [Video Slimmer App](https://apps.apple.com/us/app/video-slimmer-shrink-trim-merge-rotate-movies/id594374096)
+### 3\. Video Slimmer App
 
 **Price:**  Free or $2,99 for Pro
 
-![ Videos  Slimmer app ](https://images.wondershare.com/filmora/article-images/video-slimmer-app.jpg)
+![Videos  Slimmer app](https://images.wondershare.com/filmora/article-images/video-slimmer-app.jpg)
 
 Video Slimmer is much **more than a simple video compressor app** for iOS, as it lets its **users trim, rotate or merge videos**. The app’s **batch processing capabilities** are remarkable since you can export resized videos from Video Slimmer quickly. You can free up to 80% of your iPhone’s or iPad’s storage space by compressing videos you store on your iOS-based device.
 
@@ -1785,11 +1785,11 @@ Tap on the **Gear icon** located in the lower right corner of the screen if you 
 
 Head back to the app’s main menu and tap on the **Slim Now button** to start compressing the videos you selected. After reducing the size of your videos you can share them on social media or send them to your friends much faster than the original high-resolution files.
 
-### 4\. [Video Compress – Reduce Movie Size – Shrink Video](https://apps.apple.com/us/app/video-compress-reduce-movie-size-shrink-video/id1163846234)
+### 4\. Video Compress – Reduce Movie Size – Shrink Video
 
 **Price:** Free
 
-![ Video Compress - Reduce Movie Size,Shrink Video  ](https://images.wondershare.com/filmora/article-images/video-compressor-reduce-movie-size.jpg)
+![Video Compress - Reduce Movie Size,Shrink Video](https://images.wondershare.com/filmora/article-images/video-compressor-reduce-movie-size.jpg)
 
 If you are looking for a simple and efficient free video compressor app for iPhone and iPad then Video Compress may be the right choice for you. Its interface is intuitive so you won’t need much time to get used to it even if you never compressed a video before.
 
@@ -1799,11 +1799,11 @@ All you have to do to start compressing a video is to launch the app and select 
 
  All the compressed videos can be easily shared on social media or sent through email and messaging apps directly from Video Compress.
 
-### 5\. [Video Compressor – Shrink Videos](https://apps.apple.com/us/app/video-compressor-shrink-videos/id1133417726)
+### 5\. Video Compressor – Shrink Videos
 
 **Price:** Free, but offers in-app purchases
 
-![ Video Compress Shrink Video app  ](https://images.wondershare.com/filmora/article-images/video-compressor-shrink-videos.jpg)
+![Video Compress Shrink Video app](https://images.wondershare.com/filmora/article-images/video-compressor-shrink-videos.jpg)
 
 Video Compressor app makes shrinking videos look easy because it **offers a number of presets** that let you choose how much you want to reduce the size of a video. Besides saving time this free video compressor for iPhones and iPads can create more storage space on your device.
 
@@ -1825,7 +1825,7 @@ Once you complete all video editing tasks you should exit the app’s **Edit win
 
 All recent iPhone and iPad models support recording in a broad spectrum of video resolutions. If you would like to **decrease the resolution** at which your device captures videos you should head to the **Settings menu** and tap on the Camera option.
 
-![ change video size at shooting on iphone ](https://images.wondershare.com/filmora/article-images/change-video-size-at-shooting-iphone.jpg)
+![change video size at shooting on iphone](https://images.wondershare.com/filmora/article-images/change-video-size-at-shooting-iphone.jpg)
 
 Select **Record Video** from the Camera menu and then choose the new resolution for your videos. The default resolution is set at 1080p at 30fps, but you can easily reduce it to 720p at 30fps if you want to create videos that don’t take too much storage space.
 
@@ -2105,7 +2105,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2119,13 +2119,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -2382,7 +2382,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2396,13 +2396,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -2659,7 +2659,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2673,13 +2673,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -2936,7 +2936,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2950,13 +2950,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 

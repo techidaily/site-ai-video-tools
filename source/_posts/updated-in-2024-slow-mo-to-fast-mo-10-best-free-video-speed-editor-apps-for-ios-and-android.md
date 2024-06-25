@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Slow Mo to Fast Mo 10 Best Free Video Speed Editor Apps for iOS and Android
-date: 2024-04-28T05:31:02.434Z
-updated: 2024-04-29T05:31:02.434Z
+date: 2024-06-24T14:33:45.320Z
+updated: 2024-06-25T14:33:45.320Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Slow Mo to Fast Mo 10 Best Free Video Speed Editor Apps for iOS and Android
 excerpt: This Article Describes Updated In 2024, Slow Mo to Fast Mo 10 Best Free Video Speed Editor Apps for iOS and Android
 keywords: get moving with the best free video speed editor apps for ios and android,fast forward to fun 10 best free video speed changing apps for ios and android,slow mo to fast mo 10 best free video speed editor apps for ios and android,ai animation top 10 best video speed changing apps for free ios and android,top 10 best video speed changing apps for free ios and android,top 10 best video speed changing apps for free ios and android 2022,slow mo to fast mo top 10 free video speed changing apps for ios and android
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Slow Mo to Fast Mo: 10 Best Free Video Speed Editor Apps for iOS and Android
@@ -106,7 +106,7 @@ Creating a slow-motion or fast-forward video with Quik is a straightforward proc
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/vizmato-video-editor-filter/id496232649) 10.0 or later, [Android](https://play.google.com/store/apps/details?id=com.globaldelight.vizmato&hl=en) 4.4 and up
 
-![vizmato change video speed app ](https://images.wondershare.com/filmora/article-images/vizmato-video-editor.jpg)
+![vizmato change video speed app](https://images.wondershare.com/filmora/article-images/vizmato-video-editor.jpg)
 
 If you are looking for an app you can use to record and [edit HD videos](https://tools.techidaily.com/wondershare/filmora/download/), then Vizmato is probably one of the best options you have at your disposal. The app is also equipped with all the tools you will need to slow down or speed up a video.
 
@@ -130,7 +130,7 @@ After you import the footage into Vizmato you just have to specify the portion o
 
 **Supported OS:** [Android](https://play.google.com/store/apps/details?id=com.andromania.videospeed&hl=en%5FUS) 4.1 and up
 
-![video speed : fast video and slow video motion ](https://images.wondershare.com/filmora/article-images/video-speed-fast-video-slow-video-motion.jpg)
+![video speed : fast video and slow video motion](https://images.wondershare.com/filmora/article-images/video-speed-fast-video-slow-video-motion.jpg)
 
 With this app, you don’t need any video editing experience to create slow or fast motion videos. Import the footage you recorded with your Android phone and choose one of the preset video playback options. The app lets you increase or decrease a video clip’s speed up to four times, so you have to select the portion of a video you’d like to speed up or slow down and export it to your phone’s gallery.
 
@@ -154,7 +154,7 @@ Optionally, you can [add music to each video](https://tools.techidaily.com/wonde
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/videoshop-video-editor/id615563599) 11.1 or later, [Android](https://play.google.com/store/apps/details?id=com.videoshop.app&hl=en%5FUS) – varies with device
 
-![videoshop video editor for changing video speed ](https://images.wondershare.com/filmora/article-images/videoshop-interface.jpg)
+![videoshop video editor for changing video speed](https://images.wondershare.com/filmora/article-images/videoshop-interface.jpg)
 
 Performing all basic video editing tasks, like [cutting or merging video clips,](https://tools.techidaily.com/wondershare/filmora/download/)doesn’t require advanced video editing skills. The app also lets you record [stop motion videos](https://tools.techidaily.com/wondershare/filmora/download/) and voiceovers, and it offers a rich selection of audio effects.
 
@@ -178,7 +178,7 @@ Increasing or decreasing a video’s playback speed takes only a few minutes, en
 
 **Supported OS:** [iOS 10](https://apps.apple.com/us/app/slow-fast-slow-control-the-speed-of-your-videos/id727309825) or later
 
-![slow fast slow - control the speed  ](https://images.wondershare.com/filmora/article-images/slow-fast-slow-control-the-speed-of-your-videos.jpg)
+![slow fast slow - control the speed](https://images.wondershare.com/filmora/article-images/slow-fast-slow-control-the-speed-of-your-videos.jpg)
 
 iPhone, iPad, and iPod touch owners can use this app to control the playback speed of all videos they record with their devices. The app’s timeline is designed to help you set points at specific segments of the video, enabling you to speed up or slow down only a portion of the video clip without cutting it.
 
@@ -224,7 +224,7 @@ In addition, KineMaster is equipped with EQ presets and audio editing tools you�
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/speedpro-slow-speed-video-edit/id939421784) 9.0 or later
 
-![speedpro slow speed video edit ](https://images.wondershare.com/filmora/article-images/speedpro-slow-speed-video-edit.jpg)
+![speedpro slow speed video edit](https://images.wondershare.com/filmora/article-images/speedpro-slow-speed-video-edit.jpg)
 
 Changing a video clip’s playback speed with this app is a simple three-step process. After you import a video clip into the app, you will be taken to the Adjust Speed screen, where you can choose if you want to alter the playback speed of an entire video clip or speed up or slow down a particular segment of a video.
 
@@ -242,7 +242,7 @@ Afterward, you have to drag the Video Speed slider to the left or to the right a
 * Supports only a small number of video file formats
 * No video editing tools
 
-### 10\. [iMovie](https://apps.apple.com/us/app/imovie/id377298193)
+### 10\. iMovie
 
 **Price:** Free
 
@@ -396,7 +396,7 @@ Creating a slow-motion or fast-forward video with Quik is a straightforward proc
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/vizmato-video-editor-filter/id496232649) 10.0 or later, [Android](https://play.google.com/store/apps/details?id=com.globaldelight.vizmato&hl=en) 4.4 and up
 
-![vizmato change video speed app ](https://images.wondershare.com/filmora/article-images/vizmato-video-editor.jpg)
+![vizmato change video speed app](https://images.wondershare.com/filmora/article-images/vizmato-video-editor.jpg)
 
 If you are looking for an app you can use to record and [edit HD videos](https://tools.techidaily.com/wondershare/filmora/download/), then Vizmato is probably one of the best options you have at your disposal. The app is also equipped with all the tools you will need to slow down or speed up a video.
 
@@ -420,7 +420,7 @@ After you import the footage into Vizmato you just have to specify the portion o
 
 **Supported OS:** [Android](https://play.google.com/store/apps/details?id=com.andromania.videospeed&hl=en%5FUS) 4.1 and up
 
-![video speed : fast video and slow video motion ](https://images.wondershare.com/filmora/article-images/video-speed-fast-video-slow-video-motion.jpg)
+![video speed : fast video and slow video motion](https://images.wondershare.com/filmora/article-images/video-speed-fast-video-slow-video-motion.jpg)
 
 With this app, you don’t need any video editing experience to create slow or fast motion videos. Import the footage you recorded with your Android phone and choose one of the preset video playback options. The app lets you increase or decrease a video clip’s speed up to four times, so you have to select the portion of a video you’d like to speed up or slow down and export it to your phone’s gallery.
 
@@ -444,7 +444,7 @@ Optionally, you can [add music to each video](https://tools.techidaily.com/wonde
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/videoshop-video-editor/id615563599) 11.1 or later, [Android](https://play.google.com/store/apps/details?id=com.videoshop.app&hl=en%5FUS) – varies with device
 
-![videoshop video editor for changing video speed ](https://images.wondershare.com/filmora/article-images/videoshop-interface.jpg)
+![videoshop video editor for changing video speed](https://images.wondershare.com/filmora/article-images/videoshop-interface.jpg)
 
 Performing all basic video editing tasks, like [cutting or merging video clips,](https://tools.techidaily.com/wondershare/filmora/download/)doesn’t require advanced video editing skills. The app also lets you record [stop motion videos](https://tools.techidaily.com/wondershare/filmora/download/) and voiceovers, and it offers a rich selection of audio effects.
 
@@ -468,7 +468,7 @@ Increasing or decreasing a video’s playback speed takes only a few minutes, en
 
 **Supported OS:** [iOS 10](https://apps.apple.com/us/app/slow-fast-slow-control-the-speed-of-your-videos/id727309825) or later
 
-![slow fast slow - control the speed  ](https://images.wondershare.com/filmora/article-images/slow-fast-slow-control-the-speed-of-your-videos.jpg)
+![slow fast slow - control the speed](https://images.wondershare.com/filmora/article-images/slow-fast-slow-control-the-speed-of-your-videos.jpg)
 
 iPhone, iPad, and iPod touch owners can use this app to control the playback speed of all videos they record with their devices. The app’s timeline is designed to help you set points at specific segments of the video, enabling you to speed up or slow down only a portion of the video clip without cutting it.
 
@@ -514,7 +514,7 @@ In addition, KineMaster is equipped with EQ presets and audio editing tools you�
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/speedpro-slow-speed-video-edit/id939421784) 9.0 or later
 
-![speedpro slow speed video edit ](https://images.wondershare.com/filmora/article-images/speedpro-slow-speed-video-edit.jpg)
+![speedpro slow speed video edit](https://images.wondershare.com/filmora/article-images/speedpro-slow-speed-video-edit.jpg)
 
 Changing a video clip’s playback speed with this app is a simple three-step process. After you import a video clip into the app, you will be taken to the Adjust Speed screen, where you can choose if you want to alter the playback speed of an entire video clip or speed up or slow down a particular segment of a video.
 
@@ -532,7 +532,7 @@ Afterward, you have to drag the Video Speed slider to the left or to the right a
 * Supports only a small number of video file formats
 * No video editing tools
 
-### 10\. [iMovie](https://apps.apple.com/us/app/imovie/id377298193)
+### 10\. iMovie
 
 **Price:** Free
 
@@ -686,7 +686,7 @@ Creating a slow-motion or fast-forward video with Quik is a straightforward proc
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/vizmato-video-editor-filter/id496232649) 10.0 or later, [Android](https://play.google.com/store/apps/details?id=com.globaldelight.vizmato&hl=en) 4.4 and up
 
-![vizmato change video speed app ](https://images.wondershare.com/filmora/article-images/vizmato-video-editor.jpg)
+![vizmato change video speed app](https://images.wondershare.com/filmora/article-images/vizmato-video-editor.jpg)
 
 If you are looking for an app you can use to record and [edit HD videos](https://tools.techidaily.com/wondershare/filmora/download/), then Vizmato is probably one of the best options you have at your disposal. The app is also equipped with all the tools you will need to slow down or speed up a video.
 
@@ -710,7 +710,7 @@ After you import the footage into Vizmato you just have to specify the portion o
 
 **Supported OS:** [Android](https://play.google.com/store/apps/details?id=com.andromania.videospeed&hl=en%5FUS) 4.1 and up
 
-![video speed : fast video and slow video motion ](https://images.wondershare.com/filmora/article-images/video-speed-fast-video-slow-video-motion.jpg)
+![video speed : fast video and slow video motion](https://images.wondershare.com/filmora/article-images/video-speed-fast-video-slow-video-motion.jpg)
 
 With this app, you don’t need any video editing experience to create slow or fast motion videos. Import the footage you recorded with your Android phone and choose one of the preset video playback options. The app lets you increase or decrease a video clip’s speed up to four times, so you have to select the portion of a video you’d like to speed up or slow down and export it to your phone’s gallery.
 
@@ -734,7 +734,7 @@ Optionally, you can [add music to each video](https://tools.techidaily.com/wonde
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/videoshop-video-editor/id615563599) 11.1 or later, [Android](https://play.google.com/store/apps/details?id=com.videoshop.app&hl=en%5FUS) – varies with device
 
-![videoshop video editor for changing video speed ](https://images.wondershare.com/filmora/article-images/videoshop-interface.jpg)
+![videoshop video editor for changing video speed](https://images.wondershare.com/filmora/article-images/videoshop-interface.jpg)
 
 Performing all basic video editing tasks, like [cutting or merging video clips,](https://tools.techidaily.com/wondershare/filmora/download/)doesn’t require advanced video editing skills. The app also lets you record [stop motion videos](https://tools.techidaily.com/wondershare/filmora/download/) and voiceovers, and it offers a rich selection of audio effects.
 
@@ -758,7 +758,7 @@ Increasing or decreasing a video’s playback speed takes only a few minutes, en
 
 **Supported OS:** [iOS 10](https://apps.apple.com/us/app/slow-fast-slow-control-the-speed-of-your-videos/id727309825) or later
 
-![slow fast slow - control the speed  ](https://images.wondershare.com/filmora/article-images/slow-fast-slow-control-the-speed-of-your-videos.jpg)
+![slow fast slow - control the speed](https://images.wondershare.com/filmora/article-images/slow-fast-slow-control-the-speed-of-your-videos.jpg)
 
 iPhone, iPad, and iPod touch owners can use this app to control the playback speed of all videos they record with their devices. The app’s timeline is designed to help you set points at specific segments of the video, enabling you to speed up or slow down only a portion of the video clip without cutting it.
 
@@ -804,7 +804,7 @@ In addition, KineMaster is equipped with EQ presets and audio editing tools you�
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/speedpro-slow-speed-video-edit/id939421784) 9.0 or later
 
-![speedpro slow speed video edit ](https://images.wondershare.com/filmora/article-images/speedpro-slow-speed-video-edit.jpg)
+![speedpro slow speed video edit](https://images.wondershare.com/filmora/article-images/speedpro-slow-speed-video-edit.jpg)
 
 Changing a video clip’s playback speed with this app is a simple three-step process. After you import a video clip into the app, you will be taken to the Adjust Speed screen, where you can choose if you want to alter the playback speed of an entire video clip or speed up or slow down a particular segment of a video.
 
@@ -822,7 +822,7 @@ Afterward, you have to drag the Video Speed slider to the left or to the right a
 * Supports only a small number of video file formats
 * No video editing tools
 
-### 10\. [iMovie](https://apps.apple.com/us/app/imovie/id377298193)
+### 10\. iMovie
 
 **Price:** Free
 
@@ -976,7 +976,7 @@ Creating a slow-motion or fast-forward video with Quik is a straightforward proc
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/vizmato-video-editor-filter/id496232649) 10.0 or later, [Android](https://play.google.com/store/apps/details?id=com.globaldelight.vizmato&hl=en) 4.4 and up
 
-![vizmato change video speed app ](https://images.wondershare.com/filmora/article-images/vizmato-video-editor.jpg)
+![vizmato change video speed app](https://images.wondershare.com/filmora/article-images/vizmato-video-editor.jpg)
 
 If you are looking for an app you can use to record and [edit HD videos](https://tools.techidaily.com/wondershare/filmora/download/), then Vizmato is probably one of the best options you have at your disposal. The app is also equipped with all the tools you will need to slow down or speed up a video.
 
@@ -1000,7 +1000,7 @@ After you import the footage into Vizmato you just have to specify the portion o
 
 **Supported OS:** [Android](https://play.google.com/store/apps/details?id=com.andromania.videospeed&hl=en%5FUS) 4.1 and up
 
-![video speed : fast video and slow video motion ](https://images.wondershare.com/filmora/article-images/video-speed-fast-video-slow-video-motion.jpg)
+![video speed : fast video and slow video motion](https://images.wondershare.com/filmora/article-images/video-speed-fast-video-slow-video-motion.jpg)
 
 With this app, you don’t need any video editing experience to create slow or fast motion videos. Import the footage you recorded with your Android phone and choose one of the preset video playback options. The app lets you increase or decrease a video clip’s speed up to four times, so you have to select the portion of a video you’d like to speed up or slow down and export it to your phone’s gallery.
 
@@ -1024,7 +1024,7 @@ Optionally, you can [add music to each video](https://tools.techidaily.com/wonde
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/videoshop-video-editor/id615563599) 11.1 or later, [Android](https://play.google.com/store/apps/details?id=com.videoshop.app&hl=en%5FUS) – varies with device
 
-![videoshop video editor for changing video speed ](https://images.wondershare.com/filmora/article-images/videoshop-interface.jpg)
+![videoshop video editor for changing video speed](https://images.wondershare.com/filmora/article-images/videoshop-interface.jpg)
 
 Performing all basic video editing tasks, like [cutting or merging video clips,](https://tools.techidaily.com/wondershare/filmora/download/)doesn’t require advanced video editing skills. The app also lets you record [stop motion videos](https://tools.techidaily.com/wondershare/filmora/download/) and voiceovers, and it offers a rich selection of audio effects.
 
@@ -1048,7 +1048,7 @@ Increasing or decreasing a video’s playback speed takes only a few minutes, en
 
 **Supported OS:** [iOS 10](https://apps.apple.com/us/app/slow-fast-slow-control-the-speed-of-your-videos/id727309825) or later
 
-![slow fast slow - control the speed  ](https://images.wondershare.com/filmora/article-images/slow-fast-slow-control-the-speed-of-your-videos.jpg)
+![slow fast slow - control the speed](https://images.wondershare.com/filmora/article-images/slow-fast-slow-control-the-speed-of-your-videos.jpg)
 
 iPhone, iPad, and iPod touch owners can use this app to control the playback speed of all videos they record with their devices. The app’s timeline is designed to help you set points at specific segments of the video, enabling you to speed up or slow down only a portion of the video clip without cutting it.
 
@@ -1094,7 +1094,7 @@ In addition, KineMaster is equipped with EQ presets and audio editing tools you�
 
 **Supported OS:** [iOS](https://apps.apple.com/us/app/speedpro-slow-speed-video-edit/id939421784) 9.0 or later
 
-![speedpro slow speed video edit ](https://images.wondershare.com/filmora/article-images/speedpro-slow-speed-video-edit.jpg)
+![speedpro slow speed video edit](https://images.wondershare.com/filmora/article-images/speedpro-slow-speed-video-edit.jpg)
 
 Changing a video clip’s playback speed with this app is a simple three-step process. After you import a video clip into the app, you will be taken to the Adjust Speed screen, where you can choose if you want to alter the playback speed of an entire video clip or speed up or slow down a particular segment of a video.
 
@@ -1112,7 +1112,7 @@ Afterward, you have to drag the Video Speed slider to the left or to the right a
 * Supports only a small number of video file formats
 * No video editing tools
 
-### 10\. [iMovie](https://apps.apple.com/us/app/imovie/id377298193)
+### 10\. iMovie
 
 **Price:** Free
 
@@ -1778,7 +1778,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1792,11 +1792,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1805,7 +1805,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1851,7 +1851,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1865,11 +1865,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1878,7 +1878,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1924,7 +1924,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1938,11 +1938,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1951,7 +1951,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1997,7 +1997,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -2011,11 +2011,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -2024,7 +2024,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 

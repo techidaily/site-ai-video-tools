@@ -1,7 +1,7 @@
 ---
 title: New Video Blurring Made Easy No Cost, No Hassle for 2024
-date: 2024-04-28T05:39:41.189Z
-updated: 2024-04-29T05:39:41.189Z
+date: 2024-06-24T14:33:22.969Z
+updated: 2024-06-25T14:33:22.969Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Video Blurring Made Easy No Cost, No Hassle for 2024
 excerpt: This Article Describes New Video Blurring Made Easy No Cost, No Hassle for 2024
 keywords: video blurring made easy no cost no hassle,free video trimming made easy no watermarks no hassle,beginner friendly video editing apps no cost no hassle,video blur made easy free online method,ai animation free video trimming made easy no watermarks no hassle,video blurring made easy free online solutions,trim videos for free no watermark no hassle
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Video Blurring Made Easy: No Cost, No Hassle
@@ -261,7 +261,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -275,13 +275,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -538,7 +538,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -552,13 +552,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -815,7 +815,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -829,13 +829,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1092,7 +1092,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1106,13 +1106,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1546,13 +1546,13 @@ First, transfer the Nikon video files to your computer. Then drag and drop them 
 
 The latest version 9 of Filmora Video Editor also allows you to import video footage from your Nikon camera directly. You can click the **Import** menu first and then select **Import from a Camera or Phone** option which will enter the **Import from Device** window. You can import only videos or only images or all media files to Filmora. All the imported media will be saved under C:\\Users\\admin\\Documents\\Wondershare Filmora\\User Media\\Device Import by default. But you can always change the default path.
 
-![ Filmora 9 Import for Device ](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
+![Filmora 9 Import for Device](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
 
 #### 2\.  Edit and personalize your Nikon video files instantly
 
 This Nikon video editing software turns rather complicated video editing into a pretty easy and efficient job. Since it features Timeline based editing, you can just move the slide bar or the duration adjustment bar to the right location you want, and then do video trimming, cutting, splitting with ease. To edit video/audio, just double click the target file and adjust the playing speed, brightness, contrast, pitch, voice, etc. according to your needs.
 
-![ Filmora 9 Remove from Background Noise ](https://images.wondershare.com/filmora/article-images/filmora9-remove-audio-from-video.jpg)
+![Filmora 9 Remove from Background Noise](https://images.wondershare.com/filmora/article-images/filmora9-remove-audio-from-video.jpg)
 
 If the video shot by the Nikon camera has some noisy background wind sound, you can remove the noise with Filmora with ease. You can even separate audio from the video for more creative use by right clicking the video and choose "Audio Detach".
 
@@ -1562,7 +1562,7 @@ Besides the basic video editing function, this Nikon video editing software also
 
 To help make your video more professional-looking, this Nikon video editor even includes some Power Tools for you to build a small miniature (tilt-shift), replace face in your video (face-off), blur part of a picture (Mosaic), and more.
 
-![ Filmora 9 Utility features](https://images.wondershare.com/filmora/article-images/filmora9-effects-utility.jpg)
+![Filmora 9 Utility features](https://images.wondershare.com/filmora/article-images/filmora9-effects-utility.jpg)
 
 You can find all these features and more by switching to Effects tab and go to Utility option under Filters menu.
 
@@ -1570,7 +1570,7 @@ You can find all these features and more by switching to Effects tab and go to U
 
 When you finish editing, hit the "Export" button to save your creation to computer or upload it to YouTube, or Vimeo for online sharing.
 
-![nikon video editing Exporting in Filmora9 ](https://images.wondershare.com/filmora/article-images/export-output.jpg)
+![nikon video editing Exporting in Filmora9](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
 It's also easy to burn your finished video to DC for playing on home player. You can also save the video with specially designed settings for devices for watching offline on iPhone, iPad, Apple TV etc.
 
@@ -1604,13 +1604,13 @@ First, transfer the Nikon video files to your computer. Then drag and drop them 
 
 The latest version 9 of Filmora Video Editor also allows you to import video footage from your Nikon camera directly. You can click the **Import** menu first and then select **Import from a Camera or Phone** option which will enter the **Import from Device** window. You can import only videos or only images or all media files to Filmora. All the imported media will be saved under C:\\Users\\admin\\Documents\\Wondershare Filmora\\User Media\\Device Import by default. But you can always change the default path.
 
-![ Filmora 9 Import for Device ](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
+![Filmora 9 Import for Device](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
 
 #### 2\.  Edit and personalize your Nikon video files instantly
 
 This Nikon video editing software turns rather complicated video editing into a pretty easy and efficient job. Since it features Timeline based editing, you can just move the slide bar or the duration adjustment bar to the right location you want, and then do video trimming, cutting, splitting with ease. To edit video/audio, just double click the target file and adjust the playing speed, brightness, contrast, pitch, voice, etc. according to your needs.
 
-![ Filmora 9 Remove from Background Noise ](https://images.wondershare.com/filmora/article-images/filmora9-remove-audio-from-video.jpg)
+![Filmora 9 Remove from Background Noise](https://images.wondershare.com/filmora/article-images/filmora9-remove-audio-from-video.jpg)
 
 If the video shot by the Nikon camera has some noisy background wind sound, you can remove the noise with Filmora with ease. You can even separate audio from the video for more creative use by right clicking the video and choose "Audio Detach".
 
@@ -1620,7 +1620,7 @@ Besides the basic video editing function, this Nikon video editing software also
 
 To help make your video more professional-looking, this Nikon video editor even includes some Power Tools for you to build a small miniature (tilt-shift), replace face in your video (face-off), blur part of a picture (Mosaic), and more.
 
-![ Filmora 9 Utility features](https://images.wondershare.com/filmora/article-images/filmora9-effects-utility.jpg)
+![Filmora 9 Utility features](https://images.wondershare.com/filmora/article-images/filmora9-effects-utility.jpg)
 
 You can find all these features and more by switching to Effects tab and go to Utility option under Filters menu.
 
@@ -1628,7 +1628,7 @@ You can find all these features and more by switching to Effects tab and go to U
 
 When you finish editing, hit the "Export" button to save your creation to computer or upload it to YouTube, or Vimeo for online sharing.
 
-![nikon video editing Exporting in Filmora9 ](https://images.wondershare.com/filmora/article-images/export-output.jpg)
+![nikon video editing Exporting in Filmora9](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
 It's also easy to burn your finished video to DC for playing on home player. You can also save the video with specially designed settings for devices for watching offline on iPhone, iPad, Apple TV etc.
 
@@ -1662,13 +1662,13 @@ First, transfer the Nikon video files to your computer. Then drag and drop them 
 
 The latest version 9 of Filmora Video Editor also allows you to import video footage from your Nikon camera directly. You can click the **Import** menu first and then select **Import from a Camera or Phone** option which will enter the **Import from Device** window. You can import only videos or only images or all media files to Filmora. All the imported media will be saved under C:\\Users\\admin\\Documents\\Wondershare Filmora\\User Media\\Device Import by default. But you can always change the default path.
 
-![ Filmora 9 Import for Device ](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
+![Filmora 9 Import for Device](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
 
 #### 2\.  Edit and personalize your Nikon video files instantly
 
 This Nikon video editing software turns rather complicated video editing into a pretty easy and efficient job. Since it features Timeline based editing, you can just move the slide bar or the duration adjustment bar to the right location you want, and then do video trimming, cutting, splitting with ease. To edit video/audio, just double click the target file and adjust the playing speed, brightness, contrast, pitch, voice, etc. according to your needs.
 
-![ Filmora 9 Remove from Background Noise ](https://images.wondershare.com/filmora/article-images/filmora9-remove-audio-from-video.jpg)
+![Filmora 9 Remove from Background Noise](https://images.wondershare.com/filmora/article-images/filmora9-remove-audio-from-video.jpg)
 
 If the video shot by the Nikon camera has some noisy background wind sound, you can remove the noise with Filmora with ease. You can even separate audio from the video for more creative use by right clicking the video and choose "Audio Detach".
 
@@ -1678,7 +1678,7 @@ Besides the basic video editing function, this Nikon video editing software also
 
 To help make your video more professional-looking, this Nikon video editor even includes some Power Tools for you to build a small miniature (tilt-shift), replace face in your video (face-off), blur part of a picture (Mosaic), and more.
 
-![ Filmora 9 Utility features](https://images.wondershare.com/filmora/article-images/filmora9-effects-utility.jpg)
+![Filmora 9 Utility features](https://images.wondershare.com/filmora/article-images/filmora9-effects-utility.jpg)
 
 You can find all these features and more by switching to Effects tab and go to Utility option under Filters menu.
 
@@ -1686,7 +1686,7 @@ You can find all these features and more by switching to Effects tab and go to U
 
 When you finish editing, hit the "Export" button to save your creation to computer or upload it to YouTube, or Vimeo for online sharing.
 
-![nikon video editing Exporting in Filmora9 ](https://images.wondershare.com/filmora/article-images/export-output.jpg)
+![nikon video editing Exporting in Filmora9](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
 It's also easy to burn your finished video to DC for playing on home player. You can also save the video with specially designed settings for devices for watching offline on iPhone, iPad, Apple TV etc.
 
@@ -1720,13 +1720,13 @@ First, transfer the Nikon video files to your computer. Then drag and drop them 
 
 The latest version 9 of Filmora Video Editor also allows you to import video footage from your Nikon camera directly. You can click the **Import** menu first and then select **Import from a Camera or Phone** option which will enter the **Import from Device** window. You can import only videos or only images or all media files to Filmora. All the imported media will be saved under C:\\Users\\admin\\Documents\\Wondershare Filmora\\User Media\\Device Import by default. But you can always change the default path.
 
-![ Filmora 9 Import for Device ](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
+![Filmora 9 Import for Device](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
 
 #### 2\.  Edit and personalize your Nikon video files instantly
 
 This Nikon video editing software turns rather complicated video editing into a pretty easy and efficient job. Since it features Timeline based editing, you can just move the slide bar or the duration adjustment bar to the right location you want, and then do video trimming, cutting, splitting with ease. To edit video/audio, just double click the target file and adjust the playing speed, brightness, contrast, pitch, voice, etc. according to your needs.
 
-![ Filmora 9 Remove from Background Noise ](https://images.wondershare.com/filmora/article-images/filmora9-remove-audio-from-video.jpg)
+![Filmora 9 Remove from Background Noise](https://images.wondershare.com/filmora/article-images/filmora9-remove-audio-from-video.jpg)
 
 If the video shot by the Nikon camera has some noisy background wind sound, you can remove the noise with Filmora with ease. You can even separate audio from the video for more creative use by right clicking the video and choose "Audio Detach".
 
@@ -1736,7 +1736,7 @@ Besides the basic video editing function, this Nikon video editing software also
 
 To help make your video more professional-looking, this Nikon video editor even includes some Power Tools for you to build a small miniature (tilt-shift), replace face in your video (face-off), blur part of a picture (Mosaic), and more.
 
-![ Filmora 9 Utility features](https://images.wondershare.com/filmora/article-images/filmora9-effects-utility.jpg)
+![Filmora 9 Utility features](https://images.wondershare.com/filmora/article-images/filmora9-effects-utility.jpg)
 
 You can find all these features and more by switching to Effects tab and go to Utility option under Filters menu.
 
@@ -1744,7 +1744,7 @@ You can find all these features and more by switching to Effects tab and go to U
 
 When you finish editing, hit the "Export" button to save your creation to computer or upload it to YouTube, or Vimeo for online sharing.
 
-![nikon video editing Exporting in Filmora9 ](https://images.wondershare.com/filmora/article-images/export-output.jpg)
+![nikon video editing Exporting in Filmora9](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
 It's also easy to burn your finished video to DC for playing on home player. You can also save the video with specially designed settings for devices for watching offline on iPhone, iPad, Apple TV etc.
 
