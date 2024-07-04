@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Mac Video Editing Experience AVS for 2024
-date: 2024-05-19T16:00:52.816Z
-updated: 2024-05-20T16:00:52.816Z
+date: 2024-07-03T15:09:54.235Z
+updated: 2024-07-04T15:09:54.235Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Ultimate Mac Video Editing Experience AVS for 2024
 excerpt: This Article Describes The Ultimate Mac Video Editing Experience AVS for 2024
 keywords: the ultimate mac video editing software comparison for,splice for mac the ultimate video editing experience,the ultimate avi editor for windows 8 effortless video editing experience 2023,the ultimate quicktime video editing guide for mac os users,the ultimate mac video editing experience avs,the ultimate mac video editing experience vn video editor and alternatives,the ultimate mac video editor adobe premiere pro for experts
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## The Ultimate Mac Video Editing Experience: AVS
@@ -300,7 +300,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -316,7 +316,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -331,7 +331,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -347,7 +347,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -362,7 +362,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -406,7 +406,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -422,7 +422,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -437,7 +437,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -453,7 +453,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -468,7 +468,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -512,7 +512,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -528,7 +528,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -543,7 +543,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -559,7 +559,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -574,7 +574,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -618,7 +618,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -634,7 +634,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -649,7 +649,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -665,7 +665,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -680,7 +680,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -1991,7 +1991,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2003,17 +2003,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2021,15 +2021,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -2082,7 +2082,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2094,17 +2094,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2112,15 +2112,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -2173,7 +2173,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2185,17 +2185,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2203,15 +2203,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -2264,7 +2264,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2276,17 +2276,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2294,15 +2294,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Master Vertical Video Top Secret to Resize for Social Media
-date: 2024-04-28T05:26:56.038Z
-updated: 2024-04-29T05:26:56.038Z
+date: 2024-07-03T15:10:09.055Z
+updated: 2024-07-04T15:10:09.055Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Master Vertical Video Top Secret to Resize for Social Media
 excerpt: This Article Describes New In 2024, Master Vertical Video Top Secret to Resize for Social Media
 keywords: mastering mobile how to optimize vertical video for social media,your greatest tip to resize social media vertical video ratio,resize like a pro mastering vertical video ratios for social media,get noticed on social media the secret to resizing vertical videos,master vertical video top secret to resize for social media,optimize your videos mastering vertical aspect ratio for social media,the vertical video revolution one simple trick to resize for social media
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## Master Vertical Video: Top Secret to Resize for Social Media

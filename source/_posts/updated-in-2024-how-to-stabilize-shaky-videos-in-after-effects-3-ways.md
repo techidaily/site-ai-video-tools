@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Stabilize Shaky Videos in After Effects 3 Ways
-date: 2024-05-19T16:01:25.052Z
-updated: 2024-05-20T16:01:25.052Z
+date: 2024-07-03T15:10:08.976Z
+updated: 2024-07-04T15:10:08.976Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Stabilize Shaky Videos in After Effects 3 Ways
 excerpt: This Article Describes Updated In 2024, How to Stabilize Shaky Videos in After Effects 3 Ways
 keywords: ai animation ai animation how to stabilize shaky videos in after effects,ai animation how to stabilize shaky videos in after effects,how to stabilize shaky videos in after effects 3 ways,ai animation how to stabilize shaky videos in after effects 3 ways,how to stabilize shaky videos in after effects,shake it off how to stabilize unsteady video in after effects,rock solid results 3 ways to stabilize video in after effects
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## How to Stabilize Shaky Videos in After Effects [3 Ways]
@@ -88,7 +88,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -98,7 +98,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -108,7 +108,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -196,7 +196,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -206,7 +206,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -216,7 +216,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -304,7 +304,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -314,7 +314,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -324,7 +324,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -412,7 +412,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -422,7 +422,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -432,7 +432,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -485,7 +485,7 @@ However, occasionally those tools aren't available, and the outcome is questiona
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -502,7 +502,7 @@ However, occasionally those tools aren't available, and the outcome is questiona
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -533,7 +533,7 @@ However, occasionally those tools aren't available, and the outcome is questiona
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -547,7 +547,7 @@ However, occasionally those tools aren't available, and the outcome is questiona
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -588,7 +588,7 @@ Follow @Ollie Mattison
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -605,7 +605,7 @@ Follow @Ollie Mattison
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -636,7 +636,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -650,7 +650,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -691,7 +691,7 @@ Follow @Ollie Mattison
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -708,7 +708,7 @@ Follow @Ollie Mattison
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -739,7 +739,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -753,7 +753,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -794,7 +794,7 @@ Follow @Ollie Mattison
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -811,7 +811,7 @@ Follow @Ollie Mattison
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -842,7 +842,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -856,7 +856,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 

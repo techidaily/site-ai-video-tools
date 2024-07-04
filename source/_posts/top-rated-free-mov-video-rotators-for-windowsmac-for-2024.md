@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Free MOV Video Rotators for Windows/Mac for 2024
-date: 2024-05-19T16:00:56.825Z
-updated: 2024-05-20T16:00:56.825Z
+date: 2024-07-03T15:10:11.076Z
+updated: 2024-07-04T15:10:11.076Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Top-Rated Free MOV Video Rotators for Windows/Mac for 2024
 excerpt: This Article Describes Top-Rated Free MOV Video Rotators for Windows/Mac for 2024
 keywords: top rated free mov video rotators for windowsmac,top rated movie editors for windows a 2024 review,rotate avi videos for free top picks for windows mac mobile web,top rated free video rotation software for windows and mac,top rated free avi video rotators for windows mac android and iphone users,top free flv video editors for windows and mac,top free video repeaters for windows and mac users
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Top-Rated Free MOV Video Rotators for Windows/Mac
@@ -33,7 +33,7 @@ thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/fi
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -48,7 +48,7 @@ thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/fi
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -63,7 +63,7 @@ thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/fi
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -78,7 +78,7 @@ thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/fi
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -94,7 +94,7 @@ thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/fi
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -136,7 +136,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -151,7 +151,7 @@ Follow @Ollie Mattison
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -166,7 +166,7 @@ Follow @Ollie Mattison
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -181,7 +181,7 @@ Follow @Ollie Mattison
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -197,7 +197,7 @@ Follow @Ollie Mattison
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -239,7 +239,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -254,7 +254,7 @@ Follow @Ollie Mattison
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -269,7 +269,7 @@ Follow @Ollie Mattison
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -284,7 +284,7 @@ Follow @Ollie Mattison
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -300,7 +300,7 @@ Follow @Ollie Mattison
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -342,7 +342,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -357,7 +357,7 @@ Follow @Ollie Mattison
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -372,7 +372,7 @@ Follow @Ollie Mattison
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -387,7 +387,7 @@ Follow @Ollie Mattison
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -403,7 +403,7 @@ Follow @Ollie Mattison
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -716,13 +716,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -736,7 +736,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -748,7 +748,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -758,13 +758,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -776,7 +776,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -847,13 +847,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -867,7 +867,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -879,7 +879,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -889,13 +889,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -907,7 +907,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -978,13 +978,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -998,7 +998,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1010,7 +1010,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1020,13 +1020,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1038,7 +1038,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -1109,13 +1109,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -1129,7 +1129,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1141,7 +1141,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1151,13 +1151,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1169,7 +1169,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 

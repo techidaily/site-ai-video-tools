@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts
-date: 2024-05-19T16:01:30.759Z
-updated: 2024-05-20T16:01:30.759Z
+date: 2024-07-03T15:10:11.011Z
+updated: 2024-07-04T15:10:11.011Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts
 excerpt: This Article Describes New 2024 Approved Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts
 keywords: fcpx power user unlock 40 time saving keyboard shortcuts,fcpx mastery 40 essential keyboard shortcuts to improve your skills,fcpx productivity hacks top 40 keyboard shortcuts for editors,unlock fcpx efficiency 40 must know keyboard shortcuts,ai animation unlock fcpx efficiency 40 must know keyboard shortcuts,unlock efficiency the most useful adobe premiere shortcuts revealed,streamline your workflow 40 essential fcpx keyboard shortcuts
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## Unlock FCPX Efficiency: 40 Must-Know Keyboard Shortcuts
@@ -39,7 +39,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -88,8 +88,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -142,7 +142,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -191,8 +191,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -245,7 +245,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -294,8 +294,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -348,7 +348,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -397,8 +397,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -524,7 +524,7 @@ Reason to avoid:
 
 You can also record your screen and webcam with  Studio. Apart from video editing, you can edit your audio files. There are options for color grading, blend modes and video making. Among the advanced features, you get motion and smart object tracking along with keyframing and editing 360-degree videos. The software comes with hardware acceleration to boost its performance.
 
-### 3\. [OpenShot](https://tools.techidaily.com/wondershare/filmora/download/)
+### 3\. OpenShot
 
 Best for: those looking for a free light video editor.
 
@@ -733,7 +733,7 @@ Reason to avoid:
 
 You can also record your screen and webcam with  Studio. Apart from video editing, you can edit your audio files. There are options for color grading, blend modes and video making. Among the advanced features, you get motion and smart object tracking along with keyframing and editing 360-degree videos. The software comes with hardware acceleration to boost its performance.
 
-### 3\. [OpenShot](https://tools.techidaily.com/wondershare/filmora/download/)
+### 3\. OpenShot
 
 Best for: those looking for a free light video editor.
 
@@ -942,7 +942,7 @@ Reason to avoid:
 
 You can also record your screen and webcam with  Studio. Apart from video editing, you can edit your audio files. There are options for color grading, blend modes and video making. Among the advanced features, you get motion and smart object tracking along with keyframing and editing 360-degree videos. The software comes with hardware acceleration to boost its performance.
 
-### 3\. [OpenShot](https://tools.techidaily.com/wondershare/filmora/download/)
+### 3\. OpenShot
 
 Best for: those looking for a free light video editor.
 
@@ -1151,7 +1151,7 @@ Reason to avoid:
 
 You can also record your screen and webcam with  Studio. Apart from video editing, you can edit your audio files. There are options for color grading, blend modes and video making. Among the advanced features, you get motion and smart object tracking along with keyframing and editing 360-degree videos. The software comes with hardware acceleration to boost its performance.
 
-### 3\. [OpenShot](https://tools.techidaily.com/wondershare/filmora/download/)
+### 3\. OpenShot
 
 Best for: those looking for a free light video editor.
 
@@ -1366,7 +1366,7 @@ It is possible to apply transitions with a simple shortcut; all that you need to
 
 It is desired because the transition effect can be applied only if you have more than one clip on the timeline. Also, you can see more [keyboard shortcuts](https://tools.techidaily.com/wondershare/filmora/download/) here.
 
-![Blade your clip ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
+![Blade your clip](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
 
 Once you have obtained your two scenes for which you need to add transition effect then select the very first scene from the timeline. Now open the Video animation window on your device, it can be done by pressing Shift+V; find the Compositing option, and then apply default transitions by simply dragging timeline handle towards both sides of the composite window. In FCP, Cross dissolve will be selected as the default transition.
 
@@ -1376,7 +1376,7 @@ Once you have obtained your two scenes for which you need to add transition effe
 
 * Go to the media toolbar and then hit the transition icon. It can be identified as a shaded box over which X is written.
 
-![Transition icon ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
+![Transition icon](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
 
 * Now choose your favorite transition from Browser and drag it to your timeline.
 * It is time to place the dragged transition between two video clips that you need to edit here.
@@ -1390,11 +1390,11 @@ Once you have obtained your two scenes for which you need to add transition effe
 * It can be selected from Ctrl+D options also.
 * You can use the precision editor option to adjust transition duration.
 
-![ Precision editor option to adjust transition duration ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
+![Precision editor option to adjust transition duration](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
 
 * Users can also edit preferences for transition on Final Cut Pro software tool as per need.
 
-![ Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
+![Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
 
 #### **Part 3: Use Menu Bar to Apply Transition:**
 
@@ -1451,7 +1451,7 @@ It is possible to apply transitions with a simple shortcut; all that you need to
 
 It is desired because the transition effect can be applied only if you have more than one clip on the timeline. Also, you can see more [keyboard shortcuts](https://tools.techidaily.com/wondershare/filmora/download/) here.
 
-![Blade your clip ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
+![Blade your clip](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
 
 Once you have obtained your two scenes for which you need to add transition effect then select the very first scene from the timeline. Now open the Video animation window on your device, it can be done by pressing Shift+V; find the Compositing option, and then apply default transitions by simply dragging timeline handle towards both sides of the composite window. In FCP, Cross dissolve will be selected as the default transition.
 
@@ -1461,7 +1461,7 @@ Once you have obtained your two scenes for which you need to add transition effe
 
 * Go to the media toolbar and then hit the transition icon. It can be identified as a shaded box over which X is written.
 
-![Transition icon ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
+![Transition icon](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
 
 * Now choose your favorite transition from Browser and drag it to your timeline.
 * It is time to place the dragged transition between two video clips that you need to edit here.
@@ -1475,11 +1475,11 @@ Once you have obtained your two scenes for which you need to add transition effe
 * It can be selected from Ctrl+D options also.
 * You can use the precision editor option to adjust transition duration.
 
-![ Precision editor option to adjust transition duration ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
+![Precision editor option to adjust transition duration](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
 
 * Users can also edit preferences for transition on Final Cut Pro software tool as per need.
 
-![ Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
+![Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
 
 #### **Part 3: Use Menu Bar to Apply Transition:**
 
@@ -1536,7 +1536,7 @@ It is possible to apply transitions with a simple shortcut; all that you need to
 
 It is desired because the transition effect can be applied only if you have more than one clip on the timeline. Also, you can see more [keyboard shortcuts](https://tools.techidaily.com/wondershare/filmora/download/) here.
 
-![Blade your clip ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
+![Blade your clip](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
 
 Once you have obtained your two scenes for which you need to add transition effect then select the very first scene from the timeline. Now open the Video animation window on your device, it can be done by pressing Shift+V; find the Compositing option, and then apply default transitions by simply dragging timeline handle towards both sides of the composite window. In FCP, Cross dissolve will be selected as the default transition.
 
@@ -1546,7 +1546,7 @@ Once you have obtained your two scenes for which you need to add transition effe
 
 * Go to the media toolbar and then hit the transition icon. It can be identified as a shaded box over which X is written.
 
-![Transition icon ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
+![Transition icon](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
 
 * Now choose your favorite transition from Browser and drag it to your timeline.
 * It is time to place the dragged transition between two video clips that you need to edit here.
@@ -1560,11 +1560,11 @@ Once you have obtained your two scenes for which you need to add transition effe
 * It can be selected from Ctrl+D options also.
 * You can use the precision editor option to adjust transition duration.
 
-![ Precision editor option to adjust transition duration ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
+![Precision editor option to adjust transition duration](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
 
 * Users can also edit preferences for transition on Final Cut Pro software tool as per need.
 
-![ Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
+![Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
 
 #### **Part 3: Use Menu Bar to Apply Transition:**
 
@@ -1621,7 +1621,7 @@ It is possible to apply transitions with a simple shortcut; all that you need to
 
 It is desired because the transition effect can be applied only if you have more than one clip on the timeline. Also, you can see more [keyboard shortcuts](https://tools.techidaily.com/wondershare/filmora/download/) here.
 
-![Blade your clip ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
+![Blade your clip](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
 
 Once you have obtained your two scenes for which you need to add transition effect then select the very first scene from the timeline. Now open the Video animation window on your device, it can be done by pressing Shift+V; find the Compositing option, and then apply default transitions by simply dragging timeline handle towards both sides of the composite window. In FCP, Cross dissolve will be selected as the default transition.
 
@@ -1631,7 +1631,7 @@ Once you have obtained your two scenes for which you need to add transition effe
 
 * Go to the media toolbar and then hit the transition icon. It can be identified as a shaded box over which X is written.
 
-![Transition icon ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
+![Transition icon](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
 
 * Now choose your favorite transition from Browser and drag it to your timeline.
 * It is time to place the dragged transition between two video clips that you need to edit here.
@@ -1645,11 +1645,11 @@ Once you have obtained your two scenes for which you need to add transition effe
 * It can be selected from Ctrl+D options also.
 * You can use the precision editor option to adjust transition duration.
 
-![ Precision editor option to adjust transition duration ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
+![Precision editor option to adjust transition duration](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
 
 * Users can also edit preferences for transition on Final Cut Pro software tool as per need.
 
-![ Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
+![Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
 
 #### **Part 3: Use Menu Bar to Apply Transition:**
 
