@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Generate Tones with Ease 5 Free Online Options
-date: 2024-06-24T14:33:55.834Z
-updated: 2024-06-25T14:33:55.834Z
+date: 2024-07-16T20:47:45.435Z
+updated: 2024-07-17T20:47:45.435Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 
 # 5 Best Online Tone Generators for You
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -48,10 +51,16 @@ You can insert any frequency value you want or choose between **Sine, Square, Sa
 
 #### 2. Audio Test File Generators
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
 
 **Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-sinetone.jpg)
 
 In the upper left corner of the new webpage, you’ll be able to see the **Play** button that lets you hear the default tone you selected. Directly below you can find the File Generator option where you can adjust the properties of the tone you’re generating. The displayed options depend on the type of tone you selected. Clicking on the **Download** button will save the tone you generated to your computer, but you won’t be able to save a tone if you inserted an incorrect value into one of the boxes.
@@ -60,6 +69,9 @@ In the upper left corner of the new webpage, you’ll be able to see the **Play*
 
 Making tones on this online platform doesn’t require any effort at all since you can easily control the frequency of the tone using a large slider that is displayed across the entire page. Clicking on the **Play** button will play the tone under the current settings so you can make the necessary adjustments if you’re not happy with the results you’re getting. Several options that let you fine-tune the settings of the tone you’re generating can be found below the frequency slider.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/szynalski-online-tone-generator.jpg)
 
 The **volume and balance** are located on the right side of the screen and they allow you to determine how loud the tone is going to be or to choose to which channel the majority of the signal is going to be sent. The value in the middle of the screen displays the current frequency of the tone. The arrows also allow you to change the frequency value, while clicking on the wave type selector lets you choose between Sawtooth, Sine, Triangle, and Square options.
@@ -80,10 +92,16 @@ If you are looking for an easy way to generate tones from your browser this may 
 
 There are **four wave types** you can choose from that generate different types of tones and you can change their tonality by clicking on one of the buttons located near the bottom of the tone generator.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/gieson-tone-generator.jpg)
 
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The scope of options different online tone generators provide can vary. That is the reason why your decision which of the tone-generating tools we covered in this article you are going to use depends on the reason why you’re creating a tone.
@@ -106,3 +124,39 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unleash-creativity-top-screencast-tools-recommended-by-experts/"><u>[New] 2024 Approved  Unleash Creativity  Top Screencast Tools Recommended by Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-compre-cooked-tweets-the-complete-tweet-vids-guide/"><u>[Updated] 2024 Approved  Compre Cooked Tweets  The Complete Tweet Vids Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-android-lens-mastery-techniques-and-apps/"><u>[Updated] Android Lens Mastery  Techniques & Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-which-is-superior-gopro-max-360-or-hero-11-in-2024/"><u>[Updated] Which Is Superior, GoPro Max 360 or Hero 11, In 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-guide-to-using-luts-for-professional-image-editors/"><u>2024 Approved  Advanced Guide to Using LUTs for Professional Image Editors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-free-windows-programs-expertly-record-live-shows/"><u>2024 Approved  Free Windows Programs  Expertly Record Live Shows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-unleash-your-creativity-best-stop-motion-animation-tools-for-mac-and-pc/"><u>2024 Approved Unleash Your Creativity Best Stop Motion Animation Tools for Mac and PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-unleash-your-creativity-best-video-editing-apps-for-windows-11/"><u>2024 Approved Unleash Your Creativity Best Video Editing Apps for Windows 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-unleash-your-creativity-download-videoleap-for-macbook/"><u>2024 Approved Unleash Your Creativity Download Videoleap for MacBook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-14-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 14 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-new-dimensions-q500-typhoon-adventure/"><u>In 2024, Exploring New Dimensions  Q500 Typhoon Adventure</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unleash-your-creativity-best-stop-motion-software-for-mac-and-pc/"><u>In 2024, Unleash Your Creativity Best Stop Motion Software for Mac and PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unleash-your-creativity-best-video-editing-apps-for-windows-11/"><u>In 2024, Unleash Your Creativity Best Video Editing Apps for Windows 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unleash-your-creativity-best-vignette-maker-apps-for-ios-and-android/"><u>In 2024, Unleash Your Creativity Best Vignette Maker Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unleash-your-creativity-free-video-editing-software-for-chromebooks/"><u>In 2024, Unleash Your Creativity Free Video Editing Software for Chromebooks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unleash-your-creativity-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>In 2024, Unleash Your Creativity How to Edit Video Files on Mac OS X Yosemite</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-best-online-collage-makers-for-photos-and-videos/"><u>New Unleash Your Creativity Best Online Collage Makers for Photos and Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-free-game-video-editing-software/"><u>New Unleash Your Creativity Free Game Video Editing Software</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/perfecting-your-soundtracks-in-audacity-by-cutting-out-noise-for-2024/"><u>Perfecting Your Soundtracks in Audacity by Cutting Out Noise for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tiktoks-chillest-country-tracks-for-relaxation-for-2024/"><u>TikTok's Chillest Country Tracks for Relaxation for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unleash-creativity-with-free-excellent-facebook-picture-makers/"><u>Unleash Creativity with Free, Excellent Facebook Picture Makers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unleash-your-creativity-best-mac-video-maker-apps-for-2024/"><u>Unleash Your Creativity Best Mac Video Maker Apps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unleash-your-creativity-best-video-editing-apps-for-windows-11-for-2024/"><u>Unleash Your Creativity Best Video Editing Apps for Windows 11 for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unleash-your-creativity-free-game-video-editing-software-for-2024/"><u>Unleash Your Creativity Free Game Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unleash-your-creativity-free-gif-loop-creator-tools-for-2024/"><u>Unleash Your Creativity Free GIF Loop Creator Tools for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unleash-your-creativity-gopro-video-editing-on-mac-made-easy-for-2024/"><u>Unleash Your Creativity GoPro Video Editing on Mac Made Easy for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-best-mac-video-maker-apps/"><u>Updated Unleash Your Creativity Best Mac Video Maker Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-best-music-video-editing-tools-for-all/"><u>Updated Unleash Your Creativity Best Music Video Editing Tools for All</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-best-time-lapse-video-editing-tools/"><u>Updated Unleash Your Creativity Best Time-Lapse Video Editing Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-best-vignette-apps-for-ios-and-android-users/"><u>Updated Unleash Your Creativity Best Vignette Apps for iOS and Android Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-download-videoleap-for-macbook/"><u>Updated Unleash Your Creativity Download Videoleap for MacBook</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-free-32-bit-windows-video-editing-tools/"><u>Updated Unleash Your Creativity Free 32-Bit Windows Video Editing Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-free-video-editors-for-chromebook/"><u>Updated Unleash Your Creativity Free Video Editors for Chromebook</u></a></li>
+</ul></div>

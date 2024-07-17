@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Get Ready to Edit Configuring Your Computer for Premiere Pro
-date: 2024-06-24T14:34:52.192Z
-updated: 2024-06-25T14:34:52.192Z
+date: 2024-07-16T20:48:47.028Z
+updated: 2024-07-17T20:48:47.028Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,9 @@ We all know that [Adobe Premiere Pro](https://www.adobe.com/products/premiere.ht
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Minimum system requirement to run Premiere Pro on Windows and Mac in 2019
 
 Your computer should at least to meet **the minimum specification** below to run Premiere Pro, and if you need to edit some VR videos, your computer configuration should be higher according to [the minimum specifications list on their website](https://helpx.adobe.com/premiere-pro/system-requirements.html).
@@ -46,6 +49,9 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -53,6 +59,9 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 * Press **Windows Key+ E** on the keyboard to bring up **Windows Explorer**.
 * Right click the **This PC** option in the sidebar and then select **Properties** from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
 
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
@@ -91,10 +100,16 @@ If you have access to even more drives, then split the cache from the previews, 
 
 That is the theory, but how do you achieve this? This is done within Premiere itself, there are two parts, accessing where the media cache files are placed is done though the edit menu, following the path edit > preferences > media.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
 
 #### 7\. Sequence Setting
@@ -107,6 +122,9 @@ The sequence dialogue has three tabs, Sequence Presets, Settings and Tracks
 
 The Preset Tab makes setting up a new sequence much simpler. Choosing a preset enables Premiere to choose the settings that best match the chosen video and audio format. There are a wide range of presets available to suit the most commonly used media types, they are organized based on camera formats. Within each group there are numerous settings and configurations to choose from based around frame sizes and interlacing. Whilst choosing the correct preset can be a little daunting to the uninitiated, ensuring the number of frames per second, the frame size and codec are correct is all that is required.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
@@ -137,3 +155,67 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-effortless-ads-free-desktop-video-recorder/"><u>[New] 2024 Approved  Effortless, Ads-Free Desktop Video Recorder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-blueprint-for-seamless-integration-of-instagram-and-tiktok/"><u>[New] Blueprint for Seamless Integration of Instagram and TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-essential-free-photo-layering-tools-on-iosandroid/"><u>[New] Top 10 Essential Free Photo Layering Tools on iOS/Android</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-alarm-tone-collection-premier-websites/"><u>[Updated] 2024 Approved  Alarm Tone Collection  Premier Websites</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-bring-more-life-to-your-instagram-feed-with-these-4-gif-tips/"><u>[Updated] 2024 Approved  Bring More Life to Your Instagram Feed with These 4 GIF Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-to-whatsapp-sharing-videos-simplified/"><u>[Updated] 2024 Approved  Twitter to WhatsApp  Sharing Videos Simplified</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-complete-picsart-breakdown-insights-and-instructions-2024/"><u>[Updated] The Complete PicsArt Breakdown  Insights and Instructions 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-playbook-for-recording-live-gaming-events-for-2024/"><u>[Updated] The Ultimate Playbook for Recording Live Gaming Events for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-hottest-youtube-music-playback-responses-23/"><u>2024 Approved  Hottest YouTube Music Playback Responses '23</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-total-data-for-a-full-movie-over-24-hours/"><u>2024 Approved  Total Data for a Full Movie Over 24 Hours</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-windows-11s-task-manager-launch-interface/"><u>Adjusting Windows 11'S Task Manager Launch Interface</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ffmpeg-and-the-art-of-audio-preservation-for-2024/"><u>FFmpeg and the Art of Audio Preservation for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-effectively-reduce-your-youtube-video-lengths/"><u>How To Effectively Reduce Your YouTube Video Lengths</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6s-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6s</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-treasure-trove-of-budget-friendly-digital-artistry-tools/"><u>In 2024, A Treasure Trove of Budget-Friendly Digital Artistry Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-discover-the-best-top-10-video-players-for-slow-motion-playback/"><u>In 2024, Discover the Best Top 10 Video Players for Slow Motion Playback</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a15-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A15 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/"><u>In 2024, The Ultimate List of AVI Video Cutters Trim and Edit on Any Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-and-utilizing-phantoms-time-dilation/"><u>In 2024, Understanding and Utilizing Phantom’s Time-Dilation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-online-networks-for-workplace-success/"><u>Mastering Online Networks for Workplace Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-best-options-expert-picks-from-top-9-free-logomakers-for-2024/"><u>Navigating Best Options  Expert Picks From Top 9 Free Logomakers for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-premiere-pro-transitions-list-of-10-best-transition-plugins/"><u>New 2024 Approved Premiere Pro Transitions List of 10 Best Transition Plugins</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-premiere-pro-transitions-the-ultimate-list-of-top-rated-plugins/"><u>New 2024 Approved Premiere Pro Transitions The Ultimate List of Top-Rated Plugins</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-premiere-rush-not-your-cup-of-tea-try-these-4-alternatives/"><u>New 2024 Approved Premiere Rush Not Your Cup of Tea? Try These 4 Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-premiere-pro-transitions-the-ultimate-list-of-top-rated-plugins/"><u>New In 2024, Premiere Pro Transitions The Ultimate List of Top-Rated Plugins</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-reset-and-refresh-fixing-common-issues-in-final-cut-pro-x/"><u>New In 2024, Reset and Refresh Fixing Common Issues in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-retro-video-revival-top-vhs-apps-for-smartphones/"><u>New In 2024, Retro Video Revival Top VHS Apps for Smartphones</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-is-virtualdub-still-relevant-exploring-the-best-alternatives/"><u>New Is Virtualdub Still Relevant? Exploring the Best Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-online-video-creators-with-built-in-music-libraries-for-2024/"><u>New Online Video Creators with Built-In Music Libraries for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-optimal-video-size-for-instagram-a-complete-guide-for-2024/"><u>New Optimal Video Size for Instagram A Complete Guide for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-optimize-your-reach-the-best-video-aspect-ratios-for-linkedin-for-2024/"><u>New Optimize Your Reach The Best Video Aspect Ratios for LinkedIn for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-premiere-pro-computer-setup-meet-the-minimum-system-requirements-for-2024/"><u>New Premiere Pro Computer Setup Meet the Minimum System Requirements for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-prime-video-screen-format-for-2024/"><u>New Prime Video Screen Format for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-professional-animation-software-8-best-creator-for-macwindows-for-2024/"><u>New Professional Animation Software 8 Best Creator for Mac/Windows for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-retro-video-revival-top-vhs-apps-for-smartphones-for-2024/"><u>New Retro Video Revival Top VHS Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-of-computing-in-windows-11-for-2024/"><u>The Future of Computing in Windows 11 for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-red-magic-9-proplus-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Red Magic 9 Pro+ Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-online-video-reversal-made-easy-top-tools/"><u>Updated 2024 Approved Online Video Reversal Made Easy Top Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-online-video-rotation-made-easy-top-free-tools/"><u>Updated 2024 Approved Online Video Rotation Made Easy Top Free Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-optimize-your-pc-for-premiere-pro-a-step-by-step-guide/"><u>Updated 2024 Approved Optimize Your PC for Premiere Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-pause-perfection-a-step-by-step-guide-to-freezing-frames-in-videos/"><u>Updated 2024 Approved Pause Perfection A Step-by-Step Guide to Freezing Frames in Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-premiere-pro-transitions-list-of-10-best-transition-plugins/"><u>Updated 2024 Approved Premiere Pro Transitions List of 10 Best Transition Plugins</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-quik-fix-a-review-of-gopros-video-editor-and-top-pc-alternatives/"><u>Updated 2024 Approved Quik Fix A Review of GoPros Video Editor & Top PC Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-resize-and-refine-image-aspect-ratio/"><u>Updated 2024 Approved Resize and Refine Image Aspect Ratio</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-achieving-pristine-audio-quality-tips-to-eradicate-distorted-sounds-in-visual-media/"><u>Updated Achieving Pristine Audio Quality Tips to Eradicate Distorted Sounds in Visual Media</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-transparent-background-on-picsart-for-2024/"><u>Updated How To Create Transparent Background On Picsart for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-pc-video-editing-made-easy-a-review-of-vn-video-editor/"><u>Updated In 2024, PC Video Editing Made Easy A Review of VN Video Editor</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-preserve-audio-perfection-how-to-convert-video-to-mp3/"><u>Updated In 2024, Preserve Audio Perfection How to Convert Video to MP3</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-protect-your-videos-with-these-free-watermarking-tools/"><u>Updated In 2024, Protect Your Videos with These Free Watermarking Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-quality-movie-maker-turn-everyday-video-clips-into-high-quality/"><u>Updated In 2024, Quality Movie Maker Turn Everyday Video Clips Into High Quality</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-retro-video-revival-top-vhs-apps-for-smartphones/"><u>Updated In 2024, Retro Video Revival Top VHS Apps for Smartphones</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-revolutionize-your-video-editing-workflow-with-64-bit-technology/"><u>Updated In 2024, Revolutionize Your Video Editing Workflow with 64-Bit Technology</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-optimize-your-reach-the-best-video-aspect-ratios-for-linkedin-for-2024/"><u>Updated Optimize Your Reach The Best Video Aspect Ratios for LinkedIn for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ps4-screenshot-sharing-101-tips-and-tricks-for-2024/"><u>Updated PS4 Screenshot Sharing 101 Tips and Tricks for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-quality-movie-maker-turn-everyday-video-clips-into-high-quality-for-2024/"><u>Updated Quality Movie Maker Turn Everyday Video Clips Into High Quality for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ratio-matters-the-influence-of-aspect-ratio-on-video-aesthetics-for-2024/"><u>Updated Ratio Matters The Influence of Aspect Ratio on Video Aesthetics for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-remove-background-noise-top-free-online-photo-editing-tools-for-2024/"><u>Updated Remove Background Noise Top Free Online Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-rotate-videos-for-free-top-10-online-and-offline-tools-for-2024/"><u>Updated Rotate Videos for Free Top 10 Online and Offline Tools for 2024</u></a></li>
+</ul></div>
