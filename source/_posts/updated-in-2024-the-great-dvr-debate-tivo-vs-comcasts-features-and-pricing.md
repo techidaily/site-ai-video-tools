@@ -1,0 +1,189 @@
+---
+title: Updated In 2024, The Great DVR Debate TiVo vs Comcasts Features and Pricing
+date: 2024-08-22T09:29:07.223Z
+updated: 2024-08-23T09:29:07.223Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes Updated In 2024, The Great DVR Debate TiVo vs Comcasts Features and Pricing
+excerpt: This Article Describes Updated In 2024, The Great DVR Debate TiVo vs Comcasts Features and Pricing
+keywords: stop motion software in the cloud features pricing and alternatives,cable vs streaming tivo and comcast duke it out for dvr supremacy,the great dvr debate tivo vs comcasts features and pricing,the great dvr debate tivo vs comcast xfinity,the dvr wars tivo and comcast face off in a battle of features and price,battle of the editors final cut pro vs lumafusion features pricing and more,the great dvr debate tivo vs comcast which one reigns supreme
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
+---
+
+## The Great DVR Debate: TiVo vs Comcast's Features and Pricing
+
+# TiVo vs Comcast, Who Wins the DVR Battle?
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Cable, satellite, over the air broadcast, streaming internet video – never before have we had so many choices of how to receive television programming. DVR, PVR, computer hard drive, external storage device; now we have choices in how to store programs for viewing later to consider as well. So what is true and what is hype when it comes to what’s the best device? Let’s peel back the layers and look at the information.
+
+ First, what is a DVR? A DVR, or digital video recorder, is a device that records video from a source for playback at another time. It often comes with a television programming guide included so you can easily locate shows you want to record. Most DVRs come with large capacity hard drives, though some have flash memory cards as their storage medium. There are a variety of types that range from small storage capacity and two tuners, up through several tuners and massive hard drive storage ability. You also can pause and rewind live TV, which is great when you want to create your own sports instant replays. Most DVRs also allow you to watch one program that was previously recorded while two others are recording, though some have greater capacity.
+
+ A TiVo is a particular kind of DVR that was first introduced in 1999\. It requires a subscription to its own programming guide that can be purchased month to month, or as a “lifetime” subscription (that means the life of the TiVo, not your life, by the way). TiVos, like cable company DVRs, can record just one show or an entire season. TiVos have a smart feature which notices which shows you are watching and recommends similar ones to you based on how you rate current programs. It also uses these ratings to suggest shows to other viewers.
+
+ Let’s look at a few of the main features of both so you can do a comparison. We’ll look at five factors.
+
+## 1\. TiVo vs Comcast: Cost and rent versus own
+
+ With a Comcast DVR, you are renting it from the cable company at a cost of $10 to $16 a month, depending on your market. There are no upfront costs, and should the device fail, you can swap it at no cost at your local Comcast service center. Some folks have found that the new X1 boxes are prone to crashes, so that free swap is handy.
+
+ A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
+
+## 2\. TiVo vs Comcast: Services available
+
+ With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
+
+ The TiVo with cable card has access to all of the cable On Demand services, so in that sense it can replace all of the Comcast DVRs. However, the cable card is not free. It typically runs $1.50 per card per month, up to $2.50 per card on the Frontier system.
+
+ The menus are slightly different, as you can see below.
+
+![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
+
+ Comcast interface
+
+![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
+
+ TiVo interface
+
+ TiVos also recognize SD and HD as just different versions of the same show, instead of different channels like Comcast does, so you can set your DVR to just record HD. This makes it somewhat harder to just record HD on a TiVo.
+
+ Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+## 3\. TiVo vs Comcast: Connection to a network
+
+ TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
+
+ Some reviewers have also noted that the network set up is not as simple as it might be, and it requires some computer knowledge and ability. Unless you have a tech person nearby, novice computer users may not wish to set up the network.
+
+ The iPhone app remote screen looks like this:
+
+![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
+
+ A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
+
+ Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. TiVo vs Comcast: Recording capacity
+
+ The new TiVo, the Roamio, has as many as six tuners that can record at the same time with up to 150 hours of high definition programming. You’ll never have another scheduling conflict again!
+
+ TiVos have recording capacities that range from 75 to 450 hours, depending on whether it is standard definition or high definition, and which device you are using. You can choose from three models of the Roamio. The base model costs $200 and has 75 hours of capacity. The menu and features are more limited on this one than on the others. There is a middle model priced at $400 that has the same six tuners as the high-end one but can only hold 150 hours of recordings. Then the top tier model costs $600 and has 450 hours of recording capacity, all of it in high definition.
+
+ The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. TiVo vs Comcast: User interface
+
+ The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
+
+![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
+
+ The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
+
+![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+ The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
+
+ Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
+
+![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+ With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
+
+ TiVo’s device remote has a sleek layout called the “peanut”.
+
+![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
+
+**Summary**
+
+ What it all comes down to is looking at how you use your TV, where you get your sources from, and what your budget is. Each device has its own set of things that are appealing, and its own drawbacks. For flexibility of being able to use multiple sources and devices, the TiVo is the clear winner. For cost in the long run, it’s almost a draw. For ease of connection to a TV, the Comcast box comes out on top. No matter which one you pick, you’ll never run out of great programs to watch.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-selecting-the-top-cameras-for-smooth-twitch-broadcasts-for-2024/"><u>[New] Selecting the Top Cameras for Smooth Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-effortless-streams-screening-netflix-on-mac-professionally-for-2024/"><u>[Updated] Effortless Streams  Screening Netflix on Mac Professionally for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-free-ae-design-blueprints/"><u>[Updated] Premium Free AE Design Blueprints</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-must-know-iphone-photography-tips-today-for-2024/"><u>10 Must-Know iPhone Photography Tips Today for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-rings-rhythm-versus-screen-time-symphony/"><u>2024 Approved  The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-price-premium-4tb-samsung-980-pro-nvme-m2-ssd-at-just-007gb-top-rated-for-pcie-gen4/"><u>Best Price: Premium 4TB Samsung 980 PRO NVMe M.2 SSD at Just $0.07/GB - Top-Rated for PCIe Gen4</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-essential-adb-tools-with-minimal-fuss/"><u>Get Essential ADB Tools with Minimal Fuss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-gt-3-easily-by-drfone-android/"><u>How To Unlock a Realme GT 3 Easily?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-android-phones-in-watching-vr-or-360-videos-for-2024/"><u>How to Use Android Phones in Watching VR or 360 Videos for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/insightful-gadget-analysis-by-toms-channel/"><u>Insightful Gadget Analysis by Tom's Channel</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-13-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-lumafusion-or-final-cut-pro-choosing-the-best-video-editing-software-for-you-for-2024/"><u>New LumaFusion or Final Cut Pro Choosing the Best Video Editing Software for You for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-replace-sony-vegas-with-these-top-windows-alternatives-for-2024/"><u>New Replace Sony Vegas with These Top Windows Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-best-free-whiteboard-animation-software-for-windows-mac-and-online-for-2024/"><u>New S Best Free Whiteboard Animation Software for Windows, Mac, and Online for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-5-free-mov-video-rotators-for-2024/"><u>New Top 5 Free MOV Video Rotators for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-transform-your-reaction-video-game-expert-tips-and-techniques-using-filmora/"><u>New Transform Your Reaction Video Game Expert Tips and Techniques Using Filmora</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-editing-face-off-premiere-pro-vs-after-effects-whats-the-best-choice-in-2024/"><u>New Video Editing Face-Off Premiere Pro vs After Effects - Whats the Best Choice, In 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-voice-over-recording-made-easy-fcp-tips-for-beginners-and-pros-for-2024/"><u>New Voice Over Recording Made Easy FCP Tips for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-10-gamer-friendly-pc-configurations-ranging-from-modest-500-sets-to-premium-4kplusplus-systems/"><u>Top 10 Gamer-Friendly PC Configurations : Ranging From Modest $500 Sets to Premium $4K++ Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-10-video-editing-software-options-to-replace-final-cut-pro-x-for-2024/"><u>Top 10 Video Editing Software Options to Replace Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-best-final-cut-pro-x-alternatives-on-windows-and-mac-and-linux-free-and-paid/"><u>Updated 2024 Approved Top Best Final Cut Pro X Alternatives on Windows & Mac & Linux Free & Paid</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-vn-video-editor-for-pc-a-concise-review-and-guide/"><u>Updated 2024 Approved VN Video Editor for PC A Concise Review and Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-discount-alert-4-ways-to-save-big-on-filmora-software-for-2024/"><u>Updated Discount Alert! 4 Ways to Save Big on Filmora Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-add-professional-sound-effects-to-final-cut-pro-without-breaking-the-bank/"><u>Updated In 2024, Add Professional Sound Effects to Final Cut Pro without Breaking the Bank</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-free-mov-video-combining-software-for-windows-and-mac/"><u>Updated In 2024, Best Free MOV Video Combining Software for Windows and Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-pinnacle-studio-not-working-try-these-mac-alternatives-instead/"><u>Updated In 2024, Pinnacle Studio Not Working? Try These Mac Alternatives Instead</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-take-your-video-editing-to-the-next-level-on-mac-with-adobe-premiere-pro/"><u>Updated In 2024, Take Your Video Editing to the Next Level on Mac with Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ranking-the-top-avchd-video-editors/"><u>Updated Ranking the Top AVCHD Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unwanted-sounds-gone-learn-how-to-remove-background-noise-in-fcp/"><u>Updated Unwanted Sounds? Gone! Learn How to Remove Background Noise in FCP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/zero-cost-video-editing-the-best-online-options-for-2024/"><u>Zero-Cost Video Editing The Best Online Options for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
