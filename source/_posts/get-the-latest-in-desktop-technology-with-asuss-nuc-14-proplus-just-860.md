@@ -1,7 +1,7 @@
 ---
 title: Get the Latest in Desktop Technology with Asus's NUC 14 Pro+ - Just $860
-date: 2024-09-04T07:01:52.122Z
-updated: 2024-09-05T07:01:52.122Z
+date: 2024-09-09T02:09:02.706Z
+updated: 2024-09-10T02:09:02.706Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/x8QZcSxhZ3GaEPwj5CyFsb-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Future of Gaming Begins with Asus's Launch: The ROG NUC - AMD Ryzen 9 CPU + RTX nVidia GPU for a Steal at Just $1,629
 
 Asus is launching its first gaming mini-PC with the ROG NUC. This tiny PC weighs just 2.6 kg and comes in a 2.5-liter chassis that measures 270 x 180 x 50mm. Even though it has a diminutive form factor, you won't miss out on performance as it comes with either an Intel Core Ultra 7 155H or a Core Ultra 9 185H. Both models also have a discrete GPU — an RTX 4060 for the Ultra 7 and RTX 4070 for the Ultra 9.
@@ -41,6 +47,12 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -102,10 +114,3 @@ These are the specifications of the two Asus ROG NUC models:
 <li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-10-best-cartoon-animation-apps-for-mobile/"><u>Updated Unleash Your Creativity 10 Best Cartoon Animation Apps for Mobile</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-top-3d-video-makers-you-should-know/"><u>Updated Unleash Your Creativity Top 3D Video Makers You Should Know</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
