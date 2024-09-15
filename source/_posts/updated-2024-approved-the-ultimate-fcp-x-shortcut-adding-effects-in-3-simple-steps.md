@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-09-09T02:09:02.996Z
-updated: 2024-09-10T02:09:02.996Z
+date: 2024-09-13T20:16:10.247Z
+updated: 2024-09-14T17:16:13.265Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -40,12 +34,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ## How to Apply Effects to Video in Final Cut Pro X
@@ -61,12 +49,6 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
@@ -75,12 +57,6 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
@@ -98,22 +74,10 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
@@ -130,12 +94,6 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The effect will be deleted from the selected clip.
 
 #### Extra credit
@@ -154,66 +112,36 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-10-game-changing-techniques-to-amplify-your-facebook-presence/"><u>[New] 2024 Approved  10 Game-Changing Techniques to Amplify Your Facebook Presence</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-immediate-insta-photo-series-viewing-for-2024/"><u>[New] Immediate Insta Photo Series Viewing for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-breaking-down-instagrams-video-cap-limit/"><u>[New] In 2024, Breaking Down Instagram's Video Cap Limit</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-essential-tactics-for-viral-fb-video-marketing/"><u>[New] In 2024, Essential Tactics for Viral FB Video Marketing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-simple-steps-to-stream-facebooks-video-library-on-your-apple-device-for-2024/"><u>[New] Simple Steps to Stream Facebook's Video Library on Your Apple Device for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-uniting-twitter-and-facebook-through-shared-content-for-2024/"><u>[New] Uniting Twitter and Facebook Through Shared Content for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-alternative-solutions-to-game-bar-recording/"><u>[Updated] 2024 Approved  Alternative Solutions to Game Bar Recording</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-calculated-viewing-time-for-a-standard-20mb-film/"><u>[Updated] Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-meme-making-method-unveiling-6-crucial-gif-production-strategies/"><u>2024 Approved  The Meme-Making Method  Unveiling 6 Crucial GIF Production Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-potential-issues-preventing-visual-lookup-from-working-correctly-on-ios-devices/"><u>6 Potential Issues Preventing Visual Lookup From Working Correctly on iOS Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-taste-of-sophistication-exploring-the-skagen-falster-2-as-an-upscale-alternative-to-apples-offerings/"><u>A Taste of Sophistication: Exploring the Skagen Falster 2 as an Upscale Alternative to Apple's Offerings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-windows-8-amd-radeon-hd-video-card-driver-software-downloads-available-now/"><u>FREE Windows 8 AMD Radeon HD Video Card Driver Software Downloads Available Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722966596791-get-your-hp-laserjet-p1006-driver-downloaded-today-step-by-step-tutorial/"><u>Get Your HP LaserJet P1006 Driver Downloaded Today: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-v29e-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo V29e 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-efficient-way-to-broadcast-tiktok-videos-via-facebook/"><u>In 2024, Efficient Way to Broadcast TikTok Videos via Facebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-getting-started-with-seamless-sound-transitions/"><u>In 2024, Getting Started with Seamless Sound Transitions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-need-a-virtualdub-replacement-check-out-these-amazing-options-for-2024/"><u>New Need a VirtualDub Replacement? Check Out These Amazing Options for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-the-best-top-5-online-stop-motion-creators/"><u>New The Best of the Best Top 5 Online Stop Motion Creators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-easy-to-use-neon-text-generators/"><u>New The Ultimate List of Easy-to-Use Neon Text Generators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-free-avi-video-rotation-tools-updated-for-2024/"><u>New Top-Rated Free AVI Video Rotation Tools Updated for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unlock-pro-quality-videos-mastering-gopro-quik-editing-on-macbook/"><u>New Unlock Pro-Quality Videos Mastering GoPro Quik Editing on MacBook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-inactivity-in-asus-hardware-camera/"><u>Overcoming Inactivity in Asus Hardware Camera</u></a></li>
-<li><a href="https://extra-support.techidaily.com/professionals-playbook-merging-srt-captions-into-mp4-for-2024/"><u>Professional's Playbook  Merging SRT Captions Into MP4 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reverting-system-backups-to-standard-configurations/"><u>Reverting System Backups to Standard Configurations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-ultra-strong-microscopic-3d-metal-a-marvel-smaller-than-a-virus/"><u>Revolutionary Ultra-Strong, Microscopic 3D Metal: A Marvel Smaller than a Virus</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-7-best-video-merging-tools-with-no-watermark-limitations-for-2024/"><u>The 7 Best Video Merging Tools with No Watermark Limitations for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-online-video-editors-compatible-with-chromebook-for-2024/"><u>The Best Online Video Editors Compatible with Chromebook for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-camon-20-premier-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Camon 20 Premier 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-essential-tips-for-discarding-unwanted-youtube-files/"><u>The Essential Tips for Discarding Unwanted YouTube Files</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-gt-10-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix GT 10 Pro Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-15-free-video-editing-tools-for-starters-no-experience-needed-for-2024/"><u>Updated 15 Free Video Editing Tools for Starters No Experience Needed for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-video-tagging-software-for-windows-and-macos/"><u>Updated 2024 Approved Best Video Tagging Software for Windows and macOS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fast-forward-your-video-editing-time-lapse-techniques-in-final-cut-pro/"><u>Updated 2024 Approved Fast Forward Your Video Editing Time Lapse Techniques in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-pro-level-results-top-10-free-green-screen-video-editing-apps-for-mobile/"><u>Updated 2024 Approved Get Pro-Level Results Top 10 Free Green Screen Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-free-mov-video-editors-top-10-picks/"><u>Updated 2024 Approved The Ultimate Guide to Free MOV Video Editors Top 10 Picks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-rated-free-wmv-video-editing-software-with-splitting-features/"><u>Updated 2024 Approved Top-Rated Free WMV Video Editing Software with Splitting Features</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-fcpx-crash-fix-expert-solutions-for-a-smooth-editing-experience-for-2024/"><u>Updated FCPX Crash Fix Expert Solutions for a Smooth Editing Experience for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-free-dvd-player-software-for-windows-10-our-top-10-recommendations-for-2024/"><u>Updated Free DVD Player Software for Windows 10 Our Top 10 Recommendations for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-color-harmony-in-powerdirector-a-beginners-guide-to-clip-color-matching/"><u>Updated In 2024, Color Harmony in PowerDirector A Beginners Guide to Clip Color Matching</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-elevate-your-audio-2-fade-infade-out-methods-in-fcp/"><u>Updated In 2024, Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-elevate-your-footage-transform-ordinary-videos-into-extraordinary/"><u>Updated In 2024, Elevate Your Footage Transform Ordinary Videos Into Extraordinary</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-video-stabilizer-roundup-the-best-options/"><u>Updated In 2024, Free Video Stabilizer Roundup The Best Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-record-your-desktop-with-filmora-scrn/"><u>Updated In 2024, How to Record Your Desktop with Filmora Scrn?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-premiere-pro-transitions-expert-approved-plugins-for-stunning-videos/"><u>Updated In 2024, Premiere Pro Transitions Expert-Approved Plugins for Stunning Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-pro-level-video-creation-made-easy-tips-and-tricks-for-stunning-movies/"><u>Updated In 2024, Pro-Level Video Creation Made Easy Tips and Tricks for Stunning Movies</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-stay-active-with-the-best-motion-tracking-apps-on-android-and-ios-for-2024/"><u>Updated Stay Active with the Best Motion Tracking Apps on Android and iOS for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-video-voiceover-software-for-pc-for-2024/"><u>Updated The Ultimate Guide to Video Voiceover Software for PC for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-6-free-mov-video-cutters-for-2024/"><u>Updated Top 6 Free MOV Video Cutters for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-top-10-free-video-editors-for-mp4-files-for-2024/"><u>Updated Unleash Your Creativity Top 10 Free Video Editors for MP4 Files for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-webm-video-shrinking-made-simple-top-online-compressors-for-2024/"><u>Updated WebM Video Shrinking Made Simple Top Online Compressors for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-is-vk-10-facts-on-russias-internet-culture-hub/"><u>What Is VK?: 10 Facts on Russia’s Internet Culture Hub</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quickcapture-pro-efficient-win11-video-recorder/"><u>[Updated] 2024 Approved QuickCapture Pro - Efficient Win11 Video Recorder</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-delivery-to-discovery-enhancing-initial-encounters/"><u>[Updated] From Delivery to Discovery Enhancing Initial Encounters</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-whatsapp-video-transfers-from-tweeted-content-for-2024/"><u>[Updated] WhatsApp Video Transfers From Tweeted Content for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/directwave-software-unified-console-controls-win11xone/"><u>DirectWave Software: Unified Console Controls, Win11/Xone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhancing-video-aesthetics-incorporating-lc-and-bb-in-facebook-posts/"><u>Enhancing Video Aesthetics Incorporating LC and BB in Facebook Posts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-f5-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco F5 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-video-editing-splitting-videos-in-windows-live-movie-maker/"><u>New The Ultimate Guide to Video Editing Splitting Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-free-security-camera-software/"><u>New The Ultimate List of Free Security Camera Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-5-best-mp4-video-editors-totally-free-for-2024/"><u>New Top 5 Best MP4 Video Editors Totally Free for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/reawakening-dormant-connections-with-your-obs-cam/"><u>Reawakening Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-videopad-video-editor-features-pros-and-cons-for-2024/"><u>The Ultimate Guide to Videopad Video Editor Features, Pros, and Cons for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-erase-identity-concerns-best-video-editors-for-face-anonymization/"><u>Updated In 2024, Erase Identity Concerns Best Video Editors for Face Anonymization</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-creativity-top-10-must-have-plugins-for-final-cut-pro-x-users/"><u>Updated In 2024, Unleash Creativity Top 10 Must-Have Plugins for Final Cut Pro X Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-time-lapse-photography-made-easy-top-apps-for-iphone-and-android/"><u>Updated Time-Lapse Photography Made Easy Top Apps for iPhone and Android</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

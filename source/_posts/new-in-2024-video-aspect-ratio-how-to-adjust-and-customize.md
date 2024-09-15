@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2024-09-09T02:09:03.926Z
-updated: 2024-09-10T02:09:03.926Z
+date: 2024-09-13T02:16:58.139Z
+updated: 2024-09-14T22:33:07.273Z
 tags: 
   - video editing software
   - video editing
@@ -14,24 +14,12 @@ keywords: change your videos aspect ratio in just a few clicks,how to resize you
 thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Video Aspect Ratio: How to Adjust and Customize
 
 # How to Change Shape of a Video?
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -46,12 +34,6 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -72,18 +54,6 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
@@ -108,12 +78,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -122,12 +86,6 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
 Although the basic concept of both types of masking is same, the options available under each can be used to produce effective outputs.
@@ -184,67 +142,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capture-the-action-easy-steps-for-overwatch-players/"><u>[New] 2024 Approved  Capture the Action  Easy Steps for Overwatch Players</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-vlogventures-in-cosmetics-how-to-create-your-fashion-forward-channel/"><u>[New] 2024 Approved  Vlogventures in Cosmetics  How to Create Your Fashion-Forward Channel</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-from-views-to-valuables-the-ultimate-video-income-play/"><u>[New] In 2024, From Views to Valuables  The Ultimate Video Income Play</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-revolutionize-your-virtual-engagements-with-advanced-google-meet-customization-for-2024/"><u>[New] Revolutionize Your Virtual Engagements with Advanced Google Meet Customization for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-drone-racings-secrets-and-surpassing-fpv-drones/"><u>[New] Unveiling Drone Racing's Secrets & Surpassing FPV Drones</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-exquisite-top-ten-nintendo-switch-combat-games-max-156/"><u>[Updated] In 2024, Exquisite Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-reinstate-lost-watch-icon-on-facebook-platform-for-2024/"><u>[Updated] Reinstate Lost Watch Icon on Facebook Platform for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unlock-professional-vimeo-edits-without-paid-software/"><u>[Updated] Unlock Professional Vimeo Edits Without Paid Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/20-freepaid-luts-for-dji-mini-2air-2s-drone/"><u>20 Free/Paid LUTS for DJI Mini 2/Air 2S Drone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-impressive-hdr-photography-for-portraits/"><u>2024 Approved  Unveiling Impressive HDR Photography for Portraits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/conquering-screen-display-challenges-with-google-meet-for-2024/"><u>Conquering Screen Display Challenges with Google Meet for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/crescendo-to-calmness-premier-asmr-artists/"><u>Crescendo to Calmness  Premier ASMR Artists</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/elevate-your-gaming-experience-with-nzxt-premium-configurations-core-i7-plus-rtx-4070-ti-for-only-169-monthly/"><u>Elevate Your Gaming Experience with NZXT - Premium Configurations: Core I7 + RTX 4070 Ti for Only $169 Monthly!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/halting-the-incessant-flicker-effective-ways-to-fix-a-flashing-pointer/"><u>Halting the Incessant Flicker: Effective Ways to Fix a Flashing Pointer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-gecata-game-recorder-review/"><u>In 2024, Gecata Game Recorder Review</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-gpu-drivers-for-lenovo-legion-5-pro-model-16ach6h-get-them-here/"><u>Latest GPU Drivers for Lenovo Legion 5 Pro, Model 16ACH6H - Get Them Here</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-rated-avi-file-combiners-10-free-solutions-for-you/"><u>New In 2024, Top-Rated AVI File Combiners 10 Free Solutions for You</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-video-voiceover-software-for-pc-the-top-6-contenders/"><u>New In 2024, Video Voiceover Software for PC The Top 6 Contenders</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-looking-for-subtitle-edit-alternative-on-mac-here-are-your-options-for-2024/"><u>New Looking for Subtitle Edit Alternative on Mac? Here Are Your Options for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-make-unforgettable-video-invites-with-these-mobile-apps/"><u>New Make Unforgettable Video Invites with These Mobile Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-mp4-to-mp3-conversion-on-mobile-the-best-apps-and-tools/"><u>New MP4 to MP3 Conversion on Mobile The Best Apps and Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-10-free-video-compression-software-for-windows-10-users-for-2024/"><u>New Top 10 Free Video Compression Software for Windows 10 Users for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-transform-your-footage-a-cinematic-color-grading-guide-for-fcpx-for-2024/"><u>New Transform Your Footage A Cinematic Color Grading Guide for FCPX for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-chaos-top-glitch-art-video-editing-apps-for-mobile-for-2024/"><u>New Unleash the Chaos Top Glitch Art Video Editing Apps for Mobile for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unlock-efficiency-top-adobe-premiere-shortcuts-for-faster-editing-for-2024/"><u>New Unlock Efficiency Top Adobe Premiere Shortcuts for Faster Editing for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-using-compressor-in-fcpx-tips-tricks-and-best-practices-for-2024/"><u>New Using Compressor in FCPX Tips, Tricks, and Best Practices for 2024</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-14-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from 14</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-free-online-glitch-effect-creators-for-2024/"><u>The Ultimate Guide to Free Online Glitch Effect Creators for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-tecno-camon-30-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Tecno Camon 30 Pro 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-5-best-free-divx-video-cutters-for-2024/"><u>Top 5 Best Free Divx Video Cutters for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-tips-acquiring-high-quality-backdrop-visuals-for-2024/"><u>Top Tips  Acquiring High-Quality Backdrop Visuals for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-rated-cartoon-video-creators-for-android-iphone-and-ipad-for-2024/"><u>Top-Rated Cartoon Video Creators for Android, iPhone, and iPad for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-enhanced-features-with-the-chatgpt-desktop-app-vs-website/"><u>Unlocking Enhanced Features with the ChatGPT Desktop App Vs. Website</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-best-online-platforms-to-convert-images-to-videos/"><u>Updated 2024 Approved 10 Best Online Platforms to Convert Images to Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-and-fantastic-top-mpeg-video-splitter-tools/"><u>Updated 2024 Approved Free and Fantastic Top MPEG Video Splitter Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-of-both-worlds-online-and-offline-glitch-video-editors-compared/"><u>Updated 2024 Approved The Best of Both Worlds Online and Offline Glitch Video Editors Compared</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-best-web-based-online-vertical-video-editors-for-2024/"><u>Updated Best Web-Based Online Vertical Video Editors for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-cartoonize-your-photos-in-seconds-for-2024/"><u>Updated Cartoonize Your Photos in Seconds for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-cut-your-mp4-videos-for-free-top-software-recommendations-for-2024/"><u>Updated Cut Your MP4 Videos for Free Top Software Recommendations for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-imovie-for-windows-10-try-these-free-and-paid-alternatives-instead-for-2024/"><u>Updated IMovie for Windows 10? Try These Free and Paid Alternatives Instead for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-create-music-for-free-top-11-daws-for-beginners-and-pros/"><u>Updated In 2024, Create Music for Free Top 11 DAWs for Beginners and Pros</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-final-cut-pro-project-backup-a-beginners-guide-to-securing-your-work/"><u>Updated In 2024, Final Cut Pro Project Backup A Beginners Guide to Securing Your Work</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-kindly-follow-me-through-the-different-options-that-you-have-on-how-you-can-capture-and-share-your-ps4-screenshots/"><u>Updated In 2024, Kindly Follow Me Through the Different Options that You Have on How You Can Capture and Share Your PS4 Screenshots</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-video-editing-without-limits-how-to-use-windows-and-mac-apps-on-your-chromebook/"><u>Updated In 2024, Video Editing Without Limits How to Use Windows and Mac Apps on Your Chromebook</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-canon-footage-a-step-by-step-video-editing-guide-for-2024/"><u>Updated Mastering Canon Footage A Step-by-Step Video Editing Guide for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-s-hottest-adobe-premiere-title-templates-free-download/"><u>Updated S Hottest Adobe Premiere Title Templates - Free Download</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-of-the-best-movie-trailer-creation-software-for-mac-and-pc/"><u>Updated The Best of the Best Movie Trailer Creation Software for Mac and PC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-bokeh-experience-top-apps-for-iphone-and-android-users-for-2024/"><u>Updated The Ultimate Bokeh Experience Top Apps for iPhone and Android Users for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-dvd-conversion-guide-from-disc-to-digital-for-2024/"><u>Updated The Ultimate DVD Conversion Guide From Disc to Digital for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-free-3gp-video-rotation-top-5-choices/"><u>Updated The Ultimate Guide to Free 3GP Video Rotation Top 5 Choices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-virtualdub-review-pros-and-cons/"><u>Updated The Ultimate Guide to Virtualdub Review, Pros, and Cons</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-5-best-free-mpeg-video-splitters-for-2024/"><u>Updated Top 5 Best Free MPEG Video Splitters for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-rhythmic-revelations-songs-that-will-echo-yes/"><u>[New] Rhythmic Revelations Songs That Will Echo 'Yes'</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-most-reliable-grid-creation-tools-countdown-to-top-ten/"><u>2024 Approved Instagram's Most Reliable Grid Creation Tools, Countdown to Top Ten</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-the-correct-broadcom-bluetooth-drivers-for-your-windows-os/"><u>Find and Download the Correct Broadcom Bluetooth Drivers for Your Windows OS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-use-funimate-video-downloader/"><u>How to Use Funimate Video Downloader</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-silence-a-guide-to-enable-spatial-audio-on-microsofts-latest-os-versions/"><u>Overcoming the Silence: A Guide to Enable Spatial Audio on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-device-to-tv-how-to-cast-local-videos-to-chromecast-on-any-platform/"><u>Updated 2024 Approved From Device to TV How to Cast Local Videos to Chromecast on Any Platform</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-gif-accelerators-online-and-mobile-solutions/"><u>Updated 2024 Approved Top GIF Accelerators Online and Mobile Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-10-best-free-avi-concatenators-for-seamless-video-editing/"><u>Updated The 10 Best Free AVI Concatenators for Seamless Video Editing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

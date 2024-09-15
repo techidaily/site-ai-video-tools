@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCP 2023 The Ultimate Guide to Editing and Mixing Audio
-date: 2024-09-09T02:09:04.107Z
-updated: 2024-09-10T02:09:04.107Z
+date: 2024-09-09T18:03:35.792Z
+updated: 2024-09-15T05:52:31.864Z
 tags: 
   - video editing software
   - video editing
@@ -14,24 +14,12 @@ keywords: fcp 2023 the ultimate guide to editing and mixing audio,the ultimate f
 thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FCP 2023: The Ultimate Guide to Editing and Mixing Audio
 
 # How to Edit Audio of a Video on FCP
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -48,18 +36,6 @@ Those of you reading this article as a guide to audio editing of videos on Final
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to edit audio on FCP
 
 There are 2 ways of editing audio of videos on FCP-clip-level audio editing and advanced audio editing.
@@ -70,12 +46,6 @@ While dragging the audio or video clip onto the timeline you have surely seen th
 
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
@@ -90,12 +60,6 @@ The audio of the video can be detached for editing the audio file separately. Th
 
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
@@ -113,18 +77,6 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
 
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
@@ -141,61 +93,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-windowsnap-tool-for-straightforward-recording/"><u>[New] WindowSnap Tool for Straightforward Recording</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-incorporating-natural-language-processing-siri-into-your-tiktok-strategy/"><u>[Updated] In 2024, Incorporating Natural Language Processing (Siri) Into Your TikTok Strategy</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-pic-tastic-top-20-ideas-to-energize-your-feed/"><u>2024 Approved  Pic-Tastic! Top 20 Ideas to Energize Your Feed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-top-quality-hd-screen-capture-tools/"><u>2024 Approved  Ultimate Top-Quality HD Screen Capture Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/direct-digital-delivery-streamlined-steps-for-files/"><u>Direct Digital Delivery  Streamlined Steps for Files</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v27-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V27 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-11r-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus 11R in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-video-management-made-simple-select-the-best-firefox-tools-and-extensions/"><u>In 2024, Facebook Video Management Made Simple  Select the Best Firefox Tools & Extensions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-x100-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo X100 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-incorporating-side-content-a-filmmakers-guide/"><u>In 2024, Incorporating Side Content  A Filmmaker's Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-overcoming-gopro-distorted-images-a-guide/"><u>In 2024, Overcoming GoPro Distorted Images  A Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-secret-sauce-for-clearer-more-informative-youtube-videos/"><u>In 2024, The Secret Sauce for Clearer, More Informative YouTube Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-videos-into-stunning-live-photos-with-these-top-apps/"><u>New In 2024, Transform Videos Into Stunning Live Photos with These Top Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlock-free-video-blurring-tools-your-go-to-resource/"><u>New In 2024, Unlock Free Video Blurring Tools Your Go-To Resource</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-quicktime-player-hacks-speed-up-your-video-watching-experience-for-2024/"><u>New QuickTime Player Hacks Speed Up Your Video Watching Experience for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-replace-sony-vegas-with-these-top-windows-alternatives/"><u>New Replace Sony Vegas with These Top Windows Alternatives</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-slow-down-or-freeze-time-expert-fcpx-editing-techniques/"><u>New Slow Down or Freeze Time Expert FCPX Editing Techniques</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-stop-motion-mastery-on-instagram-from-basics-to-pro/"><u>New Stop Motion Mastery on Instagram From Basics to Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-take-your-mobile-photography-to-the-next-level-best-time-lapse-apps-for-2024/"><u>New Take Your Mobile Photography to the Next Level Best Time-Lapse Apps for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unlock-fcp-x-pro-level-green-screen-editing-techniques-for-2024/"><u>New Unlock FCP X Pro-Level Green Screen Editing Techniques for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/one-key-to-close-clustered-applications-windows-edition/"><u>One Key to Close Clustered Applications: Windows Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-signatures-for-ott-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for .ott file</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/play-together-mastering-the-art-of-sharing-games-on-sonys-next-gen-console/"><u>Play Together: Mastering the Art of Sharing Games on Sony's Next-Gen Console</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/record-like-a-boss-final-cut-pro-voice-over-hacks-for-2024/"><u>Record Like a Boss Final Cut Pro Voice Over Hacks for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/say-cheese-top-apps-to-convert-your-photos-into-cartoons-for-2024/"><u>Say Cheese! Top Apps to Convert Your Photos Into Cartoons for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-free-mov-video-rotator-tools-for-2024/"><u>The Best Free MOV Video Rotator Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-comprehensive-guide-to-using-viva-video-for-2024/"><u>The Comprehensive Guide to Using Viva Video for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-picking-drones-balance-equipment/"><u>The Ultimate Guide to Picking Drones' Balance Equipment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722872129344-the-ultimate-guide-to-powerful-instagram-hashtags-in-year/"><u>The Ultimate Guide to Powerful Instagram Hashtags in [Year]</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-photo-video-maker-tips-and-tricks-for-2024/"><u>The Ultimate Photo Video Maker Tips and Tricks for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-mp4-metadata-editors-for-video-enthusiasts-for-2024/"><u>Top MP4 Metadata Editors for Video Enthusiasts for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-3dr-a-personal-perspective-on-printing-alone/"><u>Unveiling '3DR'  A Personal Perspective on Printing Alone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-if-you-are-a-fan-of-electronic-noise-and-other-experimental-genres-of-music-that-emerged-in-the-early-and-mid-1990s-then-you-probably-/"><u>Updated 2024 Approved If You Are a Fan of Electronic, Noise and Other Experimental Genres of Music that Emerged in the Early and Mid-1990s, Then You Probably Already Know What Glitch Art Is. If You Would Like to Create Gli</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mobile-animation-made-easy-best-free-3d-apps-for-android-and-ios/"><u>Updated 2024 Approved Mobile Animation Made Easy Best Free 3D Apps for Android and iOS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-move-smart-top-motion-tracking-apps-for-android-and-iphone/"><u>Updated 2024 Approved Move Smart Top Motion Tracking Apps for Android and iPhone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-10-animated-text-tools-you-need-to-try/"><u>Updated 2024 Approved Top 10 Animated Text Tools You Need to Try</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-virtualdub-for-mac/"><u>Updated 2024 Approved VirtualDub for Mac</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-windows-10-webcam-recording-made-easy-top-10-software/"><u>Updated 2024 Approved Windows 10 Webcam Recording Made Easy Top 10 Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-easy-video-flip-a-beginners-guide-to-rotating-footage/"><u>Updated In 2024, Easy Video Flip A Beginners Guide to Rotating Footage</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcp-in-the-spotlight-10-big-budget-movies-that-trusted-this-editing-tool/"><u>Updated In 2024, FCP in the Spotlight 10 Big-Budget Movies That Trusted This Editing Tool</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-your-creativity-top-video-animation-apps-for-android-ios-and-ipados/"><u>Updated In 2024, Unleash Your Creativity Top Video Animation Apps for Android, iOS, and iPadOS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-webm-to-mp3-expert-recommended-conversion-solutions/"><u>Updated In 2024, WebM to MP3 Expert-Recommended Conversion Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-subtitle-edit-mac-alternative-find-your-new-go-to-subtitle-editor-for-2024/"><u>Updated Subtitle Edit Mac Alternative Find Your New Go-To Subtitle Editor for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-converting-webm-to-mp4-10-best-options-for-2024/"><u>Updated The Ultimate Guide to Converting WebM to MP4 10 Best Options for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-bokeh-blur-apps-for-mobile-photography/"><u>Updated Top Bokeh Blur Apps for Mobile Photography</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-fcp-xs-power-adding-effects-in-just-3-steps-for-2024/"><u>Updated Unlock FCP Xs Power Adding Effects in Just 3 Steps for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo T2x 5G | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-exploring-new-realms-of-thought-30plus-vr-metaphysical-messages-for-2024/"><u>[New] Exploring New Realms of Thought 30+ VR Metaphysical Messages for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-real-time-storytelling-on-the-rise-navigating-and-thriving-in-a-social-media-world/"><u>[New] In 2024, Real-Time Storytelling on the Rise Navigating and Thriving in a Social Media World</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-mobile-and-professional-cameras-producing-igtv-excellence/"><u>[Updated] 2024 Approved Mastering Mobile and Professional Cameras Producing IGTV Excellence</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-saving-your-social-moments-facebook-video-guide/"><u>2024 Approved Saving Your Social Moments Facebook Video Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-se-2022-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone SE (2022) You Should Try Out</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/likes-and-videos-fast-track-to-insta-dominance-guide/"><u>Likes & Videos Fast Track to Insta Dominance Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-time-lapse-software-how-to-create-time-lapse-video-2-methods-for-2024/"><u>New Time Lapse Software How to Create Time Lapse Video 2 Methods for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-f25-pro-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo F25 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-12-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 12 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-crack-the-code-7-effective-ways-to-find-filmora-coupons/"><u>Updated 2024 Approved Crack the Code 7 Effective Ways to Find Filmora Coupons</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-free-movie-making-magic-top-16-picks-for-2024/"><u>Updated Free Movie Making Magic Top 16 Picks for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-cross-platform-video-editing-run-windows-and-mac-apps-on-chromebook/"><u>Updated In 2024, Unlock Cross-Platform Video Editing Run Windows & Mac Apps on Chromebook</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-premiere-rush-too-expensive-4-affordable-alternatives-for-2024/"><u>Updated Premiere Rush Too Expensive? 4 Affordable Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-trim-and-cut-mkv-files-like-a-pro-top-10-free-tools/"><u>Updated Trim and Cut MKV Files Like a Pro Top 10 Free Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/video-editing-on-the-go-top-5-iphone-apps-for-2024/"><u>Video Editing on the Go Top 5 iPhone Apps for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videography-virtuoso-glowing-reviews-cited/"><u>Videography Virtuoso - Glowing Reviews Cited</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
