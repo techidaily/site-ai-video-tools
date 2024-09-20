@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-09-08T18:16:40.393Z
-updated: 2024-09-14T16:31:41.507Z
+date: 2024-09-16T00:35:29.633Z
+updated: 2024-09-20T03:59:23.966Z
 tags: 
   - video editing software
   - video editing
@@ -146,10 +146,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -161,16 +161,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -188,20 +182,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-sj7-elevates-action-cinematography-in-depth-review-of-its-star-4k-camera/"><u>[Updated] 2024 Approved SJ7 Elevates Action Cinematography In Depth Review of Its Star 4K Camera</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-steps-for-successful-extraction-of-fb-content/"><u>[Updated] 2024 Approved Steps for Successful Extraction of FB Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions-for-2024/"><u>[Updated] How to Sculpt Perfect Images on YouTube with Right Dimensions for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-is-investing-in-a-monthly-youtube-premium-worthwhile/"><u>2024 Approved Is Investing in a Monthly YouTube Premium Worthwhile?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebooks-vanished-video-suggestions-explained/"><u>Facebook's Vanished Video Suggestions Explained</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-huawei-nova-y71-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Huawei Nova Y71</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-recover-my-eyes-only-pictures-on-snapchat/"><u>In 2024, How To Recover My Eyes Only Pictures On Snapchat</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-rotate-your-videos-with-ease-10-top-online-tools-for-2024/"><u>New Rotate Your Videos with Ease 10 Top Online Tools for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unlock-flv-video-editing-on-windows-8-a-beginners-guide-for-2024/"><u>New Unlock FLV Video Editing on Windows 8 A Beginners Guide for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/photo-edits-skewed-caption-creation/"><u>Photo Edits Skewed Caption Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-edits-bottom-line-pro-guide-to-tiktok-creativity-for-2024/"><u>Top Edits, Bottom Line Pro Guide to TikTok Creativity for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/unleash-pro-level-video-editing-with-64-bit-software-for-2024/"><u>Unleash Pro-Level Video Editing with 64-Bit Software for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-convert-image-to-cartoon-style-for-2024/"><u>Updated Convert Image to Cartoon Style for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-elevate-your-storytelling-advanced-video-editing-techniques-in-windows-movie-maker/"><u>Updated In 2024, Elevate Your Storytelling Advanced Video Editing Techniques in Windows Movie Maker</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-ranking-the-top-hand-drawn-whiteboard-animation-software-for-2024/"><u>Updated Ranking the Top Hand-Drawn Whiteboard Animation Software for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-transform-your-imagery-with-ar-and-accessible-luts/"><u>[New] 2024 Approved Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-capacity-sd-card-for-sony-a7s-series/"><u>[New] High-Capacity SD Card for Sony A7S Series</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>[New] In 2024, Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-eyesharp-record-chromeos-native-cam/"><u>[New] In 2024, EyeSharp Record ChromeOS Native Cam</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/1721456341342-cant-take-full-page-screenshots-with-safari-discover-easy-fixes-today/"><u>Can't Take Full-Page Screenshots With Safari? Discover Easy Fixes Today!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fast-lan-and-wireless-speeds-meet-gaming-perks-in-our-in-depth-look-at-the-asus-rog-rapture-gt-ax11000/"><u>Fast LAN and Wireless Speeds Meet Gaming Perks in Our In-Depth Look at the Asus ROG Rapture GT-AX11000</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-document-your-nintendo-switch-adventures-for-2024/"><u>How to Document Your Nintendo Switch Adventures for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-redmi-13c-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Redmi 13C 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mastering-wax-a-step-by-step-guide-to-free-video-editing-for-2024/"><u>New Mastering Wax A Step-by-Step Guide to Free Video Editing for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-pro-level-video-editing-l-cuts-and-j-cuts-in-final-cut-pro-x-for-2024/"><u>New Pro-Level Video Editing L-Cuts and J-Cuts in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-mobile-video-editors-for-portrait-mode-creators-for-2024/"><u>Updated Top Mobile Video Editors for Portrait Mode Creators for 2024</u></a></li>
 </ul></div>
 

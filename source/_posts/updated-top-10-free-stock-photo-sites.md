@@ -1,7 +1,7 @@
 ---
 title: Updated Top 10 Free Stock Photo Sites
-date: 2024-08-27T02:52:18.338Z
-updated: 2024-08-28T02:52:18.338Z
+date: 2024-09-18T04:15:42.279Z
+updated: 2024-09-20T05:06:56.967Z
 tags: 
   - video editing software
   - video editing
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
  A simple google search will reveal hundreds of websites that let you download public domain and royalty-free images. Which source you’re going to use depends on the type of image you’re looking for, since some websites are dedicated only to photography, while others feature impressive collections of public domain images of artworks. In addition, you’ll only want to download public domain images from the websites that offer information about the author because using a public domain image without crediting its author is strictly prohibited.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Best Websites for Downloading Public Domain Images
 
  We’ve searched the Internet and we utilized our results to compile a collection of the most reliable websites that grant its users access to vast numbers of public domain images. Let’s take a look at some of the best websites that let you download public domain images.
@@ -69,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
 ![Public Domain Images from Plxabay ](https://images.wondershare.com/filmora/article-images/plxabay-public-domain.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Besides offering an impressive collection of royalty-free photos, Pixabay also lets you search for public domain vectors, illustrations, and videos. The website hosts more than a million high-resolution photos and videos you can download for free. To make things even better, becoming a member of the Pixabay’s community and creating an account on this platform won’t take more than a few minutes of your time. Pixabay also offers advanced search tools that enable you to combine searches, search for the author of an image or group search terms. In addition, you can also browse through the photographers that contribute their images to the platform on a regular basis.
 
 **Pros:**
@@ -123,9 +113,6 @@ No advertising on the website.
 
 ![Unsplash public domain image  ](https://images.wondershare.com/filmora/article-images/unsplash-public-domain-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With a library that contains over 800,000 photos, Unsplash is easily one of the largest websites that offer public domain images. All pictures on this platform are organized into different categories, which makes finding a photo you want to use in a commercial or non-commercial project a relatively simple process. Alternatively, you can insert a keyword into a search bar and Unsplash will show you the results within seconds. However, the images you can find on this platform are similar to those you can purchase on stock photography websites, although some of them have an artistic touch that is hard to find on the majority of stock photos.
 
 **Pros:**
@@ -154,9 +141,6 @@ No advertising on the website.
 
 ![Morguefile public domain image  ](https://images.wondershare.com/filmora/article-images/morguefile-public-domain-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Morguefile is a website that offers stock footage to its users, but some of the images can’t be downloaded for free. That’s why you must click on the Free Photos tab before you start searching for public domain images on this website. The website hosts nearly 400.000 photos, videos, and vector graphics, but you must make sure that a file you want to download is within the public domain before you download it. The only downside is that the images aren’t organized into categories which can make finding the images you’re searching for more difficult than it needs to be.
 
 **Pros:**
@@ -187,9 +171,6 @@ No advertising on the website.
 
 ![NYPL Digital Gallery  ](https://images.wondershare.com/filmora/article-images/digitalcollections.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  NYPL Digital Gallery is an excellent resource for anyone who is not interested in stock photography. The New Your Public Library has made hundreds of thousands of historical images available to the public and you can use it to browse through items, collections or divisions. Before you enter a keyword you should click on the search only public domain materials tick box to ensure that the search results are going to display only images that can be used without restrictions. Additionally, the NYPL Digital Gallery lets you browse through its collection of digital books while its collections of photographs include the work of some of the highly esteemed American photographers.
 
 **Pros**
@@ -218,6 +199,13 @@ No advertising on the website.
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -238,59 +226,17 @@ No advertising on the website.
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-essential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators/"><u>[New] In 2024, Essential Guide  The Top 10 Inexpensive YouTube Channels for Visual Creators</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-innovative-photography-adding-stylish-borders-to-instagram-pics-for-2024/"><u>[New] Innovative Photography  Adding Stylish Borders to Instagram Pics for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-proving-the-top-5-mac-clipping-software/"><u>[New] Proving the Top 5 Mac Clipping Software</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ephemeral-era-of-fb-video/"><u>[Updated] 2024 Approved  The Ephemeral Era of FB Video</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premium-virtual-playstation-simulators-for-modern-computers/"><u>[Updated] In 2024, Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-intellectual-edge-trivia-challenges-2024/"><u>[Updated] Intellectual Edge Trivia Challenges 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-hook-up-guide-scripts-to-seduce-listeners/"><u>[Updated] The Hook-Up Guide  Scripts to Seduce Listeners</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-list-elite-quality-4k-displays/"><u>2024 Approved  TOP 10 List  Elite Quality 4K Displays</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-transform-your-content-to-stardom-studio-guide/"><u>2024 Approved  Transform Your Content to Stardom  Studio Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cloud-storage-pricing-comparison-and-best-price-recommendations-for-2024/"><u>Cloud Storage Pricing Comparison and Best Price Recommendations for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/compact-but-capable-a-comprehensive-apple-ipad-mini-5-assessment/"><u>Compact but Capable - A Comprehensive Apple iPad Mini 5 Assessment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-itel-p55plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Itel P55+ Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-upcoming-google-pixel-10-predictions-for-cost-availability-and-cutting-edge-features/"><u>Inside Scoop on Upcoming Google Pixel 10: Predictions for Cost, Availability & Cutting-Edge Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/keep-your-duo-cpus-chill-with-silverstones-innovative-new-xe3e360-dual-all-in-one-liquid-cooler/"><u>Keep Your Duo CPUs Chill with SilverStone's Innovative New XE3e360-Dual All-in-One Liquid Cooler</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-trim-and-cut-avi-files-like-a-pro-top-tools-for-every-platform-windows-mac-android-iphone-online/"><u>New In 2024, Trim and Cut AVI Files Like a Pro Top Tools for Every Platform Windows, MAC, Android, iPhone, Online</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-trim-avi-videos-like-a-pro-top-tools-for-every-platform/"><u>New In 2024, Trim AVI Videos Like a Pro Top Tools for Every Platform</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-this-article-youll-get-to-know-the-best-free-online-video-editors-without-a-watermark-to-create-and-edit-videos-that-attract-thousands-of-views-for-2/"><u>New In This Article, Youll Get to Know the Best Free Online Video Editors without a Watermark to Create and Edit Videos that Attract Thousands of Views for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-record-like-a-pro-top-webcam-software-for-windows-10/"><u>New Record Like a Pro Top Webcam Software for Windows 10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-video-invitation-makers-for-smartphone-users/"><u>New The Ultimate List of Video Invitation Makers for Smartphone Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-vllo-for-mac-download-guide-and-alternatives-for-2024/"><u>New VLLO for Mac Download Guide and Alternatives for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/premiere-elements-alternatives-top-10-video-editors-to-consider-for-2024/"><u>Premiere Elements Alternatives Top 10 Video Editors to Consider for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-ranked-photo-restoration-app/"><u>Top-Ranked Photo Restoration App</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-rated-avi-file-combiners-10-free-solutions-for-you-for-2024/"><u>Top-Rated AVI File Combiners 10 Free Solutions for You for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-mp4-files-on-mac-the-ultimate-mavericks-solution/"><u>Updated 2024 Approved Edit MP4 Files on Mac The Ultimate Mavericks Solution</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-filmora-for-free-no-cost-no-virus-no-hassle/"><u>Updated 2024 Approved Get Filmora for Free No Cost, No Virus, No Hassle</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-lego-stop-motion-channels-to-follow/"><u>Updated 2024 Approved The Best Lego Stop Motion Channels to Follow</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-video-resumes-best-makers-and-templates/"><u>Updated 2024 Approved The Ultimate Guide to Video Resumes Best Makers and Templates</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-rated-free-whiteboard-animation-software-for-pc/"><u>Updated 2024 Approved Top-Rated Free Whiteboard Animation Software for PC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-the-power-of-video-metadata-on-mac-8-editor-recommendations/"><u>Updated 2024 Approved Unleash the Power of Video Metadata on Mac 8 Editor Recommendations</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-avi-video-rotation-made-easy-top-free-software-for-2024/"><u>Updated AVI Video Rotation Made Easy Top Free Software for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-elevate-your-edit-5-advanced-final-cut-pro-techniques-to-try-now-for-2024/"><u>Updated Elevate Your Edit 5 Advanced Final Cut Pro Techniques to Try Now for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-a-step-by-step-guide-to-video-editing-with-quicktime-on-mac/"><u>Updated In 2024, A Step-by-Step Guide to Video Editing with QuickTime on Mac</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-6-video-dubbing-software-for-pc/"><u>Updated In 2024, Best 6 Video Dubbing Software for PC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-lets-see-how-you-can-run-windows-and-mac-os-video-editing-apps-such-as-filmora-final-cut-pro-imovie-sony-vegas-pro-or-any-other-powerful-vid/"><u>Updated In 2024, Lets See How You Can Run Windows and Mac OS Video Editing Apps, Such as Filmora, Final Cut Pro, iMovie, Sony Vegas Pro or Any Other Powerful Video Editing Software From Your Chromebook</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-of-both-worlds-vn-video-editor-for-mac-and-its-alternatives/"><u>Updated In 2024, The Best of Both Worlds VN Video Editor for Mac and Its Alternatives</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-stunning-videos-top-3-4k8k-video-editing-tools/"><u>Updated In 2024, Unleash Stunning Videos Top 3 4K/8K Video Editing Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unraveling-the-mystery-how-premiere-and-after-effects-differ-in-video-production/"><u>Updated In 2024, Unraveling the Mystery How Premiere and After Effects Differ in Video Production</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-movie-magic-for-minis-teach-your-child-to-create-their-own-films/"><u>Updated Movie Magic for Minis Teach Your Child to Create Their Own Films</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-premiere-rush-vs-the-competition-top-4-rivals-for-2024/"><u>Updated Premiere Rush vs The Competition Top 4 Rivals for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-smooth-operator-a-plugin-free-guide-to-skin-retouching-in-fcpx-for-2024/"><u>Updated Smooth Operator A Plugin-Free Guide to Skin Retouching in FCPX for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/video-editing-showdown-virtualdub-vs-the-competition-for-2024/"><u>Video Editing Showdown Virtualdub vs The Competition for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -298,3 +244,22 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unveiling-the-best-no-money-video-editor-picks/"><u>[Updated] In 2024, Unveiling the Best No-Money Video Editor Picks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-quick-start-guide-dells-simple-screen-recording-methods-for-2024/"><u>[Updated] Quick Start Guide Dell's Simple Screen Recording Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-years-most-memorable-youtube-music-dance-clips/"><u>[Updated] The Year's Most Memorable YouTube Music Dance Clips</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-and-easy-hp-officejet-pro-8715-driver-download-for-windows-operating-systems-win10-win11-win8/"><u>Free and Easy: HP Officejet Pro 8715 Driver Download for Windows Operating Systems (Win10, Win11, Win8)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-a54-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-screen-capture-contenders-a-comprehensive-review/"><u>In 2024, Top Screen Capture Contenders A Comprehensive Review</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70e-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70E Phone FRP Lock</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-video-editing-on-the-go-top-5-iphone-apps/"><u>New In 2024, Video Editing on the Go Top 5 iPhone Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/shaky-footage-no-problem-fcpx-stabilization-techniques-for-2024/"><u>Shaky Footage? No Problem! FCPX Stabilization Techniques for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-video-accessibility-adding-subtitles-and-captions/"><u>Updated In 2024, FCPX Video Accessibility Adding Subtitles and Captions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-flip-your-footage-easy-final-cut-pro-tutorial/"><u>Updated In 2024, Flip Your Footage Easy Final Cut Pro Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-shaky-footage-no-problem-fcpx-video-stabilization-tips-for-2024/"><u>Updated Shaky Footage? No Problem! FCPX Video Stabilization Tips for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-efficient-editing-20-adobe-premiere-shortcuts-you-need-for-2024/"><u>Updated Unlock Efficient Editing 20 Adobe Premiere Shortcuts You Need for 2024</u></a></li>
+</ul></div>
+
