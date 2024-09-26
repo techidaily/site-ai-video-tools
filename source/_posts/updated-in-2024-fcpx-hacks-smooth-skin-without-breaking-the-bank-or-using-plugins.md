@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Hacks Smooth Skin without Breaking the Bank (or Using Plugins)
-date: 2024-09-17T23:51:19.114Z
-updated: 2024-09-20T09:19:51.973Z
+date: 2024-09-20T23:11:48.008Z
+updated: 2024-09-26T00:22:21.060Z
 tags: 
   - video editing software
   - video editing
@@ -111,8 +111,30 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 1. Purchase and download the Skin Smoother 2 plugin. Go to downloads, unzip the folder containing the plugin and install it on your computer.
 2. Open the FCPX, go to Effects, and click on Skin Smoother 2\. A list of options will appear. Import the image or video you want to edit.![Skin_Smoother_Effect_4](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_4.png)
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
 
@@ -125,13 +147,6 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
 4. To set a specific tone or beautify your video, open the Tools tab and click the Color Correction option to change the color tones.
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How to smooth skin in Adobe Pro?
 
@@ -154,10 +169,10 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -173,5 +188,22 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-slimsky-saver-big-files-low-costs/"><u>[Updated] SlimSky Saver - Big Files, Low Costs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023-how-to-share-screen-on-facebook-live-in-2024/"><u>2023 | How to Share Screen on Facebook Live, In 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-slow-momentum-a-filmmakers-tale-on-instagram/"><u>2024 Approved Unlock Slow Momentum A Filmmaker’s Tale on Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blur-proof-iphones-achieving-flawless-budget-friendly-edits-for-2024/"><u>Blur-Proof iPhones Achieving Flawless, Budget-Friendly Edits for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/clear-cinematic-vision-top-camera-stabilizers-reviewed/"><u>Clear Cinematic Vision - Top Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-best-animation-software-for-all-skill-levels-top-picks/"><u>New 2024 Approved Best Animation Software for All Skill Levels Top Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-design-your-dream-collage-top-online-photo-and-video-tools/"><u>New 2024 Approved Design Your Dream Collage Top Online Photo and Video Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-animation-software-10-best-2d-tools-for-beginners-and-pros/"><u>New 2024 Approved S Top Animation Software 10 Best 2D Tools for Beginners and Pros</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-split-merge-and-more-top-free-mpeg-video-processing-tools/"><u>New 2024 Approved Split, Merge, and More Top Free MPEG Video Processing Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-fcpx-freebie-list-10-plugins-you-cant-miss/"><u>New 2024 Approved The Ultimate FCPX Freebie List 10 Plugins You Cant Miss</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-free-animation-tools-for-windows-and-mac-users/"><u>New 2024 Approved Top Free Animation Tools for Windows and Mac Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vsdc-not-your-cup-of-tea-try-these-mac-video-editor-alternatives/"><u>New 2024 Approved VSDC Not Your Cup of Tea? Try These Mac Video Editor Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-dvd-backup-solution-for-apple-enthusiasts-winx-dvd-ripper-master-streamline-your-itunes-and-mobile-library/"><u>Ultimate DVD Backup Solution for Apple Enthusiasts: WinX DVD Ripper Master - Streamline Your iTunes & Mobile Library</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-and-easy-video-stabilization-our-favorite-online-tools/"><u>Updated 2024 Approved Free and Easy Video Stabilization Our Favorite Online Tools</u></a></li>
+</ul></div>
 
