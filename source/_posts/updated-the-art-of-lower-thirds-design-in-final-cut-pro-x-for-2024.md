@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-09-23T06:22:04.810Z
-updated: 2024-09-26T09:02:08.362Z
+date: 2024-09-25T05:37:42.133Z
+updated: 2024-10-01T11:48:51.044Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,13 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -86,23 +93,10 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -147,6 +141,13 @@ For those who still need more guides about making lower thirds, this Filmora tut
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -165,13 +166,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -181,10 +175,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -202,20 +196,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-essential-guide-to-win10s-video-grabbing-software/"><u>[New] In 2024, The Essential Guide to Win10's Video Grabbing Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/can-you-watch-netflix-on-switch/"><u>Can You Watch Netflix on Switch?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exploring-the-hottest-stock-photos-and-their-journeys/"><u>Exploring the Hottest Stock Photos & Their Journeys</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-x8b-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor X8b Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-6-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 6?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-professional-tips-achieving-crisp-focus-during-online-conferences/"><u>In 2024, Professional Tips Achieving Crisp Focus During Online Conferences</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-the-best-online-stop-motion-animation-studios/"><u>New Unleash Your Creativity The Best Online Stop Motion Animation Studios</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-s21-fe-5g-2023-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy S21 FE 5G (2023) Phones</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transformer-des-fichiers-ts-en-webm-en-ligne-gratuitement-un-guide-complet-avec-movavi/"><u>Transformer Des Fichiers Ts en Webm en Ligne Gratuitement : Un Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-revolutionize-your-edits-top-premiere-pro-transition-tools/"><u>Updated 2024 Approved Revolutionize Your Edits Top Premiere Pro Transition Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-music-production-software-the-top-11-options/"><u>Updated In 2024, Free Music Production Software The Top 11 Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-find-free-sound-effect-and-add-them-in-final-cut-pro/"><u>Updated In 2024, How to Find Free Sound Effect and Add Them in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-top-4k-video-editing-solutions-for-professionals-for-2024/"><u>Updated The Top 4K Video Editing Solutions for Professionals for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-the-top-ipad-video-editing-apps-for-2024/"><u>Updated Unleash Your Creativity The Top iPad Video Editing Apps for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-video-editing-on-a-mac-here-are-the-best-options-for-for-2024/"><u>Updated Video Editing on a Mac? Here Are the Best Options For for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-perfect-your-instagram-vocal-presence-quickly/"><u>[New] Perfect Your Instagram Vocal Presence Quickly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-kinemaster-guide-to-green-screening/"><u>[Updated] The Ultimate KineMaster Guide to Green Screening</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-color-space-comparison-srgb-vs-rgb/"><u>2024 Approved Color Space Comparison Srgb vs Rgb</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hot-topic-in-photos-memes-and-their-origin-tales/"><u>Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-blaze-2-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Blaze 2 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unlocking-potential-with-top-pixlr-editing-techniques/"><u>In 2024, Unlocking Potential with Top Pixlr Editing Techniques</u></a></li>
+<li><a href="https://techidaily.com/is-your-oneplus-12r-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your OnePlus 12R working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-list-of-8-gratis-cutting-edge-video-players-for-pcmac-os/"><u>Master List of 8 Gratis, Cutting-Edge Video Players for PC/Mac OS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-videos-into-stunning-live-photos-with-these-top-apps/"><u>New In 2024, Transform Videos Into Stunning Live Photos with These Top Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-mp4-metadata-editors-for-video-enthusiasts-for-2024/"><u>Top MP4 Metadata Editors for Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mobile-animation-made-easy-best-free-3d-apps-for-android-and-ios/"><u>Updated 2024 Approved Mobile Animation Made Easy Best Free 3D Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-webm-to-mp3-expert-recommended-conversion-solutions/"><u>Updated In 2024, WebM to MP3 Expert-Recommended Conversion Solutions</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
 </ul></div>
 

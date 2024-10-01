@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-09-19T10:28:40.620Z
-updated: 2024-09-26T09:10:35.841Z
+date: 2024-09-24T18:23:24.081Z
+updated: 2024-10-01T12:00:50.636Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -108,10 +108,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -142,15 +142,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-in-depth-look-top-10-social-media-video-tools/"><u>2024 Approved In-Depth Look Top 10 Social Media Video Tools</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-c67-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme C67 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/cutting-off-or-keeping-connected-post-death-facebook-management/"><u>Cutting Off or Keeping Connected: Post-Death Facebook Management</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-12-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme 12 Pro 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expediting-video-aggregation-from-tiktok-in-a-flash/"><u>In 2024, Expediting Video Aggregation From TikTok in a Flash</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-replace-sony-vegas-with-these-top-windows-alternatives/"><u>New Replace Sony Vegas with These Top Windows Alternatives</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-take-your-mobile-photography-to-the-next-level-best-time-lapse-apps-for-2024/"><u>New Take Your Mobile Photography to the Next Level Best Time-Lapse Apps for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-photo-video-maker-tips-and-tricks-for-2024/"><u>The Ultimate Photo Video Maker Tips and Tricks for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcp-in-the-spotlight-10-big-budget-movies-that-trusted-this-editing-tool/"><u>Updated In 2024, FCP in the Spotlight 10 Big-Budget Movies That Trusted This Editing Tool</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-maximize-your-yi-4k-footage-ideal-add-ons-guide/"><u>[New] In 2024, Maximize Your YI 4K Footage Ideal Add-Ons Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-ignite-customer-interest-and-increase-revenue-top-15-tools-for-fb-data-analysis/"><u>[Updated] In 2024, Ignite Customer Interest & Increase Revenue Top 15 Tools for FB Data Analysis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-recordingrealm-expedition-unveiling-snapcastpro-2023/"><u>[Updated] RecordingRealm Expedition Unveiling 'SnapCastPro' 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leapfrogging-past-the-journey-to-windows-11/"><u>2024 Approved Leapfrogging Past The Journey to Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-privilege-access-denial-error-error-0x80070522-on-modern-windows-pcs/"><u>Fixing Privilege Access Denial Error (Error 0X80070522) on Modern Windows PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-transitions-in-final-cut-pro-3-expert-methods-for-2024/"><u>New Unleash the Power of Transitions in Final Cut Pro 3 Expert Methods for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-winget-efficiency-on-modern-windows-pcs/"><u>Resurrecting Winget Efficiency on Modern Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/the-undisclosed-menu-maestros-guide-to-win11-concealment/"><u>The Undisclosed Menu Maestro's Guide to Win11 Concealment</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mac-video-editing-made-easy-with-mkvtoolnix-software/"><u>Updated 2024 Approved Mac Video Editing Made Easy with MKVtoolnix Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-wax-video-editor-a-comprehensive-guide-to-editing-like-a-pro/"><u>Updated 2024 Approved Wax Video Editor A Comprehensive Guide to Editing Like a Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-get-adobe-premiere-pro-cs6-mac-version-absolutely-free-for-2024/"><u>Updated Get Adobe Premiere Pro CS6 Mac Version - Absolutely Free for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2024-09-21T02:09:49.341Z
-updated: 2024-09-25T18:29:25.639Z
+date: 2024-09-29T21:24:04.925Z
+updated: 2024-09-30T23:05:47.766Z
 tags: 
   - video editing software
   - video editing
@@ -55,16 +55,16 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -92,10 +92,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -107,10 +107,10 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -164,10 +164,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -185,14 +185,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-itel-s23plus-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Itel S23+ FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-6s-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 6s Lock Screen</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/silent-peripheral-no-response-in-windows-os/"><u>Silent Peripheral: No Response in Windows OS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-top-rated-explainer-video-production-software/"><u>Updated 2024 Approved Best Top-Rated Explainer Video Production Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-edit-like-a-pro-setting-up-your-computer-for-premiere-pro-for-2024/"><u>Updated Edit Like a Pro Setting Up Your Computer for Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-audio-transitions-2-methods-for-fading-in-and-out-in-final-cut-pro/"><u>Updated Mastering Audio Transitions 2 Methods for Fading In and Out in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-smooth-audio-transitions-2-methods-to-fade-in-and-out-in-fcp/"><u>Updated Smooth Audio Transitions 2 Methods to Fade In and Out in FCP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-revolutionize-your-online-audio-with-these-5-methods/"><u>[New] In 2024, Revolutionize Your Online Audio with These 5 Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-top-beauty-brands-with-powerful-youtubers/"><u>[New] The Top Beauty Brands with Powerful YouTubers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-motorola-razr-40-ultra-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Motorola Razr 40 Ultra to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/cookiebot-driven-marketing-automation-solutions/"><u>Cookiebot Driven Marketing Automation Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixes-for-failed-connection-with-steam-servers/"><u>Fixes for Failed Connection with Steam Servers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-x7b-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor X7b FRP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-10-free-avi-joiner-software-for-windows-and-mac/"><u>New The Ultimate List of 10 Free AVI Joiner Software for Windows and Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-the-top-10-free-green-screen-apps-for-mobile-video-editing-for-2024/"><u>New Unleash Your Creativity The Top 10 Free Green Screen Apps for Mobile Video Editing for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-with-frame-rate-in-mass-effect-legendary-edition/"><u>Resolved: Issues with Frame Rate in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-most-popular-3d-video-making-tools-among-professionals/"><u>Updated 2024 Approved The Most Popular 3D Video Making Tools Among Professionals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-vn-video-editor-apk-review-a-powerful-video-editing-tool/"><u>Updated In 2024, VN Video Editor APK Review A Powerful Video Editing Tool?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-no-more-searching-the-best-filmora-coupon-codes-revealed/"><u>Updated No More Searching The Best Filmora Coupon Codes Revealed</u></a></li>
 </ul></div>
 

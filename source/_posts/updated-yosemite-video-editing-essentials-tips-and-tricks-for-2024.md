@@ -1,7 +1,7 @@
 ---
 title: Updated Yosemite Video Editing Essentials Tips and Tricks for 2024
-date: 2024-09-21T16:17:42.089Z
-updated: 2024-09-25T16:28:24.823Z
+date: 2024-09-27T17:10:35.022Z
+updated: 2024-10-01T06:07:24.164Z
 tags: 
   - video editing software
   - video editing
@@ -36,13 +36,6 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -54,10 +47,10 @@ You have two different ways to edit the video. One is to double click the video 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Edit and enhance audio**
@@ -73,10 +66,17 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -85,14 +85,14 @@ After you preview the effect, just click the “Export” button to export the v
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
-[![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+[![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -111,17 +111,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-instant-fb-video-to-high-quality-mp4/"><u>[New] Instant FB Video to High-Quality MP4</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-time-management-mastery-slack-and-filmora-for-productive-team-meetings/"><u>[Updated] Time Management Mastery Slack & Filmora for Productive Team Meetings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-policy-diagnostic-service-is-down-error/"><u>How to Fix 'Policy Diagnostic Service Is Down' Error</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-asus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Asus FRP Locks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-powerdirector-substitutes-for-mobile-video-editing/"><u>New The Best PowerDirector Substitutes for Mobile Video Editing</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-broken-photographs-with-no-cost-fixer-app-ultimate-guide-to-restore-corrupted-images/"><u>Revive Broken Photographs with No Cost Fixer App – Ultimate Guide to Restore Corrupted Images</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/snag-your-dream-tech-at-exclusive-prices-during-the-amazing-amazon-prime-day-2024/"><u>Snag Your Dream Tech at Exclusive Prices During the Amazing Amazon Prime Day 2024!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-video-guidelines-and-step-by-step-uploading-guide-for-2024/"><u>Twitter's Video Guidelines & Step-by-Step Uploading Guide for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-transform-your-photos-the-best-vignette-editing-apps-for-mobile/"><u>Updated 2024 Approved Transform Your Photos The Best Vignette Editing Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-final-cut-pro-tutorial-adding-picture-in-picture-overlays-to-your-videos/"><u>Updated In 2024, Final Cut Pro Tutorial Adding Picture-in-Picture Overlays to Your Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-free-mkv-cutters-for-2024/"><u>Updated The Ultimate List of Free MKV Cutters for 2024</u></a></li>
-<li><a href="https://techidaily.com/will-samsung-galaxy-s23-fe-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Samsung Galaxy S23 FE play AVCHD mts files?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-virtual-victors-the-leading-ladies-in-gaming/"><u>[Updated] In 2024, Virtual Victors The Leading Ladies in Gaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-optimal-gameplay-tools-on-the-big-screen/"><u>[Updated] Optimal Gameplay Tools on the Big Screen</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>2024 Approved 4K Monitor Buying Guide How to Choose the Right Monitor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-limits-a-critical-look-at-panasonics-hx-a1-actionrecorder/"><u>2024 Approved Beyond Limits - A Critical Look at Panasonic’s HX-A1 ActionRecorder</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-12-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi 12 Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-efficiency-uncovering-the-benefits-of-using-a-compact-workspace/"><u>Maximizing Efficiency: Uncovering the Benefits of Using a Compact Workspace</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-troubleshoot-avidemux-audio-problems-step-by-step-guide-2023/"><u>New In 2024, Troubleshoot Avidemux Audio Problems Step-by-Step Guide 2023</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mobile-3d-animation-made-easy-top-apps-for-android-and-iphone-for-2024/"><u>New Mobile 3D Animation Made Easy Top Apps for Android & iPhone for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharpen-your-videoleap-videos-from-afar/"><u>Sharpen Your Videoleap Videos From Afar</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps-for-2024/"><u>Updated How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-top-10-free-webm-video-editors-you-need-to-try-for-2024/"><u>Updated The Ultimate List Top 10 Free WebM Video Editors You Need to Try for 2024</u></a></li>
 </ul></div>
 
