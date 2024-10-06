@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Retro Revival Simple Steps to Achieve a VHS Look in FCP
-date: 2024-08-22T09:33:36.684Z
-updated: 2024-08-23T09:33:36.684Z
+date: 2024-10-03T16:06:29.136Z
+updated: 2024-10-06T21:13:20.213Z
 tags: 
   - video editing software
   - video editing
@@ -98,6 +98,13 @@ To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
 * Select the Black Color.
@@ -107,6 +114,13 @@ To do VHS effects quickly, follow these steps:
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
 
@@ -132,6 +146,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -159,9 +180,6 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -185,8 +203,12 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -201,16 +223,11 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -218,3 +235,20 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-capturing-fluidity-in-iphone-photography-for-2024/"><u>[Updated] Capturing Fluidity in iPhone Photography for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-daily-diary-downloader-for-2024/"><u>[Updated] Daily Diary Downloader for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-poems-through-conversation-a-guide-to-utilizing-chatgpt-for-creative-expression/"><u>Crafting Poems Through Conversation: A Guide to Utilizing ChatGPT for Creative Expression</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-play-7t-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Play 7T Phone Screen?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-adobe-premiere-pro-cs6-is-a-kind-of-video-editing-software-which-can-work-natively-and-directly-with-the-latest-mobile/"><u>New 2024 Approved Adobe Premiere Pro CS6 Is a Kind of Video Editing Software Which Can Work Natively and Directly with the Latest Mobile</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-novice-to-pro-the-top-animation-maker-tools-you-need-to-know/"><u>New 2024 Approved From Novice to Pro The Top Animation Maker Tools You Need to Know</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-ready-for-the-big-screen-top-10-movie-trailer-apps-for-ios/"><u>New 2024 Approved Get Ready for the Big Screen Top 10 Movie Trailer Apps for iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-make-unforgettable-home-movies-on-your-mac-with-ease/"><u>New 2024 Approved Make Unforgettable Home Movies on Your Mac with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-effortlessly-edit-mp4-video-properties-for-2024/"><u>New Effortlessly Edit MP4 Video Properties for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-llama-2-applications-and-benefits-explained/"><u>Understanding LLaMA 2: Applications & Benefits Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-foundation-of-motion-visualization-for-2024/"><u>Understanding the Foundation of Motion Visualization for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-purpose-and-function-of-google-hangouts/"><u>Understanding the Purpose and Function of Google Hangouts</u></a></li>
+</ul></div>
+

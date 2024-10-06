@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial
-date: 2024-09-23T20:13:02.754Z
-updated: 2024-10-01T03:16:17.851Z
+date: 2024-10-02T21:37:04.059Z
+updated: 2024-10-06T17:02:24.059Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -131,10 +131,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -150,10 +150,10 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -167,10 +167,16 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -188,22 +194,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-success-secrets-maximizing-post-performance/"><u>[New] In 2024, Instagram Success Secrets Maximizing Post Performance</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-craft-the-perfect-blurred-photo-with-these-essentials/"><u>[Updated] Craft the Perfect Blurred Photo with These Essentials</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-pdf-reader-applications-on-windows-11-comprehensive-review-updated-in-2020/"><u>Best PDF Reader Applications on Windows 11: Comprehensive Review (Updated in 2020)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/elevate-your-gaming-experience-how-to-restore-sound-on-pc-for-warzone-players-2023-tips/"><u>Elevate Your Gaming Experience: How to Restore Sound on PC for Warzone Players (2023 Tips)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-zte-axon-40-lite-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked ZTE Axon 40 Lite Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/limiting-users-ability-to-modify-windows-safescreen/"><u>Limiting Users' Ability to Modify Windows SafeScreen</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-audio-file-transformation-turn-your-m2ts-videos-into-mp3-on-macos/"><u>Mastering Audio File Transformation: Turn Your M2TS Videos Into MP3 on macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-calculator-display-timeframe-on-windows/"><u>Maximizing Calculator Display Timeframe on Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-5-best-imovie-replacements-for-windows-10-for-2024/"><u>New Top 5 Best iMovie Replacements for Windows 10 for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unlock-premiere-pros-full-potential-system-requirements-and-setup-tips/"><u>New Unlock Premiere Pros Full Potential System Requirements and Setup Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-activating-and-using-remote-control-for-samsung-tv/"><u>Step-by-Step Tutorial: Activating and Using Remote Control for Samsung TV</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unlocking-cinematic-storytelling-how-to-apply-ken-burns-effect-in-final-cut-pro/"><u>Updated 2024 Approved Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-burning-videos-to-dvd-a-beginners-guide-for-windows-and-mac-for-2024/"><u>Updated Burning Videos to DVD A Beginners Guide for Windows and Mac for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-beginners-luck-15-free-video-editing-programs-to-get-you-started/"><u>Updated In 2024, Beginners Luck 15 Free Video Editing Programs to Get You Started</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-ready-to-rewind-top-slow-motion-video-players/"><u>Updated In 2024, Get Ready to Rewind Top Slow Motion Video Players</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-the-ken-burns-effect-in-final-cut-pro-a-step-by-step-guide-for-2024/"><u>Updated Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-take-your-videos-to-the-next-level-3-creative-transition-ideas-in-fcp/"><u>Updated Take Your Videos to the Next Level 3 Creative Transition Ideas in FCP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[New] 2024 Approved Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-compreenasive-look-the-new-era-of-vr-cams-by-samsung/"><u>[Updated] 2024 Approved Compreenasive Look The New Era of VR Cams by Samsung</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-bridging-platforms-posting-igtv-on-facebook-efficiently-for-2024/"><u>[Updated] Bridging Platforms Posting IGTV on Facebook Efficiently for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-editing-on-a-budget-with-free-fcp/"><u>2024 Approved Mastering Video Editing on a Budget with Free FCP</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/achetez-votre-licence-complete-pour-winxvideo-ai-a-prix-reduit-avec-mise-a-niveau-gratuite/"><u>Achetez Votre Licence Complète Pour WinxVideo AI À Prix Réduit Avec Mise À Niveau Gratuite!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-installation-of-new-epson-drivers-for-windows-devices/"><u>Hassle-Free Installation of New Epson Drivers for Windows Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-and-save-streaming-audio-with-ease-for-2024/"><u>How to Record and Save Streaming Audio with Ease for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-lava-yuva-3-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Lava Yuva 3 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/introducing-the-unbeatable-combination-lg-gram-156-inch-2018-review-and-why-it-reigns-supreme-in-lightweight-computing/"><u>Introducing the Unbeatable Combination: LG Gram 15.6-Inch (2018) Review and Why It Reigns Supreme in Lightweight Computing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-want-to-find-a-high-quality-video-editing-tool-for-your-64-bit-operating-system-youve-come-to-the-right-place/"><u>New In 2024, Want to Find a High-Quality Video Editing Tool for Your 64 Bit Operating System? Youve Come to the Right Place</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-10-meme-creation-apps-for-mobile-for-2024/"><u>New The Ultimate List 10 Meme Creation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-discover-the-best-free-animated-logo-design-software/"><u>Updated 2024 Approved Discover the Best Free Animated Logo Design Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-reverse-video-in-fcp-a-step-by-step-guide-for-beginners/"><u>Updated In 2024, Reverse Video in FCP A Step-by-Step Guide for Beginners</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mobile-split-screen-mastery-top-video-apps/"><u>Updated Mobile Split Screen Mastery Top Video Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-10-animation-software-for-bringing-photos-to-life-for-2024/"><u>Updated Top 10 Animation Software for Bringing Photos to Life for 2024</u></a></li>
 </ul></div>
 

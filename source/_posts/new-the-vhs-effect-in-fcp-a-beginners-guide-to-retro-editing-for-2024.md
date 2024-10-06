@@ -1,7 +1,7 @@
 ---
 title: New The VHS Effect in FCP A Beginners Guide to Retro Editing for 2024
-date: 2024-08-22T09:31:53.611Z
-updated: 2024-08-23T09:31:53.611Z
+date: 2024-10-01T18:12:10.030Z
+updated: 2024-10-06T19:21:03.153Z
 tags: 
   - video editing software
   - video editing
@@ -86,6 +86,13 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -108,6 +115,13 @@ To do VHS effects quickly, follow these steps:
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to Effect, and in the search bar, type **VHS**.
 
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
@@ -125,6 +139,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now search for the **Strong Glitch effect**.
 
 * Drag and drop it above the previous layer.
@@ -132,6 +153,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -159,9 +187,6 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -184,9 +209,6 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -201,16 +223,11 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -218,3 +235,23 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-content-strategy-boost-top-8-youtube-rank-watcher-revealed/"><u>[New] 2024 Approved Content Strategy Boost Top 8 YouTube Rank Watcher Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-triumph-through-tales-3-crucial-strategies-for-channels/"><u>[New] Triumph Through Tales 3 Crucial Strategies for Channels</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976255008-groove-music-summer-vibes-a-playlist-curated-to-capture-the-essence-of-a-carefree-summer-perfect-for-when-you-want-to-feel-uplifted-and-joyful/"><u>Groove Music 'Summer Vibes': A Playlist Curated to Capture the Essence of a Carefree Summer, Perfect for when You Want to Feel Uplifted and Joyful.</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-exploring-funimates-full-potential/"><u>In 2024, Exploring Funimate's Full Potential</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-dailymotion-converter-download-and-convert-videos-in-seconds/"><u>New In 2024, Free Dailymotion Converter Download and Convert Videos in Seconds</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-kinemaster-for-mac-easy-download-and-setup-instructions/"><u>New In 2024, Get KineMaster for Mac Easy Download and Setup Instructions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-macos-compatible-how-to-download-and-use-videoleap/"><u>New In 2024, MacOS Compatible How to Download and Use Videoleap</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-rock-solid-footage-8-best-free-online-video-stabilizers/"><u>New In 2024, Rock-Solid Footage 8 Best Free Online Video Stabilizers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-s-ultimate-guide-to-online-stop-motion-creation-top-picks/"><u>New In 2024, S Ultimate Guide to Online Stop Motion Creation Top Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-best-online-video-editors-for-vertical-format-videos/"><u>New In 2024, The Best Online Video Editors for Vertical Format Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/real-time-capture-simplified-a-deep-dive-into-vimeo-record-for-2024/"><u>Real-Time Capture Simplified A Deep Dive Into Vimeo Record for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-m14-4g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy M14 4G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-y78-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo Y78 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-un-fichier-ts-au-format-vob-sur-votre-ordinateur-gratuitement-avec-movavi/"><u>Trier Un Fichier Ts Au Format Vob Sur Votre Ordinateur Gratuitement Avec Movavi</u></a></li>
+</ul></div>
+

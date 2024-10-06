@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, A Step-by-Step Guide to Video Editing with QuickTime on Mac
-date: 2024-08-22T09:32:45.947Z
-updated: 2024-08-23T09:32:45.947Z
+date: 2024-10-01T20:23:09.806Z
+updated: 2024-10-06T17:16:55.757Z
 tags: 
   - video editing software
   - video editing
@@ -57,13 +57,17 @@ Step3: Use a handle on both sides to resist the part of the film that you want t
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Split Video With QuickTime Player on Mac
 
 You can easily split your movie into separate clips if you want to. Then, if desired, you can modify these clips.
@@ -77,8 +81,12 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -91,10 +99,6 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 
 Step4: When you're done, click Done.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -112,30 +116,32 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Wondershare Filmora Worth for Trying?
 
 As we mentioned above, Wondershare Filmora is an elegant, full-featured video editing software that includes a variety of basic and advanced video editing tools. It has an easy-to-use interface that allows you to easily add effects, transitions, and edit your videos. You can use it to create random videos or professional videos using the software. So yes, this video editing software is for everyone. Well, you should try the free version and you won't regret.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,3 +149,25 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-video-experience-non-youtube-hubs-explained/"><u>[New] In 2024, Elevating Video Experience Non-Youtube Hubs Explained</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-keeping-your-gopro-fogless-for-perfection/"><u>[New] In 2024, Keeping Your GoPro Fogless for Perfection</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-optimal-youtube-aesthetics-for-maximum-engagement/"><u>[New] Navigating Optimal YouTube Aesthetics for Maximum Engagement</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-your-first-step-on-twitter-creating-an-account/"><u>[New] Your First Step on Twitter Creating an Account</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-launch-free-dvd-playback-capabilities-on-windowsmac-laptops/"><u>[Updated] 2024 Approved Launch Free DVD Playback Capabilities on Windows/Mac Laptops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-deciphering-absent-messages-on-snapmap-for-2024/"><u>[Updated] Deciphering Absent Messages on Snapmap for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mf743cdw-free-downloads-of-updated-windows-printing-software/"><u>Canon MF743CDW: Free Downloads of Updated Windows Printing Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-x9b-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor X9b to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-fcp-audio-editing-for-beginners-get-started-today-for-2024/"><u>New FCP Audio Editing for Beginners Get Started Today for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-for-students-unbeatable-prices-you-wont-want-to-miss-for-2024/"><u>New Final Cut Pro for Students Unbeatable Prices You Wont Want to Miss for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-audio-quick-and-easy-voice-over-recording-in-fcp/"><u>New In 2024, Elevate Your Audio Quick & Easy Voice Over Recording in FCP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcp-editing-essentials-adding-transitions-like-a-pro-in-3-easy-steps/"><u>New In 2024, FCP Editing Essentials Adding Transitions Like a Pro in 3 Easy Steps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-how-to-blur-the-video-background-or-some-parts-of-the-video-you-can-know-how-to-blur-videos-with-some-free-online-tools-in-this-article/"><u>New In 2024, How to Blur the Video Background or some Parts of the Video? You Can Know How to Blur Videos with some Free Online Tools in This Article</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-replace-imovie-with-these-top-rated-windows-10-video-editors/"><u>New In 2024, Replace iMovie with These Top-Rated Windows 10 Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-best-of-both-worlds-top-10-free-and-paid-android-video-editing-apps-2023/"><u>New In 2024, The Best of Both Worlds Top 10 Free and Paid Android Video Editing Apps 2023</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-10-final-cut-pro-x-competitors-worth-exploring/"><u>New In 2024, The Ultimate List 10 Final Cut Pro X Competitors Worth Exploring</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-audible-alteration-a-journey-through-cost-free-audio-effects-software-for-2024/"><u>The Art of Audible Alteration A Journey Through Cost-Free Audio Effects Software for 2024</u></a></li>
+</ul></div>
+

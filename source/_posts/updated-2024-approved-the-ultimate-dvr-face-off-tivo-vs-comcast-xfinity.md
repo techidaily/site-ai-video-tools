@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate DVR Face-Off TiVo vs Comcast Xfinity
-date: 2024-09-25T11:04:03.703Z
-updated: 2024-10-01T02:10:46.725Z
+date: 2024-10-03T17:01:05.295Z
+updated: 2024-10-06T16:50:44.892Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -49,15 +56,22 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  TiVo interface
 
@@ -79,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. TiVo vs Comcast: Recording capacity
 
  The new TiVo, the Roamio, has as many as six tuners that can record at the same time with up to 150 hours of high definition programming. You’ll never have another scheduling conflict again!
@@ -93,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  TiVos have recording capacities that range from 75 to 450 hours, depending on whether it is standard definition or high definition, and which device you are using. You can choose from three models of the Roamio. The base model costs $200 and has 75 hours of capacity. The menu and features are more limited on this one than on the others. There is a middle model priced at $400 that has the same six tuners as the high-end one but can only hold 150 hours of recordings. Then the top tier model costs $600 and has 450 hours of recording capacity, all of it in high definition.
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. TiVo vs Comcast: User interface
 
@@ -117,18 +117,18 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
  TiVo’s device remote has a sleek layout called the “peanut”.
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Summary**
 
@@ -136,14 +136,20 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -160,20 +166,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-crafting-the-perfect-binge-worthy-mukbang-experience/"><u>[New] 2024 Approved Crafting the Perfect Binge-Worthy Mukbang Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-process-for-selecting-top-online-photo-edits/"><u>[New] The Complete Process for Selecting Top Online Photo Edits</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fix-playback-glitches-with-facebook-videos-android/"><u>[Updated] In 2024, Fix Playback Glitches with Facebook Videos (Android)</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/chromecast-vs-firetv-a-detailed-review-of-the-new-google-tv-feature/"><u>Chromecast vs FireTV - A Detailed Review of the New Google TV Feature</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/diminishing-volume-fl-masterclass/"><u>Diminishing Volume FL Masterclass</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-your-channel-a-guide-to-amassing-viewers/"><u>In 2024, Boosting Your Channel A Guide to Amassing Viewers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-verdict-on-vn-video-editor-pro-is-it-a-top-tier-video-editor-in-2024/"><u>New The Verdict on VN Video Editor Pro Is It a Top-Tier Video Editor, In 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-the-best-online-stop-motion-animation-studios/"><u>New Unleash Your Creativity The Best Online Stop Motion Animation Studios</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/size-matters-examining-differences-in-google-nest-audio-and-nest-mini/"><u>Size Matters? Examining Differences in Google Nest Audio & Nest Mini</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-revolutionize-your-edits-top-premiere-pro-transition-tools/"><u>Updated 2024 Approved Revolutionize Your Edits Top Premiere Pro Transition Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-music-production-software-the-top-11-options/"><u>Updated In 2024, Free Music Production Software The Top 11 Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-find-free-sound-effect-and-add-them-in-final-cut-pro/"><u>Updated In 2024, How to Find Free Sound Effect and Add Them in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-top-4k-video-editing-solutions-for-professionals-for-2024/"><u>Updated The Top 4K Video Editing Solutions for Professionals for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-video-editing-on-a-mac-here-are-the-best-options-for-for-2024/"><u>Updated Video Editing on a Mac? Here Are the Best Options For for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-handy-tips-downloading-youtube-like-content-via-android/"><u>[New] 2024 Approved Handy Tips Downloading YouTube-Like Content via Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-6-simple-minecraft-house-ideas/"><u>[New] 2024 Approved Top 6 Simple Minecraft House Ideas</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716069004644-new-in-2024-top-sandbox-adventures-not-to-skip/"><u>[New] In 2024, Top Sandbox Adventures Not To Skip!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-art-of-retracing-instagram-pictures-roots/"><u>2024 Approved The Art of Retracing Instagram Pictures' Roots</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/innovative-marketing-solutions-through-cookiebot-features/"><u>Innovative Marketing Solutions Through Cookiebot Features</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/navigating-photo-curvature-techniques-in-ps-for-2024/"><u>Navigating Photo Curvature Techniques in PS for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-your-footage-a-beginners-guide-to-flipping-clips-in-fcp/"><u>New In 2024, Transform Your Footage A Beginners Guide to Flipping Clips in FCP</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/redux-of-graphics-amd-radeon-update-for-2024/"><u>Redux of Graphics AMD Radeon Update for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/revitalize-your-outdated-laptops-with-damn-small-linux-a-step-by-step-guide/"><u>Revitalize Your Outdated Laptops with Damn Small Linux: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/smart-seo-strategies-powered-by-the-expertise-of-cookiebot/"><u>Smart SEO Strategies Powered by the Expertise of Cookiebot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-top-7-freely-accessible-online-fax-services/"><u>The Ultimate List of Top 7 Freely Accessible Online Fax Services</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-easy-video-reversal-top-online-solutions/"><u>Updated 2024 Approved Easy Video Reversal Top Online Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mp4-to-mp3-converter-the-ultimate-guide-to-audio-conversion/"><u>Updated 2024 Approved MP4 to MP3 Converter The Ultimate Guide to Audio Conversion</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-using-compressor-in-final-cut-pro-x-best-practices-and-workflows/"><u>Updated 2024 Approved Using Compressor in Final Cut Pro X Best Practices and Workflows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-are-you-looking-for-an-interesting-dub-app-for-your-android-or-iphone-read-on-to-find-out-the-best-video-dubbing-app-from-our-list-of-funny-/"><u>Updated In 2024, Are You Looking for an Interesting Dub App for Your Android or iPhone? Read on to Find Out the Best Video Dubbing App From Our List of Funny and Creative Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-streamline-your-video-editing-workflow-on-mac-with-mkvtoolnix/"><u>Updated Streamline Your Video Editing Workflow on Mac with MKVtoolnix</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-streaming-local-media-to-chromecast-on-windows-mac-android-and-ios-for-2024/"><u>Updated The Ultimate Guide to Streaming Local Media to Chromecast on Windows, Mac, Android, and iOS for 2024</u></a></li>
 </ul></div>
 

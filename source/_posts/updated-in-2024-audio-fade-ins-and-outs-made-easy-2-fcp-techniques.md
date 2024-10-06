@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-09-24T18:23:24.081Z
-updated: 2024-10-01T12:00:50.636Z
+date: 2024-10-05T16:55:50.943Z
+updated: 2024-10-06T21:21:34.242Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -108,10 +101,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -126,6 +119,19 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,18 +148,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-maximize-your-yi-4k-footage-ideal-add-ons-guide/"><u>[New] In 2024, Maximize Your YI 4K Footage Ideal Add-Ons Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-ignite-customer-interest-and-increase-revenue-top-15-tools-for-fb-data-analysis/"><u>[Updated] In 2024, Ignite Customer Interest & Increase Revenue Top 15 Tools for FB Data Analysis</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-recordingrealm-expedition-unveiling-snapcastpro-2023/"><u>[Updated] RecordingRealm Expedition Unveiling 'SnapCastPro' 2023</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leapfrogging-past-the-journey-to-windows-11/"><u>2024 Approved Leapfrogging Past The Journey to Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-privilege-access-denial-error-error-0x80070522-on-modern-windows-pcs/"><u>Fixing Privilege Access Denial Error (Error 0X80070522) on Modern Windows PCs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-transitions-in-final-cut-pro-3-expert-methods-for-2024/"><u>New Unleash the Power of Transitions in Final Cut Pro 3 Expert Methods for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrecting-winget-efficiency-on-modern-windows-pcs/"><u>Resurrecting Winget Efficiency on Modern Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-undisclosed-menu-maestros-guide-to-win11-concealment/"><u>The Undisclosed Menu Maestro's Guide to Win11 Concealment</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mac-video-editing-made-easy-with-mkvtoolnix-software/"><u>Updated 2024 Approved Mac Video Editing Made Easy with MKVtoolnix Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-wax-video-editor-a-comprehensive-guide-to-editing-like-a-pro/"><u>Updated 2024 Approved Wax Video Editor A Comprehensive Guide to Editing Like a Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-get-adobe-premiere-pro-cs6-mac-version-absolutely-free-for-2024/"><u>Updated Get Adobe Premiere Pro CS6 Mac Version - Absolutely Free for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-update-twitter-video-preview/"><u>[New] In 2024, Update Twitter Video Preview</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-exploring-8-premium-open-source-videoconferencing-platforms/"><u>[Updated] 2024 Approved Exploring 8 Premium Open-Source Videoconferencing Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722872600648-d3dx927dll-file-not-detected-follow-our-complete-solution/"><u>d3dx9_27.dll File Not Detected? Follow Our Complete Solution!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-video-reach-optimize-tags-for-600esplus-growth/"><u>Elevate Video Reach Optimize Tags for $6,00Es+ Growth</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/everything-you-need-to-know-about-rich-communication-services-rcs/"><u>Everything You Need to Know About Rich Communication Services (RCS)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-make-your-own-gif-loops-with-these-top-free-tools/"><u>New Make Your Own GIF Loops with These Top Free Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-adobe-premiere-pro-for-mac-professionals/"><u>New Unleash Your Creativity Adobe Premiere Pro for Mac Professionals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-windows-live-movie-maker-tutorial-adding-slow-motion-to-your-videos-for-2024/"><u>New Windows Live Movie Maker Tutorial Adding Slow Motion to Your Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimized-video-scale-to-mac-aspect-proportion-for-2024/"><u>Optimized Video Scale to Mac Aspect Proportion for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y02t-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y02T Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-complete-guide-to-running-linux-on-a-chromebook-updated-2023-for-2024/"><u>The Complete Guide to Running Linux on a Chromebook (Updated 2023) for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trusted-veilig-media-software-explore-movavi-video-editor/"><u>Trusted Veilig Media Software - Explore Movavi Video Editor</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unlocking-advanced-video-editing-picture-in-picture-in-final-cut-pro-for-2024/"><u>Unlocking Advanced Video Editing Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-free-and-paid-sony-vegas-alternatives-for-windows/"><u>Updated 2024 Approved The Best Free and Paid Sony Vegas Alternatives for Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-xml-demystified-a-step-by-step-guide-for-fcpx-editors/"><u>Updated 2024 Approved XML Demystified A Step-by-Step Guide for FCPX Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-bring-your-ideas-to-life-best-video-animation-apps-for-mobile-devices-for-2024/"><u>Updated Bring Your Ideas to Life Best Video Animation Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor X50 GT? | Dr.fone</u></a></li>
 </ul></div>
 

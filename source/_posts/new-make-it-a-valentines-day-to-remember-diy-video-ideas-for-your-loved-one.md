@@ -1,7 +1,7 @@
 ---
 title: New Make It a Valentines Day to Remember DIY Video Ideas for Your Loved One
-date: 2024-09-24T20:44:01.931Z
-updated: 2024-09-30T16:46:11.704Z
+date: 2024-10-01T21:41:27.293Z
+updated: 2024-10-06T20:22:43.431Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,10 @@ There are hundreds of [video editing software for Windows](https://tools.techida
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. It all starts with an Idea
@@ -56,10 +56,10 @@ During the next step, you should add all video clips you would like to use in yo
 Optionally, you can use the Split tool to make cuts in a video clip and [remove parts you don’t want to include in the final version of the video](https://tools.techidaily.com/wondershare/filmora/download/). When done, you should right-click on each of the video clips you added to the timeline and select [the Color Correction](https://tools.techidaily.com/wondershare/filmora/download/) option. You can then proceed to fine-tune the Brightness, Contrast, Saturation, or Highlights values depending on how bright or vivid the colors in the original video are. This process can take a while, which is why it is important to be patient and go through it slowly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Add Romantic Filters and Elements
@@ -68,9 +68,29 @@ Filmora features Effects and Elements libraries that contain hundreds of differe
 
 ![ Drag and drop valentines element to video in Filmora9 ](https://images.wondershare.com/filmora/article-images/valentines-special-event-elements.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once you find a romantic filter or element you want to apply to your footage, you should simply drag and drop it to the video track that is located directly above the one on which your footage is located. You should then position an [overlay, a filter, or an element](https://tools.techidaily.com/wondershare/filmora/download/) at the exact spot where you want them to appear in your video.
 
 ![ Drag and drop valentines transitions  to video in Filmora9 ](https://images.wondershare.com/filmora/article-images/valentines-special-event-transitions.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In case you want to adjust the intensity of an effect you applied you should just double-click on it and then use the Alpha slider to adjust the effect’s intensity. Double-clicking on an element you placed on the timeline will grant you access to the Video tab where you can rotate it, change its on-screen position, or set its Opacity value.
 
@@ -82,13 +102,6 @@ The Titles tab contains more than a hundred different Openers, End Credits, or T
 
 ![ Drag and drop valentines texts and titles  to video in Filmora9 ](https://images.wondershare.com/filmora/article-images/valentines-special-event-titles.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once you [insert the text](https://tools.techidaily.com/wondershare/filmora/download/), you can pick the font, color, or this size of the text, as well as set the spacing between two lines of text. Optionally, you can use Filmora’s Advanced Text Edit window if you want to have complete control over all layers of text you add to your video.
 
 ### 5\. Create the Soundtrack
@@ -97,20 +110,13 @@ Music will give your video the rhythm and it will make it more entertaining to w
 
 ![ add music for valentines video in Filmora9 ](https://images.wondershare.com/filmora/article-images/filmora9-audio-library.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can also use Filmora’s library of [royalty-free songs](https://tools.techidaily.com/wondershare/filmora/download/) to create the soundtrack for the video you are making. Just head over to the Audio tab, pick a song from Electronic, Rock, or Tender & Sentimental categories, and add it to the timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Export the Video
@@ -125,6 +131,13 @@ If you find the process of making a Valentine’s Day video on Mac and Windows c
 
 ![Valentines Video Makers App for Android ](https://images.wondershare.com/filmora/article-images/2022/01/valentine-video-maker-app-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Creating slow motion or fast forward videos is yet another option you’ll have at your disposal if you choose to edit your videos with this app. The best part is that you can create a new video with Valentine Video Maker in just a few minutes and share it on social media.
 
 ## Using Valentines Video Greetings Maker on iPhones
@@ -132,13 +145,6 @@ Creating slow motion or fast forward videos is yet another option you’ll have 
 Even though there are lots of different video editing apps for iPhones, very few of them enable their users to create customized Valentine’s Day messages. So if you would like to surprise the person you love with a beautiful Valentine’s Day message, you should install [Valentines Video Greetings Maker](https://apps.apple.com/us/app/valentines-greetings-maker/id804531269) on your iPhone.
 
 ![Valentines Video Makers App for iPhone ](https://images.wondershare.com/filmora/article-images/valentines-greetings-maker-ios-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The app lets you combine an unlimited number of images or videos and record your own customized voice message to accompany the video you created. Each video greeting you create can be shared on social media with a single tap or sent directly via email. Keep in mind that you must make an in-app purchase in order to be able to save your video greetings to the Photo Gallery.
 
@@ -163,18 +169,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-high-fidelity-mp4-streamer-to-facebook/"><u>[New] 2024 Approved High-Fidelity MP4 Streamer to Facebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>[Updated] In 2024, From Idea to Execution An Essential Guide to YouTube Shorts Template Design</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-ranking-reign-supreme-with-these-11-video-seo-techniques-on-youtube/"><u>[Updated] Ranking Reign Supreme with These 11 Video SEO Techniques on YouTube</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-galaxy-m34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Galaxy M34 5G?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-mac-users-install-lumafusion-or-find-equivalent-video-editors/"><u>New Mac Users Install Lumafusion or Find Equivalent Video Editors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rapid-strategies-for-securing-identity-in-image-editing-for-2024/"><u>Rapid Strategies for Securing Identity in Image Editing for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/silence-not-working-in-lost-ark-discover-tips-for-bringing-back-the-games-soundscape/"><u>Silence Not Working In Lost Ark? Discover Tips For Bringing Back The Game's Soundscape.</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-feed-a-comprehensive-guide-to-videos/"><u>Transform Your Feed A Comprehensive Guide to Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-revolutionize-your-mobile-videos-with-these-text-animation-apps/"><u>Updated 2024 Approved Revolutionize Your Mobile Videos with These Text Animation Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-download-adobe-premiere-pro-cs6-for-macintosh-full-version/"><u>Updated In 2024, Download Adobe Premiere Pro CS6 for Macintosh - Full Version</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-fcp-a-beginners-guide-to-saving-and-exporting-projects/"><u>Updated Mastering FCP A Beginners Guide to Saving and Exporting Projects</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-freebie-frenzy-top-online-video-editors-reviewed-for-2024/"><u>Updated The Freebie Frenzy Top Online Video Editors Reviewed for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-witness-the-power-of-4k-the-most-impressive-video-demos-for-2024/"><u>Updated Witness the Power of 4K The Most Impressive Video Demos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfecting-the-art-of-filming-and-post-production-with-adobe-connects-features/"><u>[New] In 2024, Perfecting the Art of Filming & Post-Production with Adobe Connect's Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-choosing-between-bandicam-and-camtasia-for-video-capture/"><u>[Updated] Choosing Between Bandicam and Camtasia for Video Capture</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-transforming-your-profile-into-a-showstopper/"><u>2024 Approved Transforming Your Profile Into a Showstopper</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-decoding-the-cost-per-thousand-views-on-youtube-for-successful-earning/"><u>In 2024, Decoding the Cost Per Thousand Views on YouTube for Successful Earning</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-pc-editors-a-compilation-without-inshot/"><u>In 2024, PC Editors A Compilation Without Inshot</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-live-action-best-practices-in-gaming-recording/"><u>Mastering Live Action Best Practices in Gaming Recording</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mastering-color-in-final-cut-pro-a-step-by-step-guide-for-2024/"><u>New Mastering Color in Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-motion-mastery-essential-apps-for-tracking-your-movements-for-2024/"><u>New Motion Mastery Essential Apps for Tracking Your Movements for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-tak-for-2024/"><u>New Tak for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-visual-storytelling-10-best-image-to-video-converters-for-2024/"><u>New Unleash the Power of Visual Storytelling 10 Best Image to Video Converters for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-honor-90-gt-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Honor 90 GT without backup.</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unlocking-performance-in-depth-analysis-by-toms-hardware-expertise/"><u>Unlocking Performance: In-Depth Analysis by Tom's Hardware Expertise</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-cut-and-edit-3gp-files-with-ease-updated-2023-for-2024/"><u>Updated Cut and Edit 3GP Files with Ease Updated 2023 for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-match-merge-and-master-color-correction-in-fcp/"><u>Updated In 2024, Match, Merge, and Master Color Correction in FCP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-of-the-best-top-vlog-video-editing-software-for-hot-platforms/"><u>Updated In 2024, The Best of the Best Top Vlog Video Editing Software for Hot Platforms</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy S24+? | Dr.fone</u></a></li>
 </ul></div>
 
