@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Download VirtualDub MPEG2 & Use to Compress MPEG2 Videos
-date: 2024-08-22T09:28:45.218Z
-updated: 2024-08-23T09:28:45.218Z
+date: 2024-10-05T06:07:14.539Z
+updated: 2024-10-12T09:48:22.674Z
 tags: 
   - video editing software
   - video editing
@@ -30,38 +30,58 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -73,8 +93,12 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The VirtualDub MPEG-2 needs some time to compress your video. The larger the video file is, the longer. But VirtualDub MPEG2 is a fast video processing software. Take a cup of coffee and relax. Once finished, use your favorite video player to see the compressing result.
@@ -85,16 +109,11 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -102,3 +121,27 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-discovering-windows-best-snipping-and-cropping-software/"><u>[New] In 2024, Discovering Windows' Best Snipping and Cropping Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-optimal-webcam-solutions-for-audio-professionals/"><u>[New] In 2024, Optimal Webcam Solutions for Audio Professionals</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-resurrect-your-tiktok-fixes-for-chrome-and-other-platforms/"><u>[Updated] 2024 Approved Resurrect Your TikTok Fixes for Chrome and Other Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-harmonizing-zoom-audio-elevate-your-listening-experience/"><u>[Updated] In 2024, Harmonizing Zoom Audio Elevate Your Listening Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-8-access-free-eco-friendly-vfx-backdrops-online/"><u>[Updated] Top 8 Access Free Eco-Friendly VFX Backdrops Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-guide-to-gameplay-in-simulated-liquids/"><u>2024 Approved Ultimate Guide to Gameplay in Simulated Liquids</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-brother-hl-l2340dw-printer-drivers-on-your-windows-computer/"><u>Easy Installation of Brother HL-L2340DW Printer Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-video-editing-solutions-for-32-bit-windows-our-top-picks-for-2024/"><u>New Free Video Editing Solutions for 32-Bit Windows Our Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-creative-with-free-sound-effects-a-final-cut-pro-users-guide-to-enhancing-audio-for-2024/"><u>New Get Creative with Free Sound Effects A Final Cut Pro Users Guide to Enhancing Audio for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-glowing-complexions-without-plugins-fcpx-video-editing-tips-for-2024/"><u>New Glowing Complexions without Plugins FCPX Video Editing Tips for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-cropping-images-in-final-cut-pro-x-a-comprehensive-guide/"><u>New In 2024, Cropping Images in Final Cut Pro X A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-your-own-3d-videos-top-tools-for-beginners-and-pros-alike/"><u>New In 2024, Make Your Own 3D Videos Top Tools for Beginners and Pros Alike</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-reaction-video-mastery-top-ios-and-android-apps/"><u>New In 2024, Reaction Video Mastery Top iOS and Android Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-rotate-videos-on-iphone-for-free-top-5-essential-tools/"><u>New In 2024, Rotate Videos on iPhone for Free Top 5 Essential Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-art-of-audio-fading-2-expert-tips-for-final-cut-pro-users/"><u>New In 2024, The Art of Audio Fading 2 Expert Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-gopro-video-editing-software-alternatives/"><u>New In 2024, Top GoPro Video Editing Software Alternatives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-frames-per-second-for-languid-visuals-for-2024/"><u>Ultimate Frames Per Second for Languid Visuals for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-xr-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone XR</u></a></li>
+</ul></div>
+

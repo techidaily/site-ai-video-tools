@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-09-29T16:40:16.300Z
-updated: 2024-10-06T19:24:23.686Z
+date: 2024-10-06T12:10:37.424Z
+updated: 2024-10-11T18:51:43.942Z
 tags: 
   - video editing software
   - video editing
@@ -101,6 +101,13 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -110,10 +117,10 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
@@ -123,10 +130,16 @@ In the home screen, import the video that requires the edits and then tap the �
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
@@ -140,13 +153,6 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -167,10 +173,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +202,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024s-landmark-facebook-strategies-what-to-keep-an-eye-on/"><u>[New] 2024'S Landmark Facebook Strategies – What to Keep an Eye On</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-assessing-64128gbs-video-storing-potential/"><u>[New] Assessing 64/128GB's Video-Storing Potential</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-srt-unveiled-core-concepts-and-practical-info/"><u>[New] SRT Unveiled Core Concepts and Practical Info</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cleanest-recording-app-ad-aware-edition/"><u>[Updated] 2024 Approved Cleanest Recording App - Ad-Aware Edition</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-drone-footage-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Drone Footage A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tune-tracker-next-gen-audio/"><u>[Updated] 2024 Approved Tune Tracker Next-Gen Audio</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-potplayer-plus-windows-media-counterpart/"><u>2024 Approved PotPlayer Plus Windows Media Counterpart</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-your-online-presence-using-manycam-the-leading-choice-in-live-video-editing-tools-and-fake-backgrounds/"><u>Enhance Your Online Presence Using ManyCam – The Leading Choice in Live Video Editing Tools & Fake Backgrounds</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-wevideo-your-go-to-platform-for-online-video-editing-for-2024/"><u>New WeVideo Your Go-To Platform for Online Video Editing for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-capture-the-moment-freezing-frames-in-videos-with-ease/"><u>Updated 2024 Approved Capture the Moment Freezing Frames in Videos with Ease</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-how-to-create-cinematic-look-video-with-final-cut-pro-x/"><u>Updated 2024 Approved How to Create Cinematic Look Video with Final Cut Pro X</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-create-stunning-videos-top-windows-10-movie-makers-for-2024/"><u>Updated Create Stunning Videos Top Windows 10 Movie Makers for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-whiteboard-animation-made-easy-top-5-hand-drawn-video-creators/"><u>Updated In 2024, Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-professional-grade-glitch-video-editors-paid-and-free-solutions-compared/"><u>Updated Professional-Grade Glitch Video Editors Paid and Free Solutions Compared</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-stop-wasting-time-check-out-our-verified-filmora-coupons/"><u>Updated Stop Wasting Time Check Out Our Verified Filmora Coupons</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-converting-webm-to-mp3-top-tools-for-2024/"><u>Updated The Ultimate Guide to Converting WebM to MP3 Top Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeo-video-farewells-tips-and-tricks/"><u>[Updated] Mastering Vimeo Video Farewells Tips and Tricks</u></a></li>
+<li><a href="https://discover-best.techidaily.com/accelerate-hevc-h265-encoding-tips-and-tricks-for-faster-processing/"><u>Accelerate HEVC H.265 Encoding – Tips and Tricks for Faster Processing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androidiphones-ultimate-guide-top-10-free-photo-overlay-hacks/"><u>Android/iPhone's Ultimate Guide Top 10 Free Photo Overlay Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-tunetruthseeker-reaction-to-songs-and-speech/"><u>In 2024, TuneTruthseeker Reaction to Songs and Speech</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-skip-reddit-get-your-filmora-coupon-code-fast-for-2024/"><u>New Skip Reddit, Get Your Filmora Coupon Code Fast for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-streamline-your-video-editing-workflow-on-mac-with-mkvtoolnix-for-2024/"><u>New Streamline Your Video Editing Workflow on Mac with MKVtoolnix for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark-for-2024/"><u>Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/state-of-the-art-methods-for-documenting-digital-education/"><u>State-of-the-Art Methods for Documenting Digital Education</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s21-fe-5g-2023-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S21 FE 5G (2023) Phone Hassle-Free</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unlock-the-power-of-slow-motion-a-beginners-guide-to-windows-live-movie-maker-for-2024/"><u>Unlock the Power of Slow Motion A Beginners Guide to Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cutting-edge-mkv-editing-tools-for-mac/"><u>Updated 2024 Approved Cutting-Edge MKV Editing Tools for Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-replace-vsdc-with-these-top-notch-video-editors-on-mac/"><u>Updated In 2024, Replace VSDC with These Top-Notch Video Editors on Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-top-10-webm-to-mp4-converters-for-flawless-video-conversion/"><u>Updated The Top 10 WebM to MP4 Converters for Flawless Video Conversion</u></a></li>
 </ul></div>
 

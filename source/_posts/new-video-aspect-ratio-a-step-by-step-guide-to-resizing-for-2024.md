@@ -1,7 +1,7 @@
 ---
 title: New Video Aspect Ratio A Step-by-Step Guide to Resizing for 2024
-date: 2024-08-22T09:28:08.816Z
-updated: 2024-08-23T09:28:08.816Z
+date: 2024-10-09T12:51:49.367Z
+updated: 2024-10-12T13:58:43.845Z
 tags: 
   - video editing software
   - video editing
@@ -54,11 +54,31 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -79,8 +99,12 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -89,9 +113,6 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
 Although the basic concept of both types of masking is same, the options available under each can be used to produce effective outputs.
@@ -143,16 +164,17 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -160,3 +182,24 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vanish-without-a-trace-tips-for-anonymous-instagram-live/"><u>[Updated] In 2024, Vanish Without A Trace Tips for Anonymous Instagram Live</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-voiceverse-review-audio-deep-dive/"><u>[Updated] VoiceVerse Review Audio Deep Dive</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ahana-varifran-min-skarmaktelse-funktioner-inte-gar-att-korrigera-13-utvecklingslage/"><u>Åhåna Varifrån Min Skärmaktelse Funktioner Inte Går Att Korrigera: [13 Utvecklingsläge]</u></a></li>
+<li><a href="https://win-great.techidaily.com/comprehensive-step-by-step-tutorial-on-complete-iphone-data-backup-and-restoration/"><u>Comprehensive Step-by-Step Tutorial on Complete iPhone Data Backup & Restoration</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortless-file-management-how-to-use-folder-chooser-dialogs-effectively/"><u>Effortless File Management: How to Use Folder Chooser Dialogs Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-the-persistent-launch-freeze-in-far-cry-5/"><u>Expert Tips for Resolving the Persistent Launch Freeze in Far Cry 5</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-enhance-image-clarity-a-comprehensive-guide-for-iphone-users/"><u>How to Enhance Image Clarity: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-editors-workshop-enhancing-your-youtube-video-visibility/"><u>In 2024, Editor's Workshop Enhancing Your Youtube Video Visibility</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-16-top-rated-avi-video-cutting-tools-for-windows-mac-android-and-iphone/"><u>New In 2024, 16 Top-Rated AVI Video Cutting Tools for Windows, MAC, Android, and iPhone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-beam-local-content-to-chromecast-easy-setup-for-windows-mac-android-and-ios-users/"><u>New In 2024, Beam Local Content to Chromecast Easy Setup for Windows, Mac, Android, and iOS Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-bring-your-vision-to-life-10-best-music-video-production-companies/"><u>New In 2024, Bring Your Vision to Life 10 Best Music Video Production Companies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-revolutionize-your-content-10-top-rated-animated-text-generators/"><u>New In 2024, Revolutionize Your Content 10 Top-Rated Animated Text Generators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-top-free-mov-video-rotation-apps/"><u>New In 2024, The Top Free MOV Video Rotation Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-adobe-premiere-shortcut-guide-20-essentials/"><u>New In 2024, The Ultimate Adobe Premiere Shortcut Guide 20 Essentials</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-time-lapse-mastery-a-step-by-step-guide-to-final-cut-pro/"><u>New In 2024, Time Lapse Mastery A Step-by-Step Guide to Final Cut Pro</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2024-10-02T20:31:56.088Z
-updated: 2024-10-06T16:19:15.581Z
+date: 2024-10-10T12:31:39.692Z
+updated: 2024-10-12T12:14:05.341Z
 tags: 
   - video editing software
   - video editing
@@ -54,13 +54,6 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
@@ -68,10 +61,10 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -93,10 +86,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -106,6 +99,13 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -158,10 +158,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -179,17 +179,14 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-pick-ultimate-google-cardboard-virtual-reality-experiences/"><u>[Updated] In 2024, Top Pick Ultimate Google Cardboard Virtual Reality Experiences</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/harness-advanced-customer-insights-with-cookiebot-technology-integration/"><u>Harness Advanced Customer Insights with Cookiebot Technology Integration</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/inside-toms-computer-chronicles-unveiling-the-secrets-of-advanced-hardware/"><u>Inside Tom's Computer Chronicles: Unveiling the Secrets of Advanced Hardware</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-f34-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy F34 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/professionele-vob-to-flv-konvertierung-onlinelastigheid-gratis-bij-movavi/"><u>Professionele Vob-to-FLV Konvertierung: Onlinelastigheid Gratis Bij Movavi</u></a></li>
-<li><a href="https://fox-access.techidaily.com/sky-high-drone-competition-guide-plus-5-innovative-fpv-systems-for-2024/"><u>Sky High Drone Competition Guide + 5 Innovative FPV Systems for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/start-streaming-with-ease-instagram-live-tips/"><u>Start Streaming with Ease Instagram Live Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-battlenee-error-code-1450-resolve-failed-driver-loading-problems/"><u>Troubleshooting Battlenee Error Code 1450: Resolve Failed Driver Loading Problems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-16-free-avi-video-rotation-tools-for-seamless-editing-multi-platform-for-2024/"><u>Updated 16 Free AVI Video Rotation Tools for Seamless Editing Multi-Platform for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-split-screen-video-makers-the-best-ios-and-android-apps/"><u>Updated In 2024, Split Screen Video Makers The Best iOS and Android Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-online-tools-to-create-fake-faces-for-free/"><u>Updated In 2024, Top Online Tools to Create Fake Faces for Free</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-s-most-cost-effective-video-editing-tools-for-2024/"><u>Updated S Most Cost-Effective Video Editing Tools for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-methods-for-controlling-video-pace-on-snapchat/"><u>[New] Optimal Methods for Controlling Video Pace on Snapchat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-breakdown-free2x-webcam-tools-insight/"><u>[Updated] 2024 Approved Expert Breakdown Free2X WebCam Tools Insight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-network-drivers-for-intel-and-wi-fi-adapters-on-windows-11-10-and-7/"><u>Free Download: Compatible Network Drivers for Intel and Wi-Fi Adapters on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-using-auto-gpt-without-access-to-gpt-4-worth-your-time-and-resources/"><u>Is Using Auto-GPT Without Access to GPT-4 Worth Your Time and Resources?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/optimizing-visuals-editing-videos-with-storyremix-and-windows-11-photos-for-2024/"><u>Optimizing Visuals Editing Videos with StoryRemix and Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-videopad-video-editor-review-the-best-choice-for-your-video-editing-needs/"><u>Updated 2024 Approved Videopad Video Editor Review The Best Choice for Your Video Editing Needs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-convert-your-videos-top-mp4-to-mp3-converters-for-any-device-for-2024/"><u>Updated Convert Your Videos Top MP4 to MP3 Converters for Any Device for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/vsdc-video-editor-for-mac-not-working-try-these-alternatives-for-2024/"><u>VSDC Video Editor for Mac Not Working? Try These Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/wevideo-the-simple-way-to-make-professional-looking-videos-for-2024/"><u>WeVideo The Simple Way to Make Professional-Looking Videos for 2024</u></a></li>
 </ul></div>
 

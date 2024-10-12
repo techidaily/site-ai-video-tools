@@ -1,7 +1,7 @@
 ---
 title: Resize Your Video Tips and Tricks for Perfect Dimensions for 2024
-date: 2024-10-02T20:33:18.798Z
-updated: 2024-10-06T18:40:32.801Z
+date: 2024-10-07T20:00:08.886Z
+updated: 2024-10-12T05:25:48.634Z
 tags: 
   - video editing software
   - video editing
@@ -54,13 +54,6 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
@@ -68,10 +61,10 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -92,6 +85,19 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -101,10 +107,10 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -158,10 +164,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -179,20 +185,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[Updated] In 2024, Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1726029810414-20249/"><u>【2024年】お使い推奨！たった今発表された、あなたを驚かせる9つの無料ビデオプレーヤー</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/maximize-your-content-strategy-understanding-instagrams-video-limits/"><u>Maximize Your Content Strategy Understanding Instagram's Video Limits</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-melody-and-motion-crafting-music-video-beats-that-drive-visual-narratives-forward/"><u>New In 2024, Melody & Motion Crafting Music Video Beats That Drive Visual Narratives Forward</u></a></li>
-<li><a href="https://fox-search.techidaily.com/seamless-itunes-format-converter-turn-any-video-into-itunes-ready-media-files/"><u>Seamless iTunes Format Converter: Turn Any Video Into iTunes Ready Media Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-deleted-messages-across-iphone-models-iphone-5-4s-6-etc/"><u>Step-by-Step Guide: Retrieving Deleted Messages Across iPhone Models (iPhone 5, 4S, 6, Etc.)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-blueprint-for-becoming-a-trending-force-on-facebook/"><u>The Blueprint for Becoming a Trending Force on Facebook</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-editing-gopro-videos-top-studio-alternatives-for-2024/"><u>The Ultimate Guide to Editing GoPro Videos Top Studio Alternatives for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-premiere-elements-competitors-you-need-to-know-2023-update/"><u>Updated 2024 Approved 10 Premiere Elements Competitors You Need to Know 2023 Update</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-transform-your-videos-with-avs-mac-editor/"><u>Updated 2024 Approved Transform Your Videos with AVS Mac Editor</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-endless-fun-top-10-free-online-video-loop-generators-for-2024/"><u>Updated Endless Fun Top 10 Free Online Video Loop Generators for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-beauty-essentials-how-to-achieve-smooth-skin-without-plugins/"><u>Updated In 2024, FCPX Beauty Essentials How to Achieve Smooth Skin Without Plugins</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-shrink-your-videos-top-rated-free-compression-software-for-windows-10-for-2024/"><u>Updated Shrink Your Videos Top-Rated Free Compression Software for Windows 10 for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/whats-the-best-video-editor-for-mac-in-weve-got-you-covered-for-2024/"><u>Whats the Best Video Editor for Mac in ? Weve Got You Covered for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-engineering-temporal-anomalies-on-camera-setups/"><u>2024 Approved Engineering Temporal Anomalies on Camera Setups</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-understanding-key-aspects-of-gif-animation/"><u>2024 Approved Understanding Key Aspects of GIF Animation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquering-the-battlefield-tips-and-tricks-for-pokemon-unite-enthusiasts/"><u>Conquering the Battlefield: Tips and Tricks for Pokémon Unite Enthusiasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-sony-xperia-1-v-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Sony Xperia 1 V Fingerprint Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-alan-wake-2-stability-fix-your-game-crash-issues-now/"><u>Master Alan Wake 2 Stability: Fix Your Game Crash Issues Now!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlock-pro-level-video-editing-on-windows-8-and-beyond/"><u>New In 2024, Unlock Pro-Level Video Editing on Windows 8 and Beyond</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-pros-and-cons-of-final-cut-pro-vs-final-cut-express-for-2024/"><u>New The Pros and Cons of Final Cut Pro vs Final Cut Express for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/streamlined-performance-meets-miniaturization-introducing-the-atomman-x7-ti-by-minisforum-now-with-intel-core-9-and-ti-touch-display/"><u>Streamlined Performance Meets Miniaturization: Introducing the AtomMan X7 Ti by MinisForum, Now with Intel Core 9 and Ti-Touch Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-apple-a-deep-dive-into-the-next-event-when-is-it-happening-and-what-to-expect/"><u>The Future of Apple? A Deep Dive Into the Next Event – When Is It Happening & What to Expect</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-smoother-skin-in-minutes-a-plugin-free-fcpx-editing-technique/"><u>Updated 2024 Approved Smoother Skin in Minutes A Plugin-Free FCPX Editing Technique</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-pinnacle-studio-alternatives-on-mac/"><u>Updated 2024 Approved The Ultimate Guide to Pinnacle Studio Alternatives on Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-android-video-editing-on-a-budget-top-free-and-paid-apps-for-2024/"><u>Updated Android Video Editing on a Budget Top Free and Paid Apps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-basic-to-brilliant-adding-effects-in-fcp-x-with-3-simple-steps/"><u>Updated In 2024, From Basic to Brilliant Adding Effects in FCP X with 3 Simple Steps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-split-trim-and-cut-avi-videos-with-these-top-notch-editors-for-2024/"><u>Updated Split, Trim, and Cut AVI Videos with These Top-Notch Editors for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/win11s-top-5-no-cost-screen-recorders-updated-guide/"><u>Win11's Top 5 No-Cost Screen Recorders - Updated Guide</u></a></li>
 </ul></div>
 
