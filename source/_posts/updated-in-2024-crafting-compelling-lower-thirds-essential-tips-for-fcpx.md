@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Crafting Compelling Lower Thirds Essential Tips for FCPX
-date: 2024-08-22T09:24:40.748Z
-updated: 2024-08-23T09:24:40.748Z
+date: 2024-10-16T01:38:52.018Z
+updated: 2024-10-17T22:01:25.374Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,13 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -85,18 +92,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -113,9 +108,6 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -130,18 +122,12 @@ In the home screen, import the video that requires the edits and then tap the �
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
@@ -149,11 +135,19 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -180,13 +174,24 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -194,3 +199,21 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-link-audio-to-facebook-profiles-iphoneandroid/"><u>[Updated] How to Link Audio to Facebook Profiles (iPhone/Android)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-troubleshooting-tips-for-win-11s-stubborn-photos-app/"><u>[Updated] In 2024, Troubleshooting Tips for Win 11'S Stubborn Photos App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-the-view-ranking-and-review-of-top-11-bridge-cameras/"><u>[Updated] Master the View Ranking & Review of Top 11 Bridge Cameras</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-peak-cpu-utilization-from-isolated-audio-graphics-in-windows/"><u>Diagnose and Fix Peak CPU Utilization From Isolated Audio Graphics in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-rejuvenate-samsung-device-connectivity-by-refreshing-usb-drivers/"><u>How To Rejuvenate Samsung Device Connectivity by Refreshing USB Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-a14-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy A14 4G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-attention-grabber-composer/"><u>In 2024, Top Attention Grabber Composer</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-oppo-reno-9a-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Oppo Reno 9A</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-ditch-the-search-get-exclusive-filmora-discounts-here/"><u>Updated 2024 Approved Ditch the Search Get Exclusive Filmora Discounts Here</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-flat-to-fabulous-converting-videos-for-vr-with-ease/"><u>Updated 2024 Approved From Flat to Fabulous Converting Videos for VR with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-windows-10-webcam-recording-made-easy-top-10-software/"><u>Updated Windows 10 Webcam Recording Made Easy Top 10 Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/whiteboard-animation-made-easy-top-5-hand-drawn-video-creators-for-2024/"><u>Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/windows-live-movie-maker-tutorial-creating-stunning-slow-motion-videos-for-2024/"><u>Windows Live Movie Maker Tutorial Creating Stunning Slow Motion Videos for 2024</u></a></li>
+</ul></div>
+

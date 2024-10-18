@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial
-date: 2024-10-08T21:37:21.142Z
-updated: 2024-10-11T16:49:55.483Z
+date: 2024-10-15T17:26:02.419Z
+updated: 2024-10-17T23:22:15.634Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -131,10 +131,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -150,10 +150,10 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -167,16 +167,10 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -194,22 +188,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-channel-growth-blueprint-selecting-between-studio-and-latest-beta/"><u>[New] Channel Growth Blueprint Selecting Between Studio and Latest Beta</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-iptv-recording-on-various-platforms/"><u>[New] IPTV Recording on Various Platforms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-inside-the-latest-youtube-income-regulations/"><u>[Updated] In 2024, Inside the Latest YouTube Income Regulations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>2024 Approved Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-amber-alert-notifications-on-your-android-device/"><u>Disabling AMBER Alert Notifications on Your Android Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/frolicsome-media-repository-for-2024/"><u>Frolicsome Media Repository for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-construct-a-custom-projector-screen-for-perfect-movie-nights/"><u>How to Construct a Custom Projector Screen for Perfect Movie Nights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c12-plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C12 Plus to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-free-video-rotators-for-3gp-files-a-comprehensive-list-for-2024/"><u>New The Best Free Video Rotators for 3GP Files A Comprehensive List for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-video-polisher-refine-your-clips-into-stunning-works-of-art/"><u>New The Video Polisher Refine Your Clips Into Stunning Works of Art</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-rated-avi-file-combiners-10-free-solutions-for-you/"><u>Updated 2024 Approved Top-Rated AVI File Combiners 10 Free Solutions for You</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-a-closer-look-at-avs-video-editor-2023-features-performance-and-value-for-2024/"><u>Updated A Closer Look at AVS Video Editor 2023 Features, Performance, and Value for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-video-merger-software-without-watermarks-for-2024/"><u>Updated Best Free Video Merger Software Without Watermarks for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-revolutionize-your-job-search-best-video-resume-software-free-templates/"><u>Updated In 2024, Revolutionize Your Job Search Best Video Resume Software (Free Templates)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-safe-and-secure-top-10plus-websites-to-download-games-online/"><u>Updated Safe and Secure Top 10+ Websites to Download Games Online</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-quicktime-video-editing-guide-for-mac-os-users/"><u>Updated The Ultimate QuickTime Video Editing Guide for Mac OS Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-iconic-logos-for-podcasts-standout-strategies/"><u>[New] In 2024, Iconic Logos for Podcasts Standout Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebooks-premier-10-music-clip-showcase/"><u>Facebook's Premier 10 Music Clip Showcase</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 6 Plus?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-organizing-elements-for-dynamic-youtube-videos/"><u>In 2024, Organizing Elements for Dynamic YouTube Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-hottest-bokeh-effect-apps-for-mobile-photography-for-2024/"><u>New S Hottest Bokeh Effect Apps for Mobile Photography for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/revolutionize-your-video-editing-workflow-top-adobe-premiere-plugins-free-trial-for-2024/"><u>Revolutionize Your Video Editing Workflow Top Adobe Premiere Plugins (Free Trial) for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/sony-vegas-too-expensive-affordable-alternatives-for-windows-for-2024/"><u>Sony Vegas Too Expensive? Affordable Alternatives for Windows for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-choosing-the-best-explainer-video-software-for-2024/"><u>The Ultimate Guide to Choosing the Best Explainer Video Software for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-tips-for-stabilizing-your-dota-2-gameplay/"><u>Ultimate Troubleshooting Tips for Stabilizing Your Dota 2 Gameplay</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mobile-video-editing-made-easy-top-text-animation-apps/"><u>Updated In 2024, Mobile Video Editing Made Easy Top Text Animation Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-proxy-perfection-the-top-8-video-editing-apps-for-4k/"><u>Updated In 2024, Proxy Perfection The Top 8 Video Editing Apps for 4K</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-industry-standard-for-mac-video-editing-adobe-premiere-pro/"><u>Updated In 2024, The Industry Standard for Mac Video Editing Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m2p-mpeg-movavi/"><u>오피스용 무세금 M2P MPEG 데이터를 자동으로 변환하는 Movavi - 단순한 방법</u></a></li>
 </ul></div>
 

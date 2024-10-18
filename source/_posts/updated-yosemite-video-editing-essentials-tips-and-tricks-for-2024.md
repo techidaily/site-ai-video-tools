@@ -1,7 +1,7 @@
 ---
 title: Updated Yosemite Video Editing Essentials Tips and Tricks for 2024
-date: 2024-10-01T21:08:06.199Z
-updated: 2024-10-06T16:12:31.632Z
+date: 2024-10-12T22:45:54.380Z
+updated: 2024-10-18T08:24:47.452Z
 tags: 
   - video editing software
   - video editing
@@ -37,10 +37,10 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
@@ -52,6 +52,13 @@ When all the media files have been imported to the software, drag and drop them 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Edit and enhance audio**
 
@@ -66,17 +73,29 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -84,13 +103,6 @@ This app also allows you to add cool transitions and other effects to your video
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -111,15 +123,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-to-studio-quality-free-converters-for-wav-format/"><u>[New] In 2024, From YouTube to Studio Quality Free Converters for WAV Format</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premium-mobile-and-desktop-avc-viewer-with-ease/"><u>[Updated] In 2024, Premium Mobile and Desktop AVC Viewer with Ease</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-top-15-ff-extensions-for-easy-fb-video-download-for-2024/"><u>[Updated] Top 15 FF Extensions For Easy FB Video Download for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-challenges-ev-performance-in-extreme-thermal-environments/"><u>Navigating the Challenges: EV Performance in Extreme Thermal Environments</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-notch-free-video-splitters-our-favorites/"><u>New In 2024, Top-Notch Free Video Splitters Our Favorites</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-make-a-movie-online-for-free-top-9-options/"><u>Updated 2024 Approved Make a Movie Online for Free Top 9 Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-make-your-own-cartoons-top-10-mobile-video-editors/"><u>Updated 2024 Approved Make Your Own Cartoons Top 10 Mobile Video Editors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-windows-movie-maker-essentials-editing-and-enhancing-your-videos/"><u>Updated 2024 Approved Windows Movie Maker Essentials Editing and Enhancing Your Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-a-compreranly-approach-to-high-quality-ps3-video-capture-for-2024/"><u>[New] A Compreranly Approach to High-Quality PS3 Video Capture for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-groundbreaking-action-adventure-masterpieces-top-10/"><u>[Updated] In 2024, Groundbreaking Action-Adventure Masterpieces (Top 10)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ps2-on-ios-selecting-the-best-emulators-for-2024/"><u>[Updated] PS2 on iOS Selecting the Best Emulators for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-crafting-engaging-dialogue-in-screenplays/"><u>2024 Approved Crafting Engaging Dialogue in Screenplays</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/canon-speedlite-430ex-iii-rt-the-ultimate-flash-solution/"><u>Canon Speedlite 430EX III-RT - The Ultimate Flash Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-social-presence-through-chatgpt-writing-tips/"><u>Enhancing Your Social Presence Through ChatGPT Writing Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-digital-inspiration-to-print-perfection-using-chatgpt-for-poetry-book-authorship/"><u>From Digital Inspiration to Print Perfection: Using ChatGPT for Poetry Book Authorship</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/screen-recording-101-using-filmora-scrn-to-capture-your-desktop-for-2024/"><u>Screen Recording 101 Using Filmora Scrn to Capture Your Desktop for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-best-tools-for-crafting-unforgettable-highlight-reels-for-2024/"><u>The Best Tools for Crafting Unforgettable Highlight Reels for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-in-gimbals-to-elevate-your-drone-imagery-for-2024/"><u>Top Picks in Gimbals to Elevate Your Drone Imagery for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-trick-for-removing-stubborn-folders-from-windows-11-and-10-using-revo/"><u>Ultimate Trick for Removing Stubborn Folders From Windows 11 and 10 Using Revo</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-kids-in-the-directors-chair-a-fun-and-interactive-guide-to-movie-making/"><u>Updated 2024 Approved Kids in the Directors Chair A Fun and Interactive Guide to Movie Making</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-stunning-4k-video-clips-you-need-to-see/"><u>Updated In 2024, Stunning 4K Video Clips You Need to See</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-transform-your-memories-video-editing-secrets-for-beginners/"><u>Updated In 2024, Transform Your Memories Video Editing Secrets for Beginners</u></a></li>
 </ul></div>
 

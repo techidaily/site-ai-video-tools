@@ -1,7 +1,7 @@
 ---
 title: New Unlock FCP X Pro-Level Green Screen Editing Techniques for 2024
-date: 2024-08-22T09:21:16.527Z
-updated: 2024-08-23T09:21:16.527Z
+date: 2024-10-15T09:28:27.937Z
+updated: 2024-10-18T06:54:07.134Z
 tags: 
   - video editing software
   - video editing
@@ -66,6 +66,13 @@ Click the **Sample Color** icon. This allows fine-tuning the selection of the ba
 
 ![fx chroma 04](https://images.wondershare.com/multimedia/fx-chroma-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the green-screen image, drag to select a representative section of the background. I try to get close to the face, but not so close that I accidentally select loose hair or skin.
 
 Your key should look better immediately. Most of the time, you can probably stop here. But there are three other adjustments that can make your key look even better:
@@ -75,6 +82,13 @@ Your key should look better immediately. Most of the time, you can probably stop
 * Light wrap
 
 ![fx chroma 06](https://images.wondershare.com/multimedia/fx-chroma-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Click the **Matte** button to display your key as a white foreground on a black background.
 
@@ -93,6 +107,13 @@ If an edge is too pronounced, or needs help, click the **Edges** icon.
 Then, click and drag a line from the foreground to the background in the Canvas. Drag the midpoint slider (where my cursor is) until the edge looks the best it can. Different video formats make this easy (ProRes), while others (HDV, avchd) make this much harder. Perfection is impossible – do the best you can.
 
 ![fx chroma 09a](https://images.wondershare.com/multimedia/fx-chroma-09a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Final Cut provides four additional tweaks at the bottom of the keyer filter:
 
@@ -113,18 +134,32 @@ Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag 
 
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When you are done, you have a great looking key!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Clean up the Image with a Garbage Mask
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
@@ -132,9 +167,6 @@ Once you pull the key – which is film-speak for creating a green-screen shot, 
 
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
 
 **NOTE**: The Mask effect should always be added after the Keying effect, so that the Mask is below the Keyer in the Inspector.
@@ -145,9 +177,6 @@ Then, drag each of the four circles to create a shape such that your foreground 
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create a Chroma-Key in easier ways?
 
 Chroma-key, or green screen, is an essential part of every editor to make all kinds of effects. Is there any way to make this sophisticated procedure easier way? Yes, try Filmora.
@@ -158,9 +187,6 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
@@ -168,20 +194,19 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -189,3 +214,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-revolutionizing-video-creation-with-magix-video-pro-x-for-2024/"><u>[Updated] Revolutionizing Video Creation with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-c55-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme C55 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-proposed-apple-electric-car-costs-release-schedule-features-and-latest-rumors/"><u>All You Need to Know About the Proposed Apple Electric Car – Costs, Release Schedule, Features, and Latest Rumors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>In 2024, The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-tips-and-tricks-to-elevate-your-youtube-production-through-subtitle-integration/"><u>In 2024, Tips and Tricks to Elevate Your YouTube Production Through Subtitle Integration</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-and-easy-mov-video-cutting-solutions/"><u>New In 2024, Free and Easy MOV Video Cutting Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-how-to-anonymize-faces-in-media-a-beginners-guide-to-free-apps/"><u>New In 2024, How to Anonymize Faces in Media A Beginners Guide to Free Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-motion-capture-apps-android-and-ios-essentials/"><u>New In 2024, Motion Capture Apps Android and iOS Essentials</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-rotate-resize-and-refine-top-10-online-video-editors/"><u>New In 2024, Rotate, Resize, and Refine Top 10 Online Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-speed-up-your-video-workflow-quicktime-player-tips-for-windows-and-mac-users/"><u>New In 2024, Speed Up Your Video Workflow QuickTime Player Tips for Windows and Mac Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-steps-for-extracting-auditory-elements-from-mp4-files/"><u>New In 2024, Steps for Extracting Auditory Elements From MP4 Files</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-rapid-video-trimming-on-mac-updated-2023/"><u>New In 2024, The Ultimate Guide to Rapid Video Trimming on Mac (Updated 2023)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-5-best-video-editing-apps-for-ipad/"><u>New In 2024, The Ultimate List 5 Best Video Editing Apps for iPad</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-10-free-video-editing-software-for-rotating-and-flipping-clips/"><u>New In 2024, Top 10 Free Video Editing Software for Rotating and Flipping Clips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/shader-compilation-woes-in-call-of-duty-black-ops-cold-war-heres-how-you-can-resolve-them/"><u>Shader Compilation Woes in Call of Duty: Black Ops Cold War? Here's How You Can Resolve Them.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/the-ultimate-guide-to-tablo-4th-generation-dvr-access-unlimited-local-tv-for-free-with-a-few-important-considerations/"><u>The Ultimate Guide to Tablo (4Th Generation) DVR: Access Unlimited Local TV for Free with a Few Important Considerations</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-10-06T12:10:37.424Z
-updated: 2024-10-11T18:51:43.942Z
+date: 2024-10-14T20:04:00.237Z
+updated: 2024-10-17T21:34:13.395Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,13 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -85,6 +92,13 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -101,13 +115,6 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -116,31 +123,11 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
 
@@ -173,10 +160,16 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -186,6 +179,13 @@ Thus, this article had given you enlightening discussion about the lower third e
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -202,18 +202,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeo-video-farewells-tips-and-tricks/"><u>[Updated] Mastering Vimeo Video Farewells Tips and Tricks</u></a></li>
-<li><a href="https://discover-best.techidaily.com/accelerate-hevc-h265-encoding-tips-and-tricks-for-faster-processing/"><u>Accelerate HEVC H.265 Encoding – Tips and Tricks for Faster Processing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/androidiphones-ultimate-guide-top-10-free-photo-overlay-hacks/"><u>Android/iPhone's Ultimate Guide Top 10 Free Photo Overlay Hacks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-tunetruthseeker-reaction-to-songs-and-speech/"><u>In 2024, TuneTruthseeker Reaction to Songs and Speech</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-skip-reddit-get-your-filmora-coupon-code-fast-for-2024/"><u>New Skip Reddit, Get Your Filmora Coupon Code Fast for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-streamline-your-video-editing-workflow-on-mac-with-mkvtoolnix-for-2024/"><u>New Streamline Your Video Editing Workflow on Mac with MKVtoolnix for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark-for-2024/"><u>Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/state-of-the-art-methods-for-documenting-digital-education/"><u>State-of-the-Art Methods for Documenting Digital Education</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s21-fe-5g-2023-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S21 FE 5G (2023) Phone Hassle-Free</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/unlock-the-power-of-slow-motion-a-beginners-guide-to-windows-live-movie-maker-for-2024/"><u>Unlock the Power of Slow Motion A Beginners Guide to Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cutting-edge-mkv-editing-tools-for-mac/"><u>Updated 2024 Approved Cutting-Edge MKV Editing Tools for Mac</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-replace-vsdc-with-these-top-notch-video-editors-on-mac/"><u>Updated In 2024, Replace VSDC with These Top-Notch Video Editors on Mac</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-top-10-webm-to-mp4-converters-for-flawless-video-conversion/"><u>Updated The Top 10 WebM to MP4 Converters for Flawless Video Conversion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlocking-the-secrets-of-ios-visual-data-repository/"><u>[New] In 2024, Unlocking the Secrets of IO's Visual Data Repository</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-prime-gopro-movie-maker-list-for-2024/"><u>[New] Prime GoPro Movie Maker List for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-diving-into-samsung-galaxy-s8-the-ultra-hd-milestone/"><u>[Updated] Diving Into Samsung Galaxy S8 The Ultra HD Milestone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-techniques-for-flawless-adobe-audio/"><u>[Updated] Expert Techniques for Flawless Adobe Audio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-5-best-bandicam-mac-alternatives/"><u>2024 Approved 5 Best Bandicam Mac Alternatives</u></a></li>
+<li><a href="https://win-unique.techidaily.com/guide-ultime-comment-retrouver-vos-photos-de-selfie-effacees-sur-windows-et-ios/"><u>Guide Ultime : Comment Retrouver Vos Photos De Selfie Effacées Sur Windows Et iOS ?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-by-step-guide-to-implementing-borders-on-instagram-images/"><u>In 2024, Step-by-Step Guide to Implementing Borders on Instagram Images</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-3-simple-ways-to-record-video-games/"><u>New In 2024, Unleash Your Creativity 3 Simple Ways to Record Video Games</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/petcube-cam-review/"><u>Petcube Cam Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-online-video-teaser-creators/"><u>Updated 2024 Approved Top Online Video Teaser Creators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-video-editors-for-webm-files-2023-edition-for-2024/"><u>Updated Best Free Video Editors for WebM Files 2023 Edition for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pro-x-tutorial-cropping-images-for-video-editing-for-2024/"><u>Updated Final Cut Pro X Tutorial Cropping Images for Video Editing for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mavericks-mp4-video-editor-edit-and-enhance-your-videos/"><u>Updated In 2024, Mavericks MP4 Video Editor Edit and Enhance Your Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-of-split-screen-video-apps-for-mobile/"><u>Updated In 2024, The Ultimate List of Split Screen Video Apps for Mobile</u></a></li>
 </ul></div>
 

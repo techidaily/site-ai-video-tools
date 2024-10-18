@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Shrink Your MPEG2 Videos Download and Use VirtualDub Today
-date: 2024-08-15T01:14:16.069Z
-updated: 2024-08-16T01:14:16.069Z
+date: 2024-10-13T03:43:12.892Z
+updated: 2024-10-17T16:28:40.440Z
 tags: 
   - video editing software
   - video editing
@@ -30,38 +30,46 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -72,9 +80,6 @@ Now it's the time to start processing your video, here is how:
 3. Select where you want to save the AVI and name it.
 4. Click Save.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 The VirtualDub MPEG-2 needs some time to compress your video. The larger the video file is, the longer. But VirtualDub MPEG2 is a fast video processing software. Take a cup of coffee and relax. Once finished, use your favorite video player to see the compressing result.
@@ -82,11 +87,15 @@ The VirtualDub MPEG-2 needs some time to compress your video. The larger the vid
 If you don't like VirtualDub MPEG-2 and would like to find some more powerful editors, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which supports Windows and Mac OS with high compatibility of input and output formats. Wizard-style interface and intuitive design will help you to compress video or any other editing operation easily and smoothly. Try it today by downloading the free trial version below.
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -94,11 +103,27 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/levate-your-content-strategy-with-social-blade-and-youtube-stats/"><u>[New] Elevate Your Content Strategy with Social Blade and YouTube Stats</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-edge-free-audio-for-youtube-visionaries-for-2024/"><u>[Updated] Cutting-Edge Free Audio for YouTube Visionaries for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/addressing-rpcrt4dll-failures-efficient-solutions-and-preventive-measures/"><u>Addressing rpcrt4.dll Failures - Efficient Solutions and Preventive Measures</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-motorola-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Motorola ?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-break-free-from-windows-11-endless-repair-cycle-step-by-step-guide/"><u>How to Break Free From Windows 11 Endless Repair Cycle - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-viral-fame-boosting-your-videos-popularity-on-youtube/"><u>Mastering Viral Fame Boosting Your Video's Popularity on YouTube</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-merge-edit-and-share-top-video-collage-apps-for-iphone-and-ipad-users-for-2024/"><u>New Merge, Edit, and Share Top Video Collage Apps for iPhone and iPad Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/power-up-windows-top-5-essential-wintoys/"><u>Power Up Windows: Top 5 Essential WinToys</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fast-forward-your-videos-a-quicktime-player-tutorial/"><u>Updated 2024 Approved Fast Forward Your Videos A QuickTime Player Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-final-cut-pro-x-troubleshooting-handbook-fixing-common-issues/"><u>Updated 2024 Approved Final Cut Pro X Troubleshooting Handbook Fixing Common Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pros-finest-10-iconic-movies-for-2024/"><u>Updated Final Cut Pros Finest 10 Iconic Movies for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-filmora-discounts-4-top-secrets-revealed-for-2024/"><u>Updated The Ultimate Guide to Filmora Discounts 4 Top Secrets Revealed for 2024</u></a></li>
+</ul></div>
+

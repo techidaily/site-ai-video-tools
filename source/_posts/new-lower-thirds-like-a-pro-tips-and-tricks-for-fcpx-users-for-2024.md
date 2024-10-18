@@ -1,7 +1,7 @@
 ---
 title: New Lower Thirds Like a Pro Tips and Tricks for FCPX Users for 2024
-date: 2024-08-22T09:22:06.053Z
-updated: 2024-08-23T09:22:06.053Z
+date: 2024-10-14T10:07:31.157Z
+updated: 2024-10-17T19:03:39.328Z
 tags: 
   - video editing software
   - video editing
@@ -59,6 +59,19 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. **Motion effect**
 
 Thrill your audience by inserting movements with the lower third elements. When you add some motion effect to this module, it adds flavors to your video. Work on this feature in-depth and observe whether the lower third’s motion effect excites the audience. Customize the animation time, style, and the way it flashes on the screen.
@@ -101,9 +114,6 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -112,24 +122,25 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
@@ -137,9 +148,12 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -159,8 +173,12 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -169,16 +187,11 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -186,3 +199,23 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-tinsel-a-journey-from-box-to-joy/"><u>[New] Transformative Tinsel A Journey From Box to Joy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-video-expertise-elevated-streamline-your-edits-with-these-vimeo-shortening-techniques-for-2024/"><u>[New] Video Expertise Elevated Streamline Your Edits with These Vimeo Shortening Techniques for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-best-intel-wi-fi-6-ax200-drivers-with-updates-for-optimal-functionality-on-windows-11-and-10-computers/"><u>Download the Best Intel Wi-Fi 6 AX200 Drivers with Updates for Optimal Functionality on Windows 11 and 10 Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971216279-download-the-latest-amd-radeon-rx-5700-xt-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest AMD Radeon RX 5700 XT Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/easy-way-to-edit-youtube-videos-in-imovie-for-2024/"><u>Easy Way to Edit YouTube Videos in iMovie for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-smart-8-hd-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Smart 8 HD for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/locating-saved-screen-images-on-windows/"><u>Locating Saved Screen Images on Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-storytelling-adding-picture-in-picture-elements-to-your-fcp-projects/"><u>New In 2024, Elevate Your Storytelling Adding Picture-in-Picture Elements to Your FCP Projects</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-filmora-download-a-step-by-step-guide-virus-free/"><u>New In 2024, Free Filmora Download A Step-by-Step Guide Virus-Free</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-online-video-orientation-changer-best-options/"><u>New In 2024, Free Online Video Orientation Changer Best Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-started-with-video-editing-on-mac-os-x-yosemite-a-quick-start-guide/"><u>New In 2024, Get Started with Video Editing on Mac OS X Yosemite A Quick Start Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-5-free-online-tone-generator-tools/"><u>New In 2024, Top 5 Free Online Tone Generator Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-9-online-movie-makers-to-make-movie-online-for-free/"><u>New In 2024, Top 9 Online Movie Makers to Make Movie Online for Free</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/tutorial-facile-pour-convertir-des-fichiers-voc-en-wav-en-ligne-gratuit-movavi-solution/"><u>Tutorial Facile Pour Convertir Des Fichiers Voc en Wav en Ligne Gratuit - Movavi Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wavau-movavi/"><u>クリエイティブな音楽編集: WAVへのオンラインAU変換 – Movaviが解決策</u></a></li>
+</ul></div>
+

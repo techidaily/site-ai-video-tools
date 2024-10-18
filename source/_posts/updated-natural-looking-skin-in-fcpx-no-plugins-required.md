@@ -1,7 +1,7 @@
 ---
 title: Updated Natural-Looking Skin in FCPX No Plugins Required
-date: 2024-08-22T09:24:20.043Z
-updated: 2024-08-23T09:24:20.043Z
+date: 2024-10-11T18:48:23.010Z
+updated: 2024-10-18T09:40:35.336Z
 tags: 
   - video editing software
   - video editing
@@ -56,6 +56,13 @@ step3Now, go to the top of the Inspector and turn on the blue checkbox next to G
 
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Where to Find Good Skin Smoother Plugins?
 
 Plugins make it easy for beginners and users with limited expertise to add a skin smoother effect in Final Cut Pro X. You can find both free and paid skin smoother plugins for FCPX online. Given below are some popular skin smoothening plugins for Final Cut Pro X.
@@ -104,9 +111,6 @@ A comprehensive FCP tool with 89 individual plugins to apply the next-generation
 * A variety of cool presents and text generators; and
 * Number counters, chromatic aberration, VHS looks, camera shake, glitch effects.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to adopt Skin Smoothing Plugins into FCPX?
 
 Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
@@ -114,36 +118,38 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 1. Purchase and download the Skin Smoother 2 plugin. Go to downloads, unzip the folder containing the plugin and install it on your computer.
 2. Open the FCPX, go to Effects, and click on Skin Smoother 2\. A list of options will appear. Import the image or video you want to edit.![Skin_Smoother_Effect_4](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_4.png)
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
-4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: How to Smooth Skin in Filmora?
 
 Wondershare Filmora features advanced tuning tools and a variety of video filters and overlays. Learn how to smooth skin or beautify your face in the video with this advanced video-editing software.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
@@ -170,16 +176,11 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -187,3 +188,20 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/10-visionaries-on-the-evolution-of-ai-technology/"><u>10 Visionaries on the Evolution of AI Technology</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/an-immersive-dive-into-the-wasteland-2-directors-cut-a-masterful-revival-of-a-classic-tactical-rpg/"><u>An Immersive Dive Into the Wasteland 2 Director’s Cut: A Masterful Revival of a Classic Tactical RPG</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-buzz-five-straightforward-fixes-for-clear-sound-output/"><u>Banish Buzz: Five Straightforward Fixes for Clear Sound Output</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/birds-bamboo-boogie-for-2024/"><u>Birds Bamboo Boogie for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/effortlessly-stop-bluestacks-from-crashing-follow-these-5-remedial-actions/"><u>Effortlessly Stop BlueStacks From Crashing: Follow These 5 Remedial Actions</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>In 2024, 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-f04-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/leading-hevc-format-changers-seamlessly-upgrade-your-videos-with-h265-technology/"><u>Leading HEVC Format Changers: Seamlessly Upgrade Your Videos with H.265 Technology</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-create-viral-memes-with-these-10-top-rated-mobile-apps/"><u>New 2024 Approved Create Viral Memes with These 10 Top-Rated Mobile Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-filmora-watermark-how-to-bypass-or-remove-it-permanently/"><u>New 2024 Approved Filmora Watermark How to Bypass or Remove It Permanently</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-pro-tips-for-creating-stunning-picture-in-picture-effects-in-final-cut-pro/"><u>New 2024 Approved Pro Tips for Creating Stunning Picture-in-Picture Effects in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-picks-movie-trailer-editors-for-mac-and-windows/"><u>New 2024 Approved S Top Picks Movie Trailer Editors for Mac and Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Japan Introduces New Fun Learning Hub: Youngsters Master Building Computers at 'Real Hardware Playground'"
-date: 2024-08-15T01:14:54.559Z
-updated: 2024-08-16T01:14:54.559Z
+date: 2024-10-12T03:38:00.710Z
+updated: 2024-10-18T12:01:39.588Z
 tags:
   - desktop
 categories:
@@ -57,14 +57,11 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,8 +70,23 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-ig-upgrade-starts-here-top-tools-for-follower-growth/"><u>[New] IG Upgrade Starts Here Top Tools for Follower Growth</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-direct-mp4-uploader-perfect-for-facebook-channels/"><u>[Updated] 2024 Approved Direct MP4 Uploader Perfect for Facebook Channels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-previewed-fb-activity-is-it-safe-or-not/"><u>2024 Approved Navigating Previewed FB Activity Is It Safe or Not?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape/"><u>In 2024, Adaptability & Agility Key Attributes for Thriving in a Changing Market Landscape</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mac-green-screen-software-finding-the-perfect-fit-for-you/"><u>New Mac Green Screen Software Finding the Perfect Fit for You</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-dvd-conversion-guide-from-physical-to-digital-in-no-time-for-2024/"><u>New The Ultimate DVD Conversion Guide From Physical to Digital in No Time for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/twilight-tactics-capturing-the-best-in-low-light-portraits/"><u>Twilight Tactics Capturing the Best in Low Light Portraits</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-more-than-you-could-dream-or-imagine-final-cut-pro-x-is-a-powerful-software-one-such-hidden-feature-from-fcpx-is-jump-cuts-and-we-shal/"><u>Updated 2024 Approved More than You Could Dream or Imagine, Final Cut Pro X Is a Powerful Software. One Such Hidden Feature From FCPX Is Jump Cuts, and We Shall Know More About Final Cut Pro Jump Cuts in This Article</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-revolutionize-your-video-editing-workflow-top-adobe-premiere-plugins-free-trial/"><u>Updated 2024 Approved Revolutionize Your Video Editing Workflow Top Adobe Premiere Plugins (Free Trial)</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

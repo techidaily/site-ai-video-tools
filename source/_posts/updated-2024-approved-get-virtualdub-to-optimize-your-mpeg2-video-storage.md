@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Get VirtualDub to Optimize Your MPEG2 Video Storage
-date: 2024-08-22T09:21:42.419Z
-updated: 2024-08-23T09:21:42.419Z
+date: 2024-10-16T09:39:13.036Z
+updated: 2024-10-18T04:06:42.704Z
 tags: 
   - video editing software
   - video editing
@@ -34,31 +34,29 @@ You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/Virtual
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Start Compressing
 
 Now it's the time to start processing your video, here is how:
@@ -69,8 +67,12 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The VirtualDub MPEG-2 needs some time to compress your video. The larger the video file is, the longer. But VirtualDub MPEG2 is a fast video processing software. Take a cup of coffee and relax. Once finished, use your favorite video player to see the compressing result.
@@ -80,20 +82,26 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -101,3 +109,21 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-quickly-snag-and-store-gifs-from-your-favorite-social-networks/"><u>[Updated] Quickly Snag and Store GIFs From Your Favorite Social Networks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ios-leading-psp-emulators-five-star-selections/"><u>2024 Approved IOS Leading PSP Emulators Five Star Selections</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-tailoring-the-last-push-how-to-edit-a-vimeo-video/"><u>2024 Approved Tailoring the Last Push How to Edit a Vimeo Video</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/effective-methods-unlinking-from-your-discord-servers/"><u>Effective Methods Unlinking From Your Discord Servers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-a24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy A24?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-asus-ax6000-rt-ax88u-a-comprehensive-guide-to-its-advanced-wi-fi-6-capabilities/"><u>In-Depth Analysis of the Asus AX6000 (RT-AX88U): A Comprehensive Guide to Its Advanced Wi-Fi 6 Capabilities</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-free-dvd-playback-options-for-windows-10-updated-2023/"><u>New In 2024, Best Free DVD Playback Options for Windows 10 (Updated 2023)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-mov-video-editors-no-watermark-no-cost/"><u>New In 2024, Free MOV Video Editors No Watermark, No Cost</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-ready-to-lip-sync-discover-the-5-best-apps-for-stunning-videos/"><u>New In 2024, Get Ready to Lip Sync Discover the 5 Best Apps for Stunning Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-is-vn-video-editor-pro-worth-the-download-a-comprehensive-review/"><u>New In 2024, Is VN Video Editor Pro Worth the Download? A Comprehensive Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-lighten-the-load-best-free-video-compression-software-for-windows-10/"><u>New In 2024, Lighten the Load Best Free Video Compression Software for Windows 10</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-16-avi-video-cutters-trimcut-avi-videos-windows-mac-android/"><u>New In 2024, Top 16 AVI Video Cutters Trim/Cut AVI Videos Windows, MAC, Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-pc-gear-with-tom/"><u>Unveiling the Latest in PC Gear with Tom</u></a></li>
+</ul></div>
+

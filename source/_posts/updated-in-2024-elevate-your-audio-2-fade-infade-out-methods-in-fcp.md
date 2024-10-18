@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP
-date: 2024-08-22T09:22:38.951Z
-updated: 2024-08-23T09:22:38.951Z
+date: 2024-10-14T01:01:40.842Z
+updated: 2024-10-17T22:00:13.327Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -81,17 +88,25 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -106,15 +121,17 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +139,22 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-leading-picks-unlimited-photo-sharing-platforms/"><u>[Updated] Leading Picks Unlimited Photo Sharing Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stability-mastery-three-secrets-for-iphone-video-perfection/"><u>[Updated] Stability Mastery Three Secrets for iPhone Video Perfection</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-nokia-c110-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C110 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-x-flip-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo X Flip?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-acid-pro-evaluation-finding-reliable-counterparts/"><u>In 2024, ACID Pro Evaluation Finding Reliable Counterparts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pro Phone without PIN</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-compressor-essentials-optimizing-video-files-in-final-cut-pro-x/"><u>New 2024 Approved Compressor Essentials Optimizing Video Files in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-divx-video-trimming-software-top-picks-for-2024/"><u>New Free Divx Video Trimming Software Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-adobe-premiere-rush-not-meeting-your-needs-explore-these-top-4-alternatives/"><u>New In 2024, Adobe Premiere Rush Not Meeting Your Needs? Explore These Top 4 Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-say-goodbye-to-cracks-free-and-legal-filmora-options/"><u>New In 2024, Say Goodbye to Cracks Free and Legal Filmora Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-top-rated-free-3gp-video-rotators/"><u>New In 2024, The Ultimate List Top-Rated Free 3GP Video Rotators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-review-of-avs-video-editor-a-beginners-guide/"><u>New In 2024, The Ultimate Review of AVS Video Editor A Beginners Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-to-interrupt-error-in-windows-11-screensaver/"><u>Swift Solution to INTERRUPT ERROR in Windows 11 Screensaver</u></a></li>
+</ul></div>
+
