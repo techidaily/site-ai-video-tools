@@ -1,7 +1,7 @@
 ---
 title: Updated Unleash Your Creativity How to Edit Videos with QuickTime on Mac for 2024
-date: 2024-10-16T17:42:14.792Z
-updated: 2024-10-17T19:25:18.858Z
+date: 2024-10-21T03:25:18.808Z
+updated: 2024-10-23T23:27:04.053Z
 tags: 
   - video editing software
   - video editing
@@ -49,19 +49,6 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
@@ -75,10 +62,17 @@ Step4: When you have done, click on “Trim”.
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
@@ -122,10 +116,10 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Wondershare Filmora Worth for Trying?
@@ -137,10 +131,10 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -158,21 +152,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/1716069387240-new-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems-for-2024/"><u>[New] A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems. For 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-navigating-bandicam-a-must-read-guide/"><u>[New] Navigating Bandicam - A Must-Read Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insights-top-30-hidden-windows-11-tips-uncovered/"><u>[Updated] Exclusive Insights Top 30 Hidden Windows 11 Tips Uncovered</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-innovative-tips-for-powerful-podcast-openings/"><u>[Updated] In 2024, Innovative Tips for Powerful Podcast Openings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-headquarters-of-virtual-reality-entertainment/"><u>2024 Approved Headquarters of Virtual Reality Entertainment</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-universal-streams-for-youtube-and-beyond-networks-for-2024/"><u>Crafting Universal Streams for YouTube & Beyond Networks for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tailored-treasure-troves-the-ultimate-list-of-online-box-sellers/"><u>In 2024, Tailored Treasure Troves The Ultimate List of Online Box Sellers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unlocking-income-streams-from-google-adsense-to-money-matters/"><u>In 2024, Unlocking Income Streams From Google AdSense to Money Matters</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-10-best-cartoon-animation-apps-for-mobile/"><u>New Unleash Your Creativity 10 Best Cartoon Animation Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/professional-video-editor-for-mac-os-avs-for-2024/"><u>Professional Video Editor for Mac OS AVS for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/seamless-streaming-how-to-fix-mp4-file-errors-on-popular-smart-tv-brands/"><u>Seamless Streaming: How to Fix MP4 File Errors on Popular Smart TV Brands</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-revolutionize-your-mobile-videos-with-these-text-animation-apps/"><u>Updated 2024 Approved Revolutionize Your Mobile Videos with These Text Animation Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-transform-your-gopro-footage-mac-video-editing-essentials/"><u>Updated In 2024, Transform Your GoPro Footage Mac Video Editing Essentials</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-videopad-video-editor-a-thorough-review-and-comparison-with-other-options/"><u>Updated In 2024, Videopad Video Editor A Thorough Review and Comparison with Other Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mac-vlc-video-editor-trim-and-optimize-your-videos-for-2024/"><u>Updated Mac VLC Video Editor Trim and Optimize Your Videos for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-witness-the-power-of-4k-the-most-impressive-video-demos-for-2024/"><u>Updated Witness the Power of 4K The Most Impressive Video Demos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-elite-streaming-sensations-worlds-most-popular-video-content-makers/"><u>[New] 2024 Approved Elite Streaming Sensations World's Most Popular Video Content Makers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-selecting-optimal-frame-rate-30fps-vs-60fps-for-quality-recording/"><u>[Updated] 2024 Approved Selecting Optimal Frame Rate 30Fps Vs. 60Fps for Quality Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-second-count-for-a-20mb-visual-file/"><u>[Updated] Evaluating Second Count for a 20MB Visual File</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-the-power-of-youtube-short-form-videos/"><u>In 2024, Unleashing the Power of YouTube Short Form Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlock-exclusive-deals-top-7-filmora-discount-codes/"><u>New In 2024, Unlock Exclusive Deals Top 7 Filmora Discount Codes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-mystery-behind-chatgpt-what-you-need-to-know/"><u>Unveiling the Mystery Behind ChatGPT - What You Need to Know</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-little-directors-big-ideas-teaching-kids-to-make-movies/"><u>Updated 2024 Approved Little Directors, Big Ideas Teaching Kids to Make Movies</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-vllo-for-mac-download-and-discover-similar-options/"><u>Updated In 2024, VLLO for Mac Download and Discover Similar Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-s-leading-movie-trailer-creation-tools-for-mac-and-windows-for-2024/"><u>Updated S Leading Movie Trailer Creation Tools for Mac and Windows for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-video-editing-mastery-top-4k8k-software-for-beginners-and-pros/"><u>Updated Video Editing Mastery Top 4K/8K Software for Beginners and Pros</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-12-mini-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12 mini?</u></a></li>
 </ul></div>
 

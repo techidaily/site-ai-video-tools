@@ -1,7 +1,7 @@
 ---
 title: Updated Time Lapse Made Easy 2 Proven Methods for Creating Breathtaking Videos
-date: 2024-08-15T01:11:26.337Z
-updated: 2024-08-16T01:11:26.337Z
+date: 2024-10-16T23:57:16.484Z
+updated: 2024-10-24T06:48:44.383Z
 tags: 
   - video editing software
   - video editing
@@ -86,8 +86,12 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -101,8 +105,12 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 3 Speed up to create time lapse video
@@ -110,9 +118,6 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -123,13 +128,21 @@ If you are satisfied with the newly made time lapse video, just click **Export**
 That’s how to make a cool time lapse video with the time lapse video software Filmora, no matter whether you want to make a time lapse video from photos, or speed up the video to make a time lapse video, you can achieve that with a few clicks.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -138,11 +151,27 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-navigating-the-digital-landscape-mastery-of-video-filter-techniques/"><u>[New] 2024 Approved Navigating the Digital Landscape Mastery of Video Filter Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-this-years-offbeat-movie-masterpieces/"><u>[Updated] 2024 Approved This Year’s Offbeat Movie Masterpieces</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-breaking-the-norm-eye-catching-talents-amongst-female-youtube-stars/"><u>[Updated] Breaking the Norm Eye-Catching Talents Amongst Female YouTube Stars</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/chorus-chronicles-music-gadgets-for-2024/"><u>Chorus Chronicles Music Gadgets for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-pc-sound-with-new-nvidia-drivers-for-windows-11/"><u>Enhancing PC Sound with New NVIDIA Drivers for Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-defy-2-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/shrink-your-videos-top-rated-free-compression-software-for-windows-10-for-2024/"><u>Shrink Your Videos Top-Rated Free Compression Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results-for-2024/"><u>The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-no-downloads-needed-10-free-online-video-compression-solutions/"><u>Updated 2024 Approved No Downloads Needed 10 Free Online Video Compression Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-essential-3d-video-creation-tools-every-creator-should-know/"><u>Updated In 2024, Essential 3D Video Creation Tools Every Creator Should Know</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mastering-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>Updated In 2024, Mastering Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-video-best-mobile-apps-for-2024/"><u>Updated The Ultimate Guide to Animated Text in Video Best Mobile Apps for 2024</u></a></li>
+</ul></div>
+

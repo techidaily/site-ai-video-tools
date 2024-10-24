@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Bring Your Photos to Life A Detailed Ken Burns Effect Guide
-date: 2024-08-15T01:13:35.771Z
-updated: 2024-08-16T01:13:35.771Z
+date: 2024-10-19T01:55:28.342Z
+updated: 2024-10-23T17:35:18.739Z
 tags: 
   - video editing software
   - video editing
@@ -115,17 +115,12 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -136,8 +131,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -149,17 +148,12 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -171,8 +165,12 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -181,11 +179,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-drone-marathoners-list-top-10/"><u>[Updated] The Ultimate Drone Marathoners List (Top 10)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-free-and-open-source-video-capturing-tools/"><u>2024 Approved Free & Open Source Video Capturing Tools</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/converti-i-tuoi-video-dal-formato-opus-a-mp4-fai-un-giro-su-movavi-servizio-libero/"><u>Converti I Tuoi Video Dal Formato OPUS a MP4 Fai Un Giro Su Movavi: Servizio Libero!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-converter-turn-mp4-videos-into-3gp-format-using-movavi/"><u>Free Online Converter: Turn MP4 Videos Into .3Gp Format Using Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-a14-4g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy A14 4G FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-7-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 7</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-slow-start-technique/"><u>In 2024, Slow Start Technique</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/microsoft-decides-against-adding-sudo-feature-in-windows-server-2025-insights-from-zdnet/"><u>Microsoft Decides Against Adding Sudo Feature in Windows Server 2025: Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-sketch-to-screen-the-top-7-animation-software-for-2024/"><u>New From Sketch to Screen The Top 7 Animation Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-if-you-are-struggling-to-figure-out-which-online-video-trimmer-is-for-you-then-here-is-a-list-of-the-10-best-free-online-video-trimmers-for-2024/"><u>New If You Are Struggling to Figure Out Which Online Video Trimmer Is for You, Then Here Is a List of the 10 Best Free Online Video Trimmers for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avchd-video-editing-the-top-5-software-solutions/"><u>New In 2024, AVCHD Video Editing The Top 5 Software Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-beginners-guide-to-video-editing-top-software-picks/"><u>New In 2024, Beginners Guide to Video Editing Top Software Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcpx-title-design-tips-and-tricks-for-stunning-visuals/"><u>New In 2024, FCPX Title Design Tips and Tricks for Stunning Visuals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-looking-beyond-vsdc-top-mac-video-editing-alternatives/"><u>New In 2024, Looking Beyond VSDC Top Mac Video Editing Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-motion-tracking-apps-the-ultimate-guide-for-android-and-ios/"><u>New In 2024, Motion Tracking Apps The Ultimate Guide for Android and iOS</u></a></li>
+</ul></div>
+

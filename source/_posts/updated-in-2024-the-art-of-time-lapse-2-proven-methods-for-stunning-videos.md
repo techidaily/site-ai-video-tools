@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Art of Time Lapse 2 Proven Methods for Stunning Videos
-date: 2024-08-15T01:10:23.990Z
-updated: 2024-08-16T01:10:23.990Z
+date: 2024-10-20T03:18:53.448Z
+updated: 2024-10-23T18:40:34.364Z
 tags: 
   - video editing software
   - video editing
@@ -86,8 +86,12 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -101,8 +105,12 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 3 Speed up to create time lapse video
@@ -110,9 +118,6 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -123,13 +128,27 @@ If you are satisfied with the newly made time lapse video, just click **Export**
 That’s how to make a cool time lapse video with the time lapse video software Filmora, no matter whether you want to make a time lapse video from photos, or speed up the video to make a time lapse video, you can achieve that with a few clicks.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -138,11 +157,28 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-to-follow-steps-for-android-video-capture/"><u>[New] Easy-to-Follow Steps for Android Video Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exclusive-list-11-best-sound-capturers-guide-for-2024/"><u>[New] Exclusive List 11 Best Sound Capturers Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-must-see-mac-video-frames-selection-limited-to-156-characters-for-2024/"><u>[New] Must-See Mac Video Frames Selection (Limited to 156 Characters) for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-uncovering-all-shared-visuals-in-a-message-thread-for-2024/"><u>[New] Uncovering All Shared Visuals in a Message Thread for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-usb-port-functionality-on-your-windows-10-or-11-pc/"><u>How to Restore USB Port Functionality on Your Windows 10 or 11 PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steps-for-gradual-audio-dimming-with-lumafusion/"><u>In 2024, Steps for Gradual Audio Dimming with Lumafusion</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-gif-speed-changer-apps-and-websites/"><u>New The Ultimate List of GIF Speed Changer Apps and Websites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/skyrocket-your-channels-with-these-essential-freegame-tags-for-youtube-for-2024/"><u>Skyrocket Your Channels with These Essential FreeGame Tags for YouTube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-must-have-video-editing-tools-recommended-by-professionals/"><u>Top 5 Must-Have Video Editing Tools Recommended by Professionals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-young-directors-handbook-teach-kids-to-make-their-own-movies/"><u>Updated 2024 Approved The Young Directors Handbook Teach Kids to Make Their Own Movies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-converters-turn-videos-into-live-photos-with-ease/"><u>Updated 2024 Approved Top Converters Turn Videos Into Live Photos with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-here-are-some-of-the-best-face-swap-apps-for-your-iphone-or-android-device-that-allows-you-to-swap-face-easily-for-2024/"><u>Updated Here Are some of the Best Face Swap Apps for Your iPhone or Android Device that Allows You to Swap Face Easily for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mac-os-video-editing-lumafusion-installation-and-top-alternatives-for-2024/"><u>Updated Mac OS Video Editing Lumafusion Installation and Top Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-video-invitation-design-made-easy-top-apps-for-iphone-and-android-for-2024/"><u>Updated Video Invitation Design Made Easy Top Apps for iPhone and Android for 2024</u></a></li>
+</ul></div>
+

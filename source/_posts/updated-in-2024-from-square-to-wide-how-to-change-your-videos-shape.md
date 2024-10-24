@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Square to Wide How to Change Your Videos Shape
-date: 2024-08-15T01:11:01.180Z
-updated: 2024-08-16T01:11:01.180Z
+date: 2024-10-21T23:57:22.484Z
+updated: 2024-10-23T18:41:34.520Z
 tags: 
   - video editing software
   - video editing
@@ -55,29 +55,23 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -98,9 +92,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -108,8 +99,12 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -161,8 +156,12 @@ A) In Filmora, Image Mask allows you to use an image (or any available preset) f
 A) At the time of this writing, Wondershare Filmora has around 40 image mask presets. In addition, it also allows you to add custom images from your PC for more dynamic approach.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,11 +170,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-efficiently-add-youtube-playlists-to-your-website-interface/"><u>[Updated] 2024 Approved Efficiently Add YouTube Playlists to Your Website Interface</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unparalleled-camera-tech-s-filmmaking-for-2024/"><u>[Updated] Unparalleled Camera Tech 'S Filmmaking for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-path-to-perfected-morphvox-control/"><u>2024 Approved The Ultimate Path to Perfected MorphVOX Control</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ai-revolutionizing-the-future-unleashing-technologys-full-capabilities/"><u>AI Revolutionizing the Future: Unleashing Technology's Full Capabilities</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-x50-gt-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor X50 GT Fingerprint Lock</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/breaking-down-power-and-performance-in-the-ibuypower-y60-premium-desktop-unveiled/"><u>Breaking Down Power and Performance in the iBuyPower Y60: Premium Desktop Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-logitech-kinectic-camera-drivers-download-and-install/"><u>Latest Updates for Logitech Kinectic Camera Drivers: Download & Install</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-3-steps-to-add-a-countdown-timer-in-final-cut-pro-x/"><u>New In 2024, 3 Steps to Add a Countdown Timer in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-avi-video-cutting-tools-trim-and-split-avi-videos-multi-platform-for-2024/"><u>New Top-Rated AVI Video Cutting Tools Trim and Split AVI Videos Multi-Platform for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-transform-your-videos-expert-techniques-for-achieving-a-professional-look-for-2024/"><u>New Transform Your Videos Expert Techniques for Achieving a Professional Look for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-easy-file-movement-to-pcs/"><u>The Ultimate Guide Easy File Movement to PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-m34-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy M34 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-tivo-or-comcast-which-dvr-is-right-for-you/"><u>Updated 2024 Approved TiVo or Comcast Which DVR Is Right for You ?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-your-creativity-top-free-video-editing-apps/"><u>Updated 2024 Approved Unleash Your Creativity Top Free Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-3d-animation-software-roundup-top-picks-for-every-budget/"><u>Updated 3D Animation Software Roundup Top Picks for Every Budget</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-save-on-filmora-expert-tips-to-find-working-coupon-codes/"><u>Updated Save on Filmora Expert Tips to Find Working Coupon Codes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-split-cut-and-trim-avi-files-like-a-pro-a-beginners-guide-for-2024/"><u>Updated Split, Cut, and Trim AVI Files Like a Pro A Beginners Guide for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-free-dual-screen-video-editing-software-web-and-desktop-for-2024/"><u>Updated Top Free Dual-Screen Video Editing Software Web & Desktop for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/watermark-free-video-joining-7-top-rated-solutions-for-2024/"><u>Watermark-Free Video Joining 7 Top-Rated Solutions for 2024</u></a></li>
+</ul></div>
+

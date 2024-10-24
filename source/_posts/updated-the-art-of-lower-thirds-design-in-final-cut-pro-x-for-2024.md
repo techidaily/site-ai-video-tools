@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-10-14T20:04:00.237Z
-updated: 2024-10-17T21:34:13.395Z
+date: 2024-10-18T17:24:42.166Z
+updated: 2024-10-23T21:16:15.674Z
 tags: 
   - video editing software
   - video editing
@@ -47,13 +47,6 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -65,6 +58,13 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -91,13 +91,6 @@ Position the element at the perfect place on the screen to ensure its visibility
 Proper alignment and the best coordinates on the screen make the lower third module shine better in your video. Proper placement of this element decides the impact on it.
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
@@ -141,6 +134,13 @@ For those who still need more guides about making lower thirds, this Filmora tut
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -160,16 +160,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -181,10 +175,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -202,19 +196,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlocking-the-secrets-of-ios-visual-data-repository/"><u>[New] In 2024, Unlocking the Secrets of IO's Visual Data Repository</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-prime-gopro-movie-maker-list-for-2024/"><u>[New] Prime GoPro Movie Maker List for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-diving-into-samsung-galaxy-s8-the-ultra-hd-milestone/"><u>[Updated] Diving Into Samsung Galaxy S8 The Ultra HD Milestone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-expert-techniques-for-flawless-adobe-audio/"><u>[Updated] Expert Techniques for Flawless Adobe Audio</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-5-best-bandicam-mac-alternatives/"><u>2024 Approved 5 Best Bandicam Mac Alternatives</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guide-ultime-comment-retrouver-vos-photos-de-selfie-effacees-sur-windows-et-ios/"><u>Guide Ultime : Comment Retrouver Vos Photos De Selfie Effacées Sur Windows Et iOS ?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-by-step-guide-to-implementing-borders-on-instagram-images/"><u>In 2024, Step-by-Step Guide to Implementing Borders on Instagram Images</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-3-simple-ways-to-record-video-games/"><u>New In 2024, Unleash Your Creativity 3 Simple Ways to Record Video Games</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/petcube-cam-review/"><u>Petcube Cam Review</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-online-video-teaser-creators/"><u>Updated 2024 Approved Top Online Video Teaser Creators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-video-editors-for-webm-files-2023-edition-for-2024/"><u>Updated Best Free Video Editors for WebM Files 2023 Edition for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pro-x-tutorial-cropping-images-for-video-editing-for-2024/"><u>Updated Final Cut Pro X Tutorial Cropping Images for Video Editing for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mavericks-mp4-video-editor-edit-and-enhance-your-videos/"><u>Updated In 2024, Mavericks MP4 Video Editor Edit and Enhance Your Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-of-split-screen-video-apps-for-mobile/"><u>Updated In 2024, The Ultimate List of Split Screen Video Apps for Mobile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-routines-for-easy-webinar-saves-on-windows-platform/"><u>[Updated] Essential Routines for Easy Webinar Saves on Windows Platform</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-technical-journey-to-capture-snapchat-on-mobile/"><u>[Updated] In 2024, The Technical Journey to Capture Snapchat On Mobile</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigate-the-quickest-growing-yt-havens-for-mental-brightness-for-2024/"><u>[Updated] Navigate the Quickest-Growing YT Havens for Mental Brightness for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-paving-digital-pathways-for-ig-and-tiktok/"><u>[Updated] Paving Digital Pathways for IG & TikTok</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-lite-video-downloading-made-easy-top-6-tools-of-2023/"><u>Facebook Lite Video Downloading Made Easy Top 6 Tools of 2023</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/getting-started-audacitys-guide-to-microphone-use-on-mac-for-2024/"><u>Getting Started Audacity's Guide to Microphone Use on Mac for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>In 2024, Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-revolutionize-your-animations/"><u>New 2024 Approved Revolutionize Your Animations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-video-combiners-with-no-watermark-limitations/"><u>New 2024 Approved Top Video Combiners with No Watermark Limitations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-cartoonize-your-photos-in-seconds-for-2024/"><u>New Cartoonize Your Photos in Seconds for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-effortless-video-editing-how-to-add-effects-in-fcp-x-in-3-steps-for-2024/"><u>New Effortless Video Editing How to Add Effects in FCP X in 3 Steps for 2024</u></a></li>
 </ul></div>
 
