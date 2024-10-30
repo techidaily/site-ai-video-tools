@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2024-10-21T03:15:18.001Z
-updated: 2024-10-24T01:54:59.642Z
+date: 2024-10-26T18:20:46.235Z
+updated: 2024-10-29T23:00:32.647Z
 tags: 
   - video editing software
   - video editing
@@ -54,13 +54,6 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
@@ -68,10 +61,10 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -93,16 +86,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -114,16 +101,10 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -176,6 +157,13 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -191,24 +179,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoid-shaky-footage-proper-tripod-usage-techniques-in-vlog-creation/"><u>[Updated] In 2024, Avoid Shaky Footage Proper Tripod Usage Techniques in Vlog Creation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-impressive-display-innovations-top-10-mac-displays-of-the-year/"><u>[Updated] In 2024, Impressive Display Innovations - Top 10 Mac Displays of the Year</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diy-dvd/"><u>DIY DVDフェイクリーヴン：破損したディスクの傷を完全に取り除くコツ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-inability-to-find-necessary-software-components/"><u>Fixing Inability to Find Necessary Software Components</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-hot-30-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Hot 30 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-infinix-note-30i-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Infinix Note 30i Location | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-adobe-premiere-pro-power-ups-top-15-free-plugins-to-boost-your-workflow/"><u>New 2024 Approved Adobe Premiere Pro Power-Ups Top 15 Free Plugins to Boost Your Workflow</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New 2024 Approved From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mac-green-screen-software-top-picks-and-reviews/"><u>New 2024 Approved Mac Green Screen Software Top Picks and Reviews</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mastering-the-ken-burns-technique-a-step-by-step-guide/"><u>New 2024 Approved Mastering the Ken Burns Technique A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-picks-free-video-editing-software-for-32-bit-windows/"><u>New 2024 Approved S Top Picks Free Video Editing Software for 32-Bit Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-take-your-videos-to-the-next-level-adding-effects-in-fcp-x-3-steps/"><u>New 2024 Approved Take Your Videos to the Next Level Adding Effects in FCP X (3 Steps)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-top-video-animation-tools-for-creating-stunning-animations-on-the-go/"><u>New 2024 Approved The Top Video Animation Tools for Creating Stunning Animations On-the-Go</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-best-free-video-rotation-software-for-windows-mac-and-mobile-devices-for-2024/"><u>New Best Free Video Rotation Software for Windows, Mac, and Mobile Devices for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-elevate-your-videos-the-top-rated-ipad-video-editing-apps-for-2024/"><u>New Elevate Your Videos The Top-Rated iPad Video Editing Apps for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/panasonics-hx-a1-the-wearable-action-camera-revealed-for-2024/"><u>Panasonic’s HX-A1 - The Wearable Action Camera Revealed for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streaming-tips-access-the-roku-channel-even-if-you-dont-own-a-roku-player/"><u>Streaming Tips: Access The Roku Channel Even If You Don't Own A Roku Player</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlock-joy-behind-the-walls-20-funniest-fb-detainment-scenarios-for-2024/"><u>Unlock Joy Behind the Walls 20 Funniest Fb Detainment Scenarios for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-symphony-for-photos-on-digital-platforms/"><u>[New] A Symphony for Photos on Digital Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-streamlining-the-capture-process-in-competitive-rl-gaming/"><u>[Updated] In 2024, Streamlining the Capture Process in Competitive RL Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-elite-gear-for-stop-motion-visuals/"><u>2024 Approved Elite Gear for Stop Motion Visuals</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-redmi-k70-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Redmi K70 Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-asus-rog-phone-8-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Asus ROG Phone 8 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-smart-8-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Smart 8 Pro?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/journey-to-seamless-entertainment-free-for-both-pcmacos/"><u>Journey to Seamless Entertainment, Free for Both PC/MacOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-capture-every-move-top-motion-tracking-apps-for-android-and-ios/"><u>New 2024 Approved Capture Every Move Top Motion Tracking Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-combine-videos-without-branding-top-7-tools-reviewed/"><u>New 2024 Approved Combine Videos Without Branding Top 7 Tools Reviewed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-create-epic-lip-syncs-top-rated-apps-for-android-and-ios/"><u>New 2024 Approved Create Epic Lip Syncs Top-Rated Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-and-fabulous-the-best-fcpx-plugins-you-need/"><u>New 2024 Approved Free and Fabulous The Best FCPX Plugins You Need</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-creative-with-windows-video-editing-adding-3d-effects-made-easy/"><u>New 2024 Approved Get Creative with Windows Video Editing Adding 3D Effects Made Easy</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-best-ipad-video-editing-tools-a-comprehensive-review/"><u>New 2024 Approved S Best iPad Video Editing Tools A Comprehensive Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-show-off-your-gaming-skills-how-to-share-ps4-screenshots-online/"><u>New 2024 Approved Show Off Your Gaming Skills How to Share PS4 Screenshots Online</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-resume-builder-showdown-top-4-picks-free-resources/"><u>New 2024 Approved Video Resume Builder Showdown Top 4 Picks Free Resources</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-windows-8-mp4-video-editor-simplify-your-editing-experience/"><u>New 2024 Approved Windows 8 MP4 Video Editor Simplify Your Editing Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quintessential-writes-for-diverse-cinematic-fields/"><u>Quintessential Writes for Diverse Cinematic Fields</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-beyond-conventional-embrace-size-in-gaming-frames/"><u>Step Beyond Conventional: Embrace Size in Gaming Frames!</u></a></li>
 </ul></div>
 

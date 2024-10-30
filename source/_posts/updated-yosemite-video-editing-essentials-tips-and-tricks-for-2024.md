@@ -1,7 +1,7 @@
 ---
 title: Updated Yosemite Video Editing Essentials Tips and Tricks for 2024
-date: 2024-10-17T20:54:58.202Z
-updated: 2024-10-23T21:58:54.759Z
+date: 2024-10-24T01:11:17.636Z
+updated: 2024-10-29T19:34:11.614Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,13 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -53,10 +60,10 @@ If you want to add an additional audio file as the background music to the video
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Add transition and other effects**
@@ -65,36 +72,35 @@ This app also allows you to add cool transitions and other effects to your video
 
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -111,24 +117,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-freefb-audio-treasures-collection/"><u>[New] 2024 Approved FreeFB Audio Treasures Collection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-premium-cost-free-screen-recording-tools/"><u>[Updated] 2024 Approved Unveiling the Premium, Cost-Free Screen Recording Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtubes-financial-frontier-strategies-for-maximum-gains/"><u>[Updated] 2024 Approved Youtube's Financial Frontier Strategies for Maximum Gains</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-soundscapes-for-static-music-in-whatsapp/"><u>[Updated] Soundscapes for Static Music in WhatsApp</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g73-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G73 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-narzo-60x-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme Narzo 60x 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insiders-handbook-on-decoding-snapchat-emoji-messages/"><u>Insider's Handbook on Decoding Snapchat Emoji Messages</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-x-tutorial-l-cuts-and-j-cuts-for-2024/"><u>New Final Cut Pro X Tutorial L-Cuts and J-Cuts for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-free-video-cutting-tools-for-mp4-expert-approved-options-for-2024/"><u>New Free Video Cutting Tools for MP4 Expert-Approved Options for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avi-video-rotation-made-easy-top-5-free-solutions/"><u>New In 2024, AVI Video Rotation Made Easy Top 5 Free Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-easily-blur-video-backgrounds-or-faces-with-these-top-apps/"><u>New In 2024, Easily Blur Video Backgrounds or Faces with These Top Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-final-cut-pro-2-simple-ways-to-add-professional-audio-fades/"><u>New In 2024, Final Cut Pro 2 Simple Ways to Add Professional Audio Fades</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-final-cut-pro-x-crash-fix-get-back-to-editing/"><u>New In 2024, Final Cut Pro X Crash Fix Get Back to Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-sideways-to-right-side-up-easy-video-flipping/"><u>New In 2024, From Sideways to Right-Side Up Easy Video Flipping</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-split-screen-video-makers-the-ultimate-guide-for-ios-and-android-users/"><u>New In 2024, Split Screen Video Makers The Ultimate Guide for iOS and Android Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-10-free-music-production-tools-expert-reviews/"><u>New In 2024, Top 10 Free Music Production Tools Expert Reviews</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-poco-x6-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Poco X6 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-poco-m6-pro-5g-frp-bypass-by-drfone-android/"><u>About Poco M6 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/content-choice-conundrum-is-podcasting-right-or-should-you-go-for-youtube/"><u>Content Choice Conundrum Is Podcasting Right, Or Should You Go for YouTube?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-h265-hevc-uhd-ready-video-reader-optimized-for-windows-ten-and-macos-in-2020/"><u>Discover the Best H.265 HEVC, UHD-Ready Video Reader - Optimized for Windows ˈ|TEN and MacOS in 2020</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-solutions-for-when-your-fortnite-microphone-fails-you/"><u>Effortless Solutions for When Your Fortnite Microphone Fails You</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hype-generating-headline-author-for-2024/"><u>Hype-Generating Headline Author for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ios-guide-to-premium-ps2-emulation-software/"><u>IOS Guide to Premium PS2 Emulation Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-novice-to-pro-3-easy-game-recording-options/"><u>New 2024 Approved From Novice to Pro 3 Easy Game Recording Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-a-powerful-64-bit-video-editor-windows-8-included/"><u>New 2024 Approved Get a Powerful 64-Bit Video Editor (Windows 8 Included)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-replace-imovie-with-these-top-rated-windows-10-video-editors/"><u>New 2024 Approved Replace iMovie with These Top-Rated Windows 10 Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-videopad-review-pros-cons-and-alternatives/"><u>New 2024 Approved The Ultimate Videopad Review Pros, Cons, and Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-and-most-popular-iphone-apps-for-2024/"><u>New Best and Most Popular iPhone Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721863262404-streamline-your-search-with-bings-intelligent-ai-features/"><u>Streamline Your Search with Bing's Intelligent AI Features.</u></a></li>
 </ul></div>
 

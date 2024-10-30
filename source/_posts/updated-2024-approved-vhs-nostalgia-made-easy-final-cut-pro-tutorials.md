@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved VHS Nostalgia Made Easy Final Cut Pro Tutorials
-date: 2024-08-15T01:07:17.189Z
-updated: 2024-08-16T01:07:17.189Z
+date: 2024-10-22T17:58:07.961Z
+updated: 2024-10-30T00:03:19.919Z
 tags: 
   - video editing software
   - video editing
@@ -87,8 +87,12 @@ After your video is rendered, you will get the final results using the VHS filte
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -110,8 +114,12 @@ To do VHS effects quickly, follow these steps:
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -125,17 +133,18 @@ Go to Effect, and in the search bar, type **VHS**.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -144,8 +153,12 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
@@ -209,9 +222,6 @@ The look of a VHS glitch effect is basic yet incredibly authentic. This one was 
 The appearance and feel of your production may be significantly enhanced by using VHS video effects. Nothing brings back memories for a viewer like a VHS video. By following the steps mentioned above, you can easily use the VHS effect in your video. However, we recommend you use Wondershare Filmore to create VHS effect as you wouldn't require any plugin. What are some of your favorite VHS effects?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -219,11 +229,28 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-how-to-make-reels-on-instagram/"><u>[New] 2024 Approved How to Make Reels on Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-maximizing-engagement-a-pathway-to-higher-subscriber-numbers/"><u>[New] Maximizing Engagement A Pathway to Higher Subscriber Numbers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-podcast-seo-the-essential-handbook/"><u>[Updated] Mastering Podcast SEO The Essential Handbook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-overcome-artificial-watches-for-natural-views/"><u>[Updated] Overcome Artificial Watches for Natural Views</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-network-issues-a-guide-to-dealing-with-unavailable-dhcp-servers/"><u>Fixing Network Issues: A Guide to Dealing with Unavailable DHCP Servers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-c55-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-a24-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy A24 FRP</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-insta-metrics-top-strategies-for-highlight-optimization/"><u>Mastering Insta Metrics Top Strategies for Highlight Optimization</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software-for-2024/"><u>New FCP or LumaFusion The Pros and Cons of Each Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-video-editing-software-top-5-imovie-alternatives-this-year-for-2024/"><u>New Free Video Editing Software Top 5 iMovie Alternatives This Year for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-3gp-video-rotator-review-top-rated-options/"><u>New In 2024, Free 3GP Video Rotator Review Top-Rated Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-video-editing-magic-top-special-effects-apps-for-mobile-devices/"><u>New In 2024, Free Video Editing Magic Top Special Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-zero-to-hero-top-10-cartoon-video-makers-for-beginners/"><u>New In 2024, From Zero to Hero Top 10 Cartoon Video Makers for Beginners</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme/"><u>New In 2024, Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme ?</u></a></li>
+</ul></div>
+

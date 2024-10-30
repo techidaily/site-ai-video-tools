@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Final Cut Pro Tutorial Adding Picture-in-Picture Overlays to Your Videos
-date: 2024-08-09T05:02:39.404Z
-updated: 2024-08-10T05:02:39.404Z
+date: 2024-10-23T01:48:23.401Z
+updated: 2024-10-29T17:00:59.960Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 # How to Create a Picture-in-Picture Effect Using Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -52,22 +46,12 @@ It is time to choose the higher video clip so that the PIP effect can be applied
 
 Note that lower clips use to stay in the background in final results whereas upper clips will appear in the foreground. By default, both clips use to have 100% full screen with 100% opaque settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
 
 #### Step 4: Adjust PIP Effect
@@ -81,9 +65,6 @@ As now you have added both videos on-screen now you have to select the higher vi
 
 Simply select the top clip and then hit Command + 4 to open the inspector. Now click on that blue show button over your FCP screen and it will provide you complete information about the transform category of available built-in effects. If you use inspector for this task then it can help you to get very precise results for scaling needs. It assists users to manage images with accurate position and size.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
 #### Step 6: Apply Cross- Dissolve
@@ -96,13 +77,12 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 Check this video tutorial to know more details:
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Picture in Picture Plug-ins for Final Cut Pro
 
 There are so many plug-ins available in the market for Final Cut Pro platform and all of them possess unique qualities along with impressive toolsets. No matter whether you are a beginner with the PIP effect or professional making high-end video projects, FCP plug-ins can make your task much easier with their intuitive controls.
@@ -119,13 +99,18 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -133,3 +118,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-affordable-webm-streaming-alternatives-unveiled-for-2024/"><u>[New] Affordable WebM Streaming Alternatives Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-avoiding-youtube-copyright-claims-understanding-the-rules/"><u>[Updated] Avoiding YouTube Copyright Claims Understanding the Rules</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-step-by-step-process-of-amplifying-your-channel-with-high-impact-placement/"><u>[Updated] In 2024, Step-by-Step Process of Amplifying Your Channel with High-Impact Placement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mobilizing-audience-engagement-igtv-and-fb-synchronization/"><u>2024 Approved Mobilizing Audience Engagement IGTV and FB Synchronization</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-your-win-software-downloader-choco-versus-wslm/"><u>Choosing Your Win Software Downloader: Choco Versus WSLM</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-beat-the-xbox-game-pass-ultimate-price-hike-but-not-for-long/"><u>How to Beat the Xbox Game Pass Ultimate Price Hike (But Not for Long)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-apple-watch-series-6-understated-improvements-top-notch-performance/"><u>In-Depth Review of Apple Watch Series 6: Understated Improvements, Top-Notch Performance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-fourteen-full-frame-photography-devices/"><u>Leading Fourteen Full Frame Photography Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-say-goodbye-to-grainy-videos-top-enhancement-software-picks/"><u>New Say Goodbye to Grainy Videos Top Enhancement Software Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-top-5-free-m4a-file-editors-you-need-for-2024/"><u>New The Top 5 Free M4A File Editors You Need for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-converting-mp4-to-mp3-best-converters-for-2024/"><u>New The Ultimate Guide to Converting MP4 to MP3 Best Converters for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-final-cut-pro-at-a-steal-explore-student-discounts/"><u>New Unlock Final Cut Pro at a Steal Explore Student Discounts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-make-videos-like-a-pro-on-mac-top-rated-video-makers/"><u>Updated 2024 Approved Make Videos Like a Pro on Mac Top-Rated Video Makers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-speed-up-your-videos-best-time-lapse-apps-for-iphone-and-android/"><u>Updated 2024 Approved Speed Up Your Videos Best Time-Lapse Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unbeatable-free-mp4-video-editors-top-10-list/"><u>Updated In 2024, Unbeatable Free MP4 Video Editors Top 10 List</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-virtualdub-equivalent-10-video-editing-tools-you-need-to-know-for-2024/"><u>Updated VirtualDub Equivalent 10 Video Editing Tools You Need to Know for 2024</u></a></li>
+</ul></div>
+

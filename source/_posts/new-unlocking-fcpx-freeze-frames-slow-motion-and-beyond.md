@@ -1,7 +1,7 @@
 ---
 title: New Unlocking FCPX Freeze Frames, Slow Motion, and Beyond
-date: 2024-08-09T05:00:58.847Z
-updated: 2024-08-10T05:00:58.847Z
+date: 2024-10-27T23:34:21.365Z
+updated: 2024-10-29T20:30:51.615Z
 tags: 
   - video editing software
   - video editing
@@ -30,16 +30,10 @@ This article shows you how to do this using Final Cut Pro X.
 
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
 
 #### 1\.  STILL FRAMES
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
@@ -50,10 +44,6 @@ In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freez
 
 This creates a two-second freeze-frame at the position of the playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
@@ -70,16 +60,10 @@ So, here's another way to do this.
 
 Put the playhead (or skimmer, but I prefer the playhead) on the frame you want to freeze, select the clip, then type Shift+F.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Playhead](https://images.wondershare.com/multimedia/speed005.jpg)
 
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![match clips](https://images.wondershare.com/multimedia/speed006.jpg)
 
 Now, with the Browser selected, type Option+F. This creates a freeze-frame of the Browser clip and places it at the location of the playhead as a connected clip in the Timeline.
@@ -92,16 +76,10 @@ I use both these techniques in many different projects.
 
 A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hold frame](https://images.wondershare.com/multimedia/speed013.jpg)
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
@@ -142,27 +120,18 @@ Three things happen at once:
 * The orange Retiming bar appears over the top of the clip
 * The speed of the clip changes
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 This opens a new dialog allowing a number of changes:
@@ -210,11 +179,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-echovideo-capture-toolkit-for-fb-for-2024/"><u>[New] EchoVideo Capture Toolkit for FB for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-route-to-richer-tiktok-bios-including-linktree-links/"><u>[New] The Route to Richer TikTok Bios Including Linktree Links</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-impressive-hdr-portraits-explained/"><u>[Updated] The Art of Impressive HDR Portraits Explained</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-editions-high-end-macpc-video-decode-tools/"><u>2024 Approved Elite Editions High-End Mac/PC Video Decode Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-gaming-experience-with-these-windows-11-optimization-hacks/"><u>Elevate Your Gaming Experience with These Windows 11 Optimization Hacks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/gear-up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuito-online-converter-de-filmes-tvw-para-pc-e-mac-movavi/"><u>Gratuito Online Converter De Filmes TVW Para PC E Mac - Movavi</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-the-best-top-5-ipad-video-editing-apps-for-2024/"><u>New The Best of the Best Top 5 iPad Video Editing Apps for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/resoudre-les-problemes-dechec-de-lecture-video-udf-avec-winx-dvd-ripper-guide-complet/"><u>Résoudre Les Problèmes D'échec De Lecture Vidéo UDF Avec WinX DVD Ripper - Guide Complet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mastering-canon-footage-a-step-by-step-video-editing-guide/"><u>Updated 2024 Approved Mastering Canon Footage A Step-by-Step Video Editing Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-virtualdub-vs-the-competition-a-comprehensive-review-and-alternative-guide/"><u>Updated 2024 Approved Virtualdub Vs. The Competition A Comprehensive Review and Alternative Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-flat-to-fabulous-converting-videos-to-vr-with-ease-for-2024/"><u>Updated From Flat to Fabulous Converting Videos to VR with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-16-free-avi-video-rotator-tools-a-comprehensive-guide-for-all-devices/"><u>Updated In 2024, 16 Free AVI Video Rotator Tools A Comprehensive Guide for All Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>Updated In 2024, Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-stop-motion-made-easy-best-apps-for-mobile-animation/"><u>Updated In 2024, Stop Motion Made Easy Best Apps for Mobile Animation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mobile-animation-made-easy-top-stop-motion-apps-reviewed-for-2024/"><u>Updated Mobile Animation Made Easy Top Stop Motion Apps Reviewed for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-trim-and-cut-mov-files-without-spending-a-dime/"><u>Updated Trim and Cut MOV Files without Spending a Dime</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

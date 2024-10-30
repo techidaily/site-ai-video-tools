@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-10-18T17:24:42.166Z
-updated: 2024-10-23T21:16:15.674Z
+date: 2024-10-25T01:59:45.619Z
+updated: 2024-10-29T20:59:15.757Z
 tags: 
   - video editing software
   - video editing
@@ -60,10 +60,10 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. **Motion effect**
@@ -122,6 +122,13 @@ In the home screen, import the video that requires the edits and then tap the �
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
@@ -135,10 +142,10 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -160,10 +167,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -173,13 +180,6 @@ Thus, this article had given you enlightening discussion about the lower third e
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -196,17 +196,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-routines-for-easy-webinar-saves-on-windows-platform/"><u>[Updated] Essential Routines for Easy Webinar Saves on Windows Platform</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-technical-journey-to-capture-snapchat-on-mobile/"><u>[Updated] In 2024, The Technical Journey to Capture Snapchat On Mobile</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-navigate-the-quickest-growing-yt-havens-for-mental-brightness-for-2024/"><u>[Updated] Navigate the Quickest-Growing YT Havens for Mental Brightness for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-paving-digital-pathways-for-ig-and-tiktok/"><u>[Updated] Paving Digital Pathways for IG & TikTok</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebook-lite-video-downloading-made-easy-top-6-tools-of-2023/"><u>Facebook Lite Video Downloading Made Easy Top 6 Tools of 2023</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/getting-started-audacitys-guide-to-microphone-use-on-mac-for-2024/"><u>Getting Started Audacity's Guide to Microphone Use on Mac for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>In 2024, Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-revolutionize-your-animations/"><u>New 2024 Approved Revolutionize Your Animations</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-video-combiners-with-no-watermark-limitations/"><u>New 2024 Approved Top Video Combiners with No Watermark Limitations</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-cartoonize-your-photos-in-seconds-for-2024/"><u>New Cartoonize Your Photos in Seconds for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-effortless-video-editing-how-to-add-effects-in-fcp-x-in-3-steps-for-2024/"><u>New Effortless Video Editing How to Add Effects in FCP X in 3 Steps for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-the-art-of-online-conference-coordination-for-2024/"><u>[New] Mastering the Art of Online Conference Coordination for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-level-photography-smart-hdr-and-beyond/"><u>[New] Next-Level Photography Smart HDR and Beyond</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-engagement-creating-top-tier-fb-ad-videos/"><u>[Updated] Enhancing Engagement Creating Top-Tier FB Ad Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-whisper-of-opulence-from-beoplays-h8i-headphones/"><u>A Whisper of Opulence From Beoplay's H8i Headphones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/boost-your-chromes-downloading-power-tips-and-tricks/"><u>Boost Your Chrome's Downloading Power: Tips and Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-complete-silence-resolving-usb-headphones-audio-issues-in-windows-7/"><u>Fixing Complete Silence: Resolving USB Headphones Audio Issues in Windows 7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-intelligent-digital-diary-with-mematic-services/"><u>In 2024, Intelligent Digital Diary with Mematic Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream/"><u>In 2024, SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-craft-integrating-gpt-my-bots-into-hobbies-and-artistry/"><u>Mastering the Craft: Integrating GPT-My Bots Into Hobbies and Artistry</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-adobe-premiere-pro-cs6-for-macos-free-download-and-install-guide/"><u>New 2024 Approved Adobe Premiere Pro CS6 for macOS Free Download and Install Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-avs-video-editor-software-review-pros-cons-and-verdict/"><u>New 2024 Approved AVS Video Editor Software Review Pros, Cons, and Verdict</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-beginners-guide-to-video-editing-top-software-picks/"><u>New 2024 Approved Beginners Guide to Video Editing Top Software Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-edit-on-the-go-best-android-video-editor-apps-for-chromebooks/"><u>New 2024 Approved Edit on the Go Best Android Video Editor Apps for Chromebooks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-creative-with-fcp-x-a-3-step-guide-to-adding-awesome-effects/"><u>New 2024 Approved Get Creative with FCP X A 3-Step Guide to Adding Awesome Effects</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-powerdirector-competitors-best-android-and-ios-video-editors/"><u>New 2024 Approved PowerDirector Competitors Best Android and iOS Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-5-best-free-video-trimmers-you-need-to-try/"><u>New 2024 Approved The 5 Best Free Video Trimmers You Need to Try</u></a></li>
 </ul></div>
 

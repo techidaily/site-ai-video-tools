@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate DVR Face-Off TiVo vs Comcast Xfinity
-date: 2024-10-21T06:01:46.764Z
-updated: 2024-10-24T03:46:33.947Z
+date: 2024-10-24T17:20:12.353Z
+updated: 2024-10-30T03:11:40.465Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  The menus are slightly different, as you can see below.
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Comcast interface
 
@@ -58,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -80,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -94,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. TiVo vs Comcast: User interface
@@ -107,16 +121,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
@@ -135,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Summary**
 
  What it all comes down to is looking at how you use your TV, where you get your sources from, and what your budget is. Each device has its own set of things that are appealing, and its own drawbacks. For flexibility of being able to use multiple sources and devices, the TiVo is the clear winner. For cost in the long run, it’s almost a draw. For ease of connection to a TV, the Comcast box comes out on top. No matter which one you pick, you’ll never run out of great programs to watch.
@@ -149,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -172,22 +166,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-pinterest-video-downloader-guide-the-leading-no-cost-alternatives/"><u>[New] In 2024, Pinterest Video Downloader Guide The Leading No-Cost Alternatives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-prime-10-terraria-game-enhancements/"><u>[New] In 2024, Prime 10 Terraria Game Enhancements</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-unseen-virtues-of-vector-graphics-mastery/"><u>[New] The Unseen Virtues of Vector Graphics Mastery</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-guide-to-premium-zero-fee-video-meeting-solutions-for-2024/"><u>[Updated] Guide to Premium, Zero-Fee Video Meeting Solutions for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-flawless-cross-sound-mixing-in-audacity-pro/"><u>2024 Approved Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-skies-simple-snaps-vertical-phone-panoramas-for-2024/"><u>High Skies, Simple Snaps Vertical Phone Panoramas for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-20-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 20 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-no-copyright-worries-best-sites-for-public-domain-video-downloads/"><u>New No Copyright Worries Best Sites for Public Domain Video Downloads</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-s-top-free-video-editing-software-simplified-for-beginners-for-2024/"><u>New S Top Free Video Editing Software Simplified for Beginners for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-trick-playbook-to-resolve-lost-ark-not-launching-error-in-202n4/"><u>Ultimate Trick Playbook to Resolve Lost Ark Not Launching Error in 202N4</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-video-editors-for-webm-files-2023-edition-for-2024/"><u>Updated Best Free Video Editors for WebM Files 2023 Edition for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-beyond-adobe-4-best-premiere-rush-competitors-for-2024/"><u>Updated Beyond Adobe 4 Best Premiere Rush Competitors for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pro-x-tutorial-cropping-images-for-video-editing-for-2024/"><u>Updated Final Cut Pro X Tutorial Cropping Images for Video Editing for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mavericks-mp4-video-editor-edit-and-enhance-your-videos/"><u>Updated In 2024, Mavericks MP4 Video Editor Edit and Enhance Your Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-replace-imovie-with-these-top-rated-windows-10-video-editors-for-2024/"><u>Updated Replace iMovie with These Top-Rated Windows 10 Video Editors for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-save-big-on-final-cut-pro-education-bundle-deals-inside-for-2024/"><u>Updated Save Big on Final Cut Pro Education Bundle Deals Inside for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-djis-minis-and-air-2-elevate-mixes-with-free-custom-luts/"><u>[New] DJI's Minis & Air 2 Elevate Mixes with Free, Custom LUTS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-windows-colors-expertise-for-viewing-and-editing-hd-video/"><u>[New] Mastering Windows Colors Expertise for Viewing & Editing HD Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-evaluating-active-presenter-8s-performance/"><u>[Updated] Evaluating Active Presenter 8'S Performance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-exploring-alternatives-to-magixs-acid-pro-for-2024/"><u>[Updated] Exploring Alternatives to Magix's ACID Pro for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-saying-thanks-access-to-otu-creations-freepaid/"><u>[Updated] Saying Thanks Access to OTU Creations (Free/Paid)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-youtube-streams-optimal-webm-converters-ranked/"><u>2024 Approved YouTube Streams Optimal WebM Converters Ranked!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effiziente-methode-zur-datenwiedergewinnung-von-externer-seagate-hardware-exklusive-tipps-und-tricks/"><u>Effiziente Methode Zur Datenwiedergewinnung Von Externer Seagate Hardware - Exklusive Tipps Und Tricks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-realme-gt-neo-5-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme GT Neo 5 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 13 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mastering-color-in-final-cut-pro-a-step-by-step-guide-for-2024/"><u>New Mastering Color in Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-motion-mastery-essential-apps-for-tracking-your-movements-for-2024/"><u>New Motion Mastery Essential Apps for Tracking Your Movements for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-visual-storytelling-10-best-image-to-video-converters-for-2024/"><u>New Unleash the Power of Visual Storytelling 10 Best Image to Video Converters for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unlocking-performance-in-depth-analysis-by-toms-hardware-expertise/"><u>Unlocking Performance: In-Depth Analysis by Tom's Hardware Expertise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-superior-benefits-of-the-chatgpt-desktop-application-compared-to-its-web-counterpart/"><u>Unveiling the Superior Benefits of the ChatGPT Desktop Application Compared to Its Web Counterpart</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-adobe-systems-offers-free-download-of-premiere-pro-cs6-for-mac-for-2024/"><u>Updated Adobe Systems Offers Free Download of Premiere Pro CS6 for Mac for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-match-merge-and-master-color-correction-in-fcp/"><u>Updated In 2024, Match, Merge, and Master Color Correction in FCP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-art-of-lower-thirds-design-in-final-cut-pro-x/"><u>Updated In 2024, The Art of Lower Thirds Design in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-of-the-best-top-vlog-video-editing-software-for-hot-platforms/"><u>Updated In 2024, The Best of the Best Top Vlog Video Editing Software for Hot Platforms</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-the-power-of-transitions-in-final-cut-pro-3-expert-methods/"><u>Updated Unleash the Power of Transitions in Final Cut Pro 3 Expert Methods</u></a></li>
 </ul></div>
 

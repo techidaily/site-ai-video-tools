@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Essential Adobe Premiere Keyboard Shortcuts to Boost Productivity
-date: 2024-08-09T05:00:51.557Z
-updated: 2024-08-10T05:00:51.557Z
+date: 2024-10-22T17:40:14.230Z
+updated: 2024-10-29T19:54:15.065Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -67,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -109,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,11 +207,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cut-the-cost-not-your-content-quality-try-these-top-8-free-tools-for-2024/"><u>[New] Cut The Cost, Not Your Content Quality - Try These Top 8 Free Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-buys-detailed-analysis-of-top-6-hdmi-monitors/"><u>2024 Approved Best Buys Detailed Analysis of Top 6 HDMI Monitors</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/come-annullare-leliminazione-definitiva-di-file-e-documenti-su-windows-similar-problem-for-us-audience/"><u>Come Annullare L'Eliminazione Definitiva Di File E Documenti Su Windows # Similar Problem for U.S. Audience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-of-lenovos-ultrabook-prodigy-the-gen-12-x1-carbon-where-portability-meets-power/"><u>Comprehensive Analysis of Lenovo's Ultrabook Prodigy: The Gen 12 X1 Carbon - Where Portability Meets Power</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-editing-music-loading-in-inshot/"><u>Cutting-Edge Editing Music Loading in InShot</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-laugh-out-loud-top-video-dubbing-apps-for-comedy-gold-for-2024/"><u>New Laugh Out Loud Top Video Dubbing Apps for Comedy Gold for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-10-best-free-chroma-key-apps-for-mobile-devices-updated-2023-for-2024/"><u>Updated 10 Best Free Chroma Key Apps for Mobile Devices (Updated 2023) for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-final-cut-pro-x-crashing-heres-the-ultimate-fix/"><u>Updated 2024 Approved Final Cut Pro X Crashing? Heres the Ultimate Fix</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-wmv-video-combining-software-for-2024/"><u>Updated Best Free WMV Video Combining Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-edit-videos-in-windows-live-movie-maker-for-2024/"><u>Updated How to Edit Videos in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-avi-video-trimming-software-for-windows-mac-android-iphone-and-online/"><u>Updated In 2024, Top AVI Video Trimming Software for Windows, MAC, Android, iPhone, and Online</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unlock the Power of the Ken Burns Effect A Beginners Guide
-date: 2024-08-15T01:05:03.738Z
-updated: 2024-08-16T01:05:03.738Z
+date: 2024-10-28T20:07:17.274Z
+updated: 2024-10-29T22:05:38.505Z
 tags: 
   - video editing software
   - video editing
@@ -115,8 +115,12 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -127,8 +131,18 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -140,9 +154,12 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -154,8 +171,12 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -164,11 +185,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-an-all-inclusive-examination-of-inshots-video-edits/"><u>[New] An All-Inclusive Examination of InShot's Video Edits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-reversing-time-retracing-your-steps-for-lost-snaps-for-2024/"><u>[New] Reversing Time Retracing Your Steps for Lost Snaps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-8-exemplary-templates-dominate-social-media-creatives-for-2024/"><u>[Updated] 8 Exemplary Templates Dominate Social Media Creatives for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-poco-c65-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Poco C65</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-technology-with-toms-hardware-your-trusted-resource-for-pc-enthusiasts/"><u>Exploring Technology with Tom's Hardware - Your Trusted Resource for PC Enthusiasts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-itel-a60-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Itel A60 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-google-pixel-fold-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Google Pixel Fold working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/moto-g23-video-recovery-recover-deleted-videos-from-moto-g23-by-fonelab-android-recover-video/"><u>Moto G23 Video Recovery - Recover Deleted Videos from Moto G23</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-converting-regular-videos-with-best-vr-video-converters/"><u>Updated 2024 Approved Converting Regular Videos with Best VR Video Converters</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-chromecast-converter-how-to-play-un-supported-video-formats/"><u>Updated 2024 Approved The Chromecast Converter How to Play Un-Supported Video Formats</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-organize-your-videos-with-ease-top-8-mac-metadata-editors/"><u>Updated In 2024, Organize Your Videos with Ease Top 8 Mac Metadata Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-webm-to-mp3-converter-roundup-top-picks-and-reviews/"><u>Updated In 2024, WebM to MP3 Converter Roundup Top Picks and Reviews</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-say-goodbye-to-shaky-footage-8-free-online-video-stabilization-solutions-for-2024/"><u>Updated Say Goodbye to Shaky Footage 8 Free Online Video Stabilization Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-free-video-storage-sites-for-online-sharing-for-2024/"><u>Updated Top-Rated Free Video Storage Sites for Online Sharing for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-transform-your-videos-into-animated-masterpieces-a-step-by-step-guide/"><u>Updated Transform Your Videos Into Animated Masterpieces A Step-by-Step Guide</u></a></li>
+</ul></div>
+

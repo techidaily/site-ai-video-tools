@@ -1,7 +1,7 @@
 ---
 title: New Ken Burns Effect Tutorial Add Movement to Your Photos for 2024
-date: 2024-08-15T01:04:45.620Z
-updated: 2024-08-16T01:04:45.620Z
+date: 2024-10-26T02:10:15.511Z
+updated: 2024-10-29T21:55:21.792Z
 tags: 
   - video editing software
   - video editing
@@ -115,8 +115,18 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -127,8 +137,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -140,8 +154,12 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -153,8 +171,12 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -163,11 +185,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-diy-instagram-alert-tunes-a-step-by-step-guide/"><u>[Updated] 2024 Approved DIY Instagram Alert Tunes A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-djivision-fpv-helmet-effectiveness-breakdown/"><u>[Updated] DJiVision FPV Helmet Effectiveness Breakdown</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-excellent-online-screen-recorders-ranked-1plus/"><u>[Updated] In 2024, Excellent Online Screen Recorders Ranked #1+</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-3-nintendo-switch-emulators-free-to-download/"><u>[Updated] In 2024, Top 3 Nintendo Switch Emulators Free to Download</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-guide-to-excellent-live-cricket-online-watch/"><u>2024 Approved A Guide to Excellent Live Cricket Online Watch</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-lava-blaze-2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Lava Blaze 2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-beginners-guide-on-telegram-promotions/"><u>In 2024, Navigating Through Beginner’s Guide on Telegram Promotions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-pitch-integrating-music-with-cropping-and-editing-in-canva/"><u>Perfect Pitch Integrating Music with Cropping and Editing in Canva</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/s-best-green-screen-video-editing-apps-for-android-and-ios-users-for-2024/"><u>S Best Green Screen Video Editing Apps for Android and iOS Users for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-free-video-editing-software-with-effects-for-mobile-devices/"><u>Updated 2024 Approved The Best Free Video Editing Software with Effects for Mobile Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-rotation-made-easy-top-free-solutions-for-windows-mac-android-and-iphone/"><u>Updated 2024 Approved Video Rotation Made Easy Top Free Solutions for Windows, Mac, Android, and iPhone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-color-match-different-video-clips-in-powerdirector-in-2024/"><u>Updated How to Color Match Different Video Clips in PowerDirector, In 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-avi-video-cutter-reviews-top-16-options-for-precise-trimming/"><u>Updated In 2024, AVI Video Cutter Reviews Top 16 Options for Precise Trimming</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-your-videos-pop-the-secret-to-adding-jaw-dropping-effects/"><u>Updated In 2024, Make Your Videos Pop The Secret to Adding Jaw-Dropping Effects</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-vsdc-video-editor-replacements-for-mac-users/"><u>Updated In 2024, Top VSDC Video Editor Replacements for Mac Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-compressing-webm-videos-online/"><u>Updated The Ultimate Guide to Compressing WebM Videos Online</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-fcpx-potential-10-must-have-plugins-for-2024/"><u>Updated Unlock FCPX Potential 10 Must-Have Plugins for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/wechsel-von-windows/"><u>Wechsel Von Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The VHS Effect in FCP A Beginners Guide to Retro Editing for 2024
-date: 2024-10-18T18:17:14.366Z
-updated: 2024-10-23T16:05:36.040Z
+date: 2024-10-25T19:52:00.010Z
+updated: 2024-10-29T18:54:06.238Z
 tags: 
   - video editing software
   - video editing
@@ -95,15 +95,28 @@ First, if you haven't got Filmora, click here to download it for free!
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
@@ -132,19 +145,6 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now search for the **Strong Glitch effect**.
 
 * Drag and drop it above the previous layer.
@@ -162,6 +162,13 @@ Search for **Chromatic Aberration effect**.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now Search for **VCR Distortion** in the search bar.
 
 1. Drag and drop it above the previous layer.
@@ -178,13 +185,6 @@ Search for **Chromatic Aberration effect**.
 You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
@@ -209,10 +209,10 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
@@ -244,22 +244,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-visual-vibes-top-story-filter-rankings/"><u>[New] Visual Vibes Top Story Filter Rankings</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-open-source-fb-songs-downloader/"><u>[Updated] 2024 Approved Open Source FB Songs Downloader</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-hd-video-recording-for-windows-10-users/"><u>2024 Approved HD Video Recording for Windows 10 Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-minecraft-recording-on-mac-a-step-by-step-guide/"><u>2024 Approved Mastering Minecraft Recording on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficient-omzetting-van-fotos-naar-jpeg-de-beste-converters-voor-je-grafische-werken/"><u>Efficiënt Omzetting Van Foto's Naar JPEG: De Beste Converters Voor Je Grafische Werken</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-x9a-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor X9a to iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-precision-zoom-for-clearer-movie-scenes/"><u>In 2024, Precision Zoom for Clearer Movie Scenes</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-content-allure-tips-to-lift-your-fan-interactions-on-fb/"><u>Mastering Content Allure: Tips to Lift Your Fan Interactions on FB</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-filmora-without-the-risks-a-step-by-step-guide/"><u>New 2024 Approved Free Filmora Without the Risks A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-sideways-to-right-side-up-easy-video-flipping/"><u>New 2024 Approved From Sideways to Right-Side Up Easy Video Flipping</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mobile-animation-magic-top-stop-motion-apps-revealed/"><u>New 2024 Approved Mobile Animation Magic Top Stop Motion Apps Revealed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-motion-capture-apps-android-and-ios-essentials/"><u>New 2024 Approved Motion Capture Apps Android and iOS Essentials</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-show-off-your-gaming-skills-a-beginners-guide-to-sharing-ps4-screenshots/"><u>New 2024 Approved Show Off Your Gaming Skills A Beginners Guide to Sharing PS4 Screenshots</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-transform-your-footage-mastering-the-ken-burns-effect-in-final-cut-pro-with-ease/"><u>New 2024 Approved Transform Your Footage Mastering the Ken Burns Effect in Final Cut Pro with Ease</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-cast-any-video-a-step-by-step-guide-to-chromecast-compatibility-for-2024/"><u>New Cast Any Video A Step-by-Step Guide to Chromecast Compatibility for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-compress-videos-in-minutes-10-free-online-tools-with-no-software-for-2024/"><u>New Compress Videos in Minutes 10 Free Online Tools with No Software for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-dji-phantom-3-capability-assessment/"><u>[New] DJI Phantom 3 Capability Assessment</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-captivating-content-at-your-fingertips-download-youtube-for-ios/"><u>[New] In 2024, Captivating Content at Your Fingertips Download YouTube for iOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-non-youtube-editors-the-top-5-list-you-need/"><u>[Updated] Master Non-Youtube Editors The Top 5 List You Need</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sony-ps-players-voice-modification-techniques/"><u>[Updated] Sony PS Players' Voice Modification Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-film-creation-tools-go-free-and-green/"><u>2024 Approved Film Creation Tools Go Free and Green</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-front-seat-recreation-10-non-athletic-delights/"><u>2024 Approved Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/an-odyssey-through-time-unexplored-worlds-in-classic-books-for-2024/"><u>An Odyssey Through Time Unexplored Worlds in Classic Books for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/easy-ways-to-record-gotomeeting-sessions-for-2024/"><u>Easy Ways to Record GoToMeeting Sessions for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-bringing-your-nikon-videos-to-life-editing-software-and-techniques/"><u>New 2024 Approved Bringing Your Nikon Videos to Life Editing Software and Techniques</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fcp-file-management-101-saving-your-project-with-ease/"><u>New 2024 Approved FCP File Management 101 Saving Your Project with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-low-budget-filmmaking-hacks-the-best-free-and-affordable-software/"><u>New 2024 Approved Low-Budget Filmmaking Hacks The Best Free and Affordable Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-mts-video-editing-top-tools/"><u>New 2024 Approved The Ultimate Guide to MTS Video Editing Top Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-avs-video-editor-2023-a-detailed-review-of-its-capabilities-and-limitation-for-2024/"><u>New AVS Video Editor 2023 A Detailed Review of Its Capabilities and Limitation for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-mp4-video-tag-editors-for-windows-and-mac-for-2024/"><u>New Best MP4 Video Tag Editors for Windows and Mac for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-budget-savvy-filmmaking-7-essential-software-for-beginners-for-2024/"><u>New Budget-Savvy Filmmaking 7 Essential Software for Beginners for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-combine-mpeg-videos-for-free-top-5-options-for-2024/"><u>New Combine MPEG Videos for Free Top 5 Options for 2024</u></a></li>
 </ul></div>
 

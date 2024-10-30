@@ -1,7 +1,7 @@
 ---
 title: Up To 3.7MWh Per Annum - Unveiling the Astounding Energy Consumption Of Single Modern AI GPUs Over Homes' Use
-date: 2024-10-22T18:40:07.552Z
-updated: 2024-10-23T20:53:44.849Z
+date: 2024-10-28T23:10:52.994Z
+updated: 2024-10-30T01:22:49.402Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,16 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,20 +72,24 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-initiate-an-impactful-live-stream-on-facebook-today/"><u>[New] 2024 Approved Initiate an Impactful Live Stream on Facebook Today</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-zoom-discussion-essential-tactics-for-virtual-conversations/"><u>[New] In 2024, Mastering Zoom Discussion Essential Tactics for Virtual Conversations</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimize-your-watch-activate-av1-on-youtube-platform/"><u>[Updated] Optimize Your Watch Activate AV1 on YouTube Platform</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-for-secure-complimentary-vlc-installation-on-mac/"><u>[Updated] Step-by-Step for Secure, Complimentary VLC Installation on Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-keystrokes-speed-top-tips-to-decrease-delay-on-windows/"><u>Boost Your Keystrokes' Speed: Top Tips to Decrease Delay on Windows</u></a></li>
-<li><a href="https://fox-where.techidaily.com/come-installare-e-proteggere-un-server-di-avvio-pxe-con-windows/"><u>Come Installare E Proteggere Un Server Di Avvio PXE Con Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/lifesaver-unlock-secrets-no-price-tag/"><u>Lifesaver: Unlock Secrets, No Price Tag</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-windows-10s-native-features-to-cut-videos-instantly/"><u>Master Windows 10'S Native Features to Cut Videos Instantly</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mastering-the-ken-burns-effect-a-step-by-step-guide-for-final-cut-pro-users/"><u>New 2024 Approved Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-streamline-your-movie-collection-how-to-convert-dvds-to-digital-formats/"><u>New 2024 Approved Streamline Your Movie Collection How to Convert DVDs to Digital Formats</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-the-best-pro-audio-editing-software/"><u>New 2024 Approved The Ultimate Guide to Choosing the Best Pro Audio Editing Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vn-video-editor-android-app-is-it-worth-downloading/"><u>New 2024 Approved VN Video Editor Android App Is It Worth Downloading?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-best-of-the-best-top-5-free-mpeg-video-cutting-tools-for-2024/"><u>New Best of the Best Top 5 Free MPEG Video Cutting Tools for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-from-footage-to-film-the-best-software-for-burning-home-dvds-for-2024/"><u>Updated From Footage to Film The Best Software for Burning Home DVDs for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-to-written-world-superior-convert-tools-online/"><u>[New] YouTube to Written World Superior Convert Tools Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-cutting-edge-top-11-list-of-soundscape-capturers/"><u>[Updated] 2024 Approved Cutting-Edge Top 11 List of Soundscape Capturers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-use-periscope-the-complete-guide/"><u>[Updated] 2024 Approved How to Use Periscope The Complete Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-system-without-microsofts-core-software/"><u>Enhance Your System Without Microsoft's Core Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 7</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laughlens-lab-snapsatiricals/"><u>In 2024, LaughLens Lab SnapSatiricals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-quick-quality-edits-the-ultimate-guide-to-pixlr/"><u>In 2024, Quick, Quality Edits The Ultimate Guide to Pixlr</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-words-on-the-screen-crafting-clear-concise-dialogue/"><u>In 2024, The Art of Words on the Screen Crafting Clear, Concise Dialogue</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-is-vn-video-editor-pro-worth-the-download-an-in-depth-look-for-2024/"><u>New Is VN Video Editor Pro Worth the Download? An In-Depth Look for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975742334-qualcomm-atheros-ar3011-secure-your-free-bluetooth-v30-drivers-now/"><u>Qualcomm Atheros AR3011 - Secure Your Free Bluetooth v3.0 Drivers Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-ditch-the-search-get-exclusive-filmora-discounts-here/"><u>Updated 2024 Approved Ditch the Search Get Exclusive Filmora Discounts Here</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-flat-to-fabulous-converting-videos-for-vr-with-ease/"><u>Updated 2024 Approved From Flat to Fabulous Converting Videos for VR with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ezvid-for-mac-the-ultimate-slideshow-and-video-making-solution-for-2024/"><u>Updated Ezvid for Mac The Ultimate Slideshow and Video Making Solution for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-your-instagram-feed-pop-with-stop-motion-videos-tips-and-tricks/"><u>Updated In 2024, Make Your Instagram Feed Pop with Stop Motion Videos Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-how-to-edit-videos-with-quicktime-on-mac-for-2024/"><u>Updated Unleash Your Creativity How to Edit Videos with QuickTime on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-windows-10-webcam-recording-made-easy-top-10-software/"><u>Updated Windows 10 Webcam Recording Made Easy Top 10 Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/whiteboard-animation-made-easy-top-5-hand-drawn-video-creators-for-2024/"><u>Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/windows-live-movie-maker-tutorial-creating-stunning-slow-motion-videos-for-2024/"><u>Windows Live Movie Maker Tutorial Creating Stunning Slow Motion Videos for 2024</u></a></li>
 </ul></div>
 
