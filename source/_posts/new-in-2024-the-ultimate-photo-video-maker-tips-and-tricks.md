@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Ultimate Photo Video Maker Tips and Tricks
-date: 2024-08-02T03:44:59.593Z
-updated: 2024-08-03T03:44:59.593Z
+date: 2024-11-03T16:44:59.487Z
+updated: 2024-11-04T19:08:48.364Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 # How to Make a Video with Photos and Music
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -48,16 +45,10 @@ Download and open [Filmora](https://tools.techidaily.com/wondershare/filmora/dow
 
 The still image default duration is 5 seconds, you can shorten or extend it by drag the border of image in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
@@ -74,9 +65,6 @@ If you want to express your feelings or explain something in the slideshow, you 
 
 Music is the must-have element in a photo slideshow. In Filmora, there are over 50 royalty free music for you to choose to make your slideshow more engaging. Just drag the one you like to timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
 
 #### 5\. Export
@@ -84,6 +72,13 @@ Music is the must-have element in a photo slideshow. In Filmora, there are over 
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to YouTube or burn it a DVD collection.
 
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
 
@@ -94,6 +89,13 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 3\. Personalize video slideshow with stunning transitions, intro/credits, and sound effects.
 * 4\. Apply more advanced video effects like Mosaic, Face Off, Jump Cut and more.
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -109,15 +111,23 @@ Easily rotate photos, enhance brightness and color balance to fine tune your vid
 **4\. Share Video in Different Ways**  
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to Facebook and YouTube or burn it a DVD collection.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -125,11 +135,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dive-into-youtube-tv-tips-and-tricks-for-optimal-viewing/"><u>[New] In 2024, Dive Into YouTube TV Tips & Tricks for Optimal Viewing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ensuring-compliance-in-zoom-meetings-a-recording-guide/"><u>[New] In 2024, Ensuring Compliance in Zoom Meetings A Recording Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-leading-tech-for-remote-team-engagement/"><u>[New] In 2024, Leading Tech for Remote Team Engagement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-canva-expertise-ditching-image-backdrops-with-ease/"><u>[Updated] Canva Expertise Ditching Image Backdrops with Ease</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-captivating-titles-easily-achievable/"><u>In 2024, Captivating Titles, Easily Achievable</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-recording-audio-for-impactful-ppts-and-presentations/"><u>In 2024, Recording Audio For Impactful PPTs & Presentations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/live-streaming-capture-services/"><u>Live-Streaming Capture Services</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-ready-to-roll-top-20-free-adobe-premiere-intro-templates-2023-for-2024/"><u>New Get Ready to Roll Top 20 Free Adobe Premiere Intro Templates 2023 for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-home-movie-magic-creating-professional-looking-dvds-with-ease-for-2024/"><u>New Home Movie Magic Creating Professional-Looking DVDs with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-apple-has-released-its-choices-for-the-best-app-and-video-games-of-2019-and-revealed-some-of-the-hottest-trends-on-the-app-storehere-are-the-lis/"><u>New In 2024, Apple Has Released Its Choices for the Best App and Video Games of 2019 and Revealed some of the Hottest Trends on the App Store.Here Are the List of the Best and Most Popular iPhone Apps that Left Th</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avs-video-editor-a-detailed-look-at-its-features-and-performance/"><u>New In 2024, AVS Video Editor A Detailed Look at Its Features and Performance</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-bring-your-logo-to-life-top-10-free-animated-logo-makers/"><u>New In 2024, Bring Your Logo to Life Top 10 Free Animated Logo Makers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-edit-like-a-pro-best-1080p-video-editing-software-of-the-year/"><u>New In 2024, Edit Like a Pro Best 1080P Video Editing Software of the Year</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-video-editing-game-top-5-final-cut-pro-tips-and-tricks/"><u>New In 2024, Elevate Your Video Editing Game Top 5 Final Cut Pro Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-official-100-valid-wondershare-filmora-coupon-code-up-to-54-off/"><u>New In 2024, Official 100 Valid Wondershare Filmora Coupon Code Up to 54 OFF</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-take-your-videos-to-the-next-level-6-expert-adobe-premiere-tips/"><u>New In 2024, Take Your Videos to the Next Level 6 Expert Adobe Premiere Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/official-winx-hd-media-transcoder-for-macos-seamlessly-convert-avchdmkvmov-to-mp4-videos/"><u>Official WinX HD Media Transcoder for macOS - Seamlessly Convert AVCHD/MKV/MOV to MP4 Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-expanding-realm-of-deprecated-mac-devices-apple-introduces-9-additional-models-to-obsolete-roster-zdnet-analysis/"><u>The Expanding Realm of Deprecated Mac Devices - Apple Introduces 9 Additional Models to 'Obsolete' Roster | ZDNet Analysis</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-redmi-12-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Redmi 12 5G without backup.</u></a></li>
+</ul></div>
+

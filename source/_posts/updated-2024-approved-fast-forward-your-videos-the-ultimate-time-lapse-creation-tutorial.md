@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Fast Forward Your Videos The Ultimate Time Lapse Creation Tutorial
-date: 2024-08-09T04:59:47.274Z
-updated: 2024-08-10T04:59:47.274Z
+date: 2024-11-02T19:53:36.589Z
+updated: 2024-11-04T17:15:07.762Z
 tags: 
   - video editing software
   - video editing
@@ -39,9 +39,6 @@ In this article, we will introduce two methods of creating time lapse video in F
 
 With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before we get started, we have summarized some tips for shooting time-lapse videos, hope that will help to shoot a good video footage. If you have some other tips and tricks about shooting time lapse videos, please share it on the comment below.
@@ -56,18 +53,12 @@ If you wanna make a time lapse video with photos, you need set up your camera to
 
 [Tips for Recording Time Lapse Video on iPhone](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Method 1: Creating time lapse video from photos
 
 #### 1  Import the original photos to Filmora
 
 After installing and launch Filmora video editor, import the shot time lapse photos to it. Click **New Project** and then click the **Import** button to add your photos to the media library. You can also directly drag and drop your video to the program. Then all the imported files will appear as thumbnails in the left of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text overlay](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
 
 You can also import the photos from the video shooting device. Just plug in the video camera, click **Import from Phone or Camera** option in Import menu, and then transfer the target media files to Filmora.
@@ -92,14 +83,15 @@ Place the timeline playhead at the beginner, and play it in Preview window to ch
 
 If you want to save and play your video on iPhone, iPod, iPad and other devices, just switch to the **Device** tab and choose from the device list. What’s more, you can upload the newly made video file to all popular video sites such as YouTube and Vimeo directly from the interface of Filmora. Or turn to **DVD** tab to burn your video to DVD for playing on TV.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -118,10 +110,14 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -133,7 +129,21 @@ That’s how to make a cool time lapse video with the time lapse video software 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -141,11 +151,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-link-mastery-a-roadmap-to-content-marketing-success/"><u>[New] 2024 Approved YouTube Link Mastery A Roadmap to Content Marketing Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-imagepuritymax-ultimate-eraser-for-clear-backgrounds/"><u>[New] ImagePurityMax Ultimate Eraser for Clear Backgrounds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-master-6-innovative-apps-for-instagram-reels/"><u>[New] Master 6 Innovative Apps for Instagram Reels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-best-audio-recording-options-for-apple-products-for-2024/"><u>[New] Unveiling the Best Audio Recording Options for Apple Products for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-exploring-iphoneutility-mirror-photo-mastery-tips-for-2024/"><u>[Updated] Exploring iPhone'utility Mirror Photo Mastery Tips for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-simplified-methods-to-close-unused-social-media-linkedin-account/"><u>[Updated] In 2024, Simplified Methods to Close Unused Social Media (LinkedIn) Account</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>2024 Approved The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ospreys-ws-2n902-ambient-weather-sensor-a-cost-effective-solution-with-abundant-features-reviewed/"><u>Osprey's WS-2n902 Ambient Weather Sensor: A Cost-Effective Solution with Abundant Features Reviewed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sage-select-best-general-knowledge-channels/"><u>Sage Select Best General Knowledge Channels</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-7-best-video-merging-tools-with-no-watermark-limitations-for-2024/"><u>The 7 Best Video Merging Tools with No Watermark Limitations for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-best-online-video-editors-compatible-with-chromebook-for-2024/"><u>The Best Online Video Editors Compatible with Chromebook for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-15-free-video-editing-tools-for-starters-no-experience-needed-for-2024/"><u>Updated 15 Free Video Editing Tools for Starters No Experience Needed for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-video-tagging-software-for-windows-and-macos/"><u>Updated 2024 Approved Best Video Tagging Software for Windows and macOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-free-mov-video-editors-top-10-picks/"><u>Updated 2024 Approved The Ultimate Guide to Free MOV Video Editors Top 10 Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-elevate-your-audio-2-fade-infade-out-methods-in-fcp/"><u>Updated In 2024, Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-elevate-your-footage-transform-ordinary-videos-into-extraordinary/"><u>Updated In 2024, Elevate Your Footage Transform Ordinary Videos Into Extraordinary</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-stay-active-with-the-best-motion-tracking-apps-on-android-and-ios-for-2024/"><u>Updated Stay Active with the Best Motion Tracking Apps on Android and iOS for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-video-voiceover-software-for-pc-for-2024/"><u>Updated The Ultimate Guide to Video Voiceover Software for PC for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-hot-40i-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Hot 40i? Here is How | Dr.fone</u></a></li>
+</ul></div>
+

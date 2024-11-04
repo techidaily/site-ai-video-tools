@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial
-date: 2024-10-28T22:09:25.810Z
-updated: 2024-10-29T21:47:15.148Z
+date: 2024-10-28T17:12:30.139Z
+updated: 2024-11-04T16:47:31.836Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -131,10 +131,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -150,10 +150,10 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -167,10 +167,10 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -188,20 +188,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-through-glitches-in-facebook-live-video-uploads-for-2024/"><u>[Updated] Navigating Through Glitches in Facebook Live Video Uploads for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-lesson-planning-with-recorder-tools-for-2024/"><u>[Updated] Streamline Lesson Planning with Recorder Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-8-screen-recorders-list/"><u>[Updated] Ultimate 8 Screen Recorders List</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24+ Phone without PIN</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-game-streams-with-ai-enhanced-portraits/"><u>In 2024, Mastering Game Streams with AI-Enhanced Portraits</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-cut-color-and-create-top-iphone-video-editing-apps/"><u>New 2024 Approved Cut, Color, and Create Top iPhone Video Editing Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-most-popular-online-video-reversal-services/"><u>New 2024 Approved S Most Popular Online Video Reversal Services</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-free-divx-video-editors-for-cutting-and-trimming/"><u>New 2024 Approved S Top Free Divx Video Editors for Cutting and Trimming</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-cream-of-the-crop-best-iphone-apps-with-in-depth-reviews/"><u>New 2024 Approved The Cream of the Crop Best iPhone Apps with In-Depth Reviews</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-converting-webm-to-mp4-top-10-converters/"><u>New 2024 Approved The Ultimate Guide to Converting WebM to MP4 Top 10 Converters</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-upgrade-your-video-game-top-software-for-higher-resolution/"><u>New 2024 Approved Upgrade Your Video Game Top Software for Higher Resolution</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-easy-video-editing-how-to-reverse-clips-in-final-cut-pro-2023-tutorial-for-2024/"><u>New Easy Video Editing How to Reverse Clips in Final Cut Pro 2023 Tutorial for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-c51-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme C51 Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-acceleration-station-top-gif-speed-editors-online-and-on-the-go/"><u>Updated Acceleration Station Top GIF Speed Editors Online and On-The-Go</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-frolic-fables-a-vhs-review-of-the-comical-epic/"><u>[Updated] 'Frolic Fables' - A VHS Review of The Comical Epic</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-maximize-engagement-uploading-and-posting-funny-gifs-on-instagram-easy-guide/"><u>2024 Approved Maximize Engagement Uploading & Posting Funny GIFs on Instagram (Easy Guide)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-strategic-planning-aligning-research-with-business-objectives/"><u>2024 Approved Strategic Planning Aligning Research with Business Objectives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-unreliable-are-current-ai-methods-for-identifying-duplicate-online-material/"><u>How Unreliable Are Current AI Methods for Identifying Duplicate Online Material?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-beginners-blueprint-for-youtube-gear/"><u>In 2024, The Beginner's Blueprint for YouTube Gear</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/reimagining-professional-life-a-stunning-perspective-uncovered-by-microsofts-survey-of-31000plus-individuals/"><u>Reimagining Professional Life: A Stunning Perspective Uncovered by Microsoft's Survey of 31,000+ Individuals</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-and-solutions-for-the-finals-app-launch-issues/"><u>Ultimate Guide: Troubleshooting & Solutions for 'The Finals' App Launch Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-moving-with-the-best-free-video-speed-editor-apps-for-ios-and-android/"><u>Updated 2024 Approved Get Moving with the Best Free Video Speed Editor Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-cast-local-videos-to-chromecast-a-step-by-step-guide-updated-2023/"><u>Updated In 2024, Cast Local Videos to Chromecast A Step-by-Step Guide (Updated 2023)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-discover-the-top-reaction-video-creation-platforms/"><u>Updated In 2024, Discover the Top Reaction Video Creation Platforms</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-effortless-gopro-video-editing-a-step-by-step-guide/"><u>Updated In 2024, Effortless GoPro Video Editing A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-looking-beyond-virtualdub-the-best-video-editing-software-for-your-needs/"><u>Updated In 2024, Looking Beyond Virtualdub The Best Video Editing Software for Your Needs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-seamless-storytelling-3-transition-techniques-for-final-cut-pro/"><u>Updated Seamless Storytelling 3 Transition Techniques for Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-squeeze-the-most-out-of-your-storage-5-best-free-video-compression-apps/"><u>Updated Squeeze the Most Out of Your Storage 5 Best Free Video Compression Apps</u></a></li>
 </ul></div>
 

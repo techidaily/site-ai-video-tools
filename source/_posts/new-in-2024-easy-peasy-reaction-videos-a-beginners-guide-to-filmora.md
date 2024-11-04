@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Easy Peasy Reaction Videos A Beginners Guide to Filmora
-date: 2024-08-02T03:45:46.550Z
-updated: 2024-08-03T03:45:46.550Z
+date: 2024-11-03T17:59:29.770Z
+updated: 2024-11-04T19:31:42.493Z
 tags: 
   - video editing software
   - video editing
@@ -47,16 +47,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
@@ -65,9 +59,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step5.png)
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
@@ -76,16 +67,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
@@ -94,9 +79,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
@@ -113,11 +95,40 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-capture-your-iphones-screen-seamlessly/"><u>[Updated] In 2024, How to Capture Your iPhone's Screen Seamlessly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-navigating-mobile-meetings-using-googles-facetime-feature/"><u>[Updated] In 2024, Navigating Mobile Meetings Using Google's Facetime Feature</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-pro-audio-recording-excellence-with-audacity/"><u>2024 Approved Pro Audio Recording Excellence with Audacity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-presentation-game-using-the-7-best-smart-tech-applications/"><u>Elevate Your Presentation Game Using the 7 Best Smart Tech Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/engage-in-confidential-conversations-with-chatgpt-and-others-using-duckduckgos-privacy-centric-ai-chat/"><u>Engage in Confidential Conversations with ChatGPT & Others Using DuckDuckGo's Privacy-Centric AI Chat</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/excellent-substitutes-for-dentex-effortless-youtube-downloading-on-windows-and-macos-systems/"><u>Excellent Substitutes for Dentex: Effortless YouTube Downloading on Windows & MacOS Systems</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-fix-the-error-code-0xc004c003-during-windows-license-verification/"><u>How to Fix the 'Error Code 0xC004C003' During Windows License Verification</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximize-reach-effective-tips-for-multitasking-on-youtube-and-twitch-streams/"><u>Maximize Reach Effective Tips for Multitasking on Youtube & Twitch Streams</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-chrome-os-to-linux-a-beginners-guide-to-installation-2023-edition/"><u>New 2024 Approved From Chrome OS to Linux A Beginners Guide to Installation (2023 Edition)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-novice-to-pro-3-easy-game-recording-options/"><u>New 2024 Approved From Novice to Pro 3 Easy Game Recording Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-your-glitch-on-top-10-video-editing-apps-for-ios-and-android/"><u>New 2024 Approved Get Your Glitch On Top 10 Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-how-to-break-down-avi-files-into-smaller-clips-a-simple-tutorial/"><u>New 2024 Approved How to Break Down AVI Files Into Smaller Clips A Simple Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mp4-to-mp3-converter-apps-top-picks-for-ios-and-android/"><u>New 2024 Approved MP4 to MP3 Converter Apps Top Picks for iOS and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-organize-your-videos-best-mp4-tag-editors-for-windows-and-mac/"><u>New 2024 Approved Organize Your Videos Best MP4 Tag Editors for Windows and Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-split-cut-and-trim-avi-files-like-a-pro-the-ultimate-tutorial/"><u>New 2024 Approved Split, Cut, and Trim AVI Files Like a Pro The Ultimate Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-take-your-videos-to-the-next-level-cool-editing-tricks-and-tips/"><u>New 2024 Approved Take Your Videos to the Next Level Cool Editing Tricks and Tips</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-10-best-free-android-video-editors-freeandpaid/"><u>New 2024 Approved Top 10 Best Free Android Video Editors Free&Paid</u></a></li>
+<li><a href="https://blog-min.techidaily.com/tech-tutorial-how-to-seamlessly-upload-your-iphones-4k-footage-to-your-windows-1011-pc/"><u>Tech Tutorial: How to Seamlessly Upload Your iPhone's 4K Footage to Your Windows 10/11 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-apple-watch-bargains-in-july-2024-exclusive-offers-featured/"><u>Top Apple Watch Bargains in July 2024 - Exclusive Offers Featured</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

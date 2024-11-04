@@ -1,7 +1,7 @@
 ---
 title: Up To 3.7MWh Per Annum - Unveiling the Astounding Energy Consumption Of Single Modern AI GPUs Over Homes' Use
-date: 2024-10-28T23:10:52.994Z
-updated: 2024-10-30T01:22:49.402Z
+date: 2024-10-31T16:48:53.220Z
+updated: 2024-11-04T17:23:43.871Z
 tags:
   - desktop
 categories:
@@ -37,16 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -72,24 +66,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-to-written-world-superior-convert-tools-online/"><u>[New] YouTube to Written World Superior Convert Tools Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-cutting-edge-top-11-list-of-soundscape-capturers/"><u>[Updated] 2024 Approved Cutting-Edge Top 11 List of Soundscape Capturers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-use-periscope-the-complete-guide/"><u>[Updated] 2024 Approved How to Use Periscope The Complete Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-your-system-without-microsofts-core-software/"><u>Enhance Your System Without Microsoft's Core Software</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 7</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-laughlens-lab-snapsatiricals/"><u>In 2024, LaughLens Lab SnapSatiricals</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-quick-quality-edits-the-ultimate-guide-to-pixlr/"><u>In 2024, Quick, Quality Edits The Ultimate Guide to Pixlr</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-words-on-the-screen-crafting-clear-concise-dialogue/"><u>In 2024, The Art of Words on the Screen Crafting Clear, Concise Dialogue</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-is-vn-video-editor-pro-worth-the-download-an-in-depth-look-for-2024/"><u>New Is VN Video Editor Pro Worth the Download? An In-Depth Look for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975742334-qualcomm-atheros-ar3011-secure-your-free-bluetooth-v30-drivers-now/"><u>Qualcomm Atheros AR3011 - Secure Your Free Bluetooth v3.0 Drivers Now</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-ditch-the-search-get-exclusive-filmora-discounts-here/"><u>Updated 2024 Approved Ditch the Search Get Exclusive Filmora Discounts Here</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-flat-to-fabulous-converting-videos-for-vr-with-ease/"><u>Updated 2024 Approved From Flat to Fabulous Converting Videos for VR with Ease</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-ezvid-for-mac-the-ultimate-slideshow-and-video-making-solution-for-2024/"><u>Updated Ezvid for Mac The Ultimate Slideshow and Video Making Solution for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-your-instagram-feed-pop-with-stop-motion-videos-tips-and-tricks/"><u>Updated In 2024, Make Your Instagram Feed Pop with Stop Motion Videos Tips and Tricks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-how-to-edit-videos-with-quicktime-on-mac-for-2024/"><u>Updated Unleash Your Creativity How to Edit Videos with QuickTime on Mac for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-windows-10-webcam-recording-made-easy-top-10-software/"><u>Updated Windows 10 Webcam Recording Made Easy Top 10 Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/whiteboard-animation-made-easy-top-5-hand-drawn-video-creators-for-2024/"><u>Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/windows-live-movie-maker-tutorial-creating-stunning-slow-motion-videos-for-2024/"><u>Windows Live Movie Maker Tutorial Creating Stunning Slow Motion Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-showdown-twitchs-challenge-to-youtubes-market/"><u>[New] The Ultimate Showdown Twitch's Challenge to YouTube's Market</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-expert-strategies-for-high-quality-gopro-4k-footage-editing/"><u>[Updated] 2024 Approved Expert Strategies for High-Quality GoPro 4K Footage Editing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exquisite-photographic-saga-assembler-for-2024/"><u>Exquisite Photographic Saga Assembler for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-premiere-list-of-ios-ps2-emulation-tools/"><u>In 2024, Premiere List of iOS PS2 Emulation Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-updater-failures-0xca00a009/"><u>Mastering the Art of Fixing Updater Failures #0xCA00A009</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-videos-into-stunning-live-photos-with-these-top-apps/"><u>New In 2024, Transform Videos Into Stunning Live Photos with These Top Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-slow-down-or-freeze-time-expert-fcpx-editing-techniques/"><u>New Slow Down or Freeze Time Expert FCPX Editing Techniques</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/say-cheese-top-apps-to-convert-your-photos-into-cartoons-for-2024/"><u>Say Cheese! Top Apps to Convert Your Photos Into Cartoons for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-most-engaging-ar-games-for-phones-revealed-for-2024/"><u>The Most Engaging AR Games for Phones Revealed for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mobile-animation-made-easy-best-free-3d-apps-for-android-and-ios/"><u>Updated 2024 Approved Mobile Animation Made Easy Best Free 3D Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-webm-to-mp3-expert-recommended-conversion-solutions/"><u>Updated In 2024, WebM to MP3 Expert-Recommended Conversion Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-converting-webm-to-mp4-10-best-options-for-2024/"><u>Updated The Ultimate Guide to Converting WebM to MP4 10 Best Options for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-fcp-xs-power-adding-effects-in-just-3-steps-for-2024/"><u>Updated Unlock FCP Xs Power Adding Effects in Just 3 Steps for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Unleash Your Creativity How to Edit Videos with QuickTime on Mac for 2024
-date: 2024-10-25T20:09:35.039Z
-updated: 2024-10-30T02:38:09.294Z
+date: 2024-11-01T16:21:47.126Z
+updated: 2024-11-04T19:38:48.312Z
 tags: 
   - video editing software
   - video editing
@@ -57,9 +57,23 @@ Step3: Use a handle on both sides to resist the part of the film that you want t
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
 
@@ -73,19 +87,6 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -97,13 +98,6 @@ Step2: Select the clip by going to View > Show Clips.
 Step3: Choose to rotate the clip left or right, or flip it horizontally or vertically, from the Edit menu.
 
 Step4: When you're done, click Done.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
@@ -122,10 +116,10 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Wondershare Filmora Worth for Trying?
@@ -134,14 +128,20 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -158,24 +158,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/inding-equilibrium-between-professional-life-and-youtubing/"><u>[New] Finding Equilibrium Between Professional Life and YouTubing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humorhatchery-studio/"><u>[Updated] HumorHatchery Studio</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1728497469979-and/"><u>新しいマシンへのシステムブートアップ&復元方法 - 簡単ガイド</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/best-video-editor-for-vimeo-for-2024/"><u>Best Video Editor for Vimeo for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/1723262420868-discount-alert-get-alienwares-gaming-desktop-rtx-4070-super-plus-i7-cpu-for-just-1499-save-200/"><u>Discount Alert! Get Alienware's Gaming Desktop RTX 4070 Super + I7 CPU for Just $1,499 - Save $200</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/electric-motorcycles-decoded-a-deep-dive-into-their-operation-and-performance/"><u>Electric Motorcycles Decoded: A Deep Dive Into Their Operation & Performance</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-your-videos-the-best-iphone-editing-apps/"><u>New In 2024, Transform Your Videos The Best iPhone Editing Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unlock-time-lapse-magic-a-beginners-guide-to-final-cut-pro/"><u>New Unlock Time Lapse Magic A Beginners Guide to Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-video-blur-made-easy-free-online-method/"><u>New Video Blur Made Easy Free Online Method</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-webm-video-editing-on-a-budget-top-10-free-editors/"><u>New WebM Video Editing on a Budget Top 10 Free Editors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/skylab-is-launched-by-the-united-states-from-apollo-launch-complex-39-at-kennedy-space-center-using-an-unmodified-saturn-v-rocket-it-becomes-the-first-ameri645/"><u>Skylab Is Launched by the United States From Apollo Launch Complex 39 at Kennedy Space Center Using an Unmodified Saturn V Rocket. It Becomes the First American Space Station, Providing Valuable Data for Future Missions</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-note-12-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi Note 12 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-reference-to-gesture-and-movement-capture/"><u>The Ultimate Reference to Gesture and Movement Capture</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/s-of-tutorials-top-youtuber-earnings/"><u>Titans of Tutorials Top Youtuber Earnings</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Device</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-beginners-guide-to-face-blurring-top-free-apps-tutorials-and-tips/"><u>Updated 2024 Approved Beginners Guide to Face Blurring Top Free Apps, Tutorials, and Tips</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-countdown-to-success-a-beginners-guide-to-fcpx-timers/"><u>Updated 2024 Approved Countdown to Success A Beginners Guide to FCPX Timers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-quik-on-windowsmac-best-options-for-editing-gopro-footage/"><u>Updated 2024 Approved Quik on Windows/Mac Best Options for Editing GoPro Footage</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-the-power-of-time-lapse-expert-tips-for-final-cut-pro-users-for-2024/"><u>Updated Unleash the Power of Time Lapse Expert Tips for Final Cut Pro Users for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-starting-stronger-exploring-the-best-15-video-intros/"><u>[New] In 2024, Starting Stronger Exploring the Best 15 Video Intros</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-up-your-content-quality-with-these-8-mirrorless-cams-for-2024/"><u>[Updated] Step Up Your Content Quality with These 8 Mirrorless Cams for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-choosing-a-professional-video-editor-filmora-or-democracy-creator-for-2024/"><u>[Updated] The Ultimate Guide to Choosing a Professional Video Editor (Filmora or Democracy Creator) for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ogmmpg-movavi/"><u>無限制線上OGM改成MPG格式 - 驗證Movavi轉檔器的效果</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compre-written-in-clear-language-this-ultimate-guide-explores-all-facets-of-using-the-iphone-xs-animoji-feature-for-2024/"><u>Compre Written in Clear Language, This Ultimate Guide Explores All Facets of Using the iPhone X's Animoji Feature for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-20-prime-chatgpt-triggers-sourced-from-github-repositories/"><u>Discover the Ultimate List of 20 Prime ChatGPT Triggers Sourced From GitHub Repositories</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-gif-speed-changer-apps-and-websites/"><u>New The Ultimate List of GIF Speed Changer Apps and Websites</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-top-francophone-countries-and-their-linguistic-statistics/"><u>The Top Francophone Countries and Their Linguistic Statistics</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-the-secret-of-youtube-to-gif-conversion-begin-here-for-2024/"><u>Unlock the Secret of YouTube-to-GIF Conversion - Begin Here for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-young-directors-handbook-teach-kids-to-make-their-own-movies/"><u>Updated 2024 Approved The Young Directors Handbook Teach Kids to Make Their Own Movies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-converters-turn-videos-into-live-photos-with-ease/"><u>Updated 2024 Approved Top Converters Turn Videos Into Live Photos with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-here-are-some-of-the-best-face-swap-apps-for-your-iphone-or-android-device-that-allows-you-to-swap-face-easily-for-2024/"><u>Updated Here Are some of the Best Face Swap Apps for Your iPhone or Android Device that Allows You to Swap Face Easily for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-quick-tips-on-recording-voice-over-with-final-cut-pro/"><u>Updated In 2024, Quick Tips on Recording Voice Over With Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mac-os-video-editing-lumafusion-installation-and-top-alternatives-for-2024/"><u>Updated Mac OS Video Editing Lumafusion Installation and Top Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-video-invitation-design-made-easy-top-apps-for-iphone-and-android-for-2024/"><u>Updated Video Invitation Design Made Easy Top Apps for iPhone and Android for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Windows 8 MP4 Video Editor Effortless File Editing
-date: 2024-08-09T04:57:56.464Z
-updated: 2024-08-10T04:57:56.464Z
+date: 2024-10-30T17:40:59.543Z
+updated: 2024-11-04T20:15:43.747Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
 # MP4 Editor for Windows 8: Easily Edit MP4 Files on PC
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,14 +28,8 @@ MP4 format is quite popular among computer users, therefore there are numerous v
 
 In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) (Windows 10/8/7/XP/Vista supported) is shared with you. This program enables you to create Hollywood-like home movies with titles, effects, and transitions from all regular videos, audio, and photos. Plus, it offers a free trial for you to evaluate. Just download the free trial of MP4 editor Windows 8 and follow below step by step guide.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -47,9 +38,6 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
 
 #### 2\.  Easy MP4 editing in Windows 8
@@ -72,32 +60,12 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
 
 ##### Add Scene Transition
 
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -120,11 +88,38 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-filmmakers-companion-quickly-convert-any-avi-file-into-a-trendy-gif-using-filmora/"><u>[New] 2024 Approved Filmmakers' Companion Quickly Convert Any AVI File Into a Trendy GIF Using Filmora</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-thorough-assessment-samsungs-hololens-like-spinning-lens/"><u>2024 Approved Thorough Assessment Samsung's Hololens-Like Spinning Lens</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cinematic-clarity-choices-best-4k-monitors-for-filmmakers/"><u>Cinematic Clarity Choices Best 4K Monitors for Filmmakers</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-exclusive-techniques-to-maximize-windows-11/"><u>In 2024, Exclusive Techniques to Maximize Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-green-screen-software-for-mobile-top-picks-for-android-and-ios/"><u>New Free Green Screen Software for Mobile Top Picks for Android and iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unbranded-and-unbeatable-the-best-free-online-video-editors/"><u>New In 2024, Unbranded and Unbeatable The Best Free Online Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-stunning-bokeh-best-apps-for-iphone-and-android-for-2024/"><u>New Unlock Stunning Bokeh Best Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-transforming-pal-discs-to-widely-used-file-types-for-free/"><u>Step-by-Step Tutorial on Transforming PAL Discs to Widely Used File Types for Free</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-connectivity-when-your-hardware-is-accessed-by-other-software/"><u>Troubleshooting HDMI Connectivity When Your Hardware Is Accessed by Other Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unleash-your-brand-11-free-animated-logo-design-tools-plus-expert-tips-for-2024/"><u>Unleash Your Brand 11 Free Animated Logo Design Tools + Expert Tips for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-of-both-worlds-top-android-video-editor-apps-for-chromebook-users/"><u>Updated 2024 Approved Best of Both Worlds Top Android Video Editor Apps for Chromebook Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-free-mpeg-video-splitters-a-comprehensive-guide/"><u>Updated 2024 Approved The Best Free MPEG Video Splitters A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-10-intro-makers-for-pc-online-and-offline-for-2024/"><u>Updated Top 10 Intro Makers for PC Online and Offline for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unclutter-your-mac-a-comprehensive-guide-to-liberating-space-for-fcpx-for-2024/"><u>Updated Unclutter Your Mac A Comprehensive Guide to Liberating Space for FCPX for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-the-power-of-the-ken-burns-effect-a-comprehensive-guide/"><u>Updated Unlock the Power of the Ken Burns Effect A Comprehensive Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-11-snipping-tool/"><u>Windows 11 Snipping Toolを使った効果的なスクリーンショット撮影テクニック</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Updated FCP X Effects Made Simple A 3-Step Tutorial for Beginners for 2024
-date: 2024-08-09T05:00:16.001Z
-updated: 2024-08-10T05:00:16.001Z
+date: 2024-11-03T16:31:31.261Z
+updated: 2024-11-04T17:37:09.090Z
 tags: 
   - video editing software
   - video editing
@@ -32,16 +32,10 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -53,9 +47,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 Here is our clip - a fearsome polar bear.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
 To apply an effect, first select the clip in the Timeline.
@@ -64,16 +55,10 @@ To apply an effect, first select the clip in the Timeline.
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -101,9 +86,6 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 To enable an effect, click the gray box so it turns blue again.
@@ -130,11 +112,36 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-free-auditory-gamespace-vaults-copyright-free/"><u>[New] In 2024, Free Auditory Gamespace Vaults (Copyright-Free)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-video-quest-hero5-black-vs-virb-for-adventurers/"><u>[Updated] Video Quest Hero5 Black VS. VIRB for Adventurers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accelerate-your-browsing-fixing-and-speeding-up-google-chrome-swiftly/"><u>Accelerate Your Browsing: Fixing and Speeding up Google Chrome Swiftly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-blue-discoloration-on-your-screen-8-effective-techniques/"><u>Fixing the Blue Discoloration on Your Screen: 8 Effective Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976640232-get-your-brother-mfc-l2700dw-up-and-running-with-these-windows-printer-drivers/"><u>Get Your Brother MFC-L2700DW Up and Running with These Windows Printer Drivers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/inexpensive-pc-monitoring-software-for-2024/"><u>Inexpensive PC Monitoring Software for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/leading-speech-gatherers-in-educational-environments-for-2024/"><u>Leading Speech Gatherers in Educational Environments for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-whats-better-than-subtitle-edit-for-mac-explore-these-alternatives/"><u>New In 2024, Whats Better Than Subtitle Edit for Mac? Explore These Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-streamline-your-workflow-6-productivity-boosting-adobe-premiere-tips/"><u>New Streamline Your Workflow 6 Productivity-Boosting Adobe Premiere Tips</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-fcp-factor-10-blockbuster-movies-edited-with-final-cut-pro/"><u>New The FCP Factor 10 Blockbuster Movies Edited with Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-free-divx-video-editors-with-cutting-features/"><u>New Top-Rated Free Divx Video Editors with Cutting Features</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-installation-of-synaptics-drivers-on-windows-free-download-and-updates/"><u>Seamless Installation of Synaptics Drivers on Windows - Free Download & Updates</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mac-video-creator-effortless-video-production-for-beginners-and-pros/"><u>Updated In 2024, Mac Video Creator Effortless Video Production for Beginners and Pros</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-streamline-your-videos-compress-mpeg2-with-virtualdub/"><u>Updated Streamline Your Videos Compress MPEG2 with VirtualDub</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-web-based-vertical-video-editors/"><u>Updated The Ultimate List of Web-Based Vertical Video Editors</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

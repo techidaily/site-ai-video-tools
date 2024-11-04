@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
-date: 2024-08-09T04:58:10.137Z
-updated: 2024-08-10T04:58:10.137Z
+date: 2024-10-29T19:54:33.836Z
+updated: 2024-11-04T18:21:54.896Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,9 +32,6 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -61,16 +55,10 @@ To apply an effect, first select the clip in the Timeline.
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -104,9 +92,6 @@ To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 The effect will be deleted from the selected clip.
@@ -119,9 +104,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -130,11 +112,36 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-fast-track-to-fandom-top-30-engaging-nicknames-for-discord/"><u>[Updated] 2024 Approved Fast Track to Fandom Top 30 Engaging Nicknames for Discord</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-a-practical-approach-to-creating-captivating-youtube-shorts-templates/"><u>[Updated] In 2024, A Practical Approach to Creating Captivating YouTube Shorts Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-entertainment-incorporating-subtitles-into-wmp/"><u>2024 Approved Streamline Entertainment Incorporating Subtitles Into WMP</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/efficient-techniques-for-distributing-youtube-videos-via-facebook/"><u>Efficient Techniques for Distributing YouTube Videos via Facebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-windows-10-soundscape-the-ultimate-guide-to-improving-speakers-and-headphones/"><u>Elevate Windows 10 Soundscape: The Ultimate Guide to Improving Speakers and Headphones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-v30-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V30 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-pc-intro-makers-online-vs-offline/"><u>New The Ultimate Guide to PC Intro Makers Online vs Offline</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-whiteboard-animation-made-easy-top-5-hand-drawn-video-creators-for-2024/"><u>New Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211274238-9783989732896-the-displaying-of-supposed-witchcraft/"><u>The Displaying Of Supposed Witchcraft | Free Book</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-shrink-your-files-9-best-free-video-compression-tools-for-windows-10/"><u>Updated 2024 Approved Shrink Your Files 9 Best Free Video Compression Tools for Windows 10</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-elevate-your-lessons-top-10-educational-animation-software-for-2024/"><u>Updated Elevate Your Lessons Top 10 Educational Animation Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-10plus-best-free-mkv-cutters/"><u>Updated In 2024, Top 10+ Best Free MKV Cutters</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-make-memories-shine-video-editing-secrets-for-amateur-filmmakers/"><u>Updated Make Memories Shine Video Editing Secrets for Amateur Filmmakers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-movie-magic-for-minis-teach-your-child-to-create-their-own-films/"><u>Updated Movie Magic for Minis Teach Your Child to Create Their Own Films</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

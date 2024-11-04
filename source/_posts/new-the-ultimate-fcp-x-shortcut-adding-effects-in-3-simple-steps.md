@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-08-09T04:55:57.208Z
-updated: 2024-08-10T04:55:57.208Z
+date: 2024-10-30T18:29:03.345Z
+updated: 2024-11-04T17:03:26.001Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -54,16 +51,10 @@ Here is our clip - a fearsome polar bear.
 
 To apply an effect, first select the clip in the Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
@@ -81,9 +72,6 @@ To apply an effect, do one of two things:
 
 To modify an effect, click this icon in the Toolbar to open the Inspector (or type Cmd + 4).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
@@ -104,9 +92,6 @@ To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 The effect will be deleted from the selected clip.
@@ -119,9 +104,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -130,11 +112,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-acid-pro-analysis-and-substitutes/"><u>[New] Professional ACID Pro Analysis and Substitutes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-video-size-and-seconds-deciphering-20mb-duration/"><u>[Updated] Video Size & Seconds Deciphering 20MB Duration</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-creating-compelling-thumbnails-that-stand-out/"><u>2024 Approved Creating Compelling Thumbnails that Stand Out</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-realities-redefined-the-metaverse-vs-omniverse-showdown-explained/"><u>2024 Approved Realities Redefined The Metaverse Vs. Omniverse Showdown Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cut-the-confusion-learn-quickly-how-to-add-timestamps-in-videos/"><u>Cut the Confusion Learn Quickly How to Add Timestamps in Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-benefits-of-the-fitbit-versa-2-a-complete-review-for-smartwatch-enthusiasts-seeking-fitness-solutions/"><u>Exploring the Benefits of the Fitbit Versa 2: A Complete Review for Smartwatch Enthusiasts Seeking Fitness Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-leading-screen-recorders-for-effective-teaching-methods/"><u>In 2024, The Leading Screen Recorders for Effective Teaching Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-movie-magic-for-kids-a-step-by-step-guide/"><u>New Movie Magic for Kids A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-free-quicktime-video-editing-tools/"><u>New The Best Free QuickTime Video Editing Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-green-screen-software-for-mobile-devices-free-download/"><u>New Top-Rated Green Screen Software for Mobile Devices Free Download</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ar-vlogger-discussion-guidelines/"><u>Regular Vlogger Discussion Guidelines</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/toms-tech-hub-expert-guides-on-latest-computer-and-gadget-reviews/"><u>Tom's Tech Hub: Expert Guides on Latest Computer & Gadget Reviews</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-5-meccas-for-embarking-on-freelancing-ventures/"><u>Top 5 Meccas for Embarking on Freelancing Ventures</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-compress-videos-online-for-free-10-best-web-based-solutions/"><u>Updated 2024 Approved Compress Videos Online for Free 10 Best Web-Based Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-experience-the-best-90-day-free-trial-of-final-cut-pro-now-for-2024/"><u>Updated Experience the Best 90-Day Free Trial of Final Cut Pro Now for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-stop-motion-mastery-a-beginners-guide-to-freeze-frames/"><u>Updated Stop Motion Mastery A Beginners Guide to Freeze Frames</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-complete-xml-file-handbook-for-fcpx-users-for-2024/"><u>Updated The Complete XML File Handbook for FCPX Users for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

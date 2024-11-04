@@ -1,7 +1,7 @@
 ---
 title: Resize Your Video Tips and Tricks for Perfect Dimensions for 2024
-date: 2024-10-28T00:51:26.797Z
-updated: 2024-10-30T00:08:11.387Z
+date: 2024-10-29T17:28:42.839Z
+updated: 2024-11-04T17:39:10.716Z
 tags: 
   - video editing software
   - video editing
@@ -54,6 +54,13 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
@@ -61,10 +68,10 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -86,16 +93,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -105,13 +106,6 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -164,10 +158,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -185,20 +179,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-smart-editing-tricks-how-to-embed-dates-in-photo-albums/"><u>[New] In 2024, Smart Editing Tricks How to Embed Dates in Photo Albums</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ps5-expansion-leading-external-drives-unveiled/"><u>[Updated] 2024 Approved Ps5 Expansion Leading External Drives Unveiled</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms/"><u>[Updated] In 2024, Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-asus-computer-mousepad-drivers-installed-on-windows-os/"><u>Get Your ASUS Computer Mousepad Drivers Installed on Windows OS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-ipad-users-create-professional-time-lapse-videos/"><u>In 2024, IPad Users Create Professional Time-Lapse Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-smart-7-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix Smart 7 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-animate-your-text-the-top-10-generators-to-boost-engagement/"><u>New 2024 Approved Animate Your Text The Top 10 Generators to Boost Engagement</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-compressor-in-fcpx-expert-techniques-for-professional-results/"><u>New 2024 Approved Compressor in FCPX Expert Techniques for Professional Results</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-editing-sony-camcorder-videos-like-a-pro-tips-and-tricks/"><u>New 2024 Approved Editing Sony Camcorder Videos Like a Pro Tips and Tricks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-here-are-some-of-the-best-glitch-video-editors-on-the-market/"><u>New 2024 Approved Here Are some of the Best Glitch Video Editors on the Market</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-of-the-best-top-10-video-editing-software-for-creators/"><u>New 2024 Approved The Best of the Best Top 10 Video Editing Software for Creators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vsdc-free-video-editor-for-mac-get-best-alternatives/"><u>New 2024 Approved VSDC Free Video Editor for Mac Get Best Alternatives</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-avs-video-editor-review-a-closer-look-at-its-capabilities-and-limitations-for-2024/"><u>New AVS Video Editor Review A Closer Look at Its Capabilities and Limitations for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-a05-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy A05 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/uncovering-top-tier-cloud-services-to-sustain-data/"><u>Uncovering Top-Tier Cloud Services to Sustain Data</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-a-filmmakers-essentials-the-quintessential-5-camera-strategies/"><u>[New] A Filmmaker's Essentials The Quintessential 5 Camera Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-expert-techniques-for-live-streaming-your-gopro-to-social-channels-for-2024/"><u>[New] Expert Techniques for Live Streaming Your GoPro to Social Channels for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-5-pc-snipers-for-efficient-image-capture/"><u>[New] The Ultimate 5 PC Snipers for Efficient Image Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-5-remote-recorders-online/"><u>[Updated] In 2024, Best 5 Remote Recorders Online</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782474-9781591432661-atlantis-in-the-caribbean-3rd-ed/"><u>Atlantis in the Caribbean (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-itel-a60-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Itel A60 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-delightful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations/"><u>In 2024, Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-frostpunk-game-crashes-steps-and-strategies/"><u>Ultimate Fix for Frostpunk Game Crashes: Steps & Strategies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-public-domain-video-treasure-trove-best-sites-to-explore/"><u>Updated 2024 Approved Public Domain Video Treasure Trove Best Sites to Explore</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-reverse-rewind-repeat-mastering-tiktok-video-reversal-2023-update/"><u>Updated 2024 Approved Reverse, Rewind, Repeat Mastering TikTok Video Reversal 2023 Update</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-webm-to-mp3-top-10-webm-to-mp3-converters/"><u>Updated 2024 Approved WebM to MP3 Top 10 WebM to MP3 Converters</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-effortless-video-import-and-export-tips-and-tricks-for-adobe-premiere-users-for-2024/"><u>Updated Effortless Video Import and Export Tips and Tricks for Adobe Premiere Users for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-visual-flow-color-matching-and-grading-in-powerdirector-for-beginners/"><u>Updated In 2024, Visual Flow Color Matching and Grading in PowerDirector for Beginners</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-avi-editor-for-windows-8-advanced-video-editing-features-for-2024/"><u>Updated Top-Rated AVI Editor for Windows 8 Advanced Video Editing Features for 2024</u></a></li>
 </ul></div>
 

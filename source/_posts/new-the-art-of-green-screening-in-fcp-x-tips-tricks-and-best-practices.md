@@ -1,7 +1,7 @@
 ---
 title: New The Art of Green Screening in FCP X Tips, Tricks, and Best Practices
-date: 2024-10-22T22:52:30.891Z
-updated: 2024-10-29T22:33:59.385Z
+date: 2024-10-29T18:46:02.354Z
+updated: 2024-11-04T18:32:12.913Z
 tags: 
   - video editing software
   - video editing
@@ -46,16 +46,16 @@ First, the best thing you can do to improve the quality of your keys is to impro
 * Light your background for smoothness. Light your actors for drama.
 * Don't worry about having the green background fill the frame. It only needs to completely surround the edges of your actors. Garbage mattes are used to get rid of junk around the edges.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Setting up the Key
 
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The green screen image is always placed above the background. You can place either the green screen or background image into the Primary Storyline. I find it easier to put the background in the Primary Storyline, because it makes editing the green screen image easier. But this is purely personal choice.
 
@@ -65,9 +65,23 @@ From the **Effects Browser > Keying** category, double-click the **Keyer** effec
 
 ![fx chroma 02](https://images.wondershare.com/multimedia/fx-chroma-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Don't panic if your image looks weird – we will fix it.
 
 ![fx chroma 03](https://images.wondershare.com/multimedia/fx-chroma-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Click the **Sample Color** icon. This allows fine-tuning the selection of the background color.
 
@@ -92,10 +106,10 @@ Your goal is the make the foreground solid white, which means opaque, and the ba
 ![fx chroma 05](https://images.wondershare.com/multimedia/fx-chroma-05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If an edge is too pronounced, or needs help, click the **Edges** icon.
@@ -103,10 +117,10 @@ If an edge is too pronounced, or needs help, click the **Edges** icon.
 ![fx chroma 09](https://images.wondershare.com/multimedia/fx-chroma-09.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Tweaks Video**
@@ -130,29 +144,22 @@ This is a subtle effect, but very cool.
 
 ![fx chroma 10](https://images.wondershare.com/multimedia/fx-chroma-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag the other sliders around and see what happens. The nice thing about this setting is that when it looks good to you, it is good. The amount of the effect is totally up to you. Remember, Light Wrap only affects the edges of the foreground and should be used subtly.
 
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
 
 When you are done, you have a great looking key!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Clean up the Image with a Garbage Mask
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
@@ -166,16 +173,16 @@ Once you get your key looking as good as you can – which in this case isn't al
 
 ![fx chroma 14](https://images.wondershare.com/multimedia/fx-chroma-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Create a Chroma-Key in easier ways?
 
@@ -192,13 +199,6 @@ Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/won
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -217,22 +217,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>[New] In 2024, GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-fps-dilemma-picking-between-30-and-60-hertz-in-video-recording/"><u>[Updated] In 2024, FPS Dilemma Picking Between 30 and 60 Hertz in Video Recording</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-ultimate-selection-of-apps-to-tame-your-feed-for-2024/"><u>[Updated] The Ultimate Selection of Apps to Tame Your Feed for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-methods-to-resuscitate-windows-photo-viewer-on-latest-os/"><u>2024 Approved Methods to Resuscitate Windows Photo Viewer on Latest OS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-d500-a-revolution-in-4k-uhd-photography/"><u>2024 Approved Nikon D500 A Revolution in 4K UHD Photography</u></a></li>
-<li><a href="https://facebook.techidaily.com/empowering-societies-through-7-digital-interactions/"><u>Empowering Societies Through 7 Digital Interactions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-x5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco X5</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-compress-videos-for-free-top-windows-10-tools/"><u>New In 2024, Compress Videos for Free Top Windows 10 Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-easy-peasy-reaction-videos-a-beginners-guide-to-filmora/"><u>New In 2024, Easy Peasy Reaction Videos A Beginners Guide to Filmora</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-videos-top-free-special-effects-apps-for-mobile-video-editing/"><u>New In 2024, Elevate Your Videos Top Free Special Effects Apps for Mobile Video Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-video-clipper-tools-our-top-5-picks/"><u>New In 2024, Free Video Clipper Tools Our Top 5 Picks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-final-cut-pro-for-less-take-advantage-of-our-education-discount/"><u>New In 2024, Get Final Cut Pro for Less Take Advantage of Our Education Discount</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-the-best-video-dubbing-experience-on-pc-top-software/"><u>New In 2024, Get the Best Video Dubbing Experience on PC Top Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-google-plays-best-of-the-best-top-android-apps/"><u>New In 2024, Google Plays Best of the Best Top Android Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-in-this-article-youll-get-to-know-the-best-free-online-video-editors-without-a-watermark-to-create-and-edit-videos-that-attract-thousands-of-vie/"><u>New In 2024, In This Article, Youll Get to Know the Best Free Online Video Editors without a Watermark to Create and Edit Videos that Attract Thousands of Views</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-note-12-proplus-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi Note 12 Pro+ 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unbeatable-freebie-subtitle-services-our-top-picks/"><u>Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-top-free-sources-discovering-copyright-free-soundtracks/"><u>[New] 2024 Approved The Top Free Sources Discovering Copyright-Free Soundtracks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-setup-for-championship-streaming/"><u>[New] 2024 Approved The Ultimate Setup for Championship Streaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unlocking-rokus-potential-with-facebook-live-streaming/"><u>[New] In 2024, Unlocking Roku's Potential with Facebook Live Streaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-snap-edit-and-share-with-ease-your-4-step-blueprint-for-instagram-gifs/"><u>[Updated] Snap, Edit, and Share with Ease Your 4-Step Blueprint for Instagram GIFs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-slow-momentum-a-filmmakers-tale-on-instagram-for-2024/"><u>[Updated] Unlock Slow Momentum A Filmmaker’s Tale on Instagram for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevating-your-fb-presence-with-a-great-pic/"><u>Elevating Your FB Presence with a Great Pic</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-of-serene-pc-gaming/"><u>The Ultimate List of Serene PC Gaming</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-avs-video-editor-test-drive-what-to-expect-from-this-video-editing-tool/"><u>Updated 2024 Approved AVS Video Editor Test Drive What to Expect From This Video Editing Tool</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-motion-monitoring-made-easy-best-apps-for-android-and-ios/"><u>Updated 2024 Approved Motion Monitoring Made Easy Best Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-online-stop-motion-animation-tools-free-and-paid-options/"><u>Updated 2024 Approved Top Online Stop Motion Animation Tools Free and Paid Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-guide-to-free-mov-video-editors-top-10-picks/"><u>Updated In 2024, The Ultimate Guide to Free MOV Video Editors Top 10 Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-free-sound-effects-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated In 2024, Unlock Free Sound Effects A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-pc-intro-maker-showdown-top-10-tools-online-offline-and-more/"><u>Updated PC Intro Maker Showdown Top 10 Tools Online, Offline, and More</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-s-best-time-lapse-video-editing-tools-free-paid-and-everything-in-between/"><u>Updated S Best Time-Lapse Video Editing Tools Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-speed-updown-videos-in-camtasia-for-2024/"><u>Updated Speed Up/Down Videos in Camtasia for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-virtualdub-a-review-and-comparison-of-top-video-editing-software/"><u>Updated Virtualdub A Review and Comparison of Top Video Editing Software</u></a></li>
+<li><a href="https://techidaily.com/vivo-t2-5g-video-recovery-recover-deleted-videos-from-vivo-t2-5g-by-fonelab-android-recover-video/"><u>Vivo T2 5G Video Recovery - Recover Deleted Videos from Vivo T2 5G</u></a></li>
 </ul></div>
 
