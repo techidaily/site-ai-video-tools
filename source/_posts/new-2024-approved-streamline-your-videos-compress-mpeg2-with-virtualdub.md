@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Streamline Your Videos Compress MPEG2 with VirtualDub
-date: 2024-08-09T04:49:47.038Z
-updated: 2024-08-10T04:49:47.038Z
+date: 2024-11-08T18:49:38.370Z
+updated: 2024-11-13T17:13:40.276Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 # Download VirtualDub MPEG2 & Use to Compress MPEG2 Videos
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 VirtualDub is a free video capture/processing tool for Windows platforms (2000/XP/Vista/7). And VirtualDub MPEG-2 is a modified version of VirtualDub that supports MPEG-2 import originally. However, just as the author said "This software is obsolete and will no longer be updated. For MPEG-2 and WMV support in the latest VirtualDub, try my plugins (MPEG-2 plugin for VirtualDub 1.8.1 or above - by editor)".
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Download and Install VirtualDub MPEG-2
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
@@ -44,17 +38,25 @@ VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows,
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
@@ -62,9 +64,6 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Start Compressing
 
 Now it's the time to start processing your video, here is how:
@@ -73,6 +72,19 @@ Now it's the time to start processing your video, here is how:
 2. Select Save as AVI...
 3. Select where you want to save the AVI and name it.
 4. Click Save.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -83,8 +95,12 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -93,12 +109,28 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-adopting-the-way-of-google-meet-webinars/"><u>[New] In 2024, Adopting the Way of Google Meet Webinars</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-simple-steps-to-record-your-youtube-streams/"><u>[New] Simple Steps to Record Your YouTube Streams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>2024 Approved File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-f23-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo F23 5G FRP Locks</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-slow-and-steady-wins-the-race-top-10-video-editing-software-for-2024/"><u>New Slow and Steady Wins the Race Top 10 Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-efficient-video-compression-download-virtualdub-mpeg2-now-for-2024/"><u>New Unlock Efficient Video Compression Download VirtualDub MPEG2 Now for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-to-dvd-conversion-a-comprehensive-guide-for-windows-and-mac-for-2024/"><u>New Video to DVD Conversion A Comprehensive Guide for Windows and Mac for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/ranking-the-best-top-10-video-editing-software-options-for-2024/"><u>Ranking the Best Top 10 Video Editing Software Options for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/shoot-with-clarity-capture-immersive-experiences-9-essentials-for-2024/"><u>Shoot with Clarity, Capture Immersive Experiences (9 Essentials) for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-2024s-most-popular-news-aggregators-find-out-why-they-stand-out/"><u>The Ultimate List of 2024'S Most Popular News Aggregators - Find Out Why They Stand Out!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-15-best-adobe-premiere-pro-plugins-to-download-for-2024/"><u>Updated The Ultimate List 15 Best Adobe Premiere Pro Plugins to Download for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-making-videos-from-photos-and-soundtracks-for-2024/"><u>Updated Unleash Your Creativity Making Videos From Photos and Soundtracks for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/onestorage-tod-movavi/"><u>이웃의 ONESTORAGE에서 원할로잉으로 TOD 자동 변환 - MOVAVI</u></a></li>
+</ul></div>
 

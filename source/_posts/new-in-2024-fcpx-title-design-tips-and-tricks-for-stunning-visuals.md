@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCPX Title Design Tips and Tricks for Stunning Visuals
-date: 2024-08-02T03:40:41.418Z
-updated: 2024-08-03T03:40:41.418Z
+date: 2024-11-08T16:49:58.216Z
+updated: 2024-11-13T19:59:41.293Z
 tags: 
   - video editing software
   - video editing
@@ -30,14 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -66,9 +58,6 @@ At its simplest, we use titles to display his (its?) name.
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles003.jpg)
 
 Look at the Browser and see the results of your work. A lower-third title is superimposed over the video in the lower left corner. (I'll talk about formatting the text in a few paragraphs.)
@@ -83,9 +72,6 @@ Select that title and delete it by pressing the Delete key.
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -98,18 +84,12 @@ There's one more way to apply a title: dragging from the Titles Browser.
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles007.jpg)
 
 Let's add a totally ridiculous title to our turtle - drag Clouds from the Title Browser and place it above the clip at the point where you want a title to appear.
 
 NOTE: I'm using a marker in the Timeline to help me find the same place in a clip so my screen shots are consistent. Markers are not needed in any way for titles.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles008.jpg)
 
 Um, yeah. So, some titles look more professional than others... You can delete this title now.
@@ -124,9 +104,6 @@ So, we:
 
 #### CHANGING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -145,9 +122,6 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
@@ -168,9 +142,6 @@ While many of these settings you already know there are a few you may not:
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
@@ -187,16 +158,10 @@ While much of today's video is designed for the web, your titles will look the b
 
 Titles015
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles015.jpg)
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -217,11 +182,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-from-basic-to-breathtaking-elevate-your-tiktok-videos-today/"><u>[New] 2024 Approved From Basic to Breathtaking Elevate Your TikTok Videos Today</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-amplify-your-footage-the-power-of-enhancer-22/"><u>[Updated] Amplify Your Footage The Power of Enhancer 2.2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/brilliant-question-bank-to-entice-audio-enthusiasts-for-2024/"><u>Brilliant Question Bank to Entice Audio Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-click-through-high-roi-strategies-for-fb-animatons-for-2024/"><u>Enhancing Click-Through High-ROI Strategies for FB Animatons for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/reaction-video-makers-that-will-take-your-content-to-the-next-level-for-2024/"><u>Reaction Video Makers That Will Take Your Content to the Next Level for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/shrink-your-videos-top-rated-free-compression-software-for-windows-10-for-2024/"><u>Shrink Your Videos Top-Rated Free Compression Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-upgrades-and-peripherals-by-toms-tech-insights/"><u>The Definitive Guide to Upgrades and Peripherals by Tom’s Tech Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ulf-persson-visionary-leader-at-the-helm-of-abbyy/"><u>Ulf Persson: Visionary Leader at the Helm of ABBYY</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-sony-vegas-vs-adobe-premiere-which-one-is-better/"><u>Updated 2024 Approved Sony Vegas VS Adobe Premiere, Which One Is Better?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-green-screen-apps-for-mac-a-comprehensive-guide/"><u>Updated 2024 Approved Top Green Screen Apps for Mac A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-essential-3d-video-creation-tools-every-creator-should-know/"><u>Updated In 2024, Essential 3D Video Creation Tools Every Creator Should Know</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-s17-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo S17 Phone Network-Ready</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

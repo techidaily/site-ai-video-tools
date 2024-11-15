@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Shape Up Your Videos Easy Resizing and Cropping Techniques
-date: 2024-08-09T04:49:50.005Z
-updated: 2024-08-10T04:49:50.005Z
+date: 2024-11-08T22:46:53.768Z
+updated: 2024-11-13T21:14:51.247Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 # How to Change Shape of a Video?
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -37,9 +34,6 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -61,16 +55,24 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -90,19 +92,20 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -154,13 +157,18 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -168,4 +176,25 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-improve-chromium-performance-fb-video-streaming/"><u>[New] Improve Chromium Performance FB Video Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-techniques-for-3d-text-transformation-in-ps/"><u>[New] Unveiling Techniques for 3D Text Transformation in PS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transform-ordinary-to-outstanding-creating-captivating-square-videos-on-fb/"><u>[Updated] Transform Ordinary to Outstanding Creating Captivating Square Videos on FB</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-amd-rx-6700-xt-graphics-card-driver-for-various-windows-versions/"><u>Download Updated AMD RX 6700 XT Graphics Card Driver for Various Windows Versions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/driving-audience-growth-with-smart-fb-video-tactics/"><u>Driving Audience Growth with Smart FB Video Tactics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-repair-techniques-for-when-your-system-cant-find-d3dx924dll/"><u>Easy Repair Techniques for When Your System Can't Find d3dx9_24.dll</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-link-your-samsung-remote-control-and-televisions/"><u>Easy Ways to Link Your Samsung Remote Control and Televisions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-3d-media-player-for-android-users/"><u>In 2024, Advanced 3D Media Player for Android Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-speed-up-or-slow-down-top-gif-editing-software-and-apps-for-2024/"><u>New Speed Up or Slow Down Top GIF Editing Software and Apps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scripted-sagas-your-guide-to-chatgpt-roleplay-games/"><u>Scripted Sagas: Your Guide to ChatGPT Roleplay Games</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-the-perfect-angle-10-best-video-rotators-for-online-use/"><u>Updated 2024 Approved Get the Perfect Angle 10 Best Video Rotators for Online Use</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-vhs-nostalgia-made-easy-final-cut-pro-tutorials/"><u>Updated 2024 Approved VHS Nostalgia Made Easy Final Cut Pro Tutorials</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-fcp-voice-over-mastery-top-tips-for-beginners-for-2024/"><u>Updated FCP Voice Over Mastery Top Tips for Beginners for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-of-both-worlds-top-free-and-paid-android-video-editing-apps-2023/"><u>Updated In 2024, Best of Both Worlds Top Free and Paid Android Video Editing Apps 2023</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-stop-motion-made-easy-the-best-online-tools-free-and-paid/"><u>Updated In 2024, Stop Motion Made Easy The Best Online Tools Free & Paid</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-10-best-free-green-screen-apps-for-mobile-phones/"><u>Updated In 2024, The Ultimate List 10 Best Free Green Screen Apps for Mobile Phones</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-10-timecode-conversion-tools-for-accurate-timing-web-ios-android/"><u>Updated In 2024, Top 10 Timecode Conversion Tools for Accurate Timing (Web, iOS, Android)</u></a></li>
+</ul></div>
 

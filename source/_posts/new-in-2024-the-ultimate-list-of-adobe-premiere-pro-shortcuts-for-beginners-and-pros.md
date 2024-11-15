@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros
-date: 2024-08-02T03:43:02.939Z
-updated: 2024-08-03T03:43:02.939Z
+date: 2024-11-06T16:32:12.787Z
+updated: 2024-11-13T18:08:12.724Z
 tags: 
   - video editing software
   - video editing
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -61,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -81,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -137,9 +127,6 @@ The ultimate burning program for all your needs!</a>
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -180,9 +167,6 @@ The ultimate burning program for all your needs!</a>
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -215,9 +199,6 @@ The ultimate burning program for all your needs!</a>
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -226,11 +207,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-from-playback-to-printout-top-five-methods-of-documenting-minecraft-on-a-mac/"><u>[New] From Playback to Printout Top Five Methods of Documenting Minecraft on a Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-soundscape-auditions-for-videos/"><u>[New] Prime Soundscape Auditions for Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-shot-by-shot-mastering-the-art-of-filmmaking-s-cinema-world/"><u>[Updated] 2024 Approved Shot by Shot Mastering the Art of Filmmaking 'S Cinema World</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>[Updated] In 2024, CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-efficiently-collecting-photo-and-video-banners/"><u>2024 Approved Expert Techniques Efficiently Collecting Photo and Video Banners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-gaming-laptops-in-depth-analysis-and-comparisons-from-industry-leaders-like-razer-acer-and-msi-zdnet-insights/"><u>Best of the Best Gaming Laptops : In-Depth Analysis and Comparisons From Industry Leaders Like Razer, Acer, and MSI | ZDNET Insights</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-create-cinematic-magic-top-slow-motion-video-editors/"><u>New 2024 Approved Create Cinematic Magic Top Slow Motion Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-efficiently/"><u>New 2024 Approved Cutting Large Videos on Mac? Heres How to Do It Quickly and Efficiently</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-final-cut-pro-essentials-3-ways-to-create-smooth-transitions/"><u>New 2024 Approved Final Cut Pro Essentials 3 Ways to Create Smooth Transitions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-gopro-quik-for-pc-a-review-and-comparison-of-alternative-options/"><u>New 2024 Approved GoPro Quik for PC A Review and Comparison of Alternative Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-here-we-are-going-to-go-through-the-process-of-getting-avidemux-running-on-your-system-and-cropping-some-video/"><u>New 2024 Approved Here We Are Going to Go Through the Process of Getting Avidemux Running on Your System and Cropping some Video</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-of-the-best-10-animated-text-tools-to-elevate-your-brand/"><u>New 2024 Approved The Best of the Best 10 Animated Text Tools to Elevate Your Brand</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vn-video-editor-on-mac-a-review-and-comparison-with-alternative-editors/"><u>New 2024 Approved VN Video Editor on Mac A Review and Comparison with Alternative Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-whats-next-after-virtualdub-a-review-of-the-top-video-editing-alternatives/"><u>New 2024 Approved Whats Next After Virtualdub? A Review of the Top Video Editing Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-adobe-premiere-vs-sony-vegas-which-video-editor-reigns-supreme-for-2024/"><u>New Adobe Premiere vs Sony Vegas Which Video Editor Reigns Supreme for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screensnapper-summit-the-ultimate-guide-to-capturing-for-2024/"><u>ScreenSnapper Summit The Ultimate Guide to Capturing for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210828084-9781960159786-sigue-adelante/"><u>Sigue Adelante | Free Book</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-online-platforms-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Online Platforms: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/upgrading-your-gaming-experience-by-enhancing-the-nes-classic-collection/"><u>Upgrading Your Gaming Experience by Enhancing the NES Classic Collection</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

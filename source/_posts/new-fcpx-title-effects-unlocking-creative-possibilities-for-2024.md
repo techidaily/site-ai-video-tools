@@ -1,7 +1,7 @@
 ---
 title: New FCPX Title Effects Unlocking Creative Possibilities for 2024
-date: 2024-08-02T03:41:38.306Z
-updated: 2024-08-03T03:41:38.306Z
+date: 2024-11-12T21:54:43.681Z
+updated: 2024-11-13T16:35:46.951Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -51,19 +48,12 @@ Just to keep us all on the same page, here are my definitions of key terms relat
 
 #### JUST THE BASICS
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles001.jpg)
 
 I'd like to introduce "Yertle," he's a sea turtle and the star of this article. (Footage courtesy of Jim Walker and Lobsters Gone Wild Productions.)
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -78,9 +68,6 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
@@ -97,18 +84,12 @@ There's one more way to apply a title: dragging from the Titles Browser.
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles007.jpg)
 
 Let's add a totally ridiculous title to our turtle - drag Clouds from the Title Browser and place it above the clip at the point where you want a title to appear.
 
 NOTE: I'm using a marker in the Timeline to help me find the same place in a clip so my screen shots are consistent. Markers are not needed in any way for titles.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles008.jpg)
 
 Um, yeah. So, some titles look more professional than others... You can delete this title now.
@@ -141,9 +122,6 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
@@ -164,9 +142,6 @@ While many of these settings you already know there are a few you may not:
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
@@ -183,16 +158,10 @@ While much of today's video is designed for the web, your titles will look the b
 
 Titles015
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles015.jpg)
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -213,11 +182,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-dodge-digital-duplicates-to-increase-youtube-exposure/"><u>[New] 2024 Approved Dodge Digital Duplicates to Increase YouTube Exposure</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-successfully-embed-youtube-playlists-via-web-scripts-for-2024/"><u>[New] How to Successfully Embed YouTube Playlists via Web Scripts for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-comprehensible-guide-for-novices-crafting-professional-tiktok-edits/"><u>[New] In 2024, Comprehensible Guide for Novices Crafting Professional TikTok Edits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-content-with-expertly-crafted-360-videos-for-fb/"><u>[Updated] Elevate Your Content with Expertly Crafted 360 Videos for FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tier-psd-artistry-tweaks/"><u>2024 Approved Top-Tier PSD Artistry Tweaks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-subcontracting-options-for-enhancing-abpp-solutions/"><u>Expert Subcontracting Options for Enhancing ABPP Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210701644-9781943328956-haunted-inside-passage/"><u>Haunted Inside Passage | Free Book</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-organize-your-videos-with-ease-8-top-mac-metadata-editor-software/"><u>New In 2024, Organize Your Videos with Ease 8 Top Mac Metadata Editor Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-pause-perfection-a-step-by-step-guide-to-freezing-frames-in-videos/"><u>New In 2024, Pause Perfection A Step-by-Step Guide to Freezing Frames in Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-photo-and-video-collage-software/"><u>New In 2024, The Ultimate Guide to Photo and Video Collage Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-video-blur-effects-on-iphone-and-android/"><u>New In 2024, The Ultimate Guide to Video Blur Effects on iPhone and Android</u></a></li>
+<li><a href="https://win-superb.techidaily.com/schnelles-kopieren-von-esxi-virtual-machine-images-und-dateien-auf-einen-usb-stick/"><u>Schnelles Kopieren Von ESXi Virtual Machine Images Und Dateien Auf Einen USB Stick</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/seamless-steps-shifting-your-pubg-game-from-one-iphone-to-another/"><u>Seamless Steps: Shifting Your PUBG Game From One iPhone to Another</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

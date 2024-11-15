@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro X Tutorial L-Cuts and J-Cuts for 2024
-date: 2024-08-02T03:40:51.905Z
-updated: 2024-08-03T03:40:51.905Z
+date: 2024-11-08T19:02:22.826Z
+updated: 2024-11-13T17:35:17.811Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
 # Final Cut Pro X Tutorial: L-Cuts and J-Cuts
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
 
 Ordinary images, text, subtitles, and GIF doesn’t work anymore to get followers or likes on a video on YouTube channel or Instagram. Thus, video creators are tired of trying the same filters, transitions on the video editor tool. To create amazing videos like the ones played on your television and favorite movies, all you need is the split edit type techniques, a powerful editing tool used by professional editors. Although called professional, it isn’t difficult for a beginner if you know J-Cuts and L-Cuts.
@@ -45,8 +39,12 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
 
 As Final Cut Pro X comes overloaded with advanced, powerful tools, you can find it a little tricky. Hence, we are here to help you perform **the Final Cut Pro L-Cuts** in this session. And, yes, the **Final Cut Pro J-Cuts** as well.
@@ -78,8 +76,12 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
 
 Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts and Final Cut Pro J-Cuts.
@@ -103,16 +105,24 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Are you wondering and puzzled that you are a popular Final Cut Pro X user but weren't aware of this powerful split edit tool till now? It isn't too late for you to start yet. Finally, as assured at the beginning of the article, we gave you detailed information on what are J-Cuts in Final Cut Pro along with L-Cuts. With practical implementation on creating Final Cut Pro L-Cuts and J-Cuts, all the best for your first video project!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -120,11 +130,29 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-directrecorderw11-streamlined-windows-11-capture-software-for-2024/"><u>[New] DirectRecorderW11 Streamlined Windows 11 Capture Software for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-maximum-video-sizes-in-instagram-upload-for-2024/"><u>[Updated] Unlocking Maximum Video Sizes in Instagram Upload for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blueprinting-a-thrilling-film-flashpoint/"><u>Blueprinting a Thrilling Film Flashpoint</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/closed-chatgpt-sign-ups-unraveling-the-reasons-and-predictions-on-reopening-dates/"><u>Closed ChatGPT Sign-Ups: Unraveling the Reasons & Predictions on Reopening Dates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhancing-online-security-the-importance-of-using-longer-passwords/"><u>Enhancing Online Security: The Importance of Using Longer Passwords</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-res-horizons-in-depth-analysis-of-samsung-ue590-tv-for-2024/"><u>High-Res Horizons In-Depth Analysis of Samsung UE590 TV for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-beginners-guide-to-face-blurring-top-free-apps-tutorials-and-tips-for-2024/"><u>New Beginners Guide to Face Blurring Top Free Apps, Tutorials, and Tips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-taskbar-icon-anomalies/"><u>Rectifying Taskbar Icon Anomalies</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-to-mp4mpeg-conversion-into-ogg-audio-format-using-your-computer/"><u>Step-by-Step Guide to MP4/MPEG Conversion Into OGG Audio Format Using Your Computer</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/trim-and-cut-mkv-videos-with-these-10-free-tools-for-2024/"><u>Trim and Cut MKV Videos with These 10 Free Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-compatibility-playing-older-ps-games-on-newer-console/"><u>Understanding Compatibility: Playing Older PS Games on Newer Console</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-install-linux-on-chromebook-for-2024/"><u>Updated How to Install Linux on Chromebook for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-14-top-rated-free-video-editing-tools-without-watermarks/"><u>Updated In 2024, 14 Top-Rated Free Video Editing Tools Without Watermarks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-mov-video-orientation-changers-top-5-list/"><u>Updated In 2024, Free MOV Video Orientation Changers Top 5 List</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-still-to-stunning-how-to-add-the-ken-burns-effect-to-your-videos/"><u>Updated In 2024, From Still to Stunning How to Add the Ken Burns Effect to Your Videos</u></a></li>
+</ul></div>
+

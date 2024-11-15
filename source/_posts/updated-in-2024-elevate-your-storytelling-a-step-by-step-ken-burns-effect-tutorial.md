@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial
-date: 2024-10-28T17:12:30.139Z
-updated: 2024-11-04T16:47:31.836Z
+date: 2024-11-08T22:52:08.506Z
+updated: 2024-11-13T19:23:23.637Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -131,10 +131,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -150,10 +150,10 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -167,10 +167,16 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -188,20 +194,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-frolic-fables-a-vhs-review-of-the-comical-epic/"><u>[Updated] 'Frolic Fables' - A VHS Review of The Comical Epic</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-maximize-engagement-uploading-and-posting-funny-gifs-on-instagram-easy-guide/"><u>2024 Approved Maximize Engagement Uploading & Posting Funny GIFs on Instagram (Easy Guide)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-strategic-planning-aligning-research-with-business-objectives/"><u>2024 Approved Strategic Planning Aligning Research with Business Objectives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-unreliable-are-current-ai-methods-for-identifying-duplicate-online-material/"><u>How Unreliable Are Current AI Methods for Identifying Duplicate Online Material?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-beginners-blueprint-for-youtube-gear/"><u>In 2024, The Beginner's Blueprint for YouTube Gear</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/reimagining-professional-life-a-stunning-perspective-uncovered-by-microsofts-survey-of-31000plus-individuals/"><u>Reimagining Professional Life: A Stunning Perspective Uncovered by Microsoft's Survey of 31,000+ Individuals</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-and-solutions-for-the-finals-app-launch-issues/"><u>Ultimate Guide: Troubleshooting & Solutions for 'The Finals' App Launch Issues</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-moving-with-the-best-free-video-speed-editor-apps-for-ios-and-android/"><u>Updated 2024 Approved Get Moving with the Best Free Video Speed Editor Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-cast-local-videos-to-chromecast-a-step-by-step-guide-updated-2023/"><u>Updated In 2024, Cast Local Videos to Chromecast A Step-by-Step Guide (Updated 2023)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-discover-the-top-reaction-video-creation-platforms/"><u>Updated In 2024, Discover the Top Reaction Video Creation Platforms</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-effortless-gopro-video-editing-a-step-by-step-guide/"><u>Updated In 2024, Effortless GoPro Video Editing A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-looking-beyond-virtualdub-the-best-video-editing-software-for-your-needs/"><u>Updated In 2024, Looking Beyond Virtualdub The Best Video Editing Software for Your Needs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-seamless-storytelling-3-transition-techniques-for-final-cut-pro/"><u>Updated Seamless Storytelling 3 Transition Techniques for Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-squeeze-the-most-out-of-your-storage-5-best-free-video-compression-apps/"><u>Updated Squeeze the Most Out of Your Storage 5 Best Free Video Compression Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-expertly-curated-animated-type-library/"><u>[New] Expertly Curated Animated Type Library</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tech-titans-in-vr-top-10-mobile-headsets-reviewed/"><u>[New] Tech Titans in VR Top 10 Mobile Headsets Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-efficient-chromebook-screen-logger/"><u>[Updated] In 2024, Efficient Chromebook Screen Logger</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-metaverse-chronicles-a-list-of-the-most-unforgettable-sci-fi-adventures-on-screen/"><u>[Updated] Metaverse Chronicles A List of the Most Unforgettable Sci-Fi Adventures on Screen</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-eye-candy-index-the-top-8-videos/"><u>2024 Approved Eye Candy Index The Top 8 Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsung-ue590-4k-freesync-gaming-monitor-review/"><u>2024 Approved Samsung UE590 4K FreeSync Gaming Monitor Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/asus-nuc-14-unleashed-powerhouse-performance-with-core-u-series-and-nvidia-rtx-4070-graphics/"><u>Asus NUC 14 Unleashed: Powerhouse Performance with Core U-Series and NVIDIA RTX 4070 Graphics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-interaction-with-fun-how-to-add-gifs-to-comments-on-instagram/"><u>Boost Interaction with Fun: How to Add GIFs to Comments on Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-chatgpt-to-craft-captivating-youtube-video-scripts-effortlessly/"><u>Leverage ChatGPT to Craft Captivating YouTube Video Scripts Effortlessly</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-speed-up-your-storytelling-how-to-create-engaging-time-lapse-videos/"><u>New 2024 Approved Speed Up Your Storytelling How to Create Engaging Time Lapse Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-virtualdub-review-is-it-still-the-best-video-editor/"><u>New In 2024, Virtualdub Review Is It Still the Best Video Editor ?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleashing-the-power-of-lower-thirds-in-final-cut-pro-x-for-2024/"><u>New Unleashing the Power of Lower Thirds in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unwanted-sounds-gone-learn-how-to-remove-background-noise-in-fcp-for-2024/"><u>New Unwanted Sounds? Gone! Learn How to Remove Background Noise in FCP for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-the-corsair-one-i500-compact-desktop-unit-user-experience-reviewed/"><u>The Ultimate Guide to the Corsair ONE I500 Compact Desktop Unit - User Experience Reviewed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-create-animated-videos-10-best-cartoon-maker-apps-for-android-and-ios/"><u>Updated 2024 Approved Create Animated Videos 10 Best Cartoon Maker Apps for Android & iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-show-off-your-gaming-skills-a-beginners-guide-to-sharing-ps4-screenshots/"><u>Updated 2024 Approved Show Off Your Gaming Skills A Beginners Guide to Sharing PS4 Screenshots</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-free-filmora-no-strings-attached/"><u>Updated The Ultimate Guide to Free Filmora No Strings Attached</u></a></li>
 </ul></div>
 

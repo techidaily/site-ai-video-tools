@@ -1,7 +1,7 @@
 ---
 title: New For Efficient Workflow, the Keyboard Shortcuts Cannot Be Beaten. So Here I List Top 20 Adobe Premiere Shortcuts You Will Use when Editing Video for 2024
-date: 2024-08-02T03:43:54.731Z
-updated: 2024-08-03T03:43:54.731Z
+date: 2024-11-11T21:30:57.497Z
+updated: 2024-11-13T18:03:26.063Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -84,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -179,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,11 +207,36 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-crafting-a-powerful-content-strategy-uncover-the-best-5-youtube-marketing-tactics/"><u>[Updated] Crafting a Powerful Content Strategy Uncover the Best 5 YouTube Marketing Tactics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-advanced-hardware-solutions-through-toms-innovation-lens/"><u>Discovering Advanced Hardware Solutions Through Tom's Innovation Lens</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/easy-guide-transforming-mp4-files-into-wmv-format-without-a-hitch/"><u>Easy Guide: Transforming MP4 Files Into WMV Format Without a Hitch</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevating-your-visuals-mastering-instagram-edits-in-fcpx/"><u>Elevating Your Visuals Mastering Instagram Edits in FCPX</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/norton-ghost-usb-windows-1087/"><u>Norton Ghost USB 準備工序：Windows 10/8/7跨平台自助解決方法</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/praey-for-the-gods-pc-version-stability-issues-and-how-to-resolve-them/"><u>Praey for the Gods PC Version Stability Issues and How to Resolve Them</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-tips-for-transforming-mundane-into-epic-with-gopro-timelapse-for-2024/"><u>Pro Tips for Transforming Mundane Into Epic with GoPro Timelapse for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029353080-spotify/"><u>Spotify音楽をダウンロードし、スマホでキャリア着メロとして使用する手順</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-ditch-the-search-get-exclusive-filmora-discounts-here/"><u>Updated 2024 Approved Ditch the Search Get Exclusive Filmora Discounts Here</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-flat-to-fabulous-converting-videos-for-vr-with-ease/"><u>Updated 2024 Approved From Flat to Fabulous Converting Videos for VR with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ezvid-for-mac-the-ultimate-slideshow-and-video-making-solution-for-2024/"><u>Updated Ezvid for Mac The Ultimate Slideshow and Video Making Solution for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-your-instagram-feed-pop-with-stop-motion-videos-tips-and-tricks/"><u>Updated In 2024, Make Your Instagram Feed Pop with Stop Motion Videos Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-how-to-edit-videos-with-quicktime-on-mac-for-2024/"><u>Updated Unleash Your Creativity How to Edit Videos with QuickTime on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/whiteboard-animation-made-easy-top-5-hand-drawn-video-creators-for-2024/"><u>Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/windows-live-movie-maker-tutorial-creating-stunning-slow-motion-videos-for-2024/"><u>Windows Live Movie Maker Tutorial Creating Stunning Slow Motion Videos for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: New Cropping and Resizing Images in Final Cut Pro X Made Easy for 2024
-date: 2024-08-09T04:50:00.506Z
-updated: 2024-08-10T04:50:00.506Z
+date: 2024-11-06T23:07:24.237Z
+updated: 2024-11-13T22:05:56.112Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Crop an Image in Final Cut Pro X
 
 However, before I show how this is done, I need to explain one really important fact about video: all video uses what's called "fixed resolution." Fixed resolution means that high-definition video is always displayed at one of two sizes:
@@ -54,16 +51,10 @@ I'll show you two ways to crop a video clip in this article, one that maintains 
 
 Trimming is the process of removing portions of a video clip without changing the size of the clip. This retains the highest amount of image quality.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop001.jpg)
 
 For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say that we want to emphasize the barn and not the sky.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop002.jpg)
 
 The easiest way to do this is to click the icon in the lower left corner of the Viewer and choose "Crop."
@@ -76,18 +67,12 @@ This displays the cropping tools in the Viewer.
 
 Click the Trim button to turn on Trim mode. (This article discusses Trim and Crop. I'll cover the Ken Burns effect in a future article.)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop005.jpg)
 
 Grab one of the blue dots and drag to hide portions of the frame. I generally grab a corner, but any blue dot will do.
 
 NOTE: Press and hold the Option key while dragging to drag opposite edges or corners. Press and hold the Shift key to constrain the trim to the same aspect ratio as the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop006.jpg)
 
 Drag other corners or edges to further trim the image.
@@ -112,9 +97,6 @@ Cropping allows us to select just a portion of a video clip, without creating an
 
 There are several ways we can choose to crop an image:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop010.jpg)
 
 * Click the Crop icon, as we illustrated above
@@ -124,21 +106,10 @@ There are several ways we can choose to crop an image:
 * Right-mouse click (or Control-click) inside the Viewer and choose
 * Type Shift+C
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop012.jpg)
 
 \* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop013.jpg)
 
 If you selected any option except the Inspector, click the Crop button in the Viewer.
@@ -165,9 +136,6 @@ And, if you look closely, you'll see that the cropped image is softer (blurrier)
 
 #### RESET
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop018.jpg)
 
 To reset a cropped image back to its default settings, open the Inspector and click the small curved arrow to the right of the word "Crop."
@@ -188,12 +156,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069852656-new-2024-approved-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010/"><u>[New] 2024 Approved Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10).</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[Updated] 2024 Approved From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-drift-into-drone-fun-kid-and-novice-guide/"><u>[Updated] In 2024, Drift Into Drone Fun Kid and Novice Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-prime-anglers-selection-leading-fishing-cameras-ranked/"><u>[Updated] Prime Anglers' Selection Leading Fishing Cameras Ranked</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-savory-screens-culinary-content-creation-for-2024/"><u>[Updated] Savory Screens Culinary Content Creation for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dominating-the-youtube-sphere-key-strategies-for-top-tier-presence-for-2024/"><u>Dominating the YouTube Sphere Key Strategies for Top-Tier Presence for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-dns-server-with-these-4-simple-strategies/"><u>How to Fix a Non-Responsive DNS Server with These 4 Simple Strategies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-most-loved-iphone-apps-user-favorites-and-critic-picks-for-2024/"><u>New Most Loved iPhone Apps User Favorites and Critic Picks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgic-gaming-revolution-playing-classic-dreamcast-titles-on-android-platforms/"><u>Nostalgic Gaming Revolution: Playing Classic Dreamcast Titles on Android Platforms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-x50iplus-by-drfone-android/"><u>Universal Unlock Pattern for Honor X50i+</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-essential-movie-trailer-apps-for-your-iphone-or-ipad/"><u>Updated 2024 Approved 10 Essential Movie Trailer Apps for Your iPhone or iPad</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-color-enhancement-techniques-in-final-cut-pro-for-2024/"><u>Updated Color Enhancement Techniques in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-guide-to-movie-trailer-apps-for-iphone-and-ipad-users/"><u>Updated In 2024, The Ultimate Guide to Movie Trailer Apps for iPhone and iPad Users</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

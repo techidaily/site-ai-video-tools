@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved The Art of Pan and Zoom How to Achieve the Ken Burns Effect
-date: 2024-08-09T04:50:56.522Z
-updated: 2024-08-10T04:50:56.522Z
+date: 2024-11-09T16:46:58.831Z
+updated: 2024-11-13T17:34:28.149Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
 # How to Make Ken Burns Effect in Final Cut Pro?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -49,9 +46,6 @@ _ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/fin
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
@@ -66,9 +60,6 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
@@ -91,18 +82,12 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 _ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
@@ -129,6 +114,13 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -137,6 +129,13 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 2. Duplicate the clip by click and drag option or copy and paste option;
 3. Press the Swap button in the Ken Burns settings to reverse the start and end positions;
 4. Verify if multiple camera movements have been added.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
@@ -148,10 +147,14 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
 
@@ -163,13 +166,18 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,4 +185,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/est-bits-of-bulb-tech-top-17-choices/"><u>[New] Best Bits of Bulb Tech - Top 17 Choices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-direct-hit-at-simplifying-livestreaming/"><u>[New] In 2024, Direct Hit at Simplifying Livestreaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-guide-cost-effective-pc-screen-recording-apps/"><u>[New] Ultimate Guide Cost-Effective PC Screen Recording Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-harmonizing-iphone-footage-like-a-pro/"><u>[Updated] 2024 Approved Harmonizing iPhone Footage Like a Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-6-premium-video-translation-tools/"><u>[Updated] Top 6 Premium Video Translation Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-srt-shift-magic-subtitles-subc-conversion-guide/"><u>2024 Approved SRT Shift Magic Subtitles (SUBC) Conversion Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-efficiently-download-video-files-from-mp4upload-using-an-expert-guide/"><u>How to Efficiently Download Video Files From MP4Upload Using an Expert Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reining-in-flickering-monitors-hp-guide/"><u>Reining In Flickering Monitors: HP Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews and Guides</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-10-mac-video-tag-editors-for-effortless-organization-for-2024/"><u>Top 10 Mac Video Tag Editors for Effortless Organization for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-no-cost-high-quality-digital-recorder-apps/"><u>Top 10 No-Cost, High-Quality Digital Recorder Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-desktop-organization-changing-folder-hues-in-macos/"><u>Transforming Desktop Organization: Changing Folder Hues in macOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-video-rotator-tools-a-comprehensive-guide-for-windows-mac-and-mobile/"><u>Updated 2024 Approved Free Video Rotator Tools A Comprehensive Guide for Windows, Mac, and Mobile</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-wmv-video-trimming-software-top-5-options/"><u>Updated 2024 Approved Free WMV Video Trimming Software Top 5 Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-boost-engagement-with-a-countdown-a-step-by-step-fcpx-guide/"><u>Updated In 2024, Boost Engagement with a Countdown A Step-by-Step FCPX Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-download-free-public-domain-videos-from-these-top-websites/"><u>Updated In 2024, Download Free Public Domain Videos From These Top Websites</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-free-neon-text-generators-for-instant-results/"><u>Updated In 2024, The Best Free Neon Text Generators for Instant Results</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-flv-editor-for-windows-8-unlock-professional-video-editing/"><u>Updated Top-Rated FLV Editor for Windows 8 Unlock Professional Video Editing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-smooth-conversions-top-10-free-4k-video-converters-for-2024/"><u>Updated Unlock Smooth Conversions Top 10 Free 4K Video Converters for 2024</u></a></li>
+</ul></div>
 

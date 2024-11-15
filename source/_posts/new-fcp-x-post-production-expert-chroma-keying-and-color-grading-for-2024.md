@@ -1,7 +1,7 @@
 ---
 title: New FCP X Post-Production Expert Chroma Keying and Color Grading for 2024
-date: 2024-08-02T03:41:08.209Z
-updated: 2024-08-03T03:41:08.209Z
+date: 2024-11-07T22:05:48.103Z
+updated: 2024-11-13T21:37:39.038Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting Started
 
 First, the best thing you can do to improve the quality of your keys is to improve how you shoot them. Here are seven basic production rules:
@@ -49,21 +46,8 @@ First, the best thing you can do to improve the quality of your keys is to impro
 * Light your background for smoothness. Light your actors for drama.
 * Don't worry about having the green background fill the frame. It only needs to completely surround the edges of your actors. Garbage mattes are used to get rid of junk around the edges.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Setting up the Key
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
 
 The green screen image is always placed above the background. You can place either the green screen or background image into the Primary Storyline. I find it easier to put the background in the Primary Storyline, because it makes editing the green screen image easier. But this is purely personal choice.
@@ -76,14 +60,18 @@ From the **Effects Browser > Keying** category, double-click the **Keyer** effec
 
 Don't panic if your image looks weird – we will fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fx chroma 03](https://images.wondershare.com/multimedia/fx-chroma-03.jpg)
 
 Click the **Sample Color** icon. This allows fine-tuning the selection of the background color.
 
 ![fx chroma 04](https://images.wondershare.com/multimedia/fx-chroma-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the green-screen image, drag to select a representative section of the background. I try to get close to the face, but not so close that I accidentally select loose hair or skin.
 
@@ -93,11 +81,6 @@ Your key should look better immediately. Most of the time, you can probably stop
 * Edge adjustments
 * Light wrap
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![fx chroma 06](https://images.wondershare.com/multimedia/fx-chroma-06.jpg)
 
 Click the **Matte** button to display your key as a white foreground on a black background.
@@ -108,11 +91,15 @@ Your goal is the make the foreground solid white, which means opaque, and the ba
 
 ![fx chroma 05](https://images.wondershare.com/multimedia/fx-chroma-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If an edge is too pronounced, or needs help, click the **Edges** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![fx chroma 09](https://images.wondershare.com/multimedia/fx-chroma-09.jpg)
 
 **Step 2: Tweaks Video**
@@ -120,6 +107,13 @@ If an edge is too pronounced, or needs help, click the **Edges** icon.
 Then, click and drag a line from the foreground to the background in the Canvas. Drag the midpoint slider (where my cursor is) until the edge looks the best it can. Different video formats make this easy (ProRes), while others (HDV, avchd) make this much harder. Perfection is impossible – do the best you can.
 
 ![fx chroma 09a](https://images.wondershare.com/multimedia/fx-chroma-09a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Final Cut provides four additional tweaks at the bottom of the keyer filter:
 
@@ -134,23 +128,28 @@ Light wrap, though, is aesthetic. What it does is blend colors from the backgrou
 
 This is a subtle effect, but very cool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fx chroma 10](https://images.wondershare.com/multimedia/fx-chroma-10.jpg)
 
 Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag the other sliders around and see what happens. The nice thing about this setting is that when it looks good to you, it is good. The amount of the effect is totally up to you. Remember, Light Wrap only affects the edges of the foreground and should be used subtly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When you are done, you have a great looking key!
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Clean up the Image with a Garbage Mask
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
@@ -165,19 +164,12 @@ Once you get your key looking as good as you can – which in this case isn't al
 
 **NOTE**: The Mask effect should always be added after the Keying effect, so that the Mask is below the Keyer in the Inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![fx chroma 14](https://images.wondershare.com/multimedia/fx-chroma-14.jpg)
 
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## How to Create a Chroma-Key in easier ways?
 
 Chroma-key, or green screen, is an essential part of every editor to make all kinds of effects. Is there any way to make this sophisticated procedure easier way? Yes, try Filmora.
@@ -194,7 +186,21 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -202,11 +208,26 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-groundbreaking-8-android-video-call-services-more-than-four/"><u>[New] Groundbreaking 8 Android Video Call Services, More Than Four</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-instant-sharing-transferring-twitter-videos-to-fb-2-written-in-english/"><u>[Updated] 2024 Approved Instant Sharing Transferring Twitter Videos to FB (2 Written in English)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-tuneful-texts-musical-infusion-on-whatsapp/"><u>[Updated] 2024 Approved Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-secure-your-travel-documents-grab-10-free-passport-photos-onlinedesktop-for-2024/"><u>[Updated] Secure Your Travel Documents Grab 10 FREE Passport Photos Online/Desktop for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-access-the-journey-through-free-visual-resources/"><u>2024 Approved Mastering Access The Journey Through Free Visual Resources</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mastering-canon-footage-a-step-by-step-guide-to-video-editing/"><u>New Mastering Canon Footage A Step-by-Step Guide to Video Editing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-july-2024-laptop-offers-you-cant-miss-featured-on-zdnet/"><u>Top July 2024 Laptop Offers You Can't Miss - Featured on ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-novice-to-expert-a-complete-guide-to-editing-mp4-videos-on-mac-and-windows/"><u>Updated 2024 Approved From Novice to Expert A Complete Guide to Editing MP4 Videos on Mac and Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ditch-premiere-rush-4-excellent-video-editing-alternatives-for-2024/"><u>Updated Ditch Premiere Rush? 4 Excellent Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-maximize-your-workflow-the-10-best-video-editing-software-tools/"><u>Updated Maximize Your Workflow The 10 Best Video Editing Software Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-your-creative-potential-top-ipad-video-editors/"><u>Updated Unlock Your Creative Potential Top iPad Video Editors</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/windows-11-verlangsamt-ihren-rechner-entdecken-sie-hier-6-wirksame-losungsansatze/"><u>Windows 11 Verlangsamt Ihren Rechner? Entdecken Sie Hier 6 Wirksame Lösungsansätze</u></a></li>
+</ul></div>
+

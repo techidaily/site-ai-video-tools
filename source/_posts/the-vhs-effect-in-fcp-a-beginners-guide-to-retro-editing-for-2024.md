@@ -1,7 +1,7 @@
 ---
 title: The VHS Effect in FCP A Beginners Guide to Retro Editing for 2024
-date: 2024-10-29T16:43:29.638Z
-updated: 2024-11-04T18:53:42.296Z
+date: 2024-11-12T22:07:45.157Z
+updated: 2024-11-13T16:44:54.643Z
 tags: 
   - video editing software
   - video editing
@@ -87,16 +87,10 @@ After your video is rendered, you will get the final results using the VHS filte
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part2: How to do VHS effect in easy steps?
@@ -106,13 +100,6 @@ If you want to quickly add VHS effect to your video, you can use Filmora X. You 
 First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To do VHS effects quickly, follow these steps:
 
@@ -153,13 +140,6 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Search for **Chromatic Aberration effect**.
 
 * Drag and drop it above the previous layer.
@@ -186,6 +166,13 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -209,16 +196,10 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
@@ -235,6 +216,13 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -250,18 +238,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-propel-participation-through-tailored-story-inquiry-designs-for-2024/"><u>[New] Propel Participation Through Tailored Story Inquiry Designs for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nderstanding-youtubes-revenue-streams/"><u>[New] Understanding YouTube's Revenue Streams</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-step-by-step-guide-to-collab-videos-and-channel-growth/"><u>[Updated] 2024 Approved Step-by-Step Guide to Collab Videos & Channel Growth</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/caixuns-75-4k-smart-tv-a-budget-conscious-buyers-guide-and-performance-review/"><u>Caixun's 75 4K Smart TV: A Budget-Conscious Buyer's Guide and Performance Review</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/expert-assistance-with-aomei-cyberbackup-detailed-guide-and-solutions/"><u>Expert Assistance with AOMEI CyberBackup: Detailed Guide and Solutions</u></a></li>
-<li><a href="https://win-premium.techidaily.com/fast-techniques-for-reinstating-missing-directories-on-windows-11/"><u>Fast Techniques for Reinstating Missing Directories on Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-make-a-photo-collage-on-facebook/"><u>How to Make a Photo Collage on Facebook</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/sd-speicher-datenwiedergewinnung-loschte-inhalte-wiederbeleben/"><u>SD-Speicher Datenwiedergewinnung: Löschte Inhalte Wiederbeleben</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/toms-gadget-gazette-insights-into-cutting-edge-hardware-innovations/"><u>Tom's Gadget Gazette: Insights Into Cutting-Edge Hardware Innovations</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-mp4-editor-for-mac-mavericks-easy-video-editing/"><u>Updated 2024 Approved Best MP4 Editor for Mac Mavericks Easy Video Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-fcp-factor-10-successful-movies-that-used-final-cut-pro/"><u>Updated In 2024, The FCP Factor 10 Successful Movies That Used Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unwatermark-your-tiktok-videos-top-online-tools-and-tricks/"><u>Updated In 2024, Unwatermark Your TikTok Videos Top Online Tools and Tricks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-through-paid-product-evaluations-online/"><u>[Updated] Navigating Through Paid Product Evaluations Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sky-high-improvement-ultimate-video-rescale/"><u>2024 Approved Sky-High Improvement Ultimate Video Rescale</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-stops-issuing-sales-forecasts-due-to-major-client-order-cancellations/"><u>Asetek Stops Issuing Sales Forecasts Due to Major Client Order Cancellations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/choosing-livestream-software-the-obs-vs-streamlabs-dilemma-for-2024/"><u>Choosing Livestream Software The OBS Vs. Streamlabs Dilemma for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-text-input-with-bing-ai-chat-for-android-phone-users/"><u>Enhancing Text Input with Bing AI Chat for Android Phone Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-your-computers-core-features-the-windows-key/"><u>Mastery Over Your Computer's Core Features: The Windows Key</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme-in-2024/"><u>New Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme , In 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-rotate-your-videos-with-ease-10-free-online-and-offline-solutions/"><u>New Rotate Your Videos with Ease 10 Free Online and Offline Solutions</u></a></li>
+<li><a href="https://win-web3.techidaily.com/simple-steps-to-locate-download-history-across-computers-and-smartphones-top-6-tips/"><u>Simple Steps to Locate Download History Across Computers & Smartphones - Top 6 Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-most-effective-wi-fi-expanders-for-this-year/"><u>Ultimate Guide to the Most Effective Wi-Fi Expanders for This Year</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcpx-skin-enhancement-a-beginners-guide-to-airbrushed-results/"><u>Updated 2024 Approved FCPX Skin Enhancement A Beginners Guide to Airbrushed Results</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-phone-to-fame-best-vertical-video-editing-apps-for-mobile-creators/"><u>Updated 2024 Approved From Phone to Fame Best Vertical Video Editing Apps for Mobile Creators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028702025-vlive/"><u>すぐに学ぶ！VLIVEの動画ダウンロードと保管手順</u></a></li>
 </ul></div>
 

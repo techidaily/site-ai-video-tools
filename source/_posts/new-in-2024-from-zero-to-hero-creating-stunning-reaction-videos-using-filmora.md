@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Zero to Hero Creating Stunning Reaction Videos Using Filmora
-date: 2024-08-02T03:44:19.749Z
-updated: 2024-08-03T03:44:19.749Z
+date: 2024-11-11T18:55:55.482Z
+updated: 2024-11-13T20:03:15.888Z
 tags: 
   - video editing software
   - video editing
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 
 # How to Make a Reaction Video Easier Than Ever With Filmora
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -59,9 +55,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
@@ -74,30 +67,18 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step9.png)
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
@@ -114,11 +95,40 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-remarkable.techidaily.com/1728477265960-usb/"><u>最適な手順：USBドライブに画像データを瞬時に保存・転送！</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-13-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 13 How to Bypass?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/free-windows-10-recorder-tools-a-comprehensive-updated-guide/"><u>Free Windows 10 Recorder Tools A Comprehensive, Updated Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-cost-effective-video-syncing-for-economical-pcs/"><u>In 2024, Cost-Effective Video Syncing for Economical PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-note-30-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Note 30 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-game-plan-to-trendsetting-video-content/"><u>In 2024, The Game Plan to Trendsetting Video Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-mobile-media-a-guide-to-the-9-smartest-gadgets-for-filmmakers-for-2024/"><u>Mastering Mobile Media A Guide to the 9 Smartest Gadgets for Filmmakers for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-avs-video-editor-review-features-pricing-and-performance-for-2024/"><u>New AVS Video Editor Review Features, Pricing, and Performance for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-rock-solid-footage-8-best-free-online-video-stabilizers/"><u>New Rock-Solid Footage 8 Best Free Online Video Stabilizers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-what-to-expect-from-vn-video-editor-on-your-pc/"><u>New What to Expect From VN Video Editor on Your PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/revamp-your-footage-top-free-online-video-quality-improvement-tools-for-2024/"><u>Revamp Your Footage Top Free Online Video Quality Improvement Tools for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-narzo-n55-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme Narzo N55</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-methodology-to-prevent-plagiarized-outputs/"><u>Understanding ChatGPT’s Methodology to Prevent Plagiarized Outputs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-lower-thirds-like-a-pro-expert-techniques-for-final-cut-pro-x/"><u>Updated 2024 Approved Lower Thirds Like a Pro Expert Techniques for Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-virtualdub-review-pros-cons-and-the-best-alternatives-for-you/"><u>Updated In 2024, Virtualdub Review Pros, Cons, and the Best Alternatives for You</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mobile-video-editing-best-apps-to-blur-unwanted-parts/"><u>Updated Mobile Video Editing Best Apps to Blur Unwanted Parts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-natural-look-how-to-smooth-skin-in-fcpx-without-plugins-for-2024/"><u>Updated The Natural Look How to Smooth Skin in FCPX without Plugins for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-digital-trailer-creation-tools-for-2024/"><u>Updated Top Digital Trailer Creation Tools for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-vn-video-editor-pro-does-it-deliver-on-its-promises-in-2024/"><u>Updated VN Video Editor Pro Does It Deliver on Its Promises, In 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

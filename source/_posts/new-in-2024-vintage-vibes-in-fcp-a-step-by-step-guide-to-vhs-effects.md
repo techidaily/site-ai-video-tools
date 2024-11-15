@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Vintage Vibes in FCP A Step-by-Step Guide to VHS Effects
-date: 2024-10-28T20:41:31.760Z
-updated: 2024-11-04T16:28:34.351Z
+date: 2024-11-08T21:14:35.995Z
+updated: 2024-11-13T20:01:11.177Z
 tags: 
   - video editing software
   - video editing
@@ -86,13 +86,6 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -101,9 +94,23 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
@@ -132,13 +139,6 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now search for the **Strong Glitch effect**.
 
 * Drag and drop it above the previous layer.
@@ -146,6 +146,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -155,13 +162,6 @@ Search for **Chromatic Aberration effect**.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now Search for **VCR Distortion** in the search bar.
 
@@ -203,10 +203,10 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
@@ -238,22 +238,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-understanding-the-difference-in-30-and-60-fps-videography/"><u>[New] 2024 Approved Understanding the Difference in 30 and 60 FPS Videography</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-delicious-directives-the-7-secrets-of-epic-food-vids/"><u>[Updated] Delicious Directives The 7 Secrets of Epic Food Vids</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6s-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 6s</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-stabilizing-assassins-creed-syndicate-fixes-and-optimizations/"><u>Comprehensive Guide to Stabilizing Assassin's Creed Syndicate: Fixes & Optimizations</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-enhance-pc-gaming-performance-and-reduce-lags-a-2nd4-tutorial/"><u>How to Enhance PC Gaming Performance and Reduce Lags: A 2nD4 Tutorial</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hero5-black-meets-yi-4k-the-ultimate-update-for-action-camera-fans/"><u>In 2024, Hero5 Black Meets Yi 4K - The Ultimate Update for Action Camera Fans</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-updated-nvidia-quadro-drivers-on-windows-10-compatible-with-latest-os-version/"><u>Install Updated Nvidia Quadro Drivers on Windows 10 - Compatible with Latest OS Version</u></a></li>
-<li><a href="https://program-issues.techidaily.com/minecraft-troubleshooting-solving-the-crossbow-error-code-dilemma/"><u>Minecraft Troubleshooting: Solving the Crossbow Error Code Dilemma</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/take-your-videos-to-the-next-level-cool-editing-tricks-and-tips-for-2024/"><u>Take Your Videos to the Next Level Cool Editing Tricks and Tips for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-art-of-extraction-converting-videos-to-images-with-10-proven-methods-for-2024/"><u>The Art of Extraction Converting Videos to Images with 10 Proven Methods for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ling-top-8-premium-marriage-videos-on-video-platforms/"><u>Unveiling Top 8 Premium Marriage Videos on Video Platforms</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcp-color-tutorial-seamlessly-blend-clips-in-minutes/"><u>Updated 2024 Approved FCP Color Tutorial Seamlessly Blend Clips in Minutes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-hd-video-editing-software/"><u>Updated 2024 Approved The Ultimate Guide to HD Video Editing Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pro-x-troubleshooting-handbook-fixing-common-issues-for-2024/"><u>Updated Final Cut Pro X Troubleshooting Handbook Fixing Common Issues for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-free-online-movie-editing-software-top-9-choices-for-2024/"><u>Updated Free Online Movie Editing Software Top 9 Choices for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-10-famous-movies-made-by-final-cut-pro/"><u>Updated In 2024, Top 10 Famous Movies Made By Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-10-must-have-video-editing-tools-for-2024/"><u>Updated The Ultimate List 10 Must-Have Video Editing Tools for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-gif-ize-your-tweets-top-picks-for-the-year-2024/"><u>[New] GIF-Ize Your Tweets Top Picks for the Year 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-comparison-between-sharex-and-rivals/"><u>[Updated] 2024 Approved The Ultimate Comparison Between ShareX & Rivals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhancing-visual-impact-editing-videos-for-instagram/"><u>2024 Approved Enhancing Visual Impact Editing Videos for Instagram</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-x-fold-2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo X Fold 2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-reviving-your-windows-11-password/"><u>Methods for Reviving Your Windows 11 Password</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/monday-to-domingo-learn-the-days-of-the-week-in-spanish/"><u>Monday to Domingo – Learn the Days of the Week in Spanish</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mac-users-download-vllo-and-find-the-best-alternatives/"><u>New 2024 Approved Mac Users Download VLLO and Find the Best Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-free-divx-video-editors-for-cutting-and-trimming/"><u>New 2024 Approved S Top Free Divx Video Editors for Cutting and Trimming</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vn-video-editor-apk-review-a-powerful-video-editing-tool/"><u>New 2024 Approved VN Video Editor APK Review A Powerful Video Editing Tool?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-cut-to-the-chase-get-direct-access-to-filmora-discount-codes-for-2024/"><u>New Cut to the Chase Get Direct Access to Filmora Discount Codes for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-easy-video-editing-how-to-reverse-clips-in-final-cut-pro-2023-tutorial-for-2024/"><u>New Easy Video Editing How to Reverse Clips in Final Cut Pro 2023 Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pinnacle-creator-the-duo-of-media-elements-for-2024/"><u>Pinnacle Creator The Duo of Media Elements for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-trim-videos-like-a-pro-10-free-online-editors-2023-guide/"><u>Updated 2024 Approved Trim Videos Like a Pro 10 Free Online Editors 2023 Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g73-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Motorola Moto G73 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

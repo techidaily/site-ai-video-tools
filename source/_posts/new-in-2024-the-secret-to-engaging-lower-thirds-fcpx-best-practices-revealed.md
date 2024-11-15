@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed
-date: 2024-08-02T03:41:39.866Z
-updated: 2024-08-03T03:41:39.867Z
+date: 2024-11-07T16:56:31.205Z
+updated: 2024-11-13T19:28:27.760Z
 tags: 
   - video editing software
   - video editing
@@ -28,10 +28,6 @@ The videos drop facts to audiences and educate the viewers. The video makers str
 
 Here comes an enlightening discussion about the lower third modules in your videos. The tips and tricks associated with the making of this lower third element are available in the below content. Surf them carefully and learn the fabulous lower third templates to customize your videos to the next level.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![lower third intro](https://images.wondershare.com/filmora/images/final-cut-pro/lower-%20third-intro.jpg)
 
 > * [Part 1: What is the lower third?](#part1)
@@ -39,9 +35,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -90,14 +83,15 @@ Position the element at the perfect place on the screen to ensure its visibility
 
 Proper alignment and the best coordinates on the screen make the lower third module shine better in your video. Proper placement of this element decides the impact on it.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -114,15 +108,19 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
 
 You can download the app and install them in your system. Launch the tool by double-tapping the tool icon.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 **2Step 2: Add the Title**
@@ -130,6 +128,13 @@ You can download the app and install them in your system. Launch the tool by dou
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
 
@@ -141,14 +146,15 @@ Use the above instructions, insert the lower third element in your video effortl
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -173,9 +179,6 @@ Thus, this article had given you enlightening discussion about the lower third e
 
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -184,11 +187,25 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mi-drones-sky-views-unveiled-in-full-hd-quality-check/"><u>[New] Mi Drone's Sky Views Unveiled in Full HD Quality Check</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[Updated] 2024 Approved How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wavm4a/"><u>音声ファイルWAVとM4A、どちらがいい？変換方法を学ぶ</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/act-fast-expert-photographic-damage-repairs-just-a-click-away/"><u>Act Fast: Expert Photographic Damage Repairs Just a Click Away</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-authorized-streaming-systems/"><u>Advanced Authorized Streaming Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-editing-like-a-pro-tips-and-tricks-for-sony-camcorder-video-editors/"><u>New In 2024, Editing Like a Pro Tips and Tricks for Sony Camcorder Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-final-cut-pro-essentials-crafting-a-compelling-video-slideshow/"><u>New In 2024, Final Cut Pro Essentials Crafting a Compelling Video Slideshow</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-10-best-face-swap-apps-for-iphone-and-android-devices/"><u>New In 2024, FREE 10 Best Face Swap Apps for iPhone and Android Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-large-video-files-no-problem-fast-cutting-techniques-for-mac-users/"><u>New In 2024, Large Video Files? No Problem! Fast Cutting Techniques for Mac Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-canon-video-editing-handbook-software-tips-and-trends/"><u>New In 2024, The Ultimate Canon Video Editing Handbook Software, Tips, and Trends</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-13c-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi 13C | Dr.fone</u></a></li>
+</ul></div>
+

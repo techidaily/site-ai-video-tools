@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Start to Finish How to Edit Videos with QuickTime on Mac
-date: 2024-08-02T03:40:56.928Z
-updated: 2024-08-03T03:40:56.928Z
+date: 2024-11-11T18:47:59.107Z
+updated: 2024-11-13T19:29:25.868Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 
 # Edit Videos with QuickTime Player on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 
 There is no doubt that one of the most underrated components of the consumer Mac software that comes built into every Mac is Apple's QuickTime Player. The reason for this, of course, is that QuickTime, in addition to being a simple video player that edits mp4 Mac, also allows users to do some basic video trimming. This can come in handy for average users, especially when you consider how expensive, bloated, and complex video editing software can be. In this article, we will show you that how QuickTime edit videos on Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part1: Quicktime is More Than a Player
 
 QuickTime Player is a simple yet powerful video editing program available for Mac. It includes features for casual video editors and professionals alike, so whatever your reason for looking for good edit mp4 Mac software, QuickTime Player has to cover you.
@@ -47,32 +41,27 @@ The QuickTime player was originally designed to play almost all types of multime
 * Control subtitles, languages and more options.
 * Includes picture viewers for JPEG, BMP and PNG.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Trim Video With QuickTime Player on Mac
 
 Trimming Videos in QuickTime video player is another simple feature. You can delete the beginning or end, or simply shorten the movie or clip.
 
 Step1: Click on “Open File” and select the video or movie to be edited.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2: Click here to edit > trim from the menu bar.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
 
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
 Step4: When you have done, click on “Trim”.
@@ -92,8 +81,12 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -105,6 +98,13 @@ Step2: Select the clip by going to View > Show Clips.
 Step3: Choose to rotate the clip left or right, or flip it horizontally or vertically, from the Edit menu.
 
 Step4: When you're done, click Done.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
@@ -130,13 +130,18 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -144,3 +149,24 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam/"><u>[New] Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-choices-premier-mac-video-capture-apps/"><u>[Updated] 2024 Approved Top Choices Premier Mac Video Capture Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[Updated] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unlimited-audio-processing-at-zero-cost/"><u>[Updated] In 2024, Unlimited Audio Processing at Zero Cost</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/10-preferred-top-free-image-editing-and-overlay-apps-for-phones-for-2024/"><u>10 Preferred Top-Free Image Editing & Overlay Apps for Phones for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expressing-appreciation-learning-key-chinese-thank-you-phrases/"><u>Expressing Appreciation: Learning Key Chinese Thank You Phrases</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-supercharge-your-video-editing-top-adobe-premiere-plugins-free/"><u>New Supercharge Your Video Editing Top Adobe Premiere Plugins (Free)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-tech-the-powerful-union-of-artificial-intelligence-and-5g-transforming-tomorrows-innovations/"><u>Revolutionizing Tech: The Powerful Union of Artificial Intelligence & 5G - Transforming Tomorrow's Innovations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-successfully-viewing-mov-video-formats-on-your-android-device/"><u>Step-by-Step Guide: Successfully Viewing MOV Video Formats on Your Android Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-subtitle-editing-tools-for-mac-a-comprehensive-list-of-alternatives/"><u>Updated 2024 Approved Best Subtitle Editing Tools for Mac A Comprehensive List of Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-filmora-download-avoid-viruses-and-scams-with-our-tips/"><u>Updated In 2024, Free Filmora Download Avoid Viruses and Scams with Our Tips</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-free-dailymotion-converter-tool/"><u>Updated In 2024, The Ultimate Free Dailymotion Converter Tool</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-watermark-your-videos-for-free-top-5-software-options/"><u>Updated In 2024, Watermark Your Videos for Free Top 5 Software Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-learn-how-to-edit-videos-in-windows-live-movie-maker-with-ease-and-learn-the-video-and-audio-formats-windows-live-movie-maker-supports-for-2024/"><u>Updated Learn How to Edit Videos in Windows Live Movie Maker with Ease and Learn the Video and Audio Formats Windows Live Movie Maker Supports for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-videopad-video-editor-review-should-you-buy-it-for-2024/"><u>Updated The Ultimate Videopad Video Editor Review Should You Buy It for 2024</u></a></li>
+</ul></div>
+

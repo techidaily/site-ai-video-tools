@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-10-28T02:18:46.801Z
-updated: 2024-10-29T17:43:33.903Z
+date: 2024-11-08T22:56:44.029Z
+updated: 2024-11-13T20:17:59.902Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -106,6 +99,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -121,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,17 +142,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-legends-of-warfare-the-top-7-total-war-game-series-for-2024/"><u>[Updated] Legends of Warfare The Top 7 Total War Game Series for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2023-endless-ears-on-facebook-downloads-for-2024/"><u>2023 Endless Ears on Facebook Downloads for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-13-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 13 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/a-closer-look-at-sharex-judgments-and-alternates-for-2024/"><u>A Closer Look at ShareX Judgments & Alternates for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-enhancing-vimeo-films-with-chapters-division/"><u>In 2024, Enhancing Vimeo Films with Chapters Division</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-the-best-free-online-video-editors-for-every-creator-for-2024/"><u>New The Best of the Best Free Online Video Editors for Every Creator for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-cream-of-the-crop-best-iphone-apps-with-in-depth-reviews-for-2024/"><u>New The Cream of the Crop Best iPhone Apps with In-Depth Reviews for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/seamlessly-shift-songs-iphone-to-dell-computer/"><u>Seamlessly Shift Songs: IPhone to Dell Computer</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/silent-streaming-rankings-of-the-top-8-secret-downloaders-2023-for-2024/"><u>Silent Streaming Rankings of the Top 8 Secret Downloaders, 2023 for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-installing-videoleap-on-mac-a-step-by-step-guide/"><u>Updated 2024 Approved Installing Videoleap on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/vn-video-editor-pro-the-ultimate-mobile-video-editing-solution-for-2024/"><u>VN Video Editor Pro The Ultimate Mobile Video Editing Solution for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-the-secrets-of-instagrams-music-rights-management/"><u>[New] 2024 Approved Unlocking the Secrets of Instagram's Music Rights Management</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superb-simple-countdown-apps-for-free/"><u>[Updated] Superb Simple Countdown Apps for Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-isprings-screen-recording-explored/"><u>2024 Approved ISpring's Screen Recording Explored</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improved-microsoft-battery-driver-stability-ensuring-acpi-standard-conformity/"><u>Improved Microsoft Battery Driver Stability: Ensuring ACPI Standard Conformity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-podcasters-playbook-writing-and-editing-for-engaging-audio/"><u>In 2024, The Podcaster's Playbook Writing & Editing for Engaging Audio</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-wrapping-the-world-in-one-frame-not-two-sides/"><u>In 2024, Wrapping the World in One Frame, Not Two Sides</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-compressor-essentials-optimizing-video-files-in-final-cut-pro-x/"><u>New 2024 Approved Compressor Essentials Optimizing Video Files in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-lip-sync-mastery-unlock-the-power-of-these-5-amazing-apps/"><u>New 2024 Approved Lip Sync Mastery Unlock the Power of These 5 Amazing Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-article-introduces-some-of-the-best-free-online-video-loopers-for-windows-mac-and-linux/"><u>New 2024 Approved The Article Introduces some of the Best Free Online Video Loopers for Windows, Mac and Linux</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-editing-essentials-how-to-crop-videos-using-avidemux/"><u>New 2024 Approved Video Editing Essentials How to Crop Videos Using Avidemux</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-effortless-video-editing-a-step-by-step-guide-to-gopro-quik-on-macbook-for-2024/"><u>New Effortless Video Editing A Step-by-Step Guide to GoPro Quik on MacBook for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-adobe-premiere-rush-not-meeting-your-needs-explore-these-top-4-alternatives/"><u>New In 2024, Adobe Premiere Rush Not Meeting Your Needs? Explore These Top 4 Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-say-goodbye-to-cracks-free-and-legal-filmora-options/"><u>New In 2024, Say Goodbye to Cracks Free and Legal Filmora Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-top-rated-free-3gp-video-rotators/"><u>New In 2024, The Ultimate List Top-Rated Free 3GP Video Rotators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-review-of-avs-video-editor-a-beginners-guide/"><u>New In 2024, The Ultimate Review of AVS Video Editor A Beginners Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-70-lite-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor 70 Lite 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932977-9781912230501-the-michael-prophecy-and-the-years-2012-2033/"><u>The Michael Prophecy and the Years 2012-2033 | Free Book</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/troubleshooting-guide-why-isnt-my-headset-mic-working/"><u>Troubleshooting Guide: Why Isn't My Headset Mic Working?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-fixes-for-frame-rate-problems-in-godfall-elevate-your-gaming-experience/"><u>Ultimate Fixes for Frame Rate Problems in Godfall: Elevate Your Gaming Experience</u></a></li>
 </ul></div>
 
