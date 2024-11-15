@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial
-date: 2024-11-08T22:52:08.506Z
-updated: 2024-11-13T19:23:23.637Z
+date: 2024-11-11T16:44:13.996Z
+updated: 2024-11-14T16:40:57.090Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -131,10 +131,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -150,10 +150,10 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -167,16 +167,10 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -194,22 +188,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-expertly-curated-animated-type-library/"><u>[New] Expertly Curated Animated Type Library</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tech-titans-in-vr-top-10-mobile-headsets-reviewed/"><u>[New] Tech Titans in VR Top 10 Mobile Headsets Reviewed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-efficient-chromebook-screen-logger/"><u>[Updated] In 2024, Efficient Chromebook Screen Logger</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-metaverse-chronicles-a-list-of-the-most-unforgettable-sci-fi-adventures-on-screen/"><u>[Updated] Metaverse Chronicles A List of the Most Unforgettable Sci-Fi Adventures on Screen</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-eye-candy-index-the-top-8-videos/"><u>2024 Approved Eye Candy Index The Top 8 Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsung-ue590-4k-freesync-gaming-monitor-review/"><u>2024 Approved Samsung UE590 4K FreeSync Gaming Monitor Review</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/asus-nuc-14-unleashed-powerhouse-performance-with-core-u-series-and-nvidia-rtx-4070-graphics/"><u>Asus NUC 14 Unleashed: Powerhouse Performance with Core U-Series and NVIDIA RTX 4070 Graphics</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-interaction-with-fun-how-to-add-gifs-to-comments-on-instagram/"><u>Boost Interaction with Fun: How to Add GIFs to Comments on Instagram</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-chatgpt-to-craft-captivating-youtube-video-scripts-effortlessly/"><u>Leverage ChatGPT to Craft Captivating YouTube Video Scripts Effortlessly</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-speed-up-your-storytelling-how-to-create-engaging-time-lapse-videos/"><u>New 2024 Approved Speed Up Your Storytelling How to Create Engaging Time Lapse Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-virtualdub-review-is-it-still-the-best-video-editor/"><u>New In 2024, Virtualdub Review Is It Still the Best Video Editor ?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleashing-the-power-of-lower-thirds-in-final-cut-pro-x-for-2024/"><u>New Unleashing the Power of Lower Thirds in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unwanted-sounds-gone-learn-how-to-remove-background-noise-in-fcp-for-2024/"><u>New Unwanted Sounds? Gone! Learn How to Remove Background Noise in FCP for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-the-corsair-one-i500-compact-desktop-unit-user-experience-reviewed/"><u>The Ultimate Guide to the Corsair ONE I500 Compact Desktop Unit - User Experience Reviewed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-create-animated-videos-10-best-cartoon-maker-apps-for-android-and-ios/"><u>Updated 2024 Approved Create Animated Videos 10 Best Cartoon Maker Apps for Android & iOS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-show-off-your-gaming-skills-a-beginners-guide-to-sharing-ps4-screenshots/"><u>Updated 2024 Approved Show Off Your Gaming Skills A Beginners Guide to Sharing PS4 Screenshots</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-free-filmora-no-strings-attached/"><u>Updated The Ultimate Guide to Free Filmora No Strings Attached</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-ads-transformed-predicting-the-trends-for-next-year/"><u>[New] 2024 Approved Facebook Ads Transformed Predicting the Trends for Next Year</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fifth-place-winners-excellent-recorder-apps-for-2024/"><u>[New] Fifth Place Winners Excellent Recorder Apps for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-optimize-video-sharing-preferences-on-youtube/"><u>[Updated] 2024 Approved Optimize Video Sharing Preferences on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-accelerate-keyword-acquisition-the-finest-7-free-taggification-apps-for-youtube-videos/"><u>In 2024, Accelerate Keyword Acquisition The Finest 7 Free Taggification Apps for YouTube Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Without Passcode?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-easy-gopro-video-editing-a-step-by-step-guide-for-macbook-users/"><u>New 2024 Approved Easy GoPro Video Editing A Step-by-Step Guide for MacBook Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-revolutionize-your-animations/"><u>New 2024 Approved Revolutionize Your Animations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-of-stop-motion-animation-programs-for-mac-and-pc/"><u>New 2024 Approved The Ultimate List of Stop Motion Animation Programs for Mac and PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-troubleshooting-tips-for-final-cut-pro-x/"><u>New 2024 Approved Troubleshooting Tips for Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-cartoonize-your-photos-in-seconds-for-2024/"><u>New Cartoonize Your Photos in Seconds for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-download-4k-videos-in-mp4-the-best-conversion-methods-revealed-for-2024/"><u>New Download 4K Videos in MP4 The Best Conversion Methods Revealed for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-effortless-video-editing-how-to-add-effects-in-fcp-x-in-3-steps-for-2024/"><u>New Effortless Video Editing How to Add Effects in FCP X in 3 Steps for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-and-how-to-keep-your-airpods-germ-free-expert-tips-on-sanitization-techniques-for-optimal-audio-health/"><u>Why & How to Keep Your AirPods Germ-Free: Expert Tips on Sanitization Techniques for Optimal Audio Health</u></a></li>
 </ul></div>
 

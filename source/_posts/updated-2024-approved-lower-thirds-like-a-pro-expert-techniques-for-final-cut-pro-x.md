@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Lower Thirds Like a Pro Expert Techniques for Final Cut Pro X
-date: 2024-11-06T19:36:06.034Z
-updated: 2024-11-13T21:55:14.917Z
+date: 2024-11-10T23:42:43.687Z
+updated: 2024-11-14T19:32:10.188Z
 tags: 
   - video editing software
   - video editing
@@ -85,13 +85,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -108,13 +101,6 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -129,24 +115,38 @@ In the home screen, import the video that requires the edits and then tap the �
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -175,10 +175,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -196,15 +196,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-begin-a-new-era-of-editing-with-xps-video-suite/"><u>[New] Begin a New Era of Editing with Xp's Video Suite</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-charting-the-course-visual-content-in-educational-endeavors/"><u>[Updated] In 2024, Charting the Course Visual Content in Educational Endeavors</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-your-key-to-effortless-website-analytics-and-personalization/"><u>Cookiebot: Your Key to Effortless Website Analytics and Personalization</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/effortless-artistry-convert-photographs-to-cartoon-characters/"><u>Effortless Artistry Convert Photographs to Cartoon Characters</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-efficiently/"><u>New 2024 Approved Cutting Large Videos on Mac? Heres How to Do It Quickly and Efficiently</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-gopro-quik-for-pc-a-review-and-comparison-of-alternative-options/"><u>New 2024 Approved GoPro Quik for PC A Review and Comparison of Alternative Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-here-we-are-going-to-go-through-the-process-of-getting-avidemux-running-on-your-system-and-cropping-some-video/"><u>New 2024 Approved Here We Are Going to Go Through the Process of Getting Avidemux Running on Your System and Cropping some Video</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-whats-next-after-virtualdub-a-review-of-the-top-video-editing-alternatives/"><u>New 2024 Approved Whats Next After Virtualdub? A Review of the Top Video Editing Alternatives</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vintage-video-delight-reviewing-goofys-tape-masterpiece/"><u>Vintage Video Delight Reviewing Goofy's Tape Masterpiece</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-tiktok-profile-updates-with-linktree-integration/"><u>[Updated] Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-cinematography-gear-for-adventurers/"><u>2024 Approved Mobile Cinematography Gear for Adventurers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-modernity-update-your-gamepad-without-limits/"><u>Embracing Modernity: Update Your Gamepad Without Limits</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-flip-order-3-easy-steps-to-rewind-youtube-listeners/"><u>In 2024, Flip Order 3 Easy Steps to Rewind Youtube Listeners</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ase-watch-time-tailoring-fantastic-templates-for-your-yt-descriptions-for-2024/"><u>Increase Watch Time Tailoring Fantastic Templates for Your YT Descriptions for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-easy-solution-convert-your-avi-videos-to-compatible-3gp-format-at-no-cost/"><u>Movavi's Easy Solution: Convert Your AVI Videos to Compatible 3GP Format at No Cost</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-rated-free-divx-video-editors-with-cutting-features/"><u>New In 2024, Top-Rated Free Divx Video Editors with Cutting Features</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-visual-storytelling-a-beginners-guide-to-professional-movie-making/"><u>New The Art of Visual Storytelling A Beginners Guide to Professional Movie Making</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-split-merge-and-more-top-free-mpeg-video-processing-tools/"><u>Updated 2024 Approved Split, Merge, and More Top Free MPEG Video Processing Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-this-article-focuses-on-telling-you-the-top-10-free-and-best-quicktime-mov-movie-editors-all-of-them-are-very-easy-to-use/"><u>Updated 2024 Approved This Article Focuses on Telling You the Top 10 FREE and Best QuickTime (MOV) Movie Editors. All of Them Are Very Easy to Use</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-make-unforgettable-video-invitations-with-these-mobile-apps-for-2024/"><u>Updated Make Unforgettable Video Invitations with These Mobile Apps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mavericks-os-x-the-best-way-to-edit-mp4-videos-for-2024/"><u>Updated Mavericks OS X The Best Way to Edit MP4 Videos for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-10-best-free-online-video-looping-software-for-2024/"><u>Updated The Ultimate List 10 Best Free Online Video Looping Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-video-storytelling-made-easy-best-ios-collage-apps/"><u>Updated Video Storytelling Made Easy Best iOS Collage Apps</u></a></li>
 </ul></div>
 

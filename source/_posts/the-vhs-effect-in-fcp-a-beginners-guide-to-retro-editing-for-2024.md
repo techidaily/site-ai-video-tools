@@ -1,7 +1,7 @@
 ---
 title: The VHS Effect in FCP A Beginners Guide to Retro Editing for 2024
-date: 2024-11-12T22:07:45.157Z
-updated: 2024-11-13T16:44:54.643Z
+date: 2024-11-08T20:10:14.123Z
+updated: 2024-11-14T23:54:02.640Z
 tags: 
   - video editing software
   - video editing
@@ -87,10 +87,10 @@ After your video is rendered, you will get the final results using the VHS filte
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part2: How to do VHS effect in easy steps?
@@ -115,6 +115,19 @@ To do VHS effects quickly, follow these steps:
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to Effect, and in the search bar, type **VHS**.
 
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
@@ -131,6 +144,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -167,10 +187,10 @@ You can play around with these values to change the intensity of the VHS effect.
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part3: Where to find the best plugins or templates for the VHS effect?
@@ -195,13 +215,6 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -215,13 +228,6 @@ The look of a VHS glitch effect is basic yet incredibly authentic. This one was 
 The appearance and feel of your production may be significantly enhanced by using VHS video effects. Nothing brings back memories for a viewer like a VHS video. By following the steps mentioned above, you can easily use the VHS effect in your video. However, we recommend you use Wondershare Filmore to create VHS effect as you wouldn't require any plugin. What are some of your favorite VHS effects?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -238,18 +244,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-through-paid-product-evaluations-online/"><u>[Updated] Navigating Through Paid Product Evaluations Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sky-high-improvement-ultimate-video-rescale/"><u>2024 Approved Sky-High Improvement Ultimate Video Rescale</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asetek-stops-issuing-sales-forecasts-due-to-major-client-order-cancellations/"><u>Asetek Stops Issuing Sales Forecasts Due to Major Client Order Cancellations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/choosing-livestream-software-the-obs-vs-streamlabs-dilemma-for-2024/"><u>Choosing Livestream Software The OBS Vs. Streamlabs Dilemma for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-text-input-with-bing-ai-chat-for-android-phone-users/"><u>Enhancing Text Input with Bing AI Chat for Android Phone Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-your-computers-core-features-the-windows-key/"><u>Mastery Over Your Computer's Core Features: The Windows Key</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme-in-2024/"><u>New Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme , In 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-rotate-your-videos-with-ease-10-free-online-and-offline-solutions/"><u>New Rotate Your Videos with Ease 10 Free Online and Offline Solutions</u></a></li>
-<li><a href="https://win-web3.techidaily.com/simple-steps-to-locate-download-history-across-computers-and-smartphones-top-6-tips/"><u>Simple Steps to Locate Download History Across Computers & Smartphones - Top 6 Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-most-effective-wi-fi-expanders-for-this-year/"><u>Ultimate Guide to the Most Effective Wi-Fi Expanders for This Year</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcpx-skin-enhancement-a-beginners-guide-to-airbrushed-results/"><u>Updated 2024 Approved FCPX Skin Enhancement A Beginners Guide to Airbrushed Results</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-phone-to-fame-best-vertical-video-editing-apps-for-mobile-creators/"><u>Updated 2024 Approved From Phone to Fame Best Vertical Video Editing Apps for Mobile Creators</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726028702025-vlive/"><u>すぐに学ぶ！VLIVEの動画ダウンロードと保管手順</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-learn-the-art-of-saving-and-logging-periscope-content/"><u>[New] Learn the Art of Saving & Logging Periscope Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplified-guide-designing-your-podcasts-rss-feed/"><u>[New] Simplified Guide Designing Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-action-recording-tech/"><u>[Updated] Excellence in Action Recording Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pulling-puzzled-listeners-intros-that-involve/"><u>[Updated] Pulling Puzzled Listeners Intros That Involve</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv-for-2024/"><u>[Updated] The Ultimate Routine for Accessing and Playing FB Videos via Apple TV for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-authors-excel-over-artificial-text-assistants/"><u>6 Ways Authors Excel Over Artificial Text Assistants</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/maximize-your-impact-strategic-approaches-to-facebook-bios/"><u>Maximize Your Impact Strategic Approaches to Facebook Bios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029972033-mp4/"><u>MP4形式で未サポートのエンコーディングを解決する方法</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-fcp-x-post-production-expert-chroma-keying-and-color-grading-for-2024/"><u>New FCP X Post-Production Expert Chroma Keying and Color Grading for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-footage-to-film-the-best-software-for-burning-home-dvds-for-2024/"><u>New From Footage to Film The Best Software for Burning Home DVDs for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-silence-to-sound-two-ways-to-fade-in-and-out-of-audio-in-final-cut-pro-for-2024/"><u>New From Silence to Sound Two Ways to Fade In and Out of Audio in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-creative-with-slow-mo-top-video-editing-software-for-filmmakers-for-2024/"><u>New Get Creative with Slow Mo Top Video Editing Software for Filmmakers for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-how-to-use-compressor-in-final-cut-pro/"><u>New In 2024, How to Use Compressor in Final Cut Pro?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-10-glitch-art-video-editing-apps/"><u>New In 2024, Top 10 Glitch Art Video Editing Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tailored-techniques-for-various-media-applications/"><u>Tailored Techniques for Various Media Applications</u></a></li>
 </ul></div>
 

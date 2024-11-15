@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Windows 8 MP4 Video Editor Simplify Your Editing Experience
-date: 2024-08-09T04:53:43.676Z
-updated: 2024-08-10T04:53:43.676Z
+date: 2024-11-11T20:38:57.484Z
+updated: 2024-11-15T00:16:26.706Z
 tags: 
   - video editing software
   - video editing
@@ -38,9 +38,6 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
 
 #### 2\.  Easy MP4 editing in Windows 8
@@ -57,27 +54,18 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
 
 ##### Add Scene Transition
 
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -90,14 +78,8 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -106,12 +88,38 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-start-broadcasting-now-instagram-live-guide/"><u>[New] 2024 Approved Start Broadcasting Now Instagram Live Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-camcorder-reviews-of-the-future-2024-edition/"><u>[New] Best Camcorder Reviews of the Future 2024 Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-uncover-unique-user-understanding/"><u>[Updated] 2024 Approved Uncover Unique User Understanding</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-stop-obs-from-skipping-audio/"><u>[Updated] Stop OBS From Skipping Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-the-best-8-spots-for-free-3d-text-psd-downloads-for-2024/"><u>Find the Best 8 Spots for FREE 3D Text PSD Downloads for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-find-x7-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Find X7 Ultra FRP Bypass</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-10-free-avi-joiner-software-for-windows-and-mac/"><u>New The Ultimate List of 10 Free AVI Joiner Software for Windows and Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-vn-video-editor-apk-a-comprehensive-review-for-android-users-for-2024/"><u>New VN Video Editor APK A Comprehensive Review for Android Users for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-for-players-struggling-with-memory-error-12707-on-call-of-duty-modern-warfare-3/"><u>The Ultimate Solution for Players Struggling with Memory Error 12707 on Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-poco-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Poco Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-creativity-with-these-top-10-video-text-effects/"><u>Unleash Creativity with These Top 10 Video Text Effects</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-best-image-to-video-makers-online-free-and-paid/"><u>Updated 2024 Approved 10 Best Image to Video Makers Online Free & Paid</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-6-most-useful-adobe-premiere-tips-for-better-video-editing/"><u>Updated 2024 Approved 6 Most Useful Adobe Premiere Tips for Better Video Editing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-discover-the-top-10-free-game-download-sites-for-pc-and-android/"><u>Updated 2024 Approved Discover the Top 10 Free Game Download Sites for PC and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-most-popular-3d-video-making-tools-among-professionals/"><u>Updated 2024 Approved The Most Popular 3D Video Making Tools Among Professionals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-vn-video-editor-apk-review-a-powerful-video-editing-tool/"><u>Updated In 2024, VN Video Editor APK Review A Powerful Video Editing Tool?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-yosemite-video-editing-101-a-beginners-guide-to-editing-videos-on-mac/"><u>Updated Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
