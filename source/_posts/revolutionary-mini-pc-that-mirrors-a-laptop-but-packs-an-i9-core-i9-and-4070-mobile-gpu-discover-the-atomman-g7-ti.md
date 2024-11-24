@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Mini-PC that Mirrors a Laptop but Packs an I9 Core I9 and 4070 Mobile GPU - Discover the AtomMan G7 Ti
-date: 2024-11-09T23:27:41.303Z
-updated: 2024-11-13T18:16:08.756Z
+date: 2024-11-16T17:54:32.287Z
+updated: 2024-11-24T09:23:01.912Z
 tags:
   - desktop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 This week, Minisforum launched another AtomMan-branded mini-PC for pre-orders: the [AtomMan G7 Ti](https://www.minisforum.com/page/g7ti/index.html) and its G7 Ti SE counterpart. This mini-PC is so slim that it has also been compared to a laptop without a screen. Internally, the machine has the mobile versions of Intel's 14th Generation Core i9-14900HX or Core i7-14650HX CPUs and an RTX 4070 Mobile GPU in either model.
 
  While the device is officially announced for pre-order, the page says nothing regarding final pricing besides offering a $50 off voucher to those who join a mailing list. We aren't sure why this information has yet to be added, and there doesn't even seem to be a way to pre-order the machine yet, but it's a downside worth noting. The[AtomMan G7 PT](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-g7-pt-touted-as-worlds-first-amd-advantage-mini-pc-packs-an-amd-r9-7945hx-and-rx-7600m-xt) , which comes in a slightly thicker form factor while outfitted with AMD hardware, currently starts at $999 in a barebones configuration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Minisforum AtomMan G7 Ti (SE) Specifications
 
@@ -38,16 +42,7 @@ This week, Minisforum launched another AtomMan-branded mini-PC for pre-orders: t
  The overall offering seems promising, and the supplementary features are pretty nice. However, it's challenging to provide any sweeping recommendation without openly available pricing information, and, strangely, Minisforum would announce a device for pre-order without making it available for pre-order or even finalizing its price.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -73,20 +68,22 @@ This week, Minisforum launched another AtomMan-branded mini-PC for pre-orders: t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-conversational-flow-in-cinematic-storytelling/"><u>[New] Conversational Flow in Cinematic Storytelling</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fb-ad-videos-made-easy-utilize-free-video-making-kit/"><u>[New] In 2024, FB Ad Videos Made Easy Utilize Free Video-Making Kit</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-yesteryears-visions-with-reverse-scans-in-social-media-world-facebook/"><u>[New] In 2024, Unlocking Yesteryear's Visions with Reverse Scans in Social Media World (Facebook)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/advanced-recording-strategies-for-effective-ppt-dissemination-for-2024/"><u>Advanced Recording Strategies for Effective PPT Dissemination for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-oneplus-ace-2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus Ace 2? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-tint-modifier-app/"><u>Elite Tint Modifier App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-reactivate-and-ensure-siri-suggestions-display-correctly-on-your-iphone/"><u>How to Reactivate and Ensure Siri Suggestions Display Correctly on Your iPhone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-10-free-avi-merger-tools-to-combine-avi-videos-effortlessly-for-2024/"><u>New 10 Free AVI Merger Tools to Combine AVI Videos Effortlessly for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mastering-fcp-editing-audio-like-a-pro/"><u>New 2024 Approved Mastering FCP Editing Audio Like a Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-selfie-to-cartoon-the-best-conversion-apps-for-iphone-ipad-and-android/"><u>New 2024 Approved Selfie to Cartoon The Best Conversion Apps for iPhone, iPad, and Android</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-tiktok-hack-reversing-videos-in-just-a-few-clicks/"><u>New 2024 Approved The Ultimate TikTok Hack Reversing Videos in Just a Few Clicks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-video-editing-software-for-windows-10/"><u>New 2024 Approved Top Video Editing Software for Windows 10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-seamless-audio-a-step-by-step-guide-to-l-cuts-and-j-cuts-in-fcpx/"><u>New 2024 Approved Unlock Seamless Audio A Step-by-Step Guide to L-Cuts and J-Cuts in FCPX</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-effortless-video-transfer-how-to-import-and-export-in-adobe-premiere-2023-for-2024/"><u>New Effortless Video Transfer How to Import and Export in Adobe Premiere 2023 for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oneplus-12r-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your OnePlus 12R Phone Hassle-Free</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-harnessing-hype-strategies-to-elevate-your-instagram-presence/"><u>[Updated] 2024 Approved Harnessing Hype Strategies to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-insightful-ways-of-gathering-photographic-elements/"><u>[Updated] Insightful Ways of Gathering Photographic Elements</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-secret-to-professional-video-calls-on-zoom-for-2024/"><u>[Updated] The Secret to Professional Video Calls on Zoom for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-address-fatal-installation-error-understanding-error-1603/"><u>Effective Solutions to Address Fatal Installation Error: Understanding Error 1603</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-metaverse-insight-3-cautionary-points/"><u>Facebook Metaverse Insight: 3 Cautionary Points</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/ifind-data-restoration-professional-solutions-for-retrieving-files-from-damaged-external-drives/"><u>IFind Data Restoration: Professional Solutions for Retrieving Files From Damaged External Drives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-organize-your-videos-best-mp4-tag-editors-for-windows-and-mac/"><u>New Organize Your Videos Best MP4 Tag Editors for Windows and Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-choice-final-cut-pro-or-lumafusion-for-your-video-needs-for-2024/"><u>New The Ultimate Choice Final Cut Pro or LumaFusion for Your Video Needs for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-top-3d-video-makers-for-all-budgets-for-2024/"><u>New Unleash Your Creativity Top 3D Video Makers for All Budgets for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-complete-blackout-ultimate-guide-to-fixing-your-windows-11-display-problem/"><u>Resolving the Complete Blackout: Ultimate Guide to Fixing Your Windows 11 Display Problem</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unlocking-iphone-fixes-master-the-power-of-dfu-mode-for-5-critical-issues/"><u>Unlocking iPhone Fixes: Master the Power of DFU Mode for 5 Critical Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-adobe-premiere-pro-power-ups-top-15-free-plugins-to-boost-your-workflow/"><u>Updated 2024 Approved Adobe Premiere Pro Power-Ups Top 15 Free Plugins to Boost Your Workflow</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-list-5-free-online-tone-generators-for-quick-results/"><u>Updated 2024 Approved The Ultimate List 5 Free Online Tone Generators for Quick Results</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-art-of-storytelling-video-editing-essentials-for-home-movies/"><u>Updated The Art of Storytelling Video Editing Essentials for Home Movies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-transform-your-gopro-clips-a-step-by-step-mac-video-editing-guide-for-2024/"><u>Updated Transform Your GoPro Clips A Step-by-Step Mac Video Editing Guide for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/asf-swf-flash/"><u>무료 ASF SWF 변환기 - 인터넷을 통해 Flash 파일 교체</u></a></li>
 </ul></div>
 

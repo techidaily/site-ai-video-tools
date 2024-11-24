@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Unleash the Power of Pan and Zoom Creating a Ken Burns Effect
-date: 2024-08-02T03:40:20.598Z
-updated: 2024-08-03T03:40:20.598Z
+date: 2024-11-17T22:48:57.876Z
+updated: 2024-11-24T00:56:02.122Z
 tags: 
   - video editing software
   - video editing
@@ -33,8 +33,9 @@ This article introduces the readers to Final Cut Pro and explains how to add the
 * [Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?](#Part3)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 1: How to Make a Ken Burns Effect in Final Cut Pro?**
 
 Final Cut Pro is user-friendly software and makes it easy for you to create a Ken Burns Effect without having advanced skills and expertise. So, are you interested in knowing the best part? Given below are a few simple steps to create Ken Burns Effect and make your pictures and videos look adorable.
@@ -49,10 +50,11 @@ _ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/fin
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 _ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -66,9 +68,6 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 _ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
@@ -93,6 +92,10 @@ You’re not done yet because you need to hold your picture at the end of the an
 
 _ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
@@ -109,9 +112,6 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
@@ -126,6 +126,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -134,6 +138,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 2. Duplicate the clip by click and drag option or copy and paste option;
 3. Press the Swap button in the Ken Burns settings to reverse the start and end positions;
 4. Verify if multiple camera movements have been added.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
@@ -145,9 +153,6 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 **What are the Applications of Ken Burns Effect?**
@@ -158,9 +163,6 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -169,12 +171,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-hyper-clear-playtime-best-ultra-hd-hdmi-21-gaming-screens/"><u>[New] 2024 Approved Hyper-Clear Playtime Best Ultra HD (HDMI 2.1) Gaming Screens</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-record-breaking-reddit-threads-ranked-1-10/"><u>[New] 2024 Approved Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-stunning-videos-on-iphone-8-pro-tips-for-quality-shootings/"><u>[Updated] Capture Stunning Videos on iPhone 8 Pro Tips for Quality Shootings</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-improve-your-zoom-meet-by-sharpening-views/"><u>2024 Approved Improve Your Zoom Meet by Sharpening Views</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crash-free-gaming-fixes-for-star-citizens-windows-compatibility-issues/"><u>Crash-Free Gaming: Fixes for Star Citizen's Windows Compatibility Issues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhance-your-images-choosing-great-border-options-on-ig/"><u>Enhance Your Images Choosing Great Border Options on IG</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-guide-overcoming-windows-10s-bluetooth-compatibility-challenges/"><u>Expert Guide: Overcoming Windows 10'S Bluetooth Compatibility Challenges</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-ringtone-deals-from-gots-best-online-sources/"><u>In 2024, Exclusive Ringtone Deals From GoT's Best Online Sources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-beta-to-breakthrough-the-most-prominent-cam-recorders-top-18/"><u>In 2024, From Beta to Breakthrough The Most Prominent Cam Recorders (Top 18)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-art-of-storytelling-10-famous-movies-shaped-by-final-cut-pros-creative-freedom-for-2024/"><u>The Art of Storytelling 10 Famous Movies Shaped by Final Cut Pros Creative Freedom for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-canon-video-editing-made-easy-a-beginners-guide-to-professional-results/"><u>Updated 2024 Approved Canon Video Editing Made Easy A Beginners Guide to Professional Results</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cut-mkv-files-for-free-top-10-editor-recommendations/"><u>Updated 2024 Approved Cut MKV Files for Free Top 10 Editor Recommendations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-effortless-avi-file-trimming-learn-the-best-techniques-and-tools-2023-update/"><u>Updated 2024 Approved Effortless AVI File Trimming Learn the Best Techniques and Tools (2023 Update)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-say-goodbye-to-boring-videos-top-time-lapse-apps-for-iphone-and-android-users/"><u>Updated 2024 Approved Say Goodbye to Boring Videos Top Time-Lapse Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-the-power-of-slow-motion-top-10-video-players/"><u>Updated 2024 Approved Unleash the Power of Slow Motion Top 10 Video Players</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mac-users-rejoice-download-vllo-and-find-similar-apps-for-2024/"><u>Updated Mac Users Rejoice Download VLLO and Find Similar Apps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mp4-video-metadata-management-solutions-for-2024/"><u>Updated MP4 Video Metadata Management Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-countdown-begins-a-step-by-step-guide-to-adding-timers-in-fcpx/"><u>Updated The Countdown Begins A Step-by-Step Guide to Adding Timers in FCPX</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-mobile-device-evaluation-process-explained/"><u>ZDNet Mobile Device Evaluation Process Explained</u></a></li>
+</ul></div>
 

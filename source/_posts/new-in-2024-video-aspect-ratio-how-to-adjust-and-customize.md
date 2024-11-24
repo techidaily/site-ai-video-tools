@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2024-11-13T17:12:15.757Z
-updated: 2024-11-15T00:39:42.794Z
+date: 2024-11-21T18:21:47.732Z
+updated: 2024-11-23T19:08:33.048Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -68,10 +65,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -92,6 +86,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -101,16 +99,7 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -164,10 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -185,15 +171,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-your-quick-reference-guide-to-sharing-smiles-with-9gag/"><u>[Updated] 2024 Approved Your Quick Reference Guide to Sharing Smiles with 9GAG</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-share-tiktok-videos-to-facebook-in-quick-easy-steps/"><u>[Updated] In 2024, Share TikTok Videos to Facebook in Quick Easy Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-key-variances-a-deep-dive-into-mac-vs-pc-dynamics/"><u>Exploring Key Variances: A Deep Dive Into Mac Vs. PC Dynamics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V27 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-converti-file-mkv-in-formato-m2ts-senza-costi-servizi-di-conversione-online/"><u>Movavi: Converti File MKV in Formato M2TS Senza Costi - Servizi Di Conversione Online</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-bring-your-vision-to-life-best-1080p-video-editing-programs/"><u>New 2024 Approved Bring Your Vision to Life Best 1080P Video Editing Programs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mastering-video-editing-on-mac-fast-and-easy-techniques-for-cutting-large-files/"><u>New 2024 Approved Mastering Video Editing on Mac Fast and Easy Techniques for Cutting Large Files</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-reversing-tiktok-videos-made-easy-a-step-by-step-tutorial/"><u>New 2024 Approved Reversing TikTok Videos Made Easy A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-effortless-video-transfer-how-to-import-and-export-in-adobe-premiere-2023-for-2024/"><u>New Effortless Video Transfer How to Import and Export in Adobe Premiere 2023 for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-crafting-compelling-video-narratives-using-captivate-for-2024/"><u>[Updated] Crafting Compelling Video Narratives Using Captivate for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-novelty-applying-cartoon-lenses-in-snapchat/"><u>2024 Approved Navigating Novelty Applying Cartoon Lenses in Snapchat</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-remarkable-return-with-artificial-intelligence-progress-and-potential-improvements-zdnet/"><u>Apple's Remarkable Return with Artificial Intelligence: Progress and Potential Improvements [ZDNet]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-oneplus-11r-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best OnePlus 11R Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdtvs-future-in-focus-new-samsung-ubd-k8500-insights/"><u>HDTV's Future in Focus - New Samsung UBD-K8500 Insights</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/how-to-perform-perfect-hardware-reverse-engineering/"><u>How to Perform Perfect Hardware Reverse Engineering</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X Fold 2 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lace-footage-with-music-using-premiere-pro/"><u>In 2024, Lace Footage with Music Using Premiere Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-nord-n30-se-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your OnePlus Nord N30 SE Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-discover-the-top-rated-explainer-video-platforms-for-20/"><u>New 2024 Approved Discover the Top-Rated Explainer Video Platforms for 20</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-ezvid-for-mac-the-ultimate-slideshow-and-video-making-solution/"><u>New 2024 Approved Ezvid for Mac The Ultimate Slideshow and Video Making Solution</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-16-free-avi-video-rotators-for-every-device-and-browser/"><u>New 2024 Approved The Ultimate List 16 Free AVI Video Rotators for Every Device and Browser</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-the-power-of-reverse-a-tiktok-video-editing-tutorial/"><u>New 2024 Approved Unleash the Power of Reverse A TikTok Video Editing Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-boost-your-videos-by-using-the-best-intro-maker-for-pc-we-provide-you-with-tools-both-offline-and-online-to-choose-the-top-software-amongst-all-for-2024/"><u>New Boost Your Videos by Using the Best Intro Maker for PC. We Provide You with Tools, Both Offline and Online, to Choose the Top Software Amongst All for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-create-stunning-videos-on-mac-a-step-by-step-guide-for-2024/"><u>New Create Stunning Videos on Mac A Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
 

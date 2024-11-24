@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Generate Tones with Ease 5 Free Online Options
-date: 2024-08-02T03:38:17.631Z
-updated: 2024-08-03T03:38:17.631Z
+date: 2024-11-19T04:22:53.939Z
+updated: 2024-11-24T10:56:25.280Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 
 # 5 Best Online Tone Generators for You
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -37,6 +34,10 @@ You may also like: [**How to Add a Vignette Effect Online**](https://tools.techi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 5 Online Tone Generators
 
 Each of the online generators listed below will enable you to **hear a pure tone, and let you adjust the tone’s frequency.** Make sure that the volume on **your headphones or the speakers is properly adjusted** to avoid damaging the equipment and your hearing.
@@ -47,21 +48,23 @@ You can find a number of different options on this website that range from the P
 
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/onlinetonegenerator-online-tone-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can insert any frequency value you want or choose between **Sine, Square, Sawtooth and Triangle wave type options**. The volume bar lets you control how loud the tone you’re generating is. The **Play and Stop** buttons enable you to start or pause the playback whenever you want, while the **Save** button lets you **download** the tone you created.
 
 #### 2. Audio Test File Generators
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
 
 **Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-sinetone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the upper left corner of the new webpage, you’ll be able to see the **Play** button that lets you hear the default tone you selected. Directly below you can find the File Generator option where you can adjust the properties of the tone you’re generating. The displayed options depend on the type of tone you selected. Clicking on the **Download** button will save the tone you generated to your computer, but you won’t be able to save a tone if you inserted an incorrect value into one of the boxes.
 
@@ -69,9 +72,6 @@ In the upper left corner of the new webpage, you’ll be able to see the **Play*
 
 Making tones on this online platform doesn’t require any effort at all since you can easily control the frequency of the tone using a large slider that is displayed across the entire page. Clicking on the **Play** button will play the tone under the current settings so you can make the necessary adjustments if you’re not happy with the results you’re getting. Several options that let you fine-tune the settings of the tone you’re generating can be found below the frequency slider.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/szynalski-online-tone-generator.jpg)
 
 The **volume and balance** are located on the right side of the screen and they allow you to determine how loud the tone is going to be or to choose to which channel the majority of the signal is going to be sent. The value in the middle of the screen displays the current frequency of the tone. The arrows also allow you to change the frequency value, while clicking on the wave type selector lets you choose between Sawtooth, Sine, Triangle, and Square options.
@@ -92,16 +92,14 @@ If you are looking for an easy way to generate tones from your browser this may 
 
 There are **four wave types** you can choose from that generate different types of tones and you can change their tonality by clicking on one of the buttons located near the bottom of the tone generator.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/gieson-tone-generator.jpg)
 
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The scope of options different online tone generators provide can vary. That is the reason why your decision which of the tone-generating tools we covered in this article you are going to use depends on the reason why you’re creating a tone.
@@ -110,13 +108,15 @@ What is your favorite method of generating tones? Leave a comment below and let 
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,5 +125,20 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-audacity-for-the-mac-enthusiast-advanced-recording-techniques/"><u>[New] Audacity for the Mac Enthusiast Advanced Recording Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-dissecting-disney-disguises-the-goofy-trek-for-2024/"><u>[New] Dissecting Disney Disguises 'The Goofy Trek' For 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-through-vlcs-recording-options-for-2024/"><u>[Updated] Navigating Through VLC's Recording Options for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-video-engagement-crafting-scripts-on-youtube-via-chatgpt/"><u>Boosting Video Engagement: Crafting Scripts on YouTube via ChatGPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ps5-ssd-and-hdd-wonders-top-10-exteriors/"><u>In 2024, PS5 SSD & HDD Wonders Top 10 Exteriors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-here-is-a-list-of-top-five-free-wmv-video-editing-tools-which-feature-almost-all-sorts-of-casual-video-editing-needs-for-2024/"><u>New Here Is a List of Top Five Free WMV Video Editing Tools, Which Feature Almost All Sorts of Casual Video Editing Needs for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-simplify-avi-editing-a-step-by-step-guide-to-trimming-and-splitting-for-2024/"><u>New Simplify AVI Editing A Step-by-Step Guide to Trimming and Splitting for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/soviet-era-influences-on-uk-and-rus-speech/"><u>Soviet-Era Influences on Uk & Rus Speech</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/transform-your-ideas-into-films-a-beginners-handbook-for-2024/"><u>Transform Your Ideas Into Films A Beginners Handbook for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-blur-faces-or-objects-in-videos-best-apps-for-ios-and-android/"><u>Updated 2024 Approved Blur Faces or Objects in Videos Best Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-transform-your-images-a-beginners-guide-to-the-ken-burns-effect/"><u>Updated 2024 Approved Transform Your Images A Beginners Guide to the Ken Burns Effect</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/wax-video-editor-tutorial-unlocking-free-video-editing-power-for-2024/"><u>Wax Video Editor Tutorial Unlocking Free Video Editing Power for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whos-interested-revealing-the-identities-of-those-viewing-your-youtube-channels/"><u>Who’s Interested? Revealing the Identities of Those Viewing Your YouTube Channels</u></a></li>
+</ul></div>
 

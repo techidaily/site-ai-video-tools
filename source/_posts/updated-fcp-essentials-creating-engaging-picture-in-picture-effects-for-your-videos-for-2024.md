@@ -1,7 +1,7 @@
 ---
 title: Updated FCP Essentials Creating Engaging Picture-in-Picture Effects for Your Videos for 2024
-date: 2024-11-13T02:10:10.519Z
-updated: 2024-11-14T19:36:34.241Z
+date: 2024-11-21T16:09:48.370Z
+updated: 2024-11-23T19:29:00.260Z
 tags: 
   - video editing software
   - video editing
@@ -48,11 +48,19 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -67,6 +75,10 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 6: Apply Cross- Dissolve
 
 * Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
@@ -74,19 +86,14 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check this video tutorial to know more details:
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
@@ -105,13 +112,6 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -127,22 +127,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-list-best-windows-11-webcams-for-recording/"><u>[New] Ultimate List Best Windows 11 Webcams for Recording</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-apex-top-youtube-videos-watch-count-heaven/"><u>[Updated] 2024 Approved Apex Top YouTube Videos Watch Count Heaven</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-fostering-self-assurance-against-virtual-hostility/"><u>[Updated] 2024 Approved Fostering Self-Assurance Against Virtual Hostility</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-expertise-on-iphone-image-softening-dive-into-the-fourfold-approach/"><u>[Updated] In 2024, Expertise on iPhone Image Softening Dive Into the Fourfold Approach</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-best-5-pcs-and-monitors-for-ps5-games/"><u>2024 Approved Best 5 PCs & Monitors for PS5 Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instant-appeal-in-photos-embrace-these-top-10-composition-strategies-for-2024/"><u>Instant Appeal in Photos Embrace These Top 10 Composition Strategies for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-notch-free-video-splitters-our-favorites/"><u>New In 2024, Top-Notch Free Video Splitters Our Favorites</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-mobile-reaction-video-creation-top-tools-and-apps/"><u>New Mobile Reaction Video Creation Top Tools and Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-the-best-online-stop-motion-animation-studios-for-2024/"><u>New Unleash Your Creativity The Best Online Stop Motion Animation Studios for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/principles-of-crafting-compelling-youtube-introduction-vids-for-2024/"><u>Principles of Crafting Compelling YouTube Introduction Vids for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-mastery-adding-visuals-to-your-tweet-for-2024/"><u>Twitter Mastery Adding Visuals to Your Tweet for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/unleash-your-creativity-best-reaction-video-maker-tools-for-2024/"><u>Unleash Your Creativity Best Reaction Video Maker Tools for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-make-a-movie-online-for-free-top-9-options/"><u>Updated 2024 Approved Make a Movie Online for Free Top 9 Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-make-your-own-cartoons-top-10-mobile-video-editors/"><u>Updated 2024 Approved Make Your Own Cartoons Top 10 Mobile Video Editors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-windows-movie-maker-essentials-editing-and-enhancing-your-videos/"><u>Updated 2024 Approved Windows Movie Maker Essentials Editing and Enhancing Your Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>Updated In 2024, Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-cinematic-capture-a-device-friendly-movie-guidebook/"><u>[New] Cinematic Capture A Device-Friendly Movie Guidebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-modify-mac-screen-shot-storage-path/"><u>[New] In 2024, Modify Mac Screen Shot Storage Path</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-harnessing-instagrams-power-for-financial-gain-for-2024/"><u>[Updated] Harnessing Instagram's Power for Financial Gain for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/adjusting-your-pcs-network-presence-with-ease-enable-and-disable-discovery-in-windows/"><u>Adjusting Your PC's Network Presence with Ease: Enable and Disable Discovery in Windows #</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-lenovo-revolutionizes-its-chinese-market-with-self-made-processors-in-the-new-legion-7000k-series/"><u>How Lenovo Revolutionizes Its Chinese Market with Self-Made Processors in the New Legion #7000K Series</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone XS Max without Password?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-set-up-new-hp-officejet-pro-8620-driver-versions-for-windows-computers/"><u>How to Fetch and Set Up New HP OfficeJet Pro 8620 Driver Versions for Windows Computers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-video-editing-essentials-import-edit-and-export-in-adobe-premiere/"><u>New In 2024, Video Editing Essentials Import, Edit, and Export in Adobe Premiere</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-10-top-rated-music-video-makers-for-2024/"><u>New Unleash Your Creativity 10 Top-Rated Music Video Makers for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-professional-looking-videos-top-10-free-green-screen-apps/"><u>New Unlock Professional-Looking Videos Top 10 Free Green Screen Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-to-live-photo-conversion-made-easy-top-tools-and-how-tos/"><u>New Video to Live Photo Conversion Made Easy Top Tools and How-Tos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-a-step-by-step-guide-to-video-editing-with-quicktime-on-mac/"><u>Updated In 2024, A Step-by-Step Guide to Video Editing with QuickTime on Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-guide-to-avchd-video-editing-software/"><u>Updated In 2024, The Ultimate Guide to AVCHD Video Editing Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-seamless-storytelling-top-10-premiere-pro-transition-effects-for-2024/"><u>Updated Seamless Storytelling Top 10 Premiere Pro Transition Effects for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-smooth-operator-a-plugin-free-guide-to-skin-retouching-in-fcpx-for-2024/"><u>Updated Smooth Operator A Plugin-Free Guide to Skin Retouching in FCPX for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-face-swapping-apps-iphone-and-android-edition-for-2024/"><u>Updated Top Face Swapping Apps IPhone and Android Edition for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-best-online-collage-makers-for-photos-and-videos-for-2024/"><u>Updated Unleash Your Creativity Best Online Collage Makers for Photos and Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-universes-clash-metaverse-vs-multiverse/"><u>Virtual Universes Clash Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-guide-forcibly-remove-printers/"><u>Win11 Guide: Forcibly Remove Printers</u></a></li>
 </ul></div>
 

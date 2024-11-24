@@ -1,7 +1,7 @@
 ---
 title: Up To 3.7MWh Per Annum - Unveiling the Astounding Energy Consumption Of Single Modern AI GPUs Over Homes' Use
-date: 2024-11-08T19:32:43.065Z
-updated: 2024-11-14T16:02:01.828Z
+date: 2024-11-20T21:06:30.912Z
+updated: 2024-11-23T22:28:34.362Z
 tags:
   - desktop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/K6ceCaSrtTzc6x3oMVyqNT-320-80.jpg
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
@@ -37,10 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,19 +67,16 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-creating-a-memorable-and-unique-moniker-for-your-filmora-content/"><u>[New] 2024 Approved Creating a Memorable and Unique Moniker for Your Filmora Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unleashing-creativity-yi-hero-in-motion-and-still-frames/"><u>[New] 2024 Approved Unleashing Creativity Yi Hero in Motion and Still Frames</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-assessing-visual-clarity-entering-aurora-hdr-territory/"><u>[New] Assessing Visual Clarity Entering Aurora HDR Territory</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-elevate-your-streams-from-obs-to-fb-directly/"><u>[Updated] Elevate Your Streams From OBS to FB Directly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-art-of-flawless-conversion-from-slides-to-videos/"><u>2024 Approved The Art of Flawless Conversion From Slides to Videos</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comprehensive-guide-setting-up-a-batch-file-for-regularly-syncing-and-storing-data-to-a-network-storage-solution/"><u>Comprehensive Guide: Setting Up a Batch File for Regularly Syncing and Storing Data to a Network Storage Solution</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-g22-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia G22 FRP Without Computer</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-cropping-videos-in-avidemux-a-comprehensive-guide-for-beginners-and-pros/"><u>New 2024 Approved Cropping Videos in Avidemux A Comprehensive Guide for Beginners and Pros</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-discover-the-best-5-reaction-video-makers-to-follow/"><u>New 2024 Approved Discover the Best 5 Reaction Video Makers to Follow</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-gopro-quik-for-pc-a-comprehensive-review-and-alternatives/"><u>New 2024 Approved GoPro Quik for PC A Comprehensive Review and Alternatives</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>New 2024 Approved How to Create a Video Slideshow with Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-make-videos-like-a-pro-on-mac-top-rated-video-makers/"><u>New 2024 Approved Make Videos Like a Pro on Mac Top-Rated Video Makers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-rated-free-music-recording-programs-a-comprehensive-list/"><u>New 2024 Approved S Top-Rated Free Music Recording Programs A Comprehensive List</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-best-phones-for-kids/"><u>The Best Phones for Kids .</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-conquer-oversized-drafts-learn-to-edit-and-organize-tiktok-content/"><u>[Updated] Conquer Oversized Drafts Learn to Edit and Organize TikTok Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-efficient-ways-to-integrate-movies-into-your-youtube-catalog/"><u>[Updated] Efficient Ways to Integrate Movies Into Your YouTube Catalog</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-rethinking-top-movies-7-swap-selections/"><u>[Updated] In 2024, Rethinking Top Movies - #7 Swap Selections</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhancing-business-efficiency-through-abbyy-signatures-strategic-collaborations-in-process-intelligence/"><u>Enhancing Business Efficiency Through ABBYY Signature's Strategic Collaborations in Process Intelligence</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/find-your-zen-the-best-tiktok-country-songs-for-peace/"><u>Find Your Zen The Best TikTok Country Songs for Peace</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-depth-system-solutions-with-toms-computer-expertise/"><u>In-Depth System Solutions with Tom's Computer Expertise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028052847-iphoneyoutube/"><u>IPhoneで最適なビデオ再生音量調整テクニックと、YouTube音声不足に対する解決策</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-mp4-tag-editors-for-windows-and-mac-for-2024/"><u>The Ultimate Guide to MP4 Tag Editors for Windows and Mac for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-blur-brilliance-the-ultimate-guide-to-bokeh-effects-apps/"><u>Updated In 2024, Blur Brilliance The Ultimate Guide to Bokeh Effects Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-professional-grade-hd-video-editing-software-top-5-recommendations/"><u>Updated In 2024, Professional-Grade HD Video Editing Software Top 5 Recommendations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-premiere-elements-alternatives-top-10-video-editors-to-consider/"><u>Updated Premiere Elements Alternatives Top 10 Video Editors to Consider</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Get Ready to Edit Configuring Your Computer for Premiere Pro
-date: 2024-08-02T03:39:02.419Z
-updated: 2024-08-03T03:39:02.419Z
+date: 2024-11-23T06:17:05.032Z
+updated: 2024-11-24T05:16:28.133Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We all know that [Adobe Premiere Pro](https://www.adobe.com/products/premiere.ht
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Minimum system requirement to run Premiere Pro on Windows and Mac in 2019
 
 Your computer should at least to meet **the minimum specification** below to run Premiere Pro, and if you need to edit some VR videos, your computer configuration should be higher according to [the minimum specifications list on their website](https://helpx.adobe.com/premiere-pro/system-requirements.html).
@@ -49,9 +46,6 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -59,16 +53,21 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 * Press **Windows Key+ E** on the keyboard to bring up **Windows Explorer**.
 * Right click the **This PC** option in the sidebar and then select **Properties** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
 
 Checking the specification on your Mac is easy, just click the **Apple icon** in the top-left corner of your Mac, and then select **About This Mac** option. In the pop-up window you will see the information including Processor speed, memory and graphic card etc.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Computer for Premiere
 
@@ -100,17 +99,15 @@ If you have access to even more drives, then split the cache from the previews, 
 
 That is the theory, but how do you achieve this? This is done within Premiere itself, there are two parts, accessing where the media cache files are placed is done though the edit menu, following the path edit > preferences > media.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
 
@@ -122,10 +119,11 @@ The sequence dialogue has three tabs, Sequence Presets, Settings and Tracks
 
 The Preset Tab makes setting up a new sequence much simpler. Choosing a preset enables Premiere to choose the settings that best match the chosen video and audio format. There are a wide range of presets available to suit the most commonly used media types, they are organized based on camera formats. Within each group there are numerous settings and configurations to choose from based around frame sizes and interlacing. Whilst choosing the correct preset can be a little daunting to the uninitiated, ensuring the number of frames per second, the frame size and codec are correct is all that is required.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
 
@@ -141,13 +139,15 @@ If your computer failed to meet the requirement to run Premiere Pro, you may nee
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -156,5 +156,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-elevating-your-valorant-videos-with-impressive-thumbnails/"><u>[Updated] 2024 Approved Elevating Your Valorant Videos with Impressive Thumbnails</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-12-pro-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 12 Pro Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-crash-on-win-successful-solution-found/"><u>GFXUI Crash on Win - Successful Solution Found</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-and-restore-haldll-components-in-your-windows-xp-machine/"><u>How to Repair and Restore hal.dll Components in Your Windows XP Machine</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-hdr-portraiture-an-ultimate-guide-for-2024/"><u>Mastering HDR Portraiture An Ultimate Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-mac-from-live-classroom-to-recorded-session-for-2024/"><u>Mastering Mac From Live Classroom to Recorded Session for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlock-free-video-blurring-tools-your-go-to-resource/"><u>New In 2024, Unlock Free Video Blurring Tools Your Go-To Resource</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/record-like-a-boss-final-cut-pro-voice-over-hacks-for-2024/"><u>Record Like a Boss Final Cut Pro Voice Over Hacks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-solo-side-windows-earbud-sound-problems/"><u>Resolving Solo Side Windows Earbud Sound Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-the-advantages-of-iphones-extended-nfc-capabilities-with-app-support-insights/"><u>Unlocking Potential: The Advantages of iPhone's Extended NFC Capabilities with App Support - Insights</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-if-you-are-a-fan-of-electronic-noise-and-other-experimental-genres-of-music-that-emerged-in-the-early-and-mid-1990s-then-you-probably-/"><u>Updated 2024 Approved If You Are a Fan of Electronic, Noise and Other Experimental Genres of Music that Emerged in the Early and Mid-1990s, Then You Probably Already Know What Glitch Art Is. If You Would Like to Create Gli</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-windows-10-webcam-recording-made-easy-top-10-software/"><u>Updated 2024 Approved Windows 10 Webcam Recording Made Easy Top 10 Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-easy-video-flip-a-beginners-guide-to-rotating-footage/"><u>Updated In 2024, Easy Video Flip A Beginners Guide to Rotating Footage</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-bokeh-blur-apps-for-mobile-photography/"><u>Updated Top Bokeh Blur Apps for Mobile Photography</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Yosemite Video Editing Essentials Tips and Tricks for 2024
-date: 2024-11-09T22:13:53.503Z
-updated: 2024-11-15T02:01:19.320Z
+date: 2024-11-21T16:31:40.967Z
+updated: 2024-11-23T20:28:40.212Z
 tags: 
   - video editing software
   - video editing
@@ -37,10 +37,11 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
@@ -54,10 +55,7 @@ You have two different ways to edit the video. One is to double click the video 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Edit and enhance audio**
@@ -66,37 +64,25 @@ If you want to add an additional audio file as the background music to the video
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -117,21 +103,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-no-trouble-recorder-for-win10-desktop/"><u>[New] In 2024, No-Trouble Recorder for Win10 Desktop</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-magic-techniques-to-elevate-your-social-media-impact/"><u>[Updated] 2024 Approved Instagram Video Magic Techniques to Elevate Your Social Media Impact</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-personal-snap-chronicles-how-to-create-your-120plus-distinctive-story-titles-for-2024/"><u>[Updated] Personal Snap Chronicles How to Create Your 120+ Distinctive Story Titles for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-prodigious-editing-power-utilizing-inshot-on-devices-for-2024/"><u>[Updated] Prodigious Editing Power Utilizing Inshot on Devices for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>2024 Approved Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-immortalize-your-gaming-adventures-on-pc-6-ways/"><u>2024 Approved Immortalize Your Gaming Adventures on PC [6 Ways]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-shadow-play-with-iphone-pro-photography-tips/"><u>2024 Approved Shadow Play with iPhone Pro Photography Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-expiring-software-license-caution-in-windows-1011/"><u>Avoiding Expiring Software License Caution in Windows 10/11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-filmora-on-a-budget-4-effective-tips-to-grab-discount-codes-for-2024/"><u>New Filmora on a Budget 4 Effective Tips to Grab Discount Codes for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-free-and-fabulous-10-public-domain-image-websites-for-2024/"><u>New Free and Fabulous 10 Public Domain Image Websites for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-how-to-produce-a-professional-looking-video-on-mac-for-2024/"><u>New How to Produce a Professional-Looking Video on Mac for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-10-best-free-apps-for-blurring-faces-in-photos-and-videos-how-to-blur-faces-in-video-beginners-guide/"><u>New In 2024, 10 Best Free Apps for Blurring Faces in Photos and Videos How to Blur Faces in Video (Beginners Guide)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-neon-typography-made-easy-10-online-generators-to-try-now/"><u>New In 2024, Neon Typography Made Easy 10 Online Generators to Try Now</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-rotate-your-iphone-videos-for-free-top-5-apps/"><u>New In 2024, Rotate Your iPhone Videos for Free Top 5 Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-battle-for-video-editing-supremacy-sony-vegas-pro-vs-adobe-premiere-pro/"><u>New In 2024, The Battle for Video Editing Supremacy Sony Vegas Pro vs Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonize-your-status-with-a-track/"><u>[New] Harmonize Your Status with a Track</u></a></li>
+<li><a href="https://fox-links.techidaily.com/apex-pcs-the-summit-of-desktop-technology/"><u>Apex PCs - The Summit of Desktop Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-paso-a-paso-agregando-sincronizacion-de-texto-al-formato-video-mp4/"><u>Guía Paso a Paso: Agregando Sincronización De Texto Al Formato Video MP4</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-moto-g13-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola Moto G13 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722963714569-new-and-improved-install-your-scansnap-s1100s-updated-drivers-today/"><u>New and Improved, Install Your Scansnap S1100's Updated Drivers Today</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-sketch-to-screen-the-top-7-animation-software-for-2024/"><u>New From Sketch to Screen The Top 7 Animation Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-if-you-are-struggling-to-figure-out-which-online-video-trimmer-is-for-you-then-here-is-a-list-of-the-10-best-free-online-video-trimmers-for-2024/"><u>New If You Are Struggling to Figure Out Which Online Video Trimmer Is for You, Then Here Is a List of the 10 Best Free Online Video Trimmers for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-beginners-guide-to-video-editing-top-software-picks/"><u>New In 2024, Beginners Guide to Video Editing Top Software Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcpx-title-design-tips-and-tricks-for-stunning-visuals/"><u>New In 2024, FCPX Title Design Tips and Tricks for Stunning Visuals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-motion-tracking-apps-the-ultimate-guide-for-android-and-ios/"><u>New In 2024, Motion Tracking Apps The Ultimate Guide for Android and iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-s-hottest-vlog-editor-apps-top-10-picks-for-ios-and-android/"><u>New In 2024, S Hottest Vlog Editor Apps Top 10 Picks for iOS and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-of-3d-video-makers-free-paid-and-in-between/"><u>New In 2024, The Ultimate List of 3D Video Makers Free, Paid, and In-Between</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/pump-up-your-income-smart-tips-to-profit-from-social-media-videos/"><u>Pump Up Your Income Smart Tips to Profit From Social Media Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamless-social-integration-twitter-and-facebook-connections/"><u>Seamless Social Integration Twitter & Facebook Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-bloatware-removal-in-windows-11/"><u>Streamline Your PC: Bloatware Removal in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-c53-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme C53 | Dr.fone</u></a></li>
 </ul></div>
 

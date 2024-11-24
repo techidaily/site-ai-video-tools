@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Create a Video Slideshow with Final Cut Pro
-date: 2024-08-02T03:39:35.222Z
-updated: 2024-08-03T03:39:35.222Z
+date: 2024-11-21T19:01:14.202Z
+updated: 2024-11-23T21:31:15.270Z
 tags: 
   - video editing software
   - video editing
@@ -18,18 +18,6 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
 # Complete Guide on How to Create a Video Slideshow with Final Cut Pro
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -49,6 +37,10 @@ Read this article section to learn how to make video slideshows with FCP and Won
 > * [Part 5: How to Make a Slideshow in an Easier yet Better Way?](#part5)
 > * [Part 6: How to make a simple Slideshow Free & Online?](#part6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Create a Video Slideshow in Final Cut Pro?
 
 Final Cut Pro is an amazing software that makes slideshow creation as simple as ABC. You need not use any template; instead, you can sequence images on the timeline and add a few transitions and audio effects to create a video slideshow. Here’s how you can do this:
@@ -61,9 +53,6 @@ Final Cut Pro is an amazing software that makes slideshow creation as simple as 
 6. To add opening or closing credits, click **Effects > Video Generators.** Now, double-click **Text** and **Text** From the newly opened window, click **Controls** and type your desired text to be displayed in your video slideshow. Now, click **Video** and drag the video box into the Timeline to your desired location where it should appear.
 7. To export your video slideshow, click **File > Export > QuickTime Movie.** Based on your requirement, select your desired video quality and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Where to Find Video Slideshow Templates for Free?
 
 Templates make it easier for you to design unique slideshow videos with Final Cut Pro. Both premium and free templates are available online with different styles such as product showcases, wedding albums, social media promos, and corporate events, etc.
@@ -75,6 +64,10 @@ Given below are some websites where you can find some of the best slideshow temp
 Motion array is famous for providing both free and paid templates and plugins for FCPX. Get all the things you need for your FCPX here.
 
 ![Motion_array](https://images.wondershare.com/filmora/images/final-cut-pro/Motion_array.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **[FilmStock](https://tools.techidaily.com/wondershare/filmora/download/)**
 
@@ -90,33 +83,27 @@ Download thousands of free and premium FCP slideshow templates for product showc
 
 For more slideshow templates please refer to this article: [10 Best Sites to Download Free Slideshow Templates](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Adopt Templates in Final Cut Pro?
 
 Adopting templates to create amazing video slideshows with Final Cut Pro is very easy. Follow these steps to download and use templates with FCP:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 1. Download your favorite template online. Once downloaded, go to the folder containing the folder, unzip it, and locate the installable file.![adopt_templates1](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates1.PNG)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Copy and paste the folder where FCP can find it. If you don't have Apple Motion, right-click on the FCP icon and select Show Package Contents from the dropdown menu. Now, navigate to the Titles or Generators folder.![adopt_templates2](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates2.PNG)
 3. Open FCP and go to Titles and Generators sidebar.![adopt_templates3](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates3.jpg)
 4. Search for the Title or Generator you installed under each label.
-5. Or use the search bar to find your installed Title or Generator.
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Or use the search bar to find your installed Title or Generator.
 6. Drag the template to the FCP timeline.![adopt_templates4](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates4.jpg)
 7. Use the Published Parameters panel to edit the template. Check all parameters to see editing options available.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How to Add Music and Text in a Video Slideshow with Final Cut Pro?
 
 You can add your favorite music or audio effects and text to your video slideshow with FCP. A variety of jingles and sound effects are available in Final Cut Pro that can be used in your video slideshow for free. If the build-in sound effects do not seem interesting, record your own audio and create your audio effects. FCP also allows users to import music files from their computers and add them to video slideshows.
@@ -127,9 +114,6 @@ To add text, go to the Browser window, select Effects, click Video Generators, a
 
 Click here to learn more about [how to make a slideshow with music.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Make a Slideshow in an Easier yet Better Way?
 
 Do you want to create an amazing video slideshow conveniently? Try Wondershare Filmora X, a user-friendly and high-performance video-editing software that allows you to create unique video slideshows without advanced skills. Simply choose your favorite music, adjust photos’ duration, and add transitions and effects.
@@ -141,15 +125,26 @@ Follow these steps to make a slideshow with Wondershare Filmora X:
 1. Open Wondershare Filmora, add multiple photos into the applications. Adding multiple folders would make it easy for you to sort the images.
 2. Adjust the duration for each photo to your desired length.![filmora_slideshow1](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow1.jpg)
 3. Add background music and royalty-free sound. For enhanced user experience, use the media library.![filmora_slideshow](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Drag and drop all images you want to add to the timeline and set their hue, aspect ratio, saturation, contrast, and brightness.![filmora_slideshow2](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow2.jpg)
 5. Add transitions between images.![filmora_slideshow3](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Use filters and overlays to improve your slideshow’s appearance. Since this is a core step, make sure you spend ample time on it.
 7. Export your video slideshow to your desired format and quality.
 
 Don’t worry if you are a beginner and don’t have the advanced skills to create a video slideshow. There are multiple websites like Canva where you build amazing slideshows for free and impress your family and friends. Given below are simple steps to create video slideshows online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to make a simple Slideshow Free & Online?
 
@@ -177,8 +172,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -186,5 +179,18 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unmatched-3d-viewing-excellence-with-elite-decks-reviewed/"><u>[Updated] In 2024, Unmatched 3D Viewing Excellence with Elite Decks Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/capture-the-essence-your-free-screen-recording-solution-on-mac-and-pc-for-2024/"><u>Capture the Essence - Your FREE Screen Recording Solution on Mac & PC for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-conversion-tactics-transforming-pdf-files-for-kindle-compatibility/"><u>Effortless Conversion Tactics: Transforming PDF Files for Kindle Compatibility</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-instagram-footage-into-square-stories-using-imovie-tips/"><u>In 2024, Transforming Instagram Footage Into Square Stories Using iMovie Tips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlocking-advanced-visuals-how-to-use-picture-in-picture-in-final-cut-pro/"><u>In 2024, Unlocking Advanced Visuals How to Use Picture-in-Picture in Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-creative-with-fcp-x-a-3-step-guide-to-adding-awesome-effects/"><u>New In 2024, Get Creative with FCP X A 3-Step Guide to Adding Awesome Effects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-evolution-of-elegance-and-power-exploring-the-dell-xps-13-9345-equipped-with-snapdragon-x-elite-processor/"><u>The Evolution of Elegance and Power - Exploring the Dell XPS 13 (9345) Equipped with Snapdragon X Elite Processor</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-online-video-compression-made-easy-10-best-tools/"><u>Updated 2024 Approved Free Online Video Compression Made Easy 10 Best Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-3-ways-to-add-transitions-in-final-cut-pro/"><u>Updated In 2024, 3 Ways To Add Transitions In Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-create-infinite-loops-top-10-free-video-looping-websites/"><u>Updated In 2024, Create Infinite Loops Top 10 Free Video Looping Websites</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-music-video-magic-10-essential-software-and-apps-for-creators/"><u>Updated In 2024, Music Video Magic 10 Essential Software and Apps for Creators</u></a></li>
+</ul></div>
 

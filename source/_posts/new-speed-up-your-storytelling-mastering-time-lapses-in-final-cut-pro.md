@@ -1,7 +1,7 @@
 ---
 title: New Speed Up Your Storytelling Mastering Time Lapses in Final Cut Pro
-date: 2024-11-09T01:29:04.303Z
-updated: 2024-11-15T02:22:28.445Z
+date: 2024-11-20T16:26:44.999Z
+updated: 2024-11-23T18:42:46.106Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,10 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -50,9 +54,17 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
@@ -60,11 +72,19 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you have any questions about making time-lapse videos, feel free to drop a line below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -81,26 +101,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-analysis-of-fb-video-proportions-for-2024/"><u>[Updated] Analysis of FB Video Proportions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-hero5-users-blueprint-for-incredible-time-lapse-videos/"><u>[Updated] The Hero5 User's Blueprint for Incredible Time-Lapse Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-driven-productivity-essential-tools-for-content-gurus/"><u>AI-Driven Productivity: Essential Tools for Content Gurus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-14-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 14 Plus After Forgetting the Passcode?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-new-frontier-what-makes-triller-stand-out-in-2024/"><u>Exploring the New Frontier What Makes Triller Stand Out, In 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-filmora-torrent-risks-how-to-download-it-safely-and-for-free-for-2024/"><u>New Filmora Torrent Risks How to Download It Safely and for Free for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-get-started-with-fcp-voice-over-expert-advice-for-newbies-for-2024/"><u>New Get Started with FCP Voice Over Expert Advice for Newbies for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-edit-like-a-pro-top-free-vob-video-editors/"><u>New In 2024, Edit Like a Pro Top Free VOB Video Editors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-expert-approved-ipad-video-editors-top-5-for/"><u>New In 2024, Expert-Approved iPad Video Editors Top 5 For</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-flip-and-spin-16-top-rated-free-avi-video-rotation-tools-you-need-to-know/"><u>New In 2024, Flip and Spin 16 Top-Rated Free AVI Video Rotation Tools You Need to Know</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mobile-video-to-audio-conversion-made-easy-top-apps-reviewed/"><u>New In 2024, Mobile Video to Audio Conversion Made Easy Top Apps Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pro-level-playback-advanced-techniques-for-capturing-minecraft-games-on-mac-for-2024/"><u>Pro-Level Playback Advanced Techniques for Capturing Minecraft Games on Mac for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/recording-your-iphoneipad-whats-new/"><u>Recording Your iPhone/iPad What's New</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screen-savvy-taking-screenshots-on-windows/"><u>[Updated] 2024 Approved Screen Savvy Taking Screenshots on Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-elite-recording-series-exceptional-5-cam-tech/"><u>[Updated] In 2024, Elite Recording Series Exceptional 5 Cam Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-repair-what-to-do-when-your-google-chrome-stops-responding/"><u>Guide to Repair: What to Do When Your Google Chrome Stops Responding</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-15-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 15 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-15-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 15 Smoothly</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/logiciel-de-disquette-dimage-libre-et-facile-a-utiliser-pour-les-systemes-windows-7-8-10-11/"><u>Logiciel De Disquette D'Image Libre Et Facile À Utiliser Pour Les Systèmes Windows (7, 8, 10, 11)</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/movavipngjpg/"><u>Movavi介紹：PNG到JPG的高效轉換方法與教學指南</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-fcp-x-post-production-expert-chroma-keying-and-color-grading-for-2024/"><u>New FCP X Post-Production Expert Chroma Keying and Color Grading for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-footage-to-film-the-best-software-for-burning-home-dvds-for-2024/"><u>New From Footage to Film The Best Software for Burning Home DVDs for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-silence-to-sound-two-ways-to-fade-in-and-out-of-audio-in-final-cut-pro-for-2024/"><u>New From Silence to Sound Two Ways to Fade In and Out of Audio in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-creative-with-slow-mo-top-video-editing-software-for-filmmakers-for-2024/"><u>New Get Creative with Slow Mo Top Video Editing Software for Filmmakers for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-6-essential-video-dubbing-tools-for-pc-users-free-and-paid/"><u>New In 2024, 6 Essential Video Dubbing Tools for PC Users - Free and Paid</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-edit-on-the-go-best-android-video-editor-apps-for-chromebooks/"><u>New In 2024, Edit on the Go Best Android Video Editor Apps for Chromebooks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-how-to-use-compressor-in-final-cut-pro/"><u>New In 2024, How to Use Compressor in Final Cut Pro?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-mac-video-editor-adobe-premiere-pro-for-experts/"><u>New In 2024, The Ultimate Mac Video Editor Adobe Premiere Pro for Experts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-10-glitch-art-video-editing-apps/"><u>New In 2024, Top 10 Glitch Art Video Editing Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-the-top-free-replacements-for-skype-this-year/"><u>Ultimate List: The Top Free Replacements for Skype This Year</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-you-easily-send-tokens-of-appreciation-using-apple-technology/"><u>Why Can't You Easily Send Tokens of Appreciation Using Apple Technology?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

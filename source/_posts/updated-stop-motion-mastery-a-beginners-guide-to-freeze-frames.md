@@ -1,7 +1,7 @@
 ---
 title: Updated Stop Motion Mastery A Beginners Guide to Freeze Frames
-date: 2024-11-07T22:41:20.600Z
-updated: 2024-11-15T02:00:31.032Z
+date: 2024-11-21T21:33:56.212Z
+updated: 2024-11-24T05:11:19.132Z
 tags: 
   - video editing software
   - video editing
@@ -41,10 +41,7 @@ You may also like: [How to Edit Video Frame](https://tools.techidaily.com/wonder
 ## How to Freeze Video with Filmora
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1 Import your media files
@@ -59,13 +56,6 @@ You may also like: [How to Create Freeze Frame in Adobe Premiere Pro](https://to
 
 ![freeze video](https://images.wondershare.com/filmora/article-images/video-editor-main-interface-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2 Freeze video with ease
 
 Now play the video clip you want to create a frozen picture, and pause it when it comes to the right position. Click the "Snapshot" incon that locates under the Viewer panel. Immediately, there will be a picture added to media library. Drag the image to the PIP track over the main video track, and set the duration of the still image.
@@ -73,19 +63,24 @@ Now play the video clip you want to create a frozen picture, and pause it when i
 ![video freeze frame](https://images.wondershare.com/filmora/article-images/freeze-frame-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you've created a frozen frame, want to further customize it? Double click the picture icon to reveal the editing window. Here, you can rotate it 90 degrees clockwise, adjust the duration, brightness, contrast.
 
 ![frame freezer](https://images.wondershare.com/filmora/article-images/photo-editing-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also pick up your favorite fade in/out or zoom in/out effect by in the "Motion" pane.
 
 ![how to freeze frame](https://images.wondershare.com/filmora/article-images/motion-pannel-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3 Save your creation
 
@@ -93,17 +88,14 @@ When everything satisfies, simply click "Export" to export your creation. In the
 
 ![how to freeze frame](https://images.wondershare.com/filmora/article-images/export-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Bonus tips:**
 You may also want to add captions for the still image to make it more meaningful. It's pretty easy to do this with the help of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Simply click the "Text/Credit" tab in the toolbar, and pick up your favorite template to further customize it. Time duration, size, and zoom in/out effect are all flexibly adjustable.
 
 ![how to freeze frame](https://images.wondershare.com/filmora/article-images/add-text-filmora9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -124,22 +116,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-discover-and-set-up-vrecorder-in-minutes-148-characters/"><u>[New] In 2024, Discover & Set Up VRecorder in Minutes (148 Characters)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-simplicity-accessing-highly-engaged-youtube-reactions/"><u>[Updated] Unveiling the Simplicity Accessing Highly Engaged YouTube Reactions</u></a></li>
-<li><a href="https://discover-data.techidaily.com/6-schnellwirkungsmethoden-zum-verwaltung-und-erweitern-deines-icloud-speichers/"><u>6 Schnellwirkungsmethoden Zum Verwaltung Und Erweitern Deines iCloud-Speichers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhanced-drive-traffic-and-boost-sales-with-powerful-ppc-advertising/"><u>Cookiebot-Enhanced: Drive Traffic & Boost Sales with Powerful PPC Advertising</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discover-10-budget-friendly-vectors-and-design-pages/"><u>Discover 10 Budget-Friendly Vectors and Design Pages</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-tech-with-toms-ultimate-guide-the-hardware-hub/"><u>Dive Into Tech with Tom's Ultimate Guide - The Hardware Hub</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/evaluating-the-efficacy-of-magix-picture-tool/"><u>Evaluating the Efficacy of MAGIX Picture Tool</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format/"><u>In 2024, Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-photoshop-simplified-beginner-friendly-editing-secrets/"><u>In 2024, Photoshop Simplified Beginner-Friendly Editing Secrets</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme-in-2024/"><u>New Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme , In 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-rotate-your-videos-with-ease-10-free-online-and-offline-solutions/"><u>New Rotate Your Videos with Ease 10 Free Online and Offline Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-transform-your-videos-top-free-and-paid-android-video-editing-apps-for-2024/"><u>New Transform Your Videos Top Free and Paid Android Video Editing Apps for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcpx-skin-enhancement-a-beginners-guide-to-airbrushed-results/"><u>Updated 2024 Approved FCPX Skin Enhancement A Beginners Guide to Airbrushed Results</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-phone-to-fame-best-vertical-video-editing-apps-for-mobile-creators/"><u>Updated 2024 Approved From Phone to Fame Best Vertical Video Editing Apps for Mobile Creators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-highlight-video-creation-top-picks-for-desktop-and-mobile-devices/"><u>Updated 2024 Approved Highlight Video Creation Top Picks for Desktop and Mobile Devices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-transform-your-3gp-videos-top-free-rotation-software-compared/"><u>Updated 2024 Approved Transform Your 3GP Videos Top Free Rotation Software Compared</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-webm-to-mp3-converters-for-every-need-for-2024/"><u>Updated The Ultimate List WebM to MP3 Converters for Every Need for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-virtual-voyages-unveiled-the-ultimate-gaming-odyssey-top-10/"><u>[New] 2024 Approved Virtual Voyages Unveiled The Ultimate Gaming Odyssey (Top 10)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-charming-calls-verify-if-vocal-alteration-apps-are-real-then-find-others/"><u>[New] Charming Calls Verify if Vocal Alteration Apps Are Real, Then Find Others</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-vote-players-best-political-game-reviews/"><u>[New] In 2024, Ultimate Vote-Players Best Political Game Reviews</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-maximizing-your-impact-4-methods-for-streaming-on-computer/"><u>[Updated] In 2024, Maximizing Your Impact 4 Methods for Streaming on Computer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-continuous-display-recorder/"><u>2024 Approved Continuous Display Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-decades-most-ingenious-frames-and-organizers-24/"><u>2024 Approved The Decade's Most Ingenious Frames & Organizers '24</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bend-the-rules-of-livestreaming-on-youtube-without-a-subscriber-hurdle/"><u>Bend the Rules of Livestreaming on YouTube, Without a Subscriber Hurdle</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-huawei-p60-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-12-pro-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 12 Pro Max Smoothly</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-video-reversal-tools-online-and-free/"><u>New Top Video Reversal Tools Online and Free</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-12-best-free-animation-programs-for-pc-and-mac-users-for-2024/"><u>Updated 12 Best Free Animation Programs for PC and Mac Users for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-learn-to-edit-videos-like-a-pro-a-comprehensive-online-guide/"><u>Updated 2024 Approved Learn to Edit Videos Like a Pro A Comprehensive Online Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-vignette-apps-for-mobile-devices-free-and-premium-options/"><u>Updated 2024 Approved Top Vignette Apps for Mobile Devices Free and Premium Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-real-to-toon-how-to-turn-videos-into-cartoons/"><u>Updated In 2024, From Real to Toon How to Turn Videos Into Cartoons</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-online-video-editors-blueprint-from-concept-to-completion/"><u>Updated In 2024, The Online Video Editors Blueprint From Concept to Completion</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-10-free-stock-photo-sites/"><u>Updated Top 10 Free Stock Photo Sites</u></a></li>
 </ul></div>
 

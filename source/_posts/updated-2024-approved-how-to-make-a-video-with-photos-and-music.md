@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Make a Video with Photos and Music
-date: 2024-11-09T00:23:47.352Z
-updated: 2024-11-14T22:35:46.071Z
+date: 2024-11-16T22:15:39.842Z
+updated: 2024-11-23T19:53:14.774Z
 tags: 
   - video editing software
   - video editing
@@ -51,9 +51,17 @@ Adding motion and trasitions can make your photo slideshow more attractive. To a
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Apply title and effects
 
@@ -67,6 +75,10 @@ Music is the must-have element in a photo slideshow. In Filmora, there are over 
 
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 5\. Export
 
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to YouTube or burn it a DVD collection.
@@ -74,10 +86,7 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -89,13 +98,6 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 3\. Personalize video slideshow with stunning transitions, intro/credits, and sound effects.
 * 4\. Apply more advanced video effects like Mosaic, Face Off, Jump Cut and more.
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -113,20 +115,10 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -144,16 +136,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-ranking-of-top-10-budget-friendly-video-meeting-tools-for-organizations-and-schools/"><u>2024 Approved Ranking of Top 10 Budget-Friendly Video Meeting Tools for Organizations & Schools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-tecno-phantom-v-flip-by-fonelab-android-recover-data/"><u>How to recover lost data from Tecno Phantom V Flip?</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/master-album-designs-using-flip-image-pro-advanced-3d-visuals-and-media-integration-discover-more-at-flipbuildercom/"><u>Master Album Designs Using Flip Image Pro: Advanced 3D Visuals and Media Integration [Discover More at FlipBuilder.com]</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-home-movie-magic-creating-professional-looking-dvds-with-ease-for-2024/"><u>New Home Movie Magic Creating Professional-Looking DVDs with Ease for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-apple-has-released-its-choices-for-the-best-app-and-video-games-of-2019-and-revealed-some-of-the-hottest-trends-on-the-app-storehere-are-the-lis/"><u>New In 2024, Apple Has Released Its Choices for the Best App and Video Games of 2019 and Revealed some of the Hottest Trends on the App Store.Here Are the List of the Best and Most Popular iPhone Apps that Left Th</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-edit-like-a-pro-best-1080p-video-editing-software-of-the-year/"><u>New In 2024, Edit Like a Pro Best 1080P Video Editing Software of the Year</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-video-editing-game-top-5-final-cut-pro-tips-and-tricks/"><u>New In 2024, Elevate Your Video Editing Game Top 5 Final Cut Pro Tips and Tricks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-large-video-files-no-problem-fast-cutting-techniques-for-mac-users/"><u>New In 2024, Large Video Files? No Problem! Fast Cutting Techniques for Mac Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tips-to-restore-functionality-from-an-iphones-devastating-black-screen-problem/"><u>Tips to Restore Functionality From an iPhone's Devastating Black Screen Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-issues-with-corsair-icue-on-windows-11/"><u>Troubleshooting Steps to Resolve Issues with Corsair iCUE on Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2208370-9780007283743-your-personal-horoscope-2009-month-by-month-forecasts-for-every-sign/"><u>Your Personal Horoscope 2009: Month-by-month Forecasts for Every Sign | Free Book</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-playbook-to-create-compelling-youtube-educational-videos/"><u>[New] 2024 Approved The Ultimate Playbook to Create Compelling YouTube Educational Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-decoding-inverse-image-retrieval-for-social-networks-focusing-on-fb-for-2024/"><u>[Updated] Decoding Inverse Image Retrieval for Social Networks, Focusing on FB for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/bypassing-blocked-entry-effective-strategies-to-restore-access-to-your-external-storage-device/"><u>Bypassing Blocked Entry: Effective Strategies to Restore Access to Your External Storage Device</u></a></li>
+<li><a href="https://win-premium.techidaily.com/complete-guide-how-to-eliminate-and-prevent-pop-up-ads-in-firefox-top-4-methods/"><u>Complete Guide: How to Eliminate and Prevent Pop-Up Ads in Firefox - Top 4 Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dell-inspiron-3671-laptop-analysis-an-unpretentious-midrange-performance-machine/"><u>Dell Inspiron 3671 Laptop Analysis: An Unpretentious Midrange Performance Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-game-freeze-glitches-in-call-of-duty-black-ops-cold-war-for-smooth-playing-experience/"><u>How To Overcome Game Freeze Glitches In Call of Duty: Black Ops Cold War for Smooth Playing Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oneplus-nord-n30-se-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 OnePlus Nord N30 SE Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/lunar-client-not-responding-troubleshooting-and-fixes-for-pc-users/"><u>Lunar Client Not Responding: Troubleshooting and Fixes for PC Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-find-three-best-alternatives-to-subtitle-edit-on-mac-all-are-free-and-include-the-same-exact-functions-as-subtitle-edit-for-2024/"><u>New Find Three Best Alternatives to Subtitle Edit on Mac - All Are Free and Include the Same Exact Functions as Subtitle Edit for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-start-to-finish-cropping-and-editing-videos-with-avidemux-for-2024/"><u>New From Start to Finish Cropping and Editing Videos with Avidemux for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-cropping-images-in-final-cut-pro-x-a-comprehensive-guide/"><u>New In 2024, Cropping Images in Final Cut Pro X A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcpx-on-a-budget-top-10-free-plugins-for-video-creators/"><u>New In 2024, FCPX on a Budget Top 10 Free Plugins for Video Creators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-art-of-audio-fading-2-expert-tips-for-final-cut-pro-users/"><u>New In 2024, The Art of Audio Fading 2 Expert Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-10-vlogging-apps-for-editing-on-the-go/"><u>New In 2024, Top 10 Vlogging Apps for Editing on the Go</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplify-your-pc-updates-seamless-driver-installation-with-windows-update/"><u>Simplify Your PC Updates: Seamless Driver Installation with Windows Update</u></a></li>
 </ul></div>
 

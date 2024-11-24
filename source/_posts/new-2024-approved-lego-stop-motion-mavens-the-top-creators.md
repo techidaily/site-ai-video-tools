@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Lego Stop Motion Mavens The Top Creators
-date: 2024-08-02T03:39:49.060Z
-updated: 2024-08-03T03:39:49.060Z
+date: 2024-11-19T08:29:12.794Z
+updated: 2024-11-24T09:22:14.194Z
 tags: 
   - video editing software
   - video editing
@@ -26,18 +26,12 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 
 Brickfilms, the cool name for Lego stop-motion animations, is a raging success on YouTube and other video streaming sites. No longer are you limited to build and play with your Lego sets. You can now use apps to bring a story alive. Drag those bricks down from the attic or pull them out of the kids' box, as you could have a potential goldmine in your home.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preparation Tips for Shooting Lego Stop Motion Movies
 
 Before you select your [stop-motion movie maker](https://tools.techidaily.com/wondershare/filmora/download/), you need to secure some of the essential props to make your film-making a success. You only need a basic set of Lego bricks and your smartphone or iPad if you want to keep it simple. You could use a desk lamp for lighting or a [professional camera](https://tools.techidaily.com/wondershare/filmora/download/) to add some professionalism should you wish.
 
 Start by setting up your scene. You need a flat and stable surface. It needs to be at a height where you will be comfortable working for an extended period. If you set it up on your floor, you could regret this when the aches in your knees and back kick in. Keep your set in place by using masking tape, so it doesn't move if you accidentally bump into it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Lego Stop Motion shooting Settings](https://images.wondershare.com/filmora/article-images/lego-shooting-settings.jpg)
 
 Now you are ready to start. Lego movies are painstaking. It will take a while to get into a rhythm and to get something of value to be watched by others. Don't be discouraged. You will get quicker and better with practice. You just need to get started.
@@ -60,6 +54,10 @@ With everything in place, as well as a realistic mindset, it is time to choose t
 
 ![I Can Animate for iOS Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 I Can Animate is a way to produce movies quickly and with little need for that much tech knowledge. You can use your iOS device, whether tablet or phone, to create and then share your videos. This app is produced by Kudlian Software Ltd and retails on different prices on Apple Store and Google Play.
 
 I Can Animate is unique in its simplicity. You use the camera on your iOS device, and the app will show you the differences between frames, so you can check your progress. This is called onion skinning and is essential to the success of your animation.
@@ -68,13 +66,14 @@ There are some basic editing features. These features include an ability to view
 
 ![I Can Animate for Andriod Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A useful option is the ability to connect a Bluetooth keyboard and capture your images without returning to your device. This means you can secure your phone or tablet and avoid knocking or changing the angle by tapping on the screen. Also helpful for streamlining the filming process is the inbuilt time-lapse feature. You can automatically capture images one after another without having to return to the camera.
 
 You can then share these movies by exporting them to Facebook, YouTube or Dropbox.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 2\. Stop Motion Studio
 
 * Free basic package with in-app purchases
@@ -107,8 +106,9 @@ You will need to set up an account to be able to share your movies. However, for
 Probably the most attractive selling point of this app is that there is no third-party advertising. Consequently, there are hours of uninterrupted fun offered.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. LifeLapse Stop Motion Maker
 
 * Free for the basic package
@@ -121,9 +121,6 @@ Created by Bolandia Creative Inc., Life Lapse Stop Motion Maker is designed for 
 
 This is not to say that the app cannot be used by Lego movie makers. The app has an intuitive interface, with simple icons that make it clear how the features can be used. There is the option to adjust the brightness, contrast, saturation and warmth of each image. You can also change the speed and size of images.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LifeLapse Stop Motion Maker](https://images.wondershare.com/filmora/article-images/LifeLapse-stop-motion-maker-app.jpg)
 
 The apparent marketing leaning of this app is evident in the offer of Instagram crop guidelines, which will allow businesses to upload the stop-motion animations to the site. However, the in-app tutorials are excellent for helping younger people compose the Lego movies with a degree of sophistication that the other apps don't provide. There is the option of an exposure lock, so the conditions stay the same for each photograph. You can use the ghosted image overlay, which allows you to check the difference from one frame to another.
@@ -131,17 +128,15 @@ The apparent marketing leaning of this app is evident in the offer of Instagram 
 Particularly useful, the grids allow you to clearly map the changes from one image to the next. This stop motion maker app helps you to track your stop-motion animation with some accuracy and it’s quite popular for [making Instagram Stop Motion Videos](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Onion Cam2
 
 * Free
 * For children aged 4+
 * Unique feature – simplicity and the onion skin feature allowing you to easily track the stop motion effect
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Onion Cam2 Stop Motion Maker](https://images.wondershare.com/filmora/article-images/onion-cam2-stopmotion-camera.jpg)
 
 From the developers Yosuke Seki, this StopMotion camera is a simple tool for taking a series of images to produce your Lego movie and then play it back. You can now store the images within the app, which is new from Onion Cam1, which means you can come back to your movies and continue your work. You can also export your video with OnionCam 2.
@@ -158,22 +153,24 @@ If you want an app that allows you to create a simple movie without too many bel
 
 The essential ingredients for the best Lego movies include creativity and patience. If you have both vital qualities, read on to understand how to maximise the effects in your film.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Get your timing right
 
 If you want your characters to move quickly, then you need fewer images and movements per second. If you're going to slow the characters down, you need to take more pictures with more actions. Getting this right is a matter of trial and error, to begin with.
 
 However, you can make this easier for yourself by planning a little. If you have a shooting rate of 15-frames per second, then you will need to plan out 15 images to fill a second of film. Each action in your movie that would last a second will need 15 pictures with gradual changes per image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Making your characters' movements natural
 
 If you are not careful, your characters will move around in a jerky fashion. In real life, we ease in and ease out of actions. We start and finish an action slowly. Therefore, when taking images, use more pictures at the start and end of a movement, giving the impression of easing in and out of actions.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Master the walk cycle
 
 A great place to start your Lego movie-making is in the perfection of the walk. Your characters will go through 4 movements in a walk.
@@ -184,6 +181,10 @@ A great place to start your Lego movie-making is in the perfection of the walk. 
 * The passing leg heel hits the floor
 
 This movement will likely take about 20 frames. When moving the arms, make sure the opposite arms move with the leg – so the left arm swings as the right leg is moving forward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Practice and perfect
 
@@ -205,8 +206,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -214,5 +213,22 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-ace-your-fb-video-campaigns-with-these-powerful-tricks-for-2024/"><u>[New] Ace Your FB Video Campaigns with These Powerful Tricks for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-advanced-subtitle-tools-navigate-through-the-best-10-web-edits-for-2024/"><u>[New] Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gigglegenius-customize-memes-faster-than-you-think/"><u>[New] GiggleGenius Customize Memes Faster Than You Think</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-superior-converter-mp4-to-facebook/"><u>[Updated] 2024 Approved Superior Converter MP4 to Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-expert-guide-to-sierras-cloud-documentation-and-drive-integration/"><u>2024 Approved Expert Guide to Sierra's Cloud Documentation & Drive Integration</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-synthesize-sounds-and-images-in-ppts/"><u>In 2024, Synthesize Sounds and Images in PPTS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-online-webm-video-shrinking-solutions/"><u>New Online WebM Video Shrinking Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-replace-sony-vegas-discover-the-best-video-editing-software-for-windows-for-2024/"><u>New Replace Sony Vegas Discover the Best Video Editing Software for Windows for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/practical-routines-for-streamlining-gotomeeting-session-logging-for-2024/"><u>Practical Routines for Streamlining GoToMeeting Session Logging for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/protect-identities-the-best-face-blur-video-editing-tools-for-2024/"><u>Protect Identities The Best Face Blur Video Editing Tools for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-solution-for-hp-beats-speaker-software-conflicts-across-multiple-windows-platforms/"><u>Step-by-Step Solution for HP Beats Speaker Software Conflicts Across Multiple Windows Platforms</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-final-cut-pros-greatest-hits-10-memorable-movies/"><u>Updated 2024 Approved Final Cut Pros Greatest Hits 10 Memorable Movies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-flv-video-editing-made-easy-windows-8-compatible-editor-for-2024/"><u>Updated FLV Video Editing Made Easy Windows 8 Compatible Editor for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-adobe-premiere-top-6-essential-tips-for-pro-level-video-editing-for-2024/"><u>Updated Mastering Adobe Premiere Top 6 Essential Tips for Pro-Level Video Editing for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-maximize-your-workflow-the-10-best-video-editing-software-tools-for-2024/"><u>Updated Maximize Your Workflow The 10 Best Video Editing Software Tools for 2024</u></a></li>
+</ul></div>
 

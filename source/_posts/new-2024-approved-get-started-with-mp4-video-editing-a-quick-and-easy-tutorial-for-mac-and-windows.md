@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Get Started with MP4 Video Editing A Quick and Easy Tutorial for Mac and Windows
-date: 2024-08-02T03:39:29.990Z
-updated: 2024-08-03T03:39:29.990Z
+date: 2024-11-22T08:24:57.045Z
+updated: 2024-11-24T04:56:32.553Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 # How to Edit MP4 Video in Mac/Windows (Windows 8 included)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -59,14 +56,6 @@ Before we proceed to illustrate every detail on how to edit the MP4 video, you c
 
 It's free to download now.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ####
@@ -77,10 +66,11 @@ To cut your MP4 video into certain parts, drag and drop the video on the Timelin
 
 After that, move the red marker to the end of the scene, and repeat this again to cut the video into several fragments. If you want to cut off the unwanted parts, right click the video and choose "Delete".
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ####
 
@@ -92,10 +82,11 @@ If you want to make the joined videos look like a really intact movie, just add 
 
 If you don't want to choose the transition one by one, let the software choose the transition randomly by right clicking and selecting "Random to All" option.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit MP4 files](https://images.wondershare.com/filmora/article-images/filmora-transition.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ####
 
@@ -111,6 +102,10 @@ Just highlight your MP4 video, right click and choose "Audio Detach". The audio 
 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ####
 
 #### 4. Add 300+ Effects to Touch Up MP4 Video
@@ -122,9 +117,6 @@ Besides the basic video editing functions, Video Editor also provides various st
 * 100+ funny cliparts to adorn your MP4 video with much more fun.
 * More special effects like PIP, Jump Cut, Face Off, Tilt-shift for you to try!
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![edit MP4 video adding effects](https://images.wondershare.com/filmora/article-images/filmora-effects.jpg)
 
 ####
@@ -141,19 +133,22 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 ![export edited MP4](https://images.wondershare.com/filmora/article-images/filmora-export-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -162,5 +157,20 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-legal-steps-for-overcoming-a-youtube-copyright-strike/"><u>[New] 2024 Approved Legal Steps for Overcoming a YouTube Copyright Strike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-kensuns-robust-and-mobile-tire-inflator-a-complete-product-assessment/"><u>A Closer Look at Kensun's Robust and Mobile Tire Inflator: A Complete Product Assessment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/build-quality-and-design/"><u>Build Quality and Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-live-game-with-these-unparalleled-7-bots-for-twitch-enthusiasts/"><u>Elevate Your Live Game With These Unparalleled 7 Bots For Twitch Enthusiasts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-square-to-wide-how-to-adjust-video-shape-for-2024/"><u>From Square to Wide How to Adjust Video Shape for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y55s-5g-2023-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y55s 5G (2023) Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-rotate-videos-on-iphone-for-free-top-5-essential-tools-for-2024/"><u>New Rotate Videos on iPhone for Free Top 5 Essential Tools for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-cartooning-top-apps-to-turn-yourself-into-a-cartoon/"><u>New The Art of Cartooning Top Apps to Turn Yourself Into a Cartoon</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unleash-your-creativity-a-comprehensive-guide-to-making-video-slideshows-with-final-cut-pro-for-2024/"><u>Unleash Your Creativity A Comprehensive Guide to Making Video Slideshows with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-video-editing-software-for-chrome-os-users-for-2024/"><u>Updated Best Video Editing Software for Chrome OS Users for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-complete-guide-on-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>Updated In 2024, Complete Guide on How to Create a Video Slideshow with Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-rotate-your-avi-videos-for-free-16-excellent-options-for-windows-mac-android-iphone-and-online/"><u>Updated Rotate Your AVI Videos for Free 16 Excellent Options for Windows, MAC, Android, iPhone, and Online</u></a></li>
+</ul></div>
 

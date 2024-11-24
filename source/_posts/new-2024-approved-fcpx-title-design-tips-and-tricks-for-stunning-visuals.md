@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCPX Title Design Tips and Tricks for Stunning Visuals
-date: 2024-08-02T03:38:29.371Z
-updated: 2024-08-03T03:38:29.371Z
+date: 2024-11-22T09:43:09.332Z
+updated: 2024-11-24T06:25:24.575Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -57,9 +54,6 @@ I'd like to introduce "Yertle," he's a sea turtle and the star of this article. 
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -74,16 +68,10 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -134,18 +122,12 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -160,9 +142,6 @@ While many of these settings you already know there are a few you may not:
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
@@ -183,9 +162,6 @@ Titles015
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -198,14 +174,6 @@ Here, for example, notice that my title is fully contained within Action Safe.
 
 Titles give our programs character and personality, plus they explain what's going on to the audience. Final Cut Pro X provides a wealth of formatting options to make our text look great.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -214,8 +182,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -223,5 +189,30 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-deep-dive-into-rank-tracker-solutions-for-peak-success-on-youtube/"><u>[New] In 2024, Deep Dive Into Rank Tracker Solutions for Peak Success on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-premier-ranking-of-outstanding-stop-motion-films/"><u>[Updated] In 2024, The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cdflac/"><u>「無料アプリで音楽を高品質にリマスター: CDからFlacへの変換ガイド」</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-the-windows-module-installer-causing-elevated-cpu-usage-on-win10/"><u>Effective Solutions for the Window's Module Installer Causing Elevated CPU Usage on Win10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-social-giants-facebook-twitter-instagram-and-youtube/"><u>Engage with Social Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmony-in-high-definition-audiovisual-fusion-on-windows-11-for-2024/"><u>Harmony in High Definition Audio/Visual Fusion on Windows 11 for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-honor-magic-6-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Honor Magic 6 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/move-your-digital-reads-effortlessly-mastering-the-transfer-of-ibooks-between-iphone-and-ipad/"><u>Move Your Digital Reads Effortlessly: Mastering the Transfer of iBooks Between iPhone and iPad</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-pinnacle-studio-not-your-cup-of-tea-explore-these-mac-alternatives/"><u>New Pinnacle Studio Not Your Cup of Tea? Explore These Mac Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-solutions-for-common-final-cut-pro-x-crash-problems-for-2024/"><u>New Solutions for Common Final Cut Pro X Crash Problems for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-10-easy-to-use-cartoon-video-creation-tools-online-and-pc/"><u>New Top 10 Easy-to-Use Cartoon Video Creation Tools (Online & PC)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-the-best-animation-drawing-software-for-beginners-and-pros/"><u>New Unleash Your Creativity The Best Animation Drawing Software for Beginners and Pros</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-editing-made-easy-for-kids-top-free-and-paid-apps-for-2024/"><u>New Video Editing Made Easy for Kids Top Free and Paid Apps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/strategies-for-smooth-clear-sound-in-zoom-powered-podcasts/"><u>Strategies for Smooth, Clear Sound in Zoom-Powered Podcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-axes-checkmarks-linus-tech-tips-hacked-trojans-explained-and-the-biggest-problems-with-chatgpt/"><u>Twitter Axes Checkmarks, Linus Tech Tips Hacked, Trojans Explained, and the Biggest Problems With ChatGPT</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unlimited-fake-faces-top-free-online-generators-reviewed/"><u>Updated 2024 Approved Unlimited Fake Faces Top Free Online Generators Reviewed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-of-both-worlds-top-10-free-and-paid-android-video-editors/"><u>Updated In 2024, The Best of Both Worlds Top 10 Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-mini-movie-mogul-a-step-by-step-guide-for-kids/"><u>Updated In 2024, The Mini Movie Mogul A Step-by-Step Guide for Kids</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-rated-mp4-editor-for-windows-8-professional-results-made-easy/"><u>Updated In 2024, Top-Rated MP4 Editor for Windows 8 Professional Results Made Easy</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

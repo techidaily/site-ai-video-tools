@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Final Cut Pro Time Lapse Essentials Tips, Tricks, and Best Practices
-date: 2024-08-02T03:39:05.500Z
-updated: 2024-08-03T03:39:05.500Z
+date: 2024-11-19T16:20:02.222Z
+updated: 2024-11-24T03:06:40.918Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 # How to Make a Time Lapse Video in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -42,8 +39,9 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -54,43 +52,45 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you have any questions about making time-lapse videos, feel free to drop a line below.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -99,5 +99,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-your-top-tools-for-facebook-video-retrieval-revealed/"><u>[New] 2024 Approved Your Top Tools for Facebook Video Retrieval Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-methods-for-recording-presentations/"><u>[Updated] Cutting Edge Methods for Recording Presentations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-livestreaming-sovereigns-clash/"><u>2024 Approved LiveStreaming Sovereigns Clash</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-checklist-important-considerations-when-shopping-for-vr-technology/"><u>A Checklist: Important Considerations When Shopping for VR Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-before-you-install-potential-threats-of-chatgpt-utilities-in-apples-digital-shopfront/"><u>Beware Before You Install: Potential Threats of ChatGPT Utilities in Apple's Digital Shopfront</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/cookiebot-driven-automation-for-enhanced-website-analytics/"><u>Cookiebot-Driven Automation for Enhanced Website Analytics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-6s-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 6s Plus and iPad Securely</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-cloud-apps-android-list-seamless-backup-and-sync-edition/"><u>In 2024, Best-Cloud-Apps-Android-List Seamless Backup and Sync Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fixing-system-crashes-in-windows-based-offices/"><u>Quick Guide to Fixing System Crashes in Windows-Based Offices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-virtualdub-replacements-for-video-editing-for-2024/"><u>Top VirtualDub Replacements for Video Editing for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-transform-your-footage-the-ultimate-1080p-video-editor/"><u>Updated 2024 Approved Transform Your Footage The Ultimate 1080P Video Editor</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-chromebook-video-editor-roundup-top-picks-for-2024/"><u>Updated Chromebook Video Editor Roundup Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-final-cut-pro-x-hacks-10-must-have-free-plugins/"><u>Updated In 2024, Final Cut Pro X Hacks 10 Must-Have Free Plugins</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-best-movie-trailer-makers-for-windows-and-mac/"><u>Updated In 2024, The Ultimate List Best Movie Trailer Makers for Windows and Mac</u></a></li>
+</ul></div>
 

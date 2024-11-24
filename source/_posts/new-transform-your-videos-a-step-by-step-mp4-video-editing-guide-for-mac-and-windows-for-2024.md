@@ -1,7 +1,7 @@
 ---
 title: New Transform Your Videos A Step-by-Step MP4 Video Editing Guide for Mac and Windows for 2024
-date: 2024-11-12T22:05:58.332Z
-updated: 2024-11-15T01:01:40.268Z
+date: 2024-11-18T01:14:18.730Z
+updated: 2024-11-23T17:37:44.002Z
 tags: 
   - video editing software
   - video editing
@@ -69,10 +69,7 @@ After that, move the red marker to the end of the scene, and repeat this again t
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ####
@@ -88,10 +85,7 @@ If you don't want to choose the transition one by one, let the software choose t
 ![edit MP4 files](https://images.wondershare.com/filmora/article-images/filmora-transition.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ####
@@ -107,6 +101,10 @@ No problem.
 Just highlight your MP4 video, right click and choose "Audio Detach". The audio file of your video will immediately be separated and appear on the music timeline. Since it is separated from the video, you can easily delete the audio track or replace it with your own music.
 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ####
 
@@ -135,19 +133,13 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 ![export edited MP4](https://images.wondershare.com/filmora/article-images/filmora-export-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -167,18 +159,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-impressive-initiations-podcasting-prose-poems/"><u>[New] In 2024, Impressive Initiations Podcasting Prose Poems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-essential-guide-to-cost-free-cam-screen-recording-apps-for-2024/"><u>[New] The Essential Guide to Cost-Free Cam Screen Recording Apps for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-directing-viewers-across-platforms-igtv-and-facebook/"><u>[Updated] 2024 Approved Directing Viewers Across Platforms IGTV & Facebook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastering-tiktoks-elements-success/"><u>2024 Approved Mastering TikTok's Elements Success</u></a></li>
-<li><a href="https://facebook.techidaily.com/cut-the-cord-the-essential-steps-before-dismantling-your-fb-life/"><u>Cut the Cord - The Essential Steps Before Dismantling Your FB Life</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/download-and-install-obs-studio-on-windows-mac-and-linux-computers/"><u>Download & Install OBS Studio on Windows, Mac & Linux Computers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-the-art-of-self-care-with-garmin-vivosmart-4-a-thorough-review-on-body-battery-levels-and-innovative-stress-detection-capabilities/"><u>Mastering the Art of Self-Care with Garmin Vivosmart #4 - A Thorough Review on Body Battery Levels and Innovative Stress Detection Capabilities</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlimited-gif-loops-top-free-creators-and-makers/"><u>New In 2024, Unlimited GIF Loops Top Free Creators and Makers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-and-fast-the-best-wmv-video-splitters/"><u>Updated 2024 Approved Free and Fast The Best WMV Video Splitters</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-android-video-editing-made-easy-top-10-free-and-paid-apps-for-2024/"><u>Updated Android Video Editing Made Easy Top 10 Free and Paid Apps for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-loop-your-videos-with-ease-10-best-free-online-looping-tools-for-2024/"><u>Updated Loop Your Videos with Ease 10 Best Free Online Looping Tools for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-most-wanted-android-apps-on-google-play-for-2024/"><u>Updated The Most Wanted Android Apps on Google Play for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-10-2d-animation-tools-free-and-paid-options/"><u>Updated Top 10 2D Animation Tools Free and Paid Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-countdown-configuration-in-obs-for-streamers-and-filmmakers/"><u>[New] In 2024, Countdown Configuration in OBS for Streamers and Filmmakers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-maximize-productivity-with-zoom-scheduling-techniques-for-2024/"><u>[New] Maximize Productivity with Zoom Scheduling Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-reviving-the-disappearing-video-icon-on-fb-watch-platform/"><u>[New] Reviving the Disappearing Video Icon on FB Watch Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-webcams-for-professional-podcasting/"><u>[New] Superior Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-12-pro-max-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 12 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y17s-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y17s</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-guide-to-effective-lut-implementation/"><u>In 2024, The Editor's Guide to Effective LUT Implementation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-vignette-apps-for-mobile-devices-free-and-premium-options-for-2024/"><u>New Top Vignette Apps for Mobile Devices Free and Premium Options for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-players-handbook-mastering-roller-champions-crossplay-on-pc/"><u>Ultimate Player's Handbook: Mastering Roller Champions Crossplay on PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ma-for-2024/"><u>Updated Ma for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-simplify-your-workflow-gopro-quik-video-editing-made-easy-on-macbook-for-2024/"><u>Updated Simplify Your Workflow GoPro Quik Video Editing Made Easy on MacBook for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-jaycut-handbook-mastering-free-online-video-editing-in-no-time/"><u>Updated The Jaycut Handbook Mastering Free Online Video Editing in No Time</u></a></li>
 </ul></div>
 

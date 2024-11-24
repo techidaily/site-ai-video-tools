@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Unleash Your Creativity Making Videos From Photos and Soundtracks
-date: 2024-11-07T19:05:57.235Z
-updated: 2024-11-15T01:14:44.834Z
+date: 2024-11-17T16:58:57.649Z
+updated: 2024-11-23T20:22:21.512Z
 tags: 
   - video editing software
   - video editing
@@ -47,9 +47,17 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
 
@@ -60,6 +68,10 @@ Adding transitions between images can make the story go smoothly. Go Transitions
 If you want to express your feelings or explain something in the slideshow, you can simply add texts to the image. Click Titles at the top to browse the available caption styles. Once you've picked a title style, drag it to the Timeline.
 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. Select music
 
@@ -74,10 +86,7 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -89,13 +98,6 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 3\. Personalize video slideshow with stunning transitions, intro/credits, and sound effects.
 * 4\. Apply more advanced video effects like Mosaic, Face Off, Jump Cut and more.
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -114,20 +116,10 @@ Save your slideshow in different formats, choose from ready-made presets for all
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -144,20 +136,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-transform-your-gaming-experience-kinemaster-pros-and-10-online-counterparts/"><u>[New] Transform Your Gaming Experience KineMaster Pros & 10 Online Counterparts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/connecting-your-playstation-5-dualsense-controller-with-windows-11-a-step-by-step-guide/"><u>Connecting Your PlayStation 5 DualSense Controller with Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-deal-on-new-ipad-pros-save-up-to-700-this-labor-day-with-our-comprehensive-guide/"><u>Exclusive Deal on New iPad Pros! Save up to $700 This Labor Day with Our Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f15-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F15 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-12-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 12 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-red-magic-9-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nubia Red Magic 9 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-c51-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme C51 Without PUK Codes</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-x8b-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X8b working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-premiere-pro-on-mac-the-industry-standard-for-video-editing-pros-for-2024/"><u>New Premiere Pro on Mac The Industry Standard for Video Editing Pros for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/reduce-file-size-download-virtualdub-for-mpeg2-compression-for-2024/"><u>Reduce File Size Download VirtualDub for MPEG2 Compression for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/igh-broadcasting-your-first-steps-in-youtube-live-via-obs-for-2024/"><u>Sky-High Broadcasting Your First Steps in Youtube Live via OBS for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-8k-video-editing-software/"><u>Updated 2024 Approved Best 8K Video Editing Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-ditch-sony-vegas-explore-the-best-video-editing-alternatives-for-windows/"><u>Updated 2024 Approved Ditch Sony Vegas Explore the Best Video Editing Alternatives for Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-revolutionize-your-videos-best-resolution-enhancement-tools/"><u>Updated 2024 Approved Revolutionize Your Videos Best Resolution Enhancement Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-designing-effective-lower-thirds-in-final-cut-pro-x/"><u>Updated In 2024, Designing Effective Lower Thirds in Final Cut Pro X</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>[New] Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-free-logo-blueprints-to-refine-and-personalize-your-symbol/"><u>[Updated] 2024 Approved Free Logo Blueprints to Refine and Personalize Your Symbol</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-conquered-creativity-unleashing-photo-potential-on-snapchat-for-2024/"><u>[Updated] Conquered Creativity Unleashing Photo Potential on Snapchat for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-decade-well-spent-mondlys-achievements/"><u>A Decade Well Spent: Mondly’s Achievements</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c12-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C12 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y100t-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y100t by Name | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-compressing-webm-videos-online-for-2024/"><u>New The Ultimate Guide to Compressing WebM Videos Online for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-free-vob-video-editors-for-2024/"><u>New The Ultimate List of Free VOB Video Editors for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamless-bi-directional-file-synchronization-between-directories-using-windows-11-features/"><u>Seamless Bi-Directional File Synchronization Between Directories Using Windows 11 Features</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/take-your-videos-to-the-next-level-1080p-video-editing-solutions-for-2024/"><u>Take Your Videos to the Next Level 1080P Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-best-explainer-video-makers-for-businesses-for-2024/"><u>The Best Explainer Video Makers for Businesses for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-top-10-slow-motion-video-players-for-2024/"><u>The Ultimate Guide Top 10 Slow Motion Video Players for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-fifa-players-visualized-data-infographics-for-2024/"><u>Top FIFA Players Visualized Data Infographics for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-filmora-13-editor-download-create-stunning-videos/"><u>Updated 2024 Approved Free Filmora 13 Editor Download Create Stunning Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-slow-down-your-footage-10-video-editing-software-for-stunning-results/"><u>Updated Slow Down Your Footage 10 Video Editing Software for Stunning Results</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark 10C? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Recreating Retro Tech: A Custom-Built Replica of the Iconic 1986 Apple Macintosh Plus"
-date: 2024-11-07T21:41:15.687Z
-updated: 2024-11-13T20:30:58.019Z
+date: 2024-11-22T04:15:19.611Z
+updated: 2024-11-24T11:45:20.003Z
 tags:
   - desktop
 categories:
@@ -54,6 +54,10 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,31 +81,17 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-get-hd-quality-facebook-videos-on-pcmobile/"><u>[Updated] In 2024, Get HD Quality Facebook Videos on PC/Mobile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-preserve-your-favorite-tracks-from-youtube-safely-and-for-free/"><u>[Updated] In 2024, How to Preserve Your Favorite Tracks From YouTube Safely & for Free</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-revolutionary-social-networking-tools-for-2024/"><u>[Updated] Revolutionary Social Networking Tools for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1-free-easy-steps-to-restore-deleted-data-from-your-hard-drive/"><u>1. [FREE] Easy Steps to Restore Deleted Data From Your Hard Drive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-targus-screen-drivers-in-windows-operating-systems-windows-1087/"><u>How to Update Your Targus Screen Drivers in Windows Operating Systems (Windows 10/8/7)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lava-yuva-3-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lava Yuva 3 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-3d-modeling-applications-for-animators-for-2024/"><u>Leading 3D Modeling Applications for Animators for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-best-video-trailer-design-software-for-mac-and-pc-2023-update/"><u>New 2024 Approved The Best Video Trailer Design Software for Mac and PC (2023 Update)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-x-crash-fix-solutions-for-2024/"><u>New Final Cut Pro X Crash Fix Solutions for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avi-video-editor-for-windows-8-latest-2023-update-for-seamless-editing/"><u>New In 2024, AVI Video Editor for Windows 8 Latest 2023 Update for Seamless Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-zero-cost-mod-video-editors-a-comprehensive-list/"><u>New In 2024, Best Zero-Cost MOD Video Editors A Comprehensive List</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-countdown-to-success-a-3-step-guide-to-adding-timers-in-fcpx/"><u>New In 2024, Countdown to Success A 3-Step Guide to Adding Timers in FCPX</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-jaw-dropping-glitch-art-with-these-free-online-generators/"><u>New In 2024, Create Jaw-Dropping Glitch Art with These Free Online Generators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-here-are-the-top-ten-movie-trailer-apps-for-iphones-and-ipads-you-can-use-to-create-eye-catching-trailers-for-all-types-of-videos-you-create/"><u>New In 2024, Here Are the Top Ten Movie Trailer Apps for iPhones and iPads You Can Use to Create Eye-Catching Trailers for All Types of Videos You Create</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-professional-grade-4k8k-video-editing-the-top-software-choices/"><u>New In 2024, Professional-Grade 4K/8K Video Editing The Top Software Choices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-5-best-free-m4a-editor-software/"><u>New In 2024, Top 5 Best Free M4A Editor Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-iphone-and-ipad-video-montage-makers/"><u>New In 2024, Top iPhone and iPad Video Montage Makers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-premier-black-friday-video-game-bargains-the-ultimate-guide-oct-24-edition-techspot/"><u>Top Premier Black Friday Video Game Bargains: The Ultimate Guide - Oct '24 Edition | TechSpot</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-revolutionize-your-facebook-experience-with-auto-play-videos-for-2024/"><u>[New] Revolutionize Your Facebook Experience with Auto-Play Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-funny-faces-crafting-7-cheeky-youtube-comedy-videos/"><u>[Updated] Funny Faces Crafting 7 Cheeky YouTube Comedy Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unbeatable-ps1-emulators-for-high-quality-gaming/"><u>[Updated] In 2024, Unbeatable PS1 Emulators for High-Quality Gaming</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-quick-and-easy-extracting-hd-videos-from-vimeo-to-mp4-format-for-2024/"><u>[Updated] Quick & Easy Extracting HD Videos From Vimeo to MP4 Format for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-mend-shaky-or-stuttering-visual-content-a-complete-home-based-video-restoration-manual-with-subtitles/"><u>How To Mend Shaky or Stuttering Visual Content – A Complete Home-Based Video Restoration Manual (With Subtitles)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-14-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 14 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-trending-android-apps-on-google-play-this-month-for-2024/"><u>New Top-Trending Android Apps on Google Play This Month for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-c67-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme C67 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-in-flight-djis-mavic-pro-breakdown-for-2024/"><u>The Future in Flight DJI's Mavic Pro Breakdown for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-flip-it-how-to-reverse-video-in-final-cut-pro-2023-update/"><u>Updated 2024 Approved Flip It! How to Reverse Video in Final Cut Pro 2023 Update</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-effortless-4k-video-editing-the-top-8-proxy-video-editors-for-2024/"><u>Updated Effortless 4K Video Editing The Top 8 Proxy Video Editors for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-avi-video-rotators-free-solutions-for-all-platforms/"><u>Updated Top-Rated AVI Video Rotators Free Solutions for All Platforms</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

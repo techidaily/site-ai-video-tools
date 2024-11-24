@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-11-11T16:15:01.557Z
-updated: 2024-11-15T01:39:13.696Z
+date: 2024-11-17T01:14:40.406Z
+updated: 2024-11-23T17:05:40.366Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -53,13 +57,25 @@ To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -87,6 +103,10 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
 
@@ -121,27 +141,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-instagram-video-sharing-tips/"><u>[Updated] Instagram Video Sharing Tips</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-stream-video-smoothly-save-pcmac-screens-to-youtube/"><u>2024 Approved Stream Video Smoothly Save PC/Mac Screens to YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/frame-freedom-top-9-ways-to-banish-lag-from-your-windows-videos/"><u>Frame Freedom: Top 9 Ways to Banish Lag From Your Windows Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-save-location-error-on-pcs/"><u>How to Correct the Save Location Error on PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-following-components-are-required-error-on-windows-10-and-11/"><u>How to Fix the “Following Components Are Required” Error on Windows 10 & 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-device-connectivity-problems-for-effective-casting/"><u>How to Resolve Windows 11 Device Connectivity Problems for Effective Casting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-edit-like-a-pro-the-ultimate-free-guide-to-gopro-video-editing/"><u>New 2024 Approved Edit Like a Pro The Ultimate Free Guide to GoPro Video Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-home-movie-magic-simple-yet-effective-video-editing-techniques/"><u>New 2024 Approved Home Movie Magic Simple yet Effective Video Editing Techniques</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files/"><u>New 2024 Approved Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-video-making-on-mac-top-tools-and-tips/"><u>New 2024 Approved The Ultimate Guide to Video Making on Mac Top Tools and Tips</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-adjusting-video-playback-speed-in-quicktime-a-beginners-guide-for-2024/"><u>New Adjusting Video Playback Speed in QuickTime A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-experience-fcp-for-free-90-day-trial-inside-for-2024/"><u>New Experience FCP for Free 90-Day Trial Inside for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimize-and-power-up-smart-strategies-for-modern-devices-according-to-tom/"><u>Optimize and Power Up: Smart Strategies for Modern Devices, According to Tom</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-gameplay-experience-resolving-fps-dips-in-the-dragons-dogma-ii-adventure/"><u>Optimizing Gameplay Experience: Resolving FPS Dips in the Dragon's Dogma II Adventure</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enjoy-uninterrupted-viewing-top-20-youtube-download-apps/"><u>[New] In 2024, Enjoy Uninterrupted Viewing Top 20 YouTube Download Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/erfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>[New] Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts-for-2024/"><u>[New] Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-websites-easy-alarm-ringtone-downloads/"><u>[Updated] Ultimate Websites Easy Alarm Ringtone Downloads</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-epub-reading-on-older-ios-devices-a-guide-for-iphone-users-models-654/"><u>Effortless ePub Reading on Older iOS Devices: A Guide for iPhone Users (Models 6/5/4)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/halloween-deals-blast-of-wonderfox-enjoy-discounts-up-to-70-in-october-spooktacular/"><u>Halloween Deals Blast of WonderFox: Enjoy Discounts up to 70% in October Spooktacular!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-c55-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fcpx-problem-solving-essentials-top-tips-and-tricks/"><u>New 2024 Approved FCPX Problem-Solving Essentials Top Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-game-recording-made-easy-3-options-for-every-gamer/"><u>New 2024 Approved Game Recording Made Easy 3 Options for Every Gamer</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mac-users-download-vllo-and-find-the-best-alternatives/"><u>New 2024 Approved Mac Users Download VLLO and Find the Best Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-free-divx-video-editors-for-cutting-and-trimming/"><u>New 2024 Approved S Top Free Divx Video Editors for Cutting and Trimming</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vn-video-editor-apk-review-a-powerful-video-editing-tool/"><u>New 2024 Approved VN Video Editor APK Review A Powerful Video Editing Tool?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-cut-to-the-chase-get-direct-access-to-filmora-discount-codes-for-2024/"><u>New Cut to the Chase Get Direct Access to Filmora Discount Codes for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-easy-video-editing-how-to-reverse-clips-in-final-cut-pro-2023-tutorial-for-2024/"><u>New Easy Video Editing How to Reverse Clips in Final Cut Pro 2023 Tutorial for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
