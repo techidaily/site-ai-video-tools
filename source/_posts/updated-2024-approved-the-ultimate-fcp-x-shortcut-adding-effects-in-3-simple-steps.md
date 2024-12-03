@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-11-17T01:14:40.406Z
-updated: 2024-11-23T17:05:40.366Z
+date: 2024-12-01T23:21:57.712Z
+updated: 2024-12-02T20:47:31.234Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -53,29 +49,25 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -94,19 +86,23 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
 
@@ -126,6 +122,10 @@ The process of applying effects is the same for all effects you apply from the E
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -141,20 +141,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enjoy-uninterrupted-viewing-top-20-youtube-download-apps/"><u>[New] In 2024, Enjoy Uninterrupted Viewing Top 20 YouTube Download Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/erfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>[New] Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts-for-2024/"><u>[New] Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-websites-easy-alarm-ringtone-downloads/"><u>[Updated] Ultimate Websites Easy Alarm Ringtone Downloads</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/effortless-epub-reading-on-older-ios-devices-a-guide-for-iphone-users-models-654/"><u>Effortless ePub Reading on Older iOS Devices: A Guide for iPhone Users (Models 6/5/4)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/halloween-deals-blast-of-wonderfox-enjoy-discounts-up-to-70-in-october-spooktacular/"><u>Halloween Deals Blast of WonderFox: Enjoy Discounts up to 70% in October Spooktacular!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-c55-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fcpx-problem-solving-essentials-top-tips-and-tricks/"><u>New 2024 Approved FCPX Problem-Solving Essentials Top Tips and Tricks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-game-recording-made-easy-3-options-for-every-gamer/"><u>New 2024 Approved Game Recording Made Easy 3 Options for Every Gamer</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mac-users-download-vllo-and-find-the-best-alternatives/"><u>New 2024 Approved Mac Users Download VLLO and Find the Best Alternatives</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-free-divx-video-editors-for-cutting-and-trimming/"><u>New 2024 Approved S Top Free Divx Video Editors for Cutting and Trimming</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vn-video-editor-apk-review-a-powerful-video-editing-tool/"><u>New 2024 Approved VN Video Editor APK Review A Powerful Video Editing Tool?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-cut-to-the-chase-get-direct-access-to-filmora-discount-codes-for-2024/"><u>New Cut to the Chase Get Direct Access to Filmora Discount Codes for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-easy-video-editing-how-to-reverse-clips-in-final-cut-pro-2023-tutorial-for-2024/"><u>New Easy Video Editing How to Reverse Clips in Final Cut Pro 2023 Tutorial for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-webcams-for-streaming-elevate-your-viewer-experience-on-twitch-for-2024/"><u>[Updated] Best Webcams for Streaming Elevate Your Viewer Experience on Twitch for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-apples-revolutionary-vision-pro-set-for-potential-february-release-introducing-the-ultimate-streamlined-purchase-experience/"><u>1. Apple's Revolutionary Vision Pro Set for Potential February Release: Introducing the Ultimate, Streamlined Purchase Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rgbs-place-in-the-world-of-srgb-based-color-systems/"><u>2024 Approved RGB's Place in the World of Srgb-Based Color Systems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-8-honest-video-promotion-services/"><u>2024 Approved Unveiling 8 Honest Video Promotion Services</u></a></li>
+<li><a href="https://article-files.techidaily.com/deep-dive-into-lg-bp350-display-technology-for-2024/"><u>Deep Dive Into LG BP350 Display Technology for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-se-2020-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone SE (2020)? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-x7b-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor X7b Pattern Lock Screen</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-tak-for-2024/"><u>New Tak for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-4k-video-editing-potential-the-best-proxy-video-editing-apps/"><u>New Unlock 4K Video Editing Potential The Best Proxy Video Editing Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/slow-and-steady-wins-the-game-top-10-video-players-for-2024/"><u>Slow and Steady Wins the Game Top 10 Video Players for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-10-steps-to-optimize-your-insta-storytelling/"><u>The Ultimate 10 Steps to Optimize Your Insta Storytelling</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-save-money-now-the-4-most-reliable-sources-for-filmora-discounts/"><u>Updated In 2024, Save Money Now The 4 Most Reliable Sources for Filmora Discounts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-secret-to-captivating-videos-freeze-frames-made-easy/"><u>Updated In 2024, The Secret to Captivating Videos Freeze Frames Made Easy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-picture-in-picture-perfection-tips-and-tricks-for-final-cut-pro-for-2024/"><u>Updated Picture-in-Picture Perfection Tips and Tricks for Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-free-video-rotation-software-for-iphone-2023-update/"><u>Updated The Best Free Video Rotation Software for iPhone (2023 Update)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate DVR Face-Off TiVo vs Comcast Xfinity
-date: 2024-11-20T10:26:51.540Z
-updated: 2024-11-23T22:16:13.332Z
+date: 2024-11-26T22:47:09.655Z
+updated: 2024-12-03T03:12:40.392Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. TiVo vs Comcast: Services available
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
@@ -65,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  TiVos also recognize SD and HD as just different versions of the same show, instead of different channels like Comcast does, so you can set your DVR to just record HD. This makes it somewhat harder to just record HD on a TiVo.
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. TiVo vs Comcast: Connection to a network
 
@@ -88,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
@@ -108,15 +104,15 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
  TiVo’s device remote has a sleek layout called the “peanut”.
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Summary**
 
@@ -125,10 +121,14 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -145,20 +145,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-ultimate-studio-tracker-xvideoexploration/"><u>[Updated] 2024 Approved Ultimate Studio Tracker XVideoExploration</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-harmonizing-colors-tips-for-a-cohesive-gopro-scene-for-2024/"><u>[Updated] Harmonizing Colors Tips for a Cohesive GoPro Scene for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-perfecting-your-screen-recording-during-games-for-2024/"><u>[Updated] Perfecting Your Screen Recording During Games for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/does-the-motorola-edgeplus-deliver-on-flagship-features-or-disappoint-where-it-matters-most/"><u>Does the Motorola Edge+ Deliver on Flagship Features or Disappoint Where It Matters Most?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c110-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C110 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-rated-webm-to-mp3-conversion-software/"><u>New In 2024, Top-Rated WebM to MP3 Conversion Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-transitions-in-final-cut-pro-3-expert-methods-for-2024/"><u>New Unleash the Power of Transitions in Final Cut Pro 3 Expert Methods for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964507389-pineboards-innovative-combo-package-features-raspberry-pi-enhanced-with-neural-processing-unit-and-m2-nvme-storage-now-available/"><u>Pineboards' Innovative Combo Package Features Raspberry Pi Enhanced with Neural Processing Unit and M.2 NVMe Storage - Now Available</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-leading-speech-to-text-solutions-for-this-year/"><u>The Leading Speech-to-Text Solutions for This Year</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-like-a-pro-with-wax-a-free-video-editing-software-guide/"><u>Updated 2024 Approved Edit Like a Pro with Wax A Free Video Editing Software Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mac-video-editing-made-easy-with-mkvtoolnix-software/"><u>Updated 2024 Approved Mac Video Editing Made Easy with MKVtoolnix Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-wax-video-editor-a-comprehensive-guide-to-editing-like-a-pro/"><u>Updated 2024 Approved Wax Video Editor A Comprehensive Guide to Editing Like a Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-get-adobe-premiere-pro-cs6-mac-version-absolutely-free-for-2024/"><u>Updated Get Adobe Premiere Pro CS6 Mac Version - Absolutely Free for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-without-limits-15plus-free-apps-to-save-your-favorite-content-for-2024/"><u>Watch Without Limits 15+ Free Apps to Save Your Favorite Content for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/bes-secrets-to-successful-video-marketing-uncovered/"><u>YouTube's Secrets to Successful Video Marketing Uncovered</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-affordable-gopro-purchase-guide-tips-and-tricks/"><u>[New] Affordable GoPro Purchase Guide Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-freshest-beats-newly-trending-music-for-youtube-short-videos/"><u>[Updated] 2024 Approved Freshest Beats Newly Trending Music for YouTube Short Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-infinix-hot-40i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Infinix Hot 40i Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-12-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme 12 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-final-cut-pro-slideshow-creation-guide-for-beginners-for-2024/"><u>New The Ultimate Final Cut Pro Slideshow Creation Guide for Beginners for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/overview-of-various-cameras-used-in-film-and-tv/"><u>Overview of Various Cameras Used in Film & TV</u></a></li>
+<li><a href="https://article-tips.techidaily.com/simplifying-post-production-using-luts-in-after-effects-for-2024/"><u>Simplifying Post Production Using LUTs in After Effects for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-premiere-pro-setup-hardware-and-software-essentials-for-2024/"><u>The Ultimate Premiere Pro Setup Hardware and Software Essentials for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-snapshots-made-easy-10-best-converters-for-turning-videos-into-photos/"><u>Updated 2024 Approved Video Snapshots Made Easy 10 Best Converters for Turning Videos Into Photos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-take-your-audio-to-the-next-level-top-10-editing-software/"><u>Updated Take Your Audio to the Next Level Top 10 Editing Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/video-editing-on-a-shoestring-best-software-for-2024/"><u>Video Editing on a Shoestring Best Software for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-coin-experts-cant-be-replaced-by-gpt-analysis-tools/"><u>Why Coin Experts Can't Be Replaced by GPT Analysis Tools</u></a></li>
 </ul></div>
 

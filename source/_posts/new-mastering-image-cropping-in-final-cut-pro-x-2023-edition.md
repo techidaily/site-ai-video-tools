@@ -1,7 +1,7 @@
 ---
 title: New Mastering Image Cropping in Final Cut Pro X 2023 Edition
-date: 2024-11-20T03:30:18.636Z
-updated: 2024-11-24T00:48:28.682Z
+date: 2024-11-28T22:38:58.834Z
+updated: 2024-12-02T19:50:16.307Z
 tags: 
   - video editing software
   - video editing
@@ -34,10 +34,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Crop an Image in Final Cut Pro X
 
 However, before I show how this is done, I need to explain one really important fact about video: all video uses what's called "fixed resolution." Fixed resolution means that high-definition video is always displayed at one of two sizes:
@@ -65,6 +61,10 @@ The easiest way to do this is to click the icon in the lower left corner of the 
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop003.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This displays the cropping tools in the Viewer.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop004.jpg)
@@ -74,7 +74,7 @@ Click the Trim button to turn on Trim mode. (This article discusses Trim and Cro
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop005.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Grab one of the blue dots and drag to hide portions of the frame. I generally grab a corner, but any blue dot will do.
@@ -92,7 +92,7 @@ When you have trimmed the image the way you want, click the "Done" button in the
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop008.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If no other clip is below the trimmed clip, the background will be black.
@@ -100,7 +100,7 @@ If no other clip is below the trimmed clip, the background will be black.
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
@@ -116,7 +116,7 @@ There are several ways we can choose to crop an image:
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop010.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click the Crop icon, as we illustrated above
@@ -127,6 +127,10 @@ There are several ways we can choose to crop an image:
 * Type Shift+C
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop012.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 \* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
 
@@ -150,10 +154,6 @@ When you are happy with the results, click the Done button in the top right corn
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop017.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Notice that the selected portion of the image now fills the frame. Even though there is a clip below our cropped clip, we don't see it.
 
 And, if you look closely, you'll see that the cropped image is softer (blurrier) than the original and edges are more likely to be stair-stepped.
@@ -161,6 +161,10 @@ And, if you look closely, you'll see that the cropped image is softer (blurrier)
 #### RESET
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop018.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To reset a cropped image back to its default settings, open the Inspector and click the small curved arrow to the right of the word "Crop."
 
@@ -173,10 +177,6 @@ Cropping is used to reframe an image, say from a medium shot to a close-up, but 
 I use both these techniques frequently in my own editing.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -193,20 +193,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-build-youtube-backlinks-for-your-channel/"><u>[Updated] 2024 Approved How to Build YouTube Backlinks for Your Channel</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-clear-video-logger-for-windows-10-systems/"><u>[Updated] In 2024, Clear Video Logger for Windows 10 Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-popular-photos-the-backstory/"><u>2024 Approved Popular Photos The Backstory</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-skype-recording-techniques-for-pc-mac-users/"><u>2024 Approved Skype Recording Techniques for PC, Mac Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/diagnosing-and-repairing-win-lsa-errors/"><u>Diagnosing and Repairing Win LSA Errors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-pro-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro with/without SIM Card</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>In 2024, The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-online-video-making-with-wevideo/"><u>New In 2024, Unleash Your Creativity Online Video Making with WeVideo</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/"><u>New Top-Rated Hand Drawing Animation Tools for Whiteboard Explainers</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-14-plus-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 14 Plus failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/out-with-five-inviting-winterscapes-for-video-filming-for-2024/"><u>Thaw Out with Five Inviting Winterscapes for Video Filming for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-high-flying-glion-dolly-e-scooter-a-review-on-its-pricey-swanky-and-rapid-deliverances/"><u>The High-Flying Glion Dolly E-Scooter: A Review on Its Pricey, Swanky, and Rapid Deliverances</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-avchd-video-editing-software-for-2024/"><u>The Ultimate Guide to AVCHD Video Editing Software for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-the-power-of-reverse-video-in-final-cut-pro/"><u>Updated 2024 Approved Unleash the Power of Reverse Video in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-best-time-lapse-video-editing-software-freeandpaid-for-2024/"><u>Updated Best Time-Lapse Video Editing Software Free&Paid for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-viral-potential-in-instagram-videos/"><u>[New] Unlocking Viral Potential in Instagram Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-seamless-conversion-excellence-with-these-top-8-tools/"><u>[Updated] In 2024, Seamless Conversion Excellence with These Top 8 Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-scan-and-store-your-old-printed-photos/"><u>2024 Approved How to Scan and Store Your Old Printed Photos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-motorola-g24-power-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Motorola G24 Power to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nubia-red-magic-9-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nubia Red Magic 9 Pro FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-nokia-c12-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Nokia C12 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/interlinked-networks-transferring-fb-videos-to-whatsapp/"><u>Interlinked Networks Transferring FB Videos to WhatsApp</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-your-videos-into-audio-top-mobile-conversion-apps/"><u>New In 2024, Transform Your Videos Into Audio Top Mobile Conversion Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-troubleshoot-avidemux-audio-problems-step-by-step-guide-2023/"><u>New In 2024, Troubleshoot Avidemux Audio Problems Step-by-Step Guide 2023</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mobile-3d-animation-made-easy-top-apps-for-android-and-iphone-for-2024/"><u>New Mobile 3D Animation Made Easy Top Apps for Android & iPhone for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps-for-2024/"><u>Updated How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-upgrade-your-videos-best-free-online-quality-improvers/"><u>Updated In 2024, Upgrade Your Videos Best Free Online Quality Improvers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-top-10-free-webm-video-editors-you-need-to-try-for-2024/"><u>Updated The Ultimate List Top 10 Free WebM Video Editors You Need to Try for 2024</u></a></li>
 </ul></div>
 
