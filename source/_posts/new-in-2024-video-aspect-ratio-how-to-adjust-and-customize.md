@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2024-11-28T18:01:11.081Z
-updated: 2024-12-02T19:25:46.647Z
+date: 2024-12-03T04:25:51.734Z
+updated: 2024-12-09T22:06:21.626Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -59,7 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -69,7 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -90,10 +90,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -101,6 +97,10 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,21 +171,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-analyzing-multi-angle-video-technology-trends-today/"><u>[New] Analyzing Multi-Angle Video Technology Trends Today</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/reating-unique-youtube-music-mixtapes-for-2024/"><u>[New] Creating Unique YouTube Music Mixtapes for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-exploring-androids-lightroom-app-an-in-depth-analysis-for-2024/"><u>[New] Exploring Android's Lightroom App An In-Depth Analysis for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-3d-model-suites-for-animation-artists/"><u>[Updated] Best 3D Model Suites for Animation Artists</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-your-movie-magic-free-text-animation-basics/"><u>2024 Approved Boost Your Movie Magic Free Text Animation Basics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-t2x-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo T2x 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-converting-your-vhs-tapes-into-digital-formats-using-a-pc/"><u>Step-by-Step Guide: Converting Your VHS Tapes Into Digital Formats Using a PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-repair-instructions-for-minecraft-loading-errors/"><u>Step-by-Step Repair Instructions for Minecraft Loading Errors</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-slomo-recording-tool-assessment-guide/"><u>The Ultimate SloMo Recording Tool Assessment Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cloud-based-vertical-video-editing-software-top-picks-2023/"><u>Updated 2024 Approved Cloud-Based Vertical Video Editing Software Top Picks 2023</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-download-virtualdub-mpeg2-modded-version-and-follow-this-article-to-learn-how-to-use-virtualdub-mpeg2-to-compress-large-mpeg2-videos-e/"><u>Updated 2024 Approved Download VirtualDub MPEG2 Modded Version and Follow This Article to Learn How to Use VirtualDub MPEG2 to Compress Large MPEG2 Videos Easily and Fast</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-your-creativity-top-10-free-quicktime-mov-editors/"><u>Updated 2024 Approved Unleash Your Creativity Top 10 Free QuickTime MOV Editors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-break-down-avi-files-into-smaller-clips-a-simple-tutorial-for-2024/"><u>Updated How to Break Down AVI Files Into Smaller Clips A Simple Tutorial for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-free-green-screen-video-editing-apps-for-android-and-ios-users/"><u>Updated In 2024, Best Free Green Screen Video Editing Apps for Android and iOS Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-cutting-3gp-files-heres-a-simple-and-fast-solution/"><u>Updated In 2024, Cutting 3GP Files? Heres a Simple and Fast Solution</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-10-best-free-whiteboard-animation-programs/"><u>Updated The Ultimate List 10 Best Free Whiteboard Animation Programs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-xbox-game-recording-techniques-for-gamers/"><u>[Updated] Xbox Game Recording Techniques for Gamers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-gamers-journey-through-the-stars-a-complete-review-of-stellaris-galactic-adventure/"><u>A Gamer's Journey Through the Stars: A Complete Review of Stellaris' Galactic Adventure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/artificial-intelligence-in-winxvideo-comprehensive-faq-and-answer-guide/"><u>Artificial Intelligence in Winxvideo: Comprehensive FAQ & Answer Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/beenden-sie-die-windows-7-startup-schleife-dauerhaft-entdecken-sie-vier-effektive-losungsansatze/"><u>Beenden Sie Die Windows 7 Startup-Schleife Dauerhaft: Entdecken Sie Vier Effektive Lösungsansätze</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-12-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 12 Pro?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-y27-4g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Y27 4G Phone? Unlock It Now</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-most-loved-iphone-apps-user-favorites-and-critic-picks-for-2024/"><u>New Most Loved iPhone Apps User Favorites and Critic Picks for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/resolvendo-rapidamente-falhas-no-processo-de-resgate-da-copia-de-seguranca-do-windows-11-dicas-praticas-e-alternativas/"><u>Resolvendo Rapidamente Falhas No Processo De Resgate Da Cópia De Segurança Do Windows 11: Dicas Práticas E Alternativas</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-avidemux-tutorial-cropping-videos-like-a-pro/"><u>Updated 2024 Approved The Ultimate Avidemux Tutorial Cropping Videos Like a Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-webm-to-mp4-converter-roundup-top-10-picks/"><u>Updated 2024 Approved WebM to MP4 Converter Roundup Top 10 Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-color-enhancement-techniques-in-final-cut-pro-for-2024/"><u>Updated Color Enhancement Techniques in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-guide-to-movie-trailer-apps-for-iphone-and-ipad-users/"><u>Updated In 2024, The Ultimate Guide to Movie Trailer Apps for iPhone and iPad Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-best-free-green-screen-apps-for-mobile-for-2024/"><u>Updated Unleash Your Creativity Best Free Green Screen Apps for Mobile for 2024</u></a></li>
 </ul></div>
 
