@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Blur Brilliance The Ultimate Guide to Bokeh Effects Apps
-date: 2024-12-02T20:20:44.686Z
-updated: 2024-12-10T04:25:29.136Z
+date: 2024-12-14T03:26:58.075Z
+updated: 2024-12-16T04:17:32.142Z
 tags: 
   - video editing software
   - video editing
@@ -54,9 +54,17 @@ To create the Bokeh effect in Focos:
 
 ![add bokeh effects with Focos app](https://images.wondershare.com/filmora/article-images/best-bokeh-effect-app-focos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. To add more Bokeh effects, select the star Effect feature in the bottom right of the screen.
 
 ![add more bokeh effects with Focos app](https://images.wondershare.com/filmora/article-images/add-more-bokeh-effect-focos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Once you’re happy with the effect, this app allows you to save to your camera roll or share to other apps, including Instagram.
 
@@ -73,12 +81,16 @@ To create the Bokeh effect in Photo Editor Pro:
 3. Choose between a variety of backgrounds and blending tools and adjust using the apps adjustable features, and download to camera roll or upload to a third-party app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\.  Auto Blur Background - [Android](https://play.google.com/store/apps/details?id=com.judi.autoblur&hl=en%5FUS)\- FREE
 
 ![add more bokeh effects with  Auto Blur Background app](https://images.wondershare.com/filmora/article-images/auto-blur-background-bokeh-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Auto Blur Background app for iOS and Android is another free resource for creating an image with the Bokeh effect. The app allows users to select the size and desired amount of blur for your background, giving the user a lot of control over the outcome of their photo. It enables users to add overlays in addition to the bokeh effect to enhance the overall outcome.
 
@@ -100,16 +112,12 @@ To create the Bokeh effect in SnapSeed:
 
 ![add filters with SnapSeed app](https://images.wondershare.com/filmora/article-images/add-filter-snapseed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. After selecting your filter, choose **Tools** and select the **Lens Blur Option** **,** and adjust your blur strength accordingly**;**
 
 ![add  bokeh effects with SnapSeed app](https://images.wondershare.com/filmora/article-images/add-lens-blur-bokeh-effect.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Export and save to camera roll or upload to a third-party site.
@@ -126,6 +134,10 @@ To create the Bokeh effect in AfterFocus:
 2. Once you’ve selected your image, the app will prompt you to select whether you want to manually select the focus area or if you want their software to detect it for you;
 3. Several blurring tools will appear, use the **focus selector** tool to select the regions in which you’d like your image to be focused;
 4. Then use the **background selector** tool to select the background of your photo, and choose between lens, motion and zoom blur
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\.  Real Bokeh -[iOS](https://apps.apple.com/us/app/real-bokeh/id583783560) & [Android](https://play.google.com/store/apps/details?id=com.mobilab.realbokeh&hl=en%5FUS) \- $2.99
 
@@ -145,14 +157,14 @@ This app, designed for the iPhone, is a magnifying glass for photos, allowing us
 
 ![add  bokeh effects with  Bokeh Lens app](https://images.wondershare.com/filmora/article-images/bokeh-lens-for-ios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To create the Bokeh effect in Bokeh Lens:
 
 1. Download the app and allow the app access to your camera and camera roll, and select the image given your options (camera, camera roll);
 2. Using the image below, follow the **focus area** tools, **adjustable bokeh level** and more to achieve your perfect photo, and then export to camera roll or third party app
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\.  Blur Photo - [iOS](https://apps.apple.com/us/app/blur-photo-editor/id1048928936#?platform=iphone) & [Android](https://play.google.com/store/apps/details?id=com.vyroai.AiBlurEditor&referrer=utm%5Fsource%3Dgetandroidstuff) \- FREE
 
@@ -160,19 +172,11 @@ Blur photo uses a one click method to achieve auto blurred backgrounds to help y
 
 ![add bokeh effects with  Blur Photo app](https://images.wondershare.com/filmora/article-images/blur-photo-editor-bokeh-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To create the Bokeh effect in Blur Photo:
 
 1. Download the app and allow the app access to your camera and camera roll, and select the image given your options (camera, camera roll);
 2. You are given a variety of image sizing options, once completed, select **Blur**, from here you are able to adjust the size and amount of blur and your image is blurred by using your finger to glide over desired areas;
 1. Upon completion, export and save to camera roll or third-party app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 9\.  PhotoDirector -[iOS](https://apps.apple.com/us/app/photodirector-photo-editor/id907366587) & [Android](https://play.google.com/store/apps/details?id=com.cyberlink.photodirector&hl=en%5FUS)\- FREE
 
@@ -190,16 +194,16 @@ Although this app is the most expensive on the list, it also offers some of the 
 
 ![add bokeh effects with Tadaa SLR app](https://images.wondershare.com/filmora/article-images/tadaa-slr-bokeh-effect-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To create the Bokeh effect in Tadaa SLR:
 
 1. Download the app and allow the app access to your camera and camera roll, and then select the image given your options (camera, camera roll);
 2. Once image is imported, select the **Mask** tool, which you can use to select the portion of the image you’d like to keep in focus;
 3. You may then adjust the aperture, range, gloss and highlights via the modification tools provided at the bottom of the screen.
 4. Adjust to your liking and export!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Creating the Bokeh Effect Using the Portrait Mode Function on Your iPhone
 
@@ -214,7 +218,7 @@ To achieve the Bokeh effect through Portrait Mode, you must:
 ![add bokeh effects with Portrait Mode on iPhone](https://images.wondershare.com/filmora/article-images/iphone-portrait-mode-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Portrait mode will then allow you to choose your focal point, and do the rest of the work when it comes to blurring the background to create the Bokeh effect;
@@ -229,10 +233,6 @@ Note: If you want to add the bokeh effect to video on the desktop computer, you 
 Using the Bokeh effect can add a layer to your photography that takes it to the next level. While there are a variety of tools you can use to achieve this, I have covered the 10 best apps for iOS and Android users to accomplish Bokeh. And if third-party apps aren’t for you, don’t forget that iPhone user can also use Portrait Mode to achieve a great Bokeh outcome.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -249,18 +249,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-alchemy-made-accessible-discover-free-transformation-techniques-for-sound/"><u>[New] Audio Alchemy Made Accessible Discover Free Transformation Techniques for Sound</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-an-in-depth-look-at-time-lapse-photography-using-ipad/"><u>[New] In 2024, An In-Depth Look at Time-Lapse Photography Using iPad</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-leveraging-video-cropping-to-maximize-instagram-reach/"><u>[New] Leveraging Video Cropping to Maximize Instagram Reach</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-perfect-windows-photos-implementing-sound-and-visual-filters-guide/"><u>[Updated] Perfect Windows Photos Implementing Sound & Visual Filters Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-masterful-media-panels-ideal-screens-for-editors/"><u>2024 Approved Masterful Media Panels Ideal Screens for Editors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-moto-g73-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Moto G73 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-truthgpg-unraveling-its-true-nature-and-potential-scam-risks/"><u>Exploring TruthGPG: Unraveling Its True Nature & Potential Scam Risks</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-set-up-a-print-feature-for-readers-in-your-digital-flipbooks-on-flipbuildercom/"><u>How to Set Up a Print Feature for Readers in Your Digital Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/modest-class-video-gear-an-in-depth-review-of-vixias-hf-r800/"><u>Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-final-cut-face-off-what-sets-pro-apart-from-express/"><u>New 2024 Approved Final Cut Face-Off What Sets Pro Apart From Express</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-maximize-storage-a-step-by-step-guide-to-clearing-space-for-fcpx/"><u>New 2024 Approved Maximize Storage A Step-by-Step Guide to Clearing Space for FCPX</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-of-lego-stop-motion-experts/"><u>New 2024 Approved The Ultimate List of Lego Stop Motion Experts</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-edit-like-a-pro-top-free-vob-video-editors-for-2024/"><u>New Edit Like a Pro Top Free VOB Video Editors for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-speech-to-text-device-review/"><u>2024 Approved Speech-to-Text Device Review</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-pros-pathway-to-effective-discord-dialogue-and-reactions/"><u>2024 Approved The Pro's Pathway to Effective Discord Dialogue and Reactions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-android-brightening-essentials-stepwise-demystification/"><u>In 2024, Android Brightening Essentials - Stepwise Demystification</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-smart-7-hd-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Smart 7 HD Phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi Note 12 5G Phone?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-online-konvertalas-ezrede-klein-allamkor-vikon-rekam-online-halozat-operamacintosh/"><u>MP4 Online Konvertálás Ezrede Klein Államkör - Víkon Rekám Online Hálózat [Opera/Macintosh]</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-pro-audio-editing-essentials-top-8-software-for-industry-experts/"><u>New Pro Audio Editing Essentials Top 8 Software for Industry Experts</u></a></li>
+<li><a href="https://win-news.techidaily.com/overcoming-printer-network-troubleshooting-tips-and-solutions-expertise-from-yl-software/"><u>Overcoming Printer Network Troubleshooting: Tips and Solutions - Expertise From YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/switching-to-an-iphone-the-new-ipados-18-feature-from-wwdc-2024-might-just-tip-the-scales-for-you-macrumors-news/"><u>Switching to an iPhone? The New iPadOS 18 Feature From WWDC 2024 Might Just Tip the Scales for You | MacRumors News</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-managing-printers-in-windows-1011/"><u>The Essentials of Managing Printers in Windows 10/11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-advanced-video-editing-made-easy-adobe-premiere-pro-on-mac/"><u>Updated 2024 Approved Advanced Video Editing Made Easy Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-free-online-movie-making-software-top-picks-for-2024/"><u>Updated Free Online Movie Making Software Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-say-it-with-feeling-a-beginners-guide-to-making-a-valentines-day-video/"><u>Updated In 2024, Say It with Feeling A Beginners Guide to Making a Valentines Day Video</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-video-makers-with-music-for-android-iphone-and-ipad/"><u>Updated In 2024, The Ultimate List Video Makers with Music for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-of-the-best-16-free-movie-makers-no-experience-needed/"><u>Updated The Best of the Best 16 Free Movie Makers (No Experience Needed)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-time-lapse-mastery-a-step-by-step-guide-in-final-cut-pro-for-2024/"><u>Updated Time Lapse Mastery A Step-by-Step Guide in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

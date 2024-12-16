@@ -1,7 +1,7 @@
 ---
 title: New Speed Up Your Storytelling Mastering Time Lapses in Final Cut Pro
-date: 2024-11-29T02:18:02.932Z
-updated: 2024-12-03T03:55:30.863Z
+date: 2024-12-13T22:50:00.934Z
+updated: 2024-12-16T01:41:59.108Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Make a Time-Lapse Video in Final Cut Pro
@@ -55,7 +55,7 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
@@ -63,7 +63,7 @@ You can set any speed by adjusting the **Rate**. Reset the speed by clicking on 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
@@ -73,7 +73,7 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -83,7 +83,7 @@ If you have any questions about making time-lapse videos, feel free to drop a li
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -101,20 +101,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-the-art-of-viral-videos-1mplus-audience-journey/"><u>[New] In 2024, Mastering the Art of Viral Videos 1M+ Audience Journey</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premier-mobile-devices-top-gba-game-players/"><u>[Updated] 2024 Approved Premier Mobile Devices Top GBA Game Players</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-guide-to-avoid-instagram-auto-suggest-feature/"><u>[Updated] Guide to Avoid Instagram Auto-Suggest Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[Updated] Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-visual-enlightenment-mastering-hdr-images-in-photoshop/"><u>2024 Approved Visual Enlightenment Mastering HDR Images in Photoshop</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-14-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi 14 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-technology-tools-the-top-9-devices-and-gadgets-students-need-in-school/"><u>Essential Technology Tools: The Top 9 Devices and Gadgets Students Need in School</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-se-2022-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone SE (2022) Stuck On Activation Lock?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-ditch-the-search-get-exclusive-filmora-discounts-here/"><u>Updated 2024 Approved Ditch the Search Get Exclusive Filmora Discounts Here</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-flat-to-fabulous-converting-videos-for-vr-with-ease/"><u>Updated 2024 Approved From Flat to Fabulous Converting Videos for VR with Ease</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-how-to-edit-videos-with-quicktime-on-mac-for-2024/"><u>Updated Unleash Your Creativity How to Edit Videos with QuickTime on Mac for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-windows-10-webcam-recording-made-easy-top-10-software/"><u>Updated Windows 10 Webcam Recording Made Easy Top 10 Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/whiteboard-animation-made-easy-top-5-hand-drawn-video-creators-for-2024/"><u>Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-installation-now-successfully-completed-after-previous-failures/"><u>Windows 11 Installation Now Successfully Completed After Previous Failures</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/windows-live-movie-maker-tutorial-creating-stunning-slow-motion-videos-for-2024/"><u>Windows Live Movie Maker Tutorial Creating Stunning Slow Motion Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-your-live-events-merging-obs-and-zoom/"><u>[New] In 2024, Streamlining Your Live Events Merging OBS and Zoom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-techniques-to-create-compelling-vlogger-dialogue-plans-for-2024/"><u>[New] Techniques to Create Compelling Vlogger Dialogue Plans for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-pushes-forward-with-advanced-ai-discover-the-capabilities-of-its-latest-innovations/"><u>Apple Pushes Forward with Advanced AI: Discover the Capabilities of Its Latest Innovations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-vs-retail-a-comprehensive-guide-on-building-or-buying-a-pc-tailored-for-you/"><u>DIY vs Retail: A Comprehensive Guide on Building or Buying a PC Tailored for You</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/get-the-latest-in-desktop-technology-with-asuss-nuc-14-proplus-just-860/"><u>Get the Latest in Desktop Technology with Asus's NUC 14 Pro+ - Just $860</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/logiciels-de-sauvegarde-par-image-gratuits-les-plus-efficaces-pour-windows-versions-11-10-8-and-e/"><u>Logiciels De Sauvegarde Par Image Gratuits Les Plus Efficaces Pour Windows (Versions 11, 10, 8 & E)</u></a></li>
+<li><a href="https://games-able.techidaily.com/pioneering-lightweight-models-in-game-development/"><u>Pioneering Lightweight Models in Game Development</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-precision-a-comprehensive-tutorial-for-the-android-measuring-tool/"><u>Unlocking Precision: A Comprehensive Tutorial for the Android Measuring Tool</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-cream-of-the-crop-top-android-apps/"><u>Updated 2024 Approved The Cream of the Crop Top Android Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-free-gif-animation-studios-for-looping-fun-for-2024/"><u>Updated Free GIF Animation Studios for Looping Fun for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-trim-3gp-videos-a-step-by-step-guide/"><u>Updated In 2024, Trim 3GP Videos A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-top-5-free-m4a-file-editors-you-need/"><u>Updated The Top 5 Free M4A File Editors You Need</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-y200e-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y200e 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

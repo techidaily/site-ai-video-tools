@@ -1,7 +1,7 @@
 ---
 title: New Reverse, Rewind, Repeat Mastering Video Reversal in Final Cut Pro
-date: 2024-12-07T18:54:08.127Z
-updated: 2024-12-09T23:09:35.186Z
+date: 2024-12-15T08:53:23.762Z
+updated: 2024-12-16T06:09:09.336Z
 tags: 
   - video editing software
   - video editing
@@ -66,15 +66,15 @@ Hit that reverse option.
 
 ![ Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 3:**
 
 In case if you want to customize speed of reversed clip then use retiming handle and drag it to right or left as per need of decreasing or increasing the clip speed.
 
 ![ Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **Step 4:**
 
@@ -94,6 +94,10 @@ Now from pop-up menu select rewind option and choose desired speed limit for thi
 
 ![ Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 3:**
 
 Drag the retiming handler to adjust the speed as per need.
@@ -101,16 +105,12 @@ Drag the retiming handler to adjust the speed as per need.
 ![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Step 4:**
 
 Play the clip to view editing effects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## An Easier Way to Reverse A Video in Filmora
 
@@ -118,13 +118,13 @@ Play the clip to view editing effects.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1**: To upload a video, first click "Import." You may also simply drag and drop media files into the Media Library, and they will display on the preview/program monitor. You may see your videos in waveform display and Vectorscope format after you've added them to the timeline. You may also watch a live filmstrip preview to see what's going on in the video.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2**: Place the video on the video track by dragging and dropping it. You may select Speed and Duration by right-clicking it on the track. Then, on the Custom Speed panel, enable the Reverse Speed option. You may also select Reverse by clicking the Speed symbol in the toolbar.
 
@@ -133,7 +133,7 @@ Play the clip to view editing effects.
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Click “Export” to save your file.
@@ -157,18 +157,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/discovering-artistic-expression-top-film-tips-on-youtube-for-2024/"><u>Discovering Artistic Expression Top Film Tips on YouTube for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-audio-issues-how-to-resolve-discords-screen-sharing-sound-problem/"><u>Fixing Audio Issues: How to Resolve Discord's Screen Sharing Sound Problem</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-itel-s23plus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Itel S23+ Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-make-a-youtube-subscribe-link-easy/"><u>In 2024, How to Make a YouTube Subscribe Link - Easy!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-video-editing-apps-for-young-creators-free-and-paid-editions/"><u>New In 2024, Best Video Editing Apps for Young Creators Free and Paid Editions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-canon-video-editor-a-beginners-guide-to-editing-your-camcorder-footage/"><u>New In 2024, Canon Video Editor A Beginners Guide to Editing Your Camcorder Footage</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-stunning-videos-best-movie-makers-for-win-10/"><u>New In 2024, Create Stunning Videos Best Movie Makers for Win 10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-join-avi-files-for-free-top-10-reliable-avi-joiner-software/"><u>New In 2024, Join AVI Files for Free Top 10 Reliable AVI Joiner Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2212465-9780007536924-pisces-2014-your-personal-horoscope/"><u>Pisces 2014: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-10-ios-applications-for-thoroughly-clearing-your-phones-memory-and-sensitive-data/"><u>Top 10 iOS Applications for Thoroughly Clearing Your Phone's Memory & Sensitive Data</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-techniques-for-high-resolution-webcam-videos/"><u>Top Techniques for High-Resolution WebCam Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-psd-style-boosting-for-2024/"><u>Ultimate PSD Style Boosting for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-future-proofing-data-top-2024-cloud-choices/"><u>[New] Future-Proofing Data Top 2024 Cloud Choices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-tips-on-adding-yt-playlists-to-your-website-content/"><u>[New] In 2024, Expert Tips on Adding YT Playlists to Your Website Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/5-strategies-for-storing-mov-on-windows-10/"><u>5 Strategies for Storing .mov on Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-your-videos-into-audio-top-mobile-conversion-apps/"><u>New In 2024, Transform Your Videos Into Audio Top Mobile Conversion Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-troubleshoot-avidemux-audio-problems-step-by-step-guide-2023/"><u>New In 2024, Troubleshoot Avidemux Audio Problems Step-by-Step Guide 2023</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mobile-3d-animation-made-easy-top-apps-for-android-and-iphone-for-2024/"><u>New Mobile 3D Animation Made Easy Top Apps for Android & iPhone for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-insiders-guide-to-creating-stunning-iphone-hdr-photos/"><u>The Insider's Guide to Creating Stunning iPhone HDR Photos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-essential-adobe-premiere-pro-extensions-free-and-paid-options/"><u>Updated 2024 Approved Essential Adobe Premiere Pro Extensions Free & Paid Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps-for-2024/"><u>Updated How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-no-more-scrolling-find-the-best-filmora-coupon-codes-inside-for-2024/"><u>Updated No More Scrolling Find the Best Filmora Coupon Codes Inside for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-complete-story-of-vimeo-videos-analyzing-how-different-aspect-ratios-influence-viewing-experience-for-2024/"><u>Updated The Complete Story of Vimeo Videos Analyzing How Different Aspect Ratios Influence Viewing Experience for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/your-israeli-itinerary-crucial-guidance-and-language-basics/"><u>Your Israeli Itinerary: Crucial Guidance and Language Basics</u></a></li>
 </ul></div>
 

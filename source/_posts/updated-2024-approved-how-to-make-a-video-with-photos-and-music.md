@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Make a Video with Photos and Music
-date: 2024-12-01T16:12:37.774Z
-updated: 2024-12-03T03:09:14.018Z
+date: 2024-12-14T02:12:21.431Z
+updated: 2024-12-16T01:22:40.182Z
 tags: 
   - video editing software
   - video editing
@@ -48,7 +48,7 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
@@ -66,7 +66,7 @@ If you want to express your feelings or explain something in the slideshow, you 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. Select music
@@ -82,7 +82,11 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -94,10 +98,6 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 3\. Personalize video slideshow with stunning transitions, intro/credits, and sound effects.
 * 4\. Apply more advanced video effects like Mosaic, Face Off, Jump Cut and more.
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -115,11 +115,11 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -136,24 +136,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-building-your-brand-as-a-reviewer-of-cars-and-automotive-gear-for-2024/"><u>[New] Building Your Brand as a Reviewer of Cars and Automotive Gear for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-the-art-of-youtube-conversion-top-10-strategies/"><u>[Updated] 2024 Approved Mastering the Art of YouTube Conversion Top 10 Strategies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-onscreen-text-craftsman/"><u>[Updated] 2024 Approved Onscreen Text Craftsman</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-finest-11-streaming-sound-recorders/"><u>2024 Approved The Finest 11 Streaming Sound Recorders</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-thorough-summary-googles-podcast-platform-demystified/"><u>2024 Approved Thorough Summary Google's Podcast Platform Demystified</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-endorses-national-legislation-supporting-consumers-right-to-repair-electronics/"><u>Apple Endorses National Legislation Supporting Consumer's Right to Repair Electronics</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860696189-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4-for-2024/"><u>From Gameplay to Legacy Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4. For 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2020-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2020) Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-convenient-interaction-starting-a-skype-group-for-windowsmac-users/"><u>In 2024, Convenient Interaction Starting a Skype Group for Windows/Mac Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-a15-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy A15 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-best-free-online-gif-loop-generators-2023-edition/"><u>New 2024 Approved Best Free Online GIF Loop Generators 2023 Edition</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-compress-videos-like-a-pro-9-best-free-tools-for-windows-10/"><u>New 2024 Approved Compress Videos Like a Pro 9 Best Free Tools for Windows 10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-divx-video-trimming-tools-top-picks/"><u>New 2024 Approved Free Divx Video Trimming Tools Top Picks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-filmora-13-download-edit-videos-like-a-pro/"><u>New 2024 Approved Free Filmora 13 Download Edit Videos Like a Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-live-from-your-videos-best-apps-and-how-to-convert/"><u>New 2024 Approved Live From Your Videos Best Apps and How-To Convert</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-10-animated-photo-makers-easy-and-effortless/"><u>New 2024 Approved Top 10 Animated Photo Makers Easy and Effortless</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-orientation-made-easy-a-quick-start-guide/"><u>New 2024 Approved Video Orientation Made Easy A Quick Start Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-zero-cost-video-watermarking-top-5-software-choices/"><u>New 2024 Approved Zero-Cost Video Watermarking Top 5 Software Choices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-buggy-fcpx-reset-and-reboot-a-quick-fix-for-common-problems-for-2024/"><u>New Buggy FCPX? Reset and Reboot A Quick Fix for Common Problems for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-innovation-unleashed-experience-our-6-best-signature-removers/"><u>[New] In 2024, Innovation Unleashed – Experience Our 6 Best Signature Removers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-thriving-on-screen-time-maximize-your-youtube-impact/"><u>[New] Thriving on Screen Time Maximize Your YouTube Impact</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-looking-beneath-surface-understanding-vr-drawbacks/"><u>[Updated] In 2024, Looking Beneath Surface Understanding VR Drawbacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-vr-lingo-core-terminology-guide/"><u>2024 Approved Mastering the VR Lingo Core Terminology Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/here-restrictions-in-saving-youtube-videos/"><u>Are There Restrictions in Saving YouTube Videos?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-oculus-quest-2-syncing-to-smartphone-platforms/"><u>Comprehensive Tutorial on Oculus Quest 2 Syncing to Smartphone Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fatal-issues-resolved-optimizing-gameplay-and-stability-for-tales-of-arise-in-unreal-engine-user-ive-overcome-the-major-issues-with-tales-of-arise-running-o479/"><u>Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I've Overcome the Major Issues with 'Tales of Arise' Running on Unreal Engine 4</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/navigating-the-latest-in-tech-with-toms-hardware-channel/"><u>Navigating the Latest in Tech with Tom's Hardware Channel</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-top-5-li/"><u>New In 2024, Unleash Your Creativity Top 5 Li</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-best-stop-motion-animation-programs-for-mac-and-pc-computers-for-2024/"><u>New S Best Stop Motion Animation Programs for Mac and PC Computers for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-sony-vegas-alternatives-for-windows-for-2024/"><u>New The Ultimate Guide to Sony Vegas Alternatives for Windows for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-free-dailymotion-video-converter-for-2024/"><u>New Top-Rated Free Dailymotion Video Converter for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reliable-macosx-standard-package-from-starry-file-disposal-automated-erasure-at-your-command/"><u>Reliable MacOSX Standard Package From Starry File Disposal - Automated Erasure at Your Command</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-xml-demystified-a-step-by-step-guide-for-fcpx-editors/"><u>Updated 2024 Approved XML Demystified A Step-by-Step Guide for FCPX Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-extract-audio-from-videos-top-mp4-to-mp3-apps-for-mobile/"><u>Updated In 2024, Extract Audio From Videos Top MP4 to MP3 Apps for Mobile</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/video-editing-on-chromebook-a-step-by-step-guide-to-using-any-app-for-2024/"><u>Video Editing on Chromebook A Step-by-Step Guide to Using Any App for 2024</u></a></li>
 </ul></div>
 

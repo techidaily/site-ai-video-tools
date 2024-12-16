@@ -1,7 +1,7 @@
 ---
 title: Updated FCP Essentials Creating Engaging Picture-in-Picture Effects for Your Videos for 2024
-date: 2024-12-08T03:59:46.846Z
-updated: 2024-12-09T16:55:34.014Z
+date: 2024-12-12T20:43:07.003Z
+updated: 2024-12-16T04:19:20.776Z
 tags: 
   - video editing software
   - video editing
@@ -41,7 +41,7 @@ The very first step that you need to follow for PIP effect generation using FCP 
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Add PIP videos
@@ -53,7 +53,7 @@ Note that lower clips use to stay in the background in final results whereas upp
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3: Apply PIP effect
@@ -61,10 +61,6 @@ Note that lower clips use to stay in the background in final results whereas upp
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -80,7 +76,7 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 6: Apply Cross- Dissolve
@@ -91,6 +87,10 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
 Check this video tutorial to know more details:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
 
@@ -109,7 +109,7 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -127,17 +127,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-family-fantasy-films-this-summers-best-10-classics/"><u>[New] Family Fantasy Films This Summer's Best 10 Classics</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>[New] In 2024, Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-reel-it-in-the-premier-browser-recording-tools-of-2023-for-2024/"><u>[New] Reel It In The Premier Browser Recording Tools of 2023 for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-superior-websites-for-a-modern-social-experience-for-2024/"><u>[New] Superior Websites for a Modern Social Experience for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-pristine-visionary-storytelling-system/"><u>2024 Approved Pristine Visionary Storytelling System</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/mp4-video-information-editors-best-choices-for-2024/"><u>MP4 Video Information Editors Best Choices for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-convert-videos-to-dvd-format-on-pc-and-mac-a-3-step-guide/"><u>New 2024 Approved Convert Videos to DVD Format on PC and Mac A 3-Step Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-top-video-animation-tools-for-creating-stunning-animations-on-the-go/"><u>New 2024 Approved The Top Video Animation Tools for Creating Stunning Animations On-the-Go</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-combine-mpeg-videos-for-free-top-5-options-for-2024/"><u>New Combine MPEG Videos for Free Top 5 Options for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722883938792-removing-user-pin-authentication-from-windows-10-easy-instructions-inside/"><u>Removing User Pin Authentication From Windows 10 – Easy Instructions Inside</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-5-gratuites-logiciels-de-montage-video-pour-anniversaires/"><u>Top 5 Gratuites Logiciels De Montage Vidéo Pour Anniversaires</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterful-monitoring-with-the-latest-asus-proart-4k-display/"><u>[Updated] Masterful Monitoring with the Latest ASUS ProArt 4K Display</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activate-revo-uninstaller-a-comprehensive-guide-for-effortless-setup/"><u>Activate Revo Uninstaller: A Comprehensive Guide for Effortless Setup</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-boost-your-internet-speed-expert-tips-from-yl-computing/"><u>How to Boost Your Internet Speed: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-t2x-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo T2x 5G Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-10-video-players-for-slow-motion-for-2024/"><u>New Top 10 Video Players for Slow Motion for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-troubleshooting-fcpx-a-step-by-step-reset-guide-for-2024/"><u>New Troubleshooting FCPX A Step-by-Step Reset Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-interruptions-effective-ways-to-address-and-prevent-cityskies-crashing-episodes-updated-strategies-from-2024/"><u>Say Goodbye to Interruptions: Effective Ways to Address and Prevent CitySkies' Crashing Episodes [Updated Strategies From 2024]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/solution-steps-why-isnt-my-origin-instance-running/"><u>Solution Steps: Why Isn't My Origin Instance Running?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-persistent-crashes-in-outpost-infinity-siege-on-windows-machines/"><u>Solving Persistent Crashes in Outpost: Infinity Siege on Windows Machines</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fix-for-audio-glitches-in-your-powerpoint-presentation/"><u>Step-by-Step Fix for Audio Glitches in Your PowerPoint Presentation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-are-you-looking-for-videoleap-for-macbook-but-cant-seem-to-find-any-solution-here-is-a-detailed-guide-on-how-to-download-and-install-videole/"><u>Updated In 2024, Are You Looking for Videoleap for MacBook, but Cant Seem to Find Any Solution? Here Is a Detailed Guide on How to Download and Install Videoleap for Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-kinemaster-for-mac-easy-download-and-setup-instructions/"><u>Updated In 2024, Get KineMaster for Mac Easy Download and Setup Instructions</u></a></li>
 </ul></div>
 

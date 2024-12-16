@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-12-02T16:08:07.996Z
-updated: 2024-12-09T17:43:15.253Z
+date: 2024-12-11T06:05:30.043Z
+updated: 2024-12-15T20:04:47.129Z
 tags: 
   - video editing software
   - video editing
@@ -49,13 +49,13 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
@@ -64,10 +64,6 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -83,12 +79,16 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
@@ -101,7 +101,7 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
@@ -111,7 +111,7 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
@@ -141,22 +141,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-content-game-on-youtube-top-11-video-seo-insights/"><u>[New] In 2024, Elevate Your Content Game on YouTube Top 11 Video SEO Insights</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715859653890-new-screenmasters-unite/"><u>[New] ScreenMasters Unite!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-turbo-techniques-for-faster-vimeo-views/"><u>[Updated] 2024 Approved Turbo Techniques for Faster Vimeo Views</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-canon-printing-on-multiple-os-platforms/"><u>Configure Canon Printing on Multiple OS Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-mobile-filmmaking-with-apples-final-cut-pro-on-iphone-the-future-of-on-the-spot-cinematography/"><u>Elevate Your Mobile Filmmaking with Apple's Final Cut Pro on iPhone - The Future of On-the-Spot Cinematography</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-release-delay-issues-addressed-and-solutions/"><u>Football Manager 2022 Release Delay: Issues Addressed & Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-play-audible-books-directly-from-an-mp3-music-player/"><u>How to Play Audible Books Directly From an MP3 Music Player</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/shrink-your-videos-top-rated-free-compression-software-for-windows-10-for-2024/"><u>Shrink Your Videos Top-Rated Free Compression Software for Windows 10 for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results-for-2024/"><u>The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-no-downloads-needed-10-free-online-video-compression-solutions/"><u>Updated 2024 Approved No Downloads Needed 10 Free Online Video Compression Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-hd-video-editing-software-roundup/"><u>Updated 2024 Approved The Ultimate HD Video Editing Software Roundup</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-easy-video-editing-how-to-reverse-clips-in-final-cut-pro-2023-tutorial-for-2024/"><u>Updated Easy Video Editing How to Reverse Clips in Final Cut Pro 2023 Tutorial for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-essential-3d-video-creation-tools-every-creator-should-know/"><u>Updated In 2024, Essential 3D Video Creation Tools Every Creator Should Know</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mastering-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>Updated In 2024, Mastering Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-video-best-mobile-apps-for-2024/"><u>Updated The Ultimate Guide to Animated Text in Video Best Mobile Apps for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevating-profits-via-celebrity-skincare-channels/"><u>[New] 2024 Approved Elevating Profits via Celebrity Skincare Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-crafting-mood-and-atmosphere-through-post-color-tweaks/"><u>[New] Crafting Mood and Atmosphere Through Post-Color Tweaks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-master-the-nft-market-leading-generators-for-digital-masters/"><u>[New] Master the NFT Market Leading Generators for Digital Masters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-game-based-youtube-earning-guide/"><u>[Updated] Game-Based YouTube Earning Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inverting-photo-colors-with-advanced-tools/"><u>[Updated] Inverting Photo Colors with Advanced Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-oppo-reno-10-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Oppo Reno 10 Pro 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-mp4-to-mp3-conversion-apps-for-mobile-for-2024/"><u>New The Ultimate Guide to MP4 to MP3 Conversion Apps for Mobile for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-best-free-video-editing-software-for-mp4-files-updated-for-2024/"><u>The Best Free Video Editing Software for MP4 Files (Updated ) for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-fast-lane-to-gopro-video-editing-a-beginners-roadmap-for-2024/"><u>The Fast Lane to GoPro Video Editing A Beginners Roadmap for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-list-of-free-video-hosting-sites-for-online-publishing-for-2024/"><u>The Ultimate List of Free Video Hosting Sites for Online Publishing for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-avi-videos-like-a-pro-windows-8-compatible-video-editor-2023-version/"><u>Updated In 2024, Edit AVI Videos Like a Pro Windows 8 Compatible Video Editor - 2023 Version</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-online-stop-motion-makers-free-and-paid-for-2024/"><u>Updated The Ultimate Guide to Online Stop Motion Makers Free and Paid for 2024</u></a></li>
 </ul></div>
 

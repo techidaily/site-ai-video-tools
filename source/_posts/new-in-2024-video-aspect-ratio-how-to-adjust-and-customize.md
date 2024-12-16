@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2024-12-03T04:25:51.734Z
-updated: 2024-12-09T22:06:21.626Z
+date: 2024-12-12T02:10:36.562Z
+updated: 2024-12-16T08:29:07.050Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -59,7 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -69,7 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -90,6 +90,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -97,10 +101,6 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,18 +171,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-xbox-game-recording-techniques-for-gamers/"><u>[Updated] Xbox Game Recording Techniques for Gamers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-gamers-journey-through-the-stars-a-complete-review-of-stellaris-galactic-adventure/"><u>A Gamer's Journey Through the Stars: A Complete Review of Stellaris' Galactic Adventure</u></a></li>
-<li><a href="https://techtrends.techidaily.com/artificial-intelligence-in-winxvideo-comprehensive-faq-and-answer-guide/"><u>Artificial Intelligence in Winxvideo: Comprehensive FAQ & Answer Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/beenden-sie-die-windows-7-startup-schleife-dauerhaft-entdecken-sie-vier-effektive-losungsansatze/"><u>Beenden Sie Die Windows 7 Startup-Schleife Dauerhaft: Entdecken Sie Vier Effektive Lösungsansätze</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-12-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 12 Pro?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-y27-4g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Y27 4G Phone? Unlock It Now</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-most-loved-iphone-apps-user-favorites-and-critic-picks-for-2024/"><u>New Most Loved iPhone Apps User Favorites and Critic Picks for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/resolvendo-rapidamente-falhas-no-processo-de-resgate-da-copia-de-seguranca-do-windows-11-dicas-praticas-e-alternativas/"><u>Resolvendo Rapidamente Falhas No Processo De Resgate Da Cópia De Segurança Do Windows 11: Dicas Práticas E Alternativas</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-avidemux-tutorial-cropping-videos-like-a-pro/"><u>Updated 2024 Approved The Ultimate Avidemux Tutorial Cropping Videos Like a Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-webm-to-mp4-converter-roundup-top-10-picks/"><u>Updated 2024 Approved WebM to MP4 Converter Roundup Top 10 Picks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-color-enhancement-techniques-in-final-cut-pro-for-2024/"><u>Updated Color Enhancement Techniques in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-guide-to-movie-trailer-apps-for-iphone-and-ipad-users/"><u>Updated In 2024, The Ultimate Guide to Movie Trailer Apps for iPhone and iPad Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-best-free-green-screen-apps-for-mobile-for-2024/"><u>Updated Unleash Your Creativity Best Free Green Screen Apps for Mobile for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-techniques-for-effective-siri-voice-use-in-tiktok/"><u>[New] 2024 Approved Techniques for Effective Siri Voice Use in TikTok</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iscover-the-power-of-5-editors-beyond-youtubes-boundaries-for-2024/"><u>[New] Discover the Power of 5 Editors Beyond Youtube's Boundaries for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-add-logo-or-watermark-to-youtube-video/"><u>[Updated] 2024 Approved How to Add Logo or Watermark to YouTube Video</u></a></li>
+<li><a href="https://win-docs.techidaily.com/come-ripristinare-i-file-cancellati-nel-cestino-prima-del-suo-pulizia/"><u>Come Ripristinare I File Cancellati Nel Cestino Prima Del Suo Pulizia</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/quick-subscribe-strategy-boost-audience-growth/"><u>Does Quick-Subscribe Strategy Boost Audience Growth?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-digital-space-transforming-desktops-with-spotlight-photos/"><u>Elevate Your Digital Space: Transforming Desktops With Spotlight Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-how-to-unlock-full-potential-with-iphone-hdr/"><u>In 2024, How to Unlock Full Potential with iPhone HDR</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-video-reversal-tools-online-and-free/"><u>New Top Video Reversal Tools Online and Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snag-your-9th-gen-ipad-for-just-250-post-apple-launch-expert-deals-digital-world-news/"><u>Snag Your 9Th Gen iPad for Just $250 Post-Apple Launch - Expert Deals | Digital World News</u></a></li>
+<li><a href="https://win-best.techidaily.com/transformer-gratuitement-un-fichier-quicktime-qt-en-format-flv-sur-la-toile-guide-de-movavi/"><u>Transformer Gratuitement Un Fichier QuickTime (QT) en Format FLV Sur La Toile : Guide De Movavi</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-learn-to-edit-videos-like-a-pro-a-comprehensive-online-guide/"><u>Updated 2024 Approved Learn to Edit Videos Like a Pro A Comprehensive Online Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-privacy-protection-101-how-to-blur-faces-in-photos-and-videos-with-these-10-free-tools/"><u>Updated 2024 Approved Privacy Protection 101 How to Blur Faces in Photos and Videos with These 10 Free Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-vignette-apps-for-mobile-devices-free-and-premium-options/"><u>Updated 2024 Approved Top Vignette Apps for Mobile Devices Free and Premium Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-elevate-your-video-game-best-4k8k-video-editing-software-for-2024/"><u>Updated Elevate Your Video Game Best 4K/8K Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-real-to-toon-how-to-turn-videos-into-cartoons/"><u>Updated In 2024, From Real to Toon How to Turn Videos Into Cartoons</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-online-video-editors-blueprint-from-concept-to-completion/"><u>Updated In 2024, The Online Video Editors Blueprint From Concept to Completion</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-10-free-stock-photo-sites/"><u>Updated Top 10 Free Stock Photo Sites</u></a></li>
 </ul></div>
 

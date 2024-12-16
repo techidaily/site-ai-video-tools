@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Hacks Smooth Skin without Breaking the Bank (or Using Plugins)
-date: 2024-12-08T05:55:09.503Z
-updated: 2024-12-10T02:58:58.235Z
+date: 2024-12-13T07:29:10.887Z
+updated: 2024-12-15T22:42:01.579Z
 tags: 
   - video editing software
   - video editing
@@ -47,7 +47,7 @@ step1Choose the starting image and edit the clip into the timeline. Press Option
 ![Skin_Smoother_Effect_1](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 step2Open the Inspector pan and select Compositing from its bottom. Switch the Blend Mode to Lighten and adjust the Opacity slider as per your desired glow. Usually, 40 to 45% is ideal.
@@ -57,10 +57,6 @@ step2Open the Inspector pan and select Compositing from its bottom. Switch the B
 step3Now, go to the top of the Inspector and turn on the blue checkbox next to Gaussian. Adjust the blurring effect until you achieve your desired level of skin softening. It is highly recommended to blur using the horizontal setting to soften the skin while keeping the eyes sharp. Here, the glow is controlled by Opacity while skin softening is controlled by the Blue Amount.
 
 ![Skin_Smoother_Effect_3](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
 
@@ -112,6 +108,10 @@ A comprehensive FCP tool with 89 individual plugins to apply the next-generation
 * A variety of cool presents and text generators; and
 * Number counters, chromatic aberration, VHS looks, camera shake, glitch effects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to adopt Skin Smoothing Plugins into FCPX?
 
 Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
@@ -124,7 +124,7 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
@@ -133,10 +133,6 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
@@ -144,7 +140,7 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to smooth skin in Adobe Pro?
@@ -167,6 +163,10 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -182,18 +182,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-accelerate-access-funimates-download-demystified/"><u>[New] 2024 Approved Accelerate Access Funimate's Download Demystified</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-instagram-experience-through-smart-archiving/"><u>[New] Elevating Your Instagram Experience Through Smart Archiving</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-what-is-a-parody-and-how-to-make-a-parody-video/"><u>[Updated] What Is a Parody and How to Make a Parody Video</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/202n4/"><u>『202N4』オフライバーのダウンロードエラーを解決するためのガイド</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-digiarty-comprehensive-art-gallery-inquiry-and-support/"><u>1. Digiarty: Comprehensive Art Gallery Inquiry and Support</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cing-youtube-presence-creating-professional-thumbnails-from-smartphones/"><u>Enhancing YouTube Presence Creating Professional Thumbnails From Smartphones</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-free-video-splitters-top-5-picks/"><u>New 2024 Approved The Ultimate Guide to Free Video Splitters Top 5 Picks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-best-video-maker-for-mac-easily-make-videos-on-mac-for-2024/"><u>New Best Video Maker for Mac Easily Make Videos on Mac for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-crop-like-a-pro-a-step-by-step-guide-for-final-cut-pro-x-users-for-2024/"><u>New Crop Like a Pro A Step-by-Step Guide for Final Cut Pro X Users for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-edit-like-a-pro-a-free-online-video-editing-course-using-jaycut-for-2024/"><u>New Edit Like a Pro A Free Online Video Editing Course Using Jaycut for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/rapid-tiktok-video-loading-a-guide-for-2024/"><u>Rapid TikTok Video Loading A Guide for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-art-of-captivating-viewers-instavideo-marketing-essentials-for-2024/"><u>The Art of Captivating Viewers InstaVideo Marketing Essentials for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/ultimate-guide-playing-divx-videos-on-your-samsung-television/"><u>Ultimate Guide: Playing DivX Videos on Your Samsung Television</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-formulating-engaging-instagram-story-titles/"><u>[New] 2024 Approved Formulating Engaging Instagram Story Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-saturation-savvy-professionals-secrets-revealed-for-2024/"><u>[New] Saturation Savvy Professionals' Secrets Revealed for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cinema-craftsmanship-guide-top-tips-for-the-pros/"><u>[Updated] Cinema Craftsmanship Guide Top Tips for the Pros</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 13 mini</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-f5-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco F5 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-creativity-10-best-animation-tools-for-schools/"><u>New Unleash Creativity 10 Best Animation Tools for Schools</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-slow-and-steady-wins-the-race-top-10-video-editing-software/"><u>Updated 2024 Approved Slow and Steady Wins the Race Top 10 Video Editing Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-avi-trimmers-cut-and-edit-avi-files-on-any-device-windows-mac-android-iphone-online/"><u>Updated In 2024, Best AVI Trimmers Cut and Edit AVI Files on Any Device Windows, MAC, Android, iPhone, Online</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-time-manipulation-in-final-cut-pro-x-a-step-by-step-guide/"><u>Updated In 2024, Time Manipulation in Final Cut Pro X A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-photo-to-cartoon-converter-instant-results-for-2024/"><u>Updated Photo to Cartoon Converter Instant Results for 2024</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
 
