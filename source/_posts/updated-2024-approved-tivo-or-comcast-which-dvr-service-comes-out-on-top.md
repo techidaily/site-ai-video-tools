@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved TiVo or Comcast Which DVR Service Comes Out on Top?
-date: 2024-11-27T17:01:59.522Z
-updated: 2024-12-03T01:25:47.746Z
+date: 2024-12-18T05:45:18.655Z
+updated: 2024-12-24T16:24:24.763Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
  The menus are slightly different, as you can see below.
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Comcast interface
 
@@ -58,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -67,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -84,15 +92,15 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
@@ -111,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Summary**
@@ -120,15 +128,7 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -145,16 +145,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleash-creativity-with-top-10-youtube-short-video-editors/"><u>[New] Unleash Creativity with Top 10 YouTube Short Video Editors</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-acquire-excellent-images-at-no-cost-essential-strategies/"><u>[Updated] In 2024, Acquire Excellent Images at No Cost Essential Strategies</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/5oplusq5y2h5zob54mm6io96yep77ya5aqs6auu5oqa6kgt6iih5oiq5yqf5qgi5l6l/"><u>提升品牌能量：媒體技術與成功案例</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crashes-in-your-nvidia-control-panel-for-smooth-graphics-performance/"><u>Fixing Crashes in Your NVIDIA Control Panel for Smooth Graphics Performance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/handheld-vr-camera-stability-enhancer/"><u>Handheld VR Camera Stability Enhancer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-blaze-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Lava Blaze Pro 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-10-best-free-apps-for-blurring-faces-in-photos-and-videos-iphone-and-android/"><u>New 2024 Approved 10 Best Free Apps for Blurring Faces in Photos and Videos iPhone and Android</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-take-your-videos-to-the-next-level-professional-results-guaranteed/"><u>New 2024 Approved Take Your Videos to the Next Level Professional Results Guaranteed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-10plus-best-free-online-video-editors-for-video-editing-online/"><u>New 2024 Approved Top 10+ Best Free Online Video Editors for Video Editing Online</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-wevideo-your-go-to-platform-for-online-video-editing/"><u>New 2024 Approved WeVideo Your Go-To Platform for Online Video Editing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-adjust-image-sizes-in-windowsmac-os/"><u>Step-by-Step Tutorial: Adjust Image Sizes in Windows/Mac OS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pinnacle-speed-windows-10-image-browser/"><u>[New] 2024 Approved Pinnacle Speed Windows 10 Image Browser</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unlocking-facebooks-full-potential-4-sharing-techniques/"><u>[Updated] 2024 Approved Unlocking Facebook's Full Potential 4 Sharing Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-cutting-edge-broadcasting-dslr-use-for-facebook-live-on-pcmac-for-2024/"><u>[Updated] Cutting-Edge Broadcasting DSLR Use for Facebook Live on PC/Mac for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-discovering-the-unique-benefits-of-youtube-tv/"><u>[Updated] Discovering the Unique Benefits of YouTube TV</u></a></li>
+<li><a href="https://fox-http.techidaily.com/crafting-your-path-to-optimal-hdr-camera-selection/"><u>Crafting Your Path to Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-9a-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Reno 9A Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/instantpause-live-image-save-tips-for-2024/"><u>InstantPause Live Image Save Tips for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-online-webm-video-shrinking-solutions/"><u>New Online WebM Video Shrinking Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-replace-sony-vegas-discover-the-best-video-editing-software-for-windows-for-2024/"><u>New Replace Sony Vegas Discover the Best Video Editing Software for Windows for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-this-article-shows-the-detail-steps-to-crop-an-image-in-final-cut-pro-with-screenshots-for-2024/"><u>New This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/protect-identities-the-best-face-blur-video-editing-tools-for-2024/"><u>Protect Identities The Best Face Blur Video Editing Tools for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-streamline-your-videos-5-best-free-compression-apps-for-ios-devices/"><u>Updated In 2024, Streamline Your Videos 5 Best Free Compression Apps for iOS Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-maximize-your-workflow-the-10-best-video-editing-software-tools-for-2024/"><u>Updated Maximize Your Workflow The 10 Best Video Editing Software Tools for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-cartoon-animation-creators-for-mobile-devices/"><u>Updated Top Cartoon Animation Creators for Mobile Devices</u></a></li>
 </ul></div>
 

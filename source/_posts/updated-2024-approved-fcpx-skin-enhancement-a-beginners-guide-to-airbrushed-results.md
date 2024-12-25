@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCPX Skin Enhancement A Beginners Guide to Airbrushed Results
-date: 2024-12-09T10:54:25.959Z
-updated: 2024-12-15T22:20:15.757Z
+date: 2024-12-20T07:00:06.952Z
+updated: 2024-12-24T17:56:48.756Z
 tags: 
   - video editing software
   - video editing
@@ -54,14 +54,10 @@ step3Now, go to the top of the Inspector and turn on the blue checkbox next to G
 
 ![Skin_Smoother_Effect_3](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Where to Find Good Skin Smoother Plugins?
@@ -112,6 +108,10 @@ A comprehensive FCP tool with 89 individual plugins to apply the next-generation
 * A variety of cool presents and text generators; and
 * Number counters, chromatic aberration, VHS looks, camera shake, glitch effects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to adopt Skin Smoothing Plugins into FCPX?
 
 Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
@@ -121,26 +121,26 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
 
 Wondershare Filmora features advanced tuning tools and a variety of video filters and overlays. Learn how to smooth skin or beautify your face in the video with this advanced video-editing software.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
@@ -183,24 +183,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-evolution-of-4k-a-look-at-the-d500-model/"><u>[New] In 2024, The Evolution of 4K A Look at the D500 Model</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-masterclass-review-galaxy-s8-with-its-4k-features/"><u>[New] Masterclass Review Galaxy S8 with Its 4K Features</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-lights-spectrum-in-focus-pro-hdr-creation-tips-for-ps/"><u>[Updated] 2024 Approved Light's Spectrum in Focus Pro HDR Creation Tips for PS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-vlog-verily-tips-and-taboos-in-the-daily-digital-sphere/"><u>[Updated] 2024 Approved Vlog Verily Tips and Taboos in the Daily Digital Sphere</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/asus-nuc-14-unleashed-powerhouse-performance-with-core-u-series-and-nvidia-rtx-4070-graphics/"><u>Asus NUC 14 Unleashed: Powerhouse Performance with Core U-Series and NVIDIA RTX 4070 Graphics</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/download-and-install-hevc-encoder-without-cost-on-windows-11-guide/"><u>Download & Install HEVC Encoder Without Cost on Windows 11 - Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elevate-tiktok-videography-with-zooming-expertise-for-2024/"><u>Elevate TikTok Videography with Zooming Expertise for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>In 2024, A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-virtualdub-review-is-it-still-the-best-video-editor/"><u>New In 2024, Virtualdub Review Is It Still the Best Video Editor ?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-smoother-skin-in-minutes-a-plugin-free-fcpx-editing-technique-for-2024/"><u>New Smoother Skin in Minutes A Plugin-Free FCPX Editing Technique for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-hd-video-editing-software-roundup-for-2024/"><u>New The Ultimate HD Video Editing Software Roundup for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unwanted-sounds-gone-learn-how-to-remove-background-noise-in-fcp-for-2024/"><u>New Unwanted Sounds? Gone! Learn How to Remove Background Noise in FCP for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-your-web-pages-methods-to-halt-openai-data-collection/"><u>Protect Your Web Pages: Methods to Halt OpenAI Data Collection</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-the-corsair-one-i500-compact-desktop-unit-user-experience-reviewed/"><u>The Ultimate Guide to the Corsair ONE I500 Compact Desktop Unit - User Experience Reviewed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-create-animated-videos-10-best-cartoon-maker-apps-for-android-and-ios/"><u>Updated 2024 Approved Create Animated Videos 10 Best Cartoon Maker Apps for Android & iOS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-your-own-reaction-videos-with-these-top-rated-apps/"><u>Updated In 2024, Make Your Own Reaction Videos with These Top-Rated Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/vn-video-editor-on-mac-a-review-and-comparison-with-alternative-editors-for-2024/"><u>VN Video Editor on Mac A Review and Comparison with Alternative Editors for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ultimate-source-for-online-video-to-mp3-downloads/"><u>Your Ultimate Source for Online Video to MP3 Downloads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-melodies-for-memories-music-tips-for-reels-on-instagram/"><u>[Updated] Melodies for Memories Music Tips for Reels on Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-boosting-your-igtv-influence-techniques-to-amplify-audience-size/"><u>2024 Approved Boosting Your IGTV Influence Techniques to Amplify Audience Size</u></a></li>
+<li><a href="https://driver-error.techidaily.com/alleviating-driver-conflicts-device-venint33a0/"><u>Alleviating Driver Conflicts - Device VEN_INT33A0</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bring-old-laptops-back-from-the-dead-with-dsl-comprehensive-how-to/"><u>Bring Old Laptops Back From the Dead with DSL: Comprehensive How-To</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dynamic-broadcasting-with-manycam-your-essential-guide-to-live-streaming-and-virtual-cam-tech/"><u>Dynamic Broadcasting with ManyCam: Your Essential Guide to Live Streaming and Virtual Cam Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-typing-speed-without-sacrificing-accuracy/"><u>Maximizing Typing Speed Without Sacrificing Accuracy</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-rated-free-divx-video-editors-with-cutting-features/"><u>New In 2024, Top-Rated Free Divx Video Editors with Cutting Features</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-visual-storytelling-a-beginners-guide-to-professional-movie-making/"><u>New The Art of Visual Storytelling A Beginners Guide to Professional Movie Making</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/pcdj-masterclass-innovative-branding-techniques-using-dex3-and-shader-effects/"><u>PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-and-save-how-to-edit-youtube-videos-quickly-for-2024/"><u>Slash and Save How to Edit YouTube Videos Quickly for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-picks-for-sky-hdr-images-online-compilation/"><u>Top Picks for Sky HDR Images Online Compilation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-make-unforgettable-video-invitations-with-these-mobile-apps-for-2024/"><u>Updated Make Unforgettable Video Invitations with These Mobile Apps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-10-best-free-online-video-looping-software-for-2024/"><u>Updated The Ultimate List 10 Best Free Online Video Looping Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-video-storytelling-made-easy-best-ios-collage-apps/"><u>Updated Video Storytelling Made Easy Best iOS Collage Apps</u></a></li>
 </ul></div>
 

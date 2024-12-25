@@ -1,7 +1,7 @@
 ---
 title: Updated Yosemite Video Editing Essentials Tips and Tricks for 2024
-date: 2024-12-13T23:40:36.201Z
-updated: 2024-12-15T17:02:14.975Z
+date: 2024-12-24T04:18:51.333Z
+updated: 2024-12-24T20:39:37.631Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -47,7 +51,7 @@ You have two different ways to edit the video. One is to double click the video 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Edit and enhance audio**
@@ -57,7 +61,7 @@ If you want to add an additional audio file as the background music to the video
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Add transition and other effects**
@@ -67,7 +71,7 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -76,14 +80,10 @@ After you preview the effect, just click the “Export” button to export the v
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -103,18 +103,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-realms-intersecting-delving-into-vr-augmented-and-mixed-immersion/"><u>[Updated] Realms Intersecting Delving Into VR, Augmented & Mixed Immersion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-toms-tech-insights-and-gadget-reviews/"><u>Explore Tom's Tech Insights & Gadget Reviews</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-emotional-artificial-intelligence-interpret-human-sentiments-accurately/"><u>How Does Emotional Artificial Intelligence Interpret Human Sentiments Accurately?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-to-check-windows-11-build-number/"><u>How to Check Windows 11 Build Number</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-spark-10-pro-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-creative-with-fcp-x-a-3-step-guide-to-adding-stunning-effects/"><u>New In 2024, Get Creative with FCP X A 3-Step Guide to Adding Stunning Effects</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-both-worlds-vn-video-editor-for-mac-and-its-alternatives/"><u>New The Best of Both Worlds VN Video Editor for Mac and Its Alternatives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-drm-removal-from-ebooks-starting-on-page-1/"><u>Step-by-Step Guide: DRM Removal From eBooks - Starting on Page 1</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-in-class-audio-editing-software-for-professionals-top-picks/"><u>Updated 2024 Approved Best-in-Class Audio Editing Software for Professionals Top Picks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cartoonize-your-photos-in-seconds/"><u>Updated 2024 Approved Cartoonize Your Photos in Seconds</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mac-video-editing-made-easy-discover-the-best-software-for-you-for-2024/"><u>Updated Mac Video Editing Made Easy Discover the Best Software for You for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-make-music-without-spending-a-dime-10-best-free-recording-software-for-2024/"><u>Updated Make Music Without Spending a Dime 10 Best Free Recording Software for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outubes-opposite-order-rearranging-videos-in-reverse-flow/"><u>[New] Youtube's Opposite Order Rearranging Videos in Reverse Flow</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leveraging-skype-for-interactive-home-office-video-conferencing/"><u>[Updated] 2024 Approved Leveraging Skype for Interactive Home Office Video Conferencing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-streamlined-processes-from-camera-roll-to-snapchat-posting/"><u>[Updated] 2024 Approved Streamlined Processes From Camera Roll to Snapchat Posting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-science-and-magic-behind-full-circle-films/"><u>[Updated] In 2024, The Science and Magic Behind Full Circle Films</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/boost-your-apple-experience-the-ultimate-guide-to-using-the-freestyle2-blue-platform/"><u>Boost Your Apple Experience: The Ultimate Guide to Using the Freestyle2 Blue Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/clarityai-creatives-unleash-editing-potential/"><u>ClarityAI Creatives Unleash Editing Potential</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-solve-clientserver-vpn-mismatch-error-800/"><u>Comprehensive Guide to Solve Client/Server VPN Mismatch Error - #800</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-no-bootable-device-error/"><u>How to Fix No Bootable Device Error</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-wax-video-editing-software-tips-tricks-and-tutorials/"><u>New Wax Video Editing Software Tips, Tricks, and Tutorials</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tab-configuration-files-setup-guidelines/"><u>Tab Configuration Files: Setup Guidelines</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-online-video-blurring-a-free-and-simple-solution/"><u>Updated 2024 Approved Online Video Blurring A Free and Simple Solution</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-free-sound-effects-for-final-cut-pro-editors/"><u>Updated 2024 Approved The Ultimate Guide to Free Sound Effects for Final Cut Pro Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-editors-paradise-10-essential-software-solutions/"><u>Updated 2024 Approved Video Editors Paradise 10 Essential Software Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-take-your-videos-to-the-next-level-insider-video-editing-tips-and-tricks/"><u>Updated In 2024, Take Your Videos to the Next Level Insider Video Editing Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-pros-and-cons-of-using-vn-video-editor-pro-for-your-videos/"><u>Updated In 2024, The Pros and Cons of Using VN Video Editor Pro for Your Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-streamline-your-videos-10-top-rated-free-online-video-trimmers-for-2024/"><u>Updated Streamline Your Videos 10 Top-Rated Free Online Video Trimmers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-a1x-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo A1x 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

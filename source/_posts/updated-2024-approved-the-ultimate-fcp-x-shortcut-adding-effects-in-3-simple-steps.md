@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-12-11T06:05:30.043Z
-updated: 2024-12-15T20:04:47.129Z
+date: 2024-12-23T03:28:31.339Z
+updated: 2024-12-24T17:00:02.629Z
 tags: 
   - video editing software
   - video editing
@@ -54,7 +54,7 @@ To apply an effect, first select the clip in the Timeline.
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
@@ -64,6 +64,10 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -78,21 +82,17 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
@@ -101,7 +101,7 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
@@ -111,7 +111,7 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
@@ -141,18 +141,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-elevating-profits-via-celebrity-skincare-channels/"><u>[New] 2024 Approved Elevating Profits via Celebrity Skincare Channels</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-crafting-mood-and-atmosphere-through-post-color-tweaks/"><u>[New] Crafting Mood and Atmosphere Through Post-Color Tweaks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-master-the-nft-market-leading-generators-for-digital-masters/"><u>[New] Master the NFT Market Leading Generators for Digital Masters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-game-based-youtube-earning-guide/"><u>[Updated] Game-Based YouTube Earning Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inverting-photo-colors-with-advanced-tools/"><u>[Updated] Inverting Photo Colors with Advanced Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-oppo-reno-10-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Oppo Reno 10 Pro 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-mp4-to-mp3-conversion-apps-for-mobile-for-2024/"><u>New The Ultimate Guide to MP4 to MP3 Conversion Apps for Mobile for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-free-video-editing-software-for-mp4-files-updated-for-2024/"><u>The Best Free Video Editing Software for MP4 Files (Updated ) for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-fast-lane-to-gopro-video-editing-a-beginners-roadmap-for-2024/"><u>The Fast Lane to GoPro Video Editing A Beginners Roadmap for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-list-of-free-video-hosting-sites-for-online-publishing-for-2024/"><u>The Ultimate List of Free Video Hosting Sites for Online Publishing for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-avi-videos-like-a-pro-windows-8-compatible-video-editor-2023-version/"><u>Updated In 2024, Edit AVI Videos Like a Pro Windows 8 Compatible Video Editor - 2023 Version</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-online-stop-motion-makers-free-and-paid-for-2024/"><u>Updated The Ultimate Guide to Online Stop Motion Makers Free and Paid for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-logitech-4k-cam-review-for-ultimate-video-quality/"><u>[New] Comprehensive Logitech 4K Cam Review for Ultimate Video Quality</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-transforming-zoom-calls-enhance-your-visuals-here/"><u>[Updated] Transforming Zoom Calls Enhance Your Visuals Here</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/sized-beatstories-role-and-tune-fusion-for-2024/"><u>Bite-Sized Beatstories Role & Tune Fusion for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316956-9781401947781-if-you-could-talk-to-an-angel/"><u>If You Could Talk to an Angel | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-affordable-excellence-a-selection-of-best-free-srt-tools/"><u>In 2024, Affordable Excellence A Selection of Best FREE SRT Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-superior-online-sound-devices-ranked-for-recording-2023/"><u>In 2024, Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-game-recording-made-easy-3-options-for-every-gamer-for-2024/"><u>New Game Recording Made Easy 3 Options for Every Gamer for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-anonymize-your-footage-best-software-for-face-blur-effects/"><u>New In 2024, Anonymize Your Footage Best Software for Face Blur Effects</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-endless-entertainment-10-best-free-online-video-loopers/"><u>New In 2024, Endless Entertainment 10 Best Free Online Video Loopers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-master-video-storytelling-with-adobe-premiere-pro-on-mac/"><u>New In 2024, Master Video Storytelling with Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mastering-animation-drawing-the-7-best-software-solutions/"><u>New In 2024, Mastering Animation Drawing The 7 Best Software Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-s-top-free-cctv-software-for-home-and-business-security/"><u>New In 2024, S Top Free CCTV Software for Home and Business Security</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-sony-digital-camcorder-video-editing-tutorial-for-beginners/"><u>New In 2024, Sony Digital Camcorder Video Editing Tutorial for Beginners</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-following-paragraphs-concerns-on-how-to-easily-make-touching-dvd-movies/"><u>New In 2024, The Following Paragraphs Concerns on How to Easily Make Touching DVD Movies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-windows-11-patch-ends-previous-local-user-setup-loophole/"><u>New Windows 11 Patch Ends Previous Local User Setup Loophole</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reviving-nostalgia-transform-your-iphone-into-a-classic-blackberry-with-this-unique-keyboard-case/"><u>Reviving Nostalgia: Transform Your iPhone Into a Classic BlackBerry with This Unique Keyboard Case</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-when-your-steelseries-arctis-9x-mic-stops-working/"><u>The Ultimate Fix for When Your SteelSeries Arctis 9X Mic Stops Working</u></a></li>
 </ul></div>
 

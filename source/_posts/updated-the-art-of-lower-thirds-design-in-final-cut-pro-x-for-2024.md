@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-12-11T00:18:23.578Z
-updated: 2024-12-16T06:28:58.485Z
+date: 2024-12-19T16:39:21.037Z
+updated: 2024-12-25T00:45:49.991Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,6 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -50,6 +46,10 @@ You can also observe this lower third module during an interview session on your
 On a short note, you can define the lower third module as a piece of a graphical element that hangs at the bottom of the screen displaying related data in pace with the existing video content. You can create the lower third module using an incredible tool for your videos in no time. Identify the factors to work on to refine the lower third module appearance and performances.
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
 
@@ -64,7 +64,7 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. **Motion effect**
@@ -93,10 +93,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -112,6 +108,10 @@ Features of Final Cut Pro X to design lower third module element
 * You can include animations for the lower third module to persuade the viewers.
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
@@ -139,6 +139,10 @@ For those who still need more guides about making lower thirds, this Filmora tut
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -157,10 +161,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -170,7 +170,7 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -188,24 +188,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-election-excitement-5-best-voting-simulators/"><u>[New] 2024 Approved Election Excitement 5 Best Voting Simulators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-building-your-brands-buzz-on-youtube-with-fresh-insights/"><u>[Updated] Building Your Brand's Buzz on Youtube with Fresh Insights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-obs-mac-integration-step-by-step-installation-walkthrough/"><u>[Updated] In 2024, OBS Mac Integration Step-by-Step Installation Walkthrough</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-free-youtube-image-saving/"><u>[Updated] The Essential Guide FREE YouTube Image Saving</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-open-broadcasters-versus-shadowreplay/"><u>2024 Approved Open Broadcasters Versus ShadowReplay</u></a></li>
-<li><a href="https://article-helps.techidaily.com/eco-editing-essentials-30plus-free-templates-for-ambitious-filmmakers-for-2024/"><u>Eco-Editing Essentials 30+ Free Templates for Ambitious Filmmakers for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-background-beats-guide-tunes-for-visuals/"><u>In 2024, Background Beats Guide Tunes for Visuals</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-time-lapse-like-a-pro-best-apps-for-iphone-ipad-and-android-devices-for-2024/"><u>New Time-Lapse Like a Pro Best Apps for iPhone, iPad, and Android Devices for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-update-top-5-ipad-video-editors-for-creators-and-beginners/"><u>New Update Top 5 iPad Video Editors for Creators and Beginners</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/optimal-updates-frequency-when-to-refresh-your-pcs-software-expert-advice-from-yl-computing/"><u>Optimal Updates Frequency: When to Refresh Your PC's Software - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/rotate-your-videos-for-free-top-online-video-flip-tools-for-2024/"><u>Rotate Your Videos for Free Top Online Video Flip Tools for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-line-artifacts-on-your-television-display/"><u>Step-by-Step Guide: Resolving Line Artifacts on Your Television Display</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cartoonize-your-videos-the-ultimate-conversion-tutorial/"><u>Updated 2024 Approved Cartoonize Your Videos The Ultimate Conversion Tutorial</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-download-to-upload-the-art-of-online-video-editing/"><u>Updated 2024 Approved From Download to Upload The Art of Online Video Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mobile-masterpieces-top-10-vlog-editor-apps-for-creating-stunning-videos/"><u>Updated 2024 Approved Mobile Masterpieces Top 10 Vlog Editor Apps for Creating Stunning Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-16-best-free-easy-movie-makers/"><u>Updated 2024 Approved Top 16 Best Free Easy Movie Makers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-combine-edit-and-share-best-video-collage-apps-for-iphone-and-ipad/"><u>Updated In 2024, Combine, Edit, and Share Best Video Collage Apps for iPhone and iPad</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-make-your-photos-move-the-10-best-animation-tools-for-beginners/"><u>Updated Make Your Photos Move The 10 Best Animation Tools for Beginners</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-3d-animation-software-free-and-premium-options/"><u>Updated Top 3D Animation Software Free and Premium Options</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unfollow-anomaly-spot-the-change-on-insta/"><u>[New] 2024 Approved Unfollow Anomaly Spot the Change on Insta</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-essential-guide-for-every-aspiring-snapchat-editor/"><u>[Updated] 2024 Approved The Essential Guide for Every Aspiring Snapchat Editor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-techniques-to-perfectly-transcribe-ppts/"><u>[Updated] In 2024, Techniques to Perfectly Transcribe PPTs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/drone-guide-for-beginners-facts-you-cant-afford-to-miss-for-2024/"><u>Drone Guide for Beginners Facts You Can't Afford to Miss for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steams-invisibility-mode/"><u>Mastering Steam's Invisibility Mode</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unbiased-avs-video-editor-review-what-to-expect-for-2024/"><u>New Unbiased AVS Video Editor Review What to Expect for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/reverse-video-online-the-ultimate-guide-for-2024/"><u>Reverse Video Online The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionizing-driving-safety-an-insightful-review-of-the-escort-ix-the-learning-enabled-radar-alert-system/"><u>Revolutionizing Driving Safety: An Insightful Review of the Escort iX, The Learning-Enabled Radar Alert System</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-basic-to-brilliant-adding-effects-in-fcp-x-in-3-easy-steps/"><u>Updated 2024 Approved From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-quick-fix-how-to-reverse-a-video-clip-in-final-cut-pro-4-simple-steps/"><u>Updated 2024 Approved Quick Fix How to Reverse a Video Clip in Final Cut Pro (4 Simple Steps)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-fcp-x-effects-for-beginners-a-quick-and-easy-3-step-process-for-2024/"><u>Updated FCP X Effects for Beginners A Quick and Easy 3-Step Process for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-here-are-the-top-ten-movie-trailer-apps-for-iphones-and-ipads-you-can-use-to-create-eye-catching-trailers-for-all-types-of-videos-you-create/"><u>Updated In 2024, Here Are the Top Ten Movie Trailer Apps for iPhones and iPads You Can Use to Create Eye-Catching Trailers for All Types of Videos You Create</u></a></li>
 </ul></div>
 

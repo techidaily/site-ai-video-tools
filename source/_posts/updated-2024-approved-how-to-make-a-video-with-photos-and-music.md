@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Make a Video with Photos and Music
-date: 2024-12-14T02:12:21.431Z
-updated: 2024-12-16T01:22:40.182Z
+date: 2024-12-21T19:57:16.086Z
+updated: 2024-12-24T20:47:21.810Z
 tags: 
   - video editing software
   - video editing
@@ -47,10 +47,6 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
@@ -66,7 +62,7 @@ If you want to express your feelings or explain something in the slideshow, you 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. Select music
@@ -82,11 +78,11 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -115,10 +111,14 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -136,22 +136,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-innovation-unleashed-experience-our-6-best-signature-removers/"><u>[New] In 2024, Innovation Unleashed – Experience Our 6 Best Signature Removers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-thriving-on-screen-time-maximize-your-youtube-impact/"><u>[New] Thriving on Screen Time Maximize Your YouTube Impact</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-looking-beneath-surface-understanding-vr-drawbacks/"><u>[Updated] In 2024, Looking Beneath Surface Understanding VR Drawbacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-vr-lingo-core-terminology-guide/"><u>2024 Approved Mastering the VR Lingo Core Terminology Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/here-restrictions-in-saving-youtube-videos/"><u>Are There Restrictions in Saving YouTube Videos?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-oculus-quest-2-syncing-to-smartphone-platforms/"><u>Comprehensive Tutorial on Oculus Quest 2 Syncing to Smartphone Platforms</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fatal-issues-resolved-optimizing-gameplay-and-stability-for-tales-of-arise-in-unreal-engine-user-ive-overcome-the-major-issues-with-tales-of-arise-running-o479/"><u>Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I've Overcome the Major Issues with 'Tales of Arise' Running on Unreal Engine 4</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/navigating-the-latest-in-tech-with-toms-hardware-channel/"><u>Navigating the Latest in Tech with Tom's Hardware Channel</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-top-5-li/"><u>New In 2024, Unleash Your Creativity Top 5 Li</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-s-best-stop-motion-animation-programs-for-mac-and-pc-computers-for-2024/"><u>New S Best Stop Motion Animation Programs for Mac and PC Computers for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-sony-vegas-alternatives-for-windows-for-2024/"><u>New The Ultimate Guide to Sony Vegas Alternatives for Windows for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-free-dailymotion-video-converter-for-2024/"><u>New Top-Rated Free Dailymotion Video Converter for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reliable-macosx-standard-package-from-starry-file-disposal-automated-erasure-at-your-command/"><u>Reliable MacOSX Standard Package From Starry File Disposal - Automated Erasure at Your Command</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-xml-demystified-a-step-by-step-guide-for-fcpx-editors/"><u>Updated 2024 Approved XML Demystified A Step-by-Step Guide for FCPX Editors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-extract-audio-from-videos-top-mp4-to-mp3-apps-for-mobile/"><u>Updated In 2024, Extract Audio From Videos Top MP4 to MP3 Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/video-editing-on-chromebook-a-step-by-step-guide-to-using-any-app-for-2024/"><u>Video Editing on Chromebook A Step-by-Step Guide to Using Any App for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-a-thorough-examination-recmeisters-screen-capture-innovations/"><u>[New] 2024 Approved A Thorough Examination Recmeister's Screen Capture Innovations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-navigate-the-treasure-trove-of-pexels-picture-paradise-for-2024/"><u>[New] How to Navigate the Treasure Trove of Pexels' Picture Paradise for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-imagery-stories-a-peek-inside/"><u>[New] Iconic Imagery Stories A Peek Inside</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-android-tutorial-reversed-video-display/"><u>[Updated] Android Tutorial Reversed Video Display</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-no-internet-full-fun-best-offline-gaming-on-mobile-devices/"><u>2024 Approved No Internet, Full Fun Best Offline Gaming on Mobile Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-15-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 15 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-spotlight-the-25-influencers-redefining-engagement/"><u>In 2024, Spotlight The 25 Influencers Redefining Engagement</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/section-2a-explanation-of-sweep-frequency-generation/"><u>Section 2A: Explanation of Sweep Frequency Generation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pro-tutorial-adding-emotional-depth-with-ken-burns-effect-for-2024/"><u>Updated Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mobile-video-magic-top-apps-for-animated-text-overlays/"><u>Updated Mobile Video Magic Top Apps for Animated Text Overlays</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-professional-grade-video-editing-why-final-cut-pro-trumps-express-for-2024/"><u>Updated Professional-Grade Video Editing Why Final Cut Pro Trumps Express for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-easter-basket-of-deals-wondershare-filmora-promo-code-inside/"><u>Updated The Easter Basket of Deals Wondershare Filmora Promo Code Inside</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-could-kill-the-dominant-social-platforms-metas-eu-gambit/"><u>What Could Kill the Dominant Social Platforms: Meta's EU Gambit</u></a></li>
 </ul></div>
 
