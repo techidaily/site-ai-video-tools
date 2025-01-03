@@ -1,7 +1,7 @@
 ---
 title: New Reverse, Rewind, Repeat Mastering Video Reversal in Final Cut Pro
-date: 2024-12-20T16:44:17.976Z
-updated: 2024-12-25T02:25:02.100Z
+date: 2024-12-31T23:57:02.838Z
+updated: 2025-01-03T07:57:10.056Z
 tags: 
   - video editing software
   - video editing
@@ -63,16 +63,12 @@ Now you need to go to the pop up menu where an option for reverse the clip is av
 ![ How to reverse a clip in Final Cut Pro ](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hit that reverse option.
 
 ![ Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **Step 3:**
 
@@ -80,13 +76,13 @@ In case if you want to customize speed of reversed clip then use retiming handle
 
 ![ Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 4:**
 
 Now hit the play option to view video with reverse effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Rewind Videos using Final Cut Pro
 
@@ -118,6 +114,10 @@ Play the clip to view editing effects.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1**: To upload a video, first click "Import." You may also simply drag and drop media files into the Media Library, and they will display on the preview/program monitor. You may see your videos in waveform display and Vectorscope format after you've added them to the timeline. You may also watch a live filmstrip preview to see what's going on in the video.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-1.png)
@@ -126,19 +126,19 @@ Play the clip to view editing effects.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Click “Export” to save your file.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -157,19 +157,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-h1-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>[New] H1 An Easy Guide for How to Add Photos on Instagram</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-everyday-epics-in-a-lens-tips-to-avoid-common-mistakes/"><u>[Updated] 2024 Approved Everyday Epics in a Lens Tips to Avoid Common Mistakes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximize-youtube-presence-11-must-know-seo-strategies-for-success/"><u>[Updated] Maximize YouTube Presence 11 Must-Know SEO Strategies for Success</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieving-visual-excellence-with-the-best-4k-monitors-on-the-market/"><u>Achieving Visual Excellence with the Best 4K Monitors on the Market</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-keywords-in-the-world-of-selling-monetized-youtube-channels/"><u>In 2024, Keywords in the World of Selling Monetized Youtube Channels</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/kun-je-je-mpg-bestandjes-gratis-in-mp3s-omzetten-klopt-movavi-op/"><u>Kun Je Je MPG-Bestandjes Gratis in MP3's Omzetten? Klopt Movavi Op!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-create-stunning-home-videos-on-mac-os-with-ease/"><u>New 2024 Approved Create Stunning Home Videos on Mac OS with Ease</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-live-action-to-animated-video-to-cartoon-conversion-made-easy/"><u>New 2024 Approved From Live-Action to Animated Video to Cartoon Conversion Made Easy</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-leading-movie-trailer-software-for-windows-and-macos/"><u>New 2024 Approved Leading Movie Trailer Software for Windows and macOS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-crop-like-a-pro-a-step-by-step-guide-for-final-cut-pro-x-users-for-2024/"><u>New Crop Like a Pro A Step-by-Step Guide for Final Cut Pro X Users for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-edit-like-a-pro-a-free-online-video-editing-course-using-jaycut-for-2024/"><u>New Edit Like a Pro A Free Online Video Editing Course Using Jaycut for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722895206079-step-by-step-solution-when-yahoo-mail-fails-to-deliver-new-emails/"><u>Step-by-Step Solution: When Yahoo Mail Fails to Deliver New Emails.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-superior-bass-quality-in-windows-10-latest-techniques/"><u>Step-by-Step Strategies for Superior Bass Quality in Windows 10 – Latest Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-cropped-lengths-imovies-automatic-trimming-logic-for-2024/"><u>Unveiling Cropped Lengths IMovie's Automatic Trimming Logic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-freezing-points-to-inviting-landscapes-for-2024/"><u>[New] From Freezing Points to Inviting Landscapes for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-audiences-favorites-top-10-mobility-friendly-players/"><u>[Updated] 2024 Approved Audience's Favorites Top 10 Mobility-Friendly Players</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones/"><u>[Updated] In 2024, A Step-by-Step Guide to Video Editing Filters on Computers & Phones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-blending-calendar-coordination-with-mobile-and-computing-zoom-times/"><u>2024 Approved Blending Calendar Coordination with Mobile & Computing Zoom Times</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-expert-techniques-for-gameplay-recordings-via-obs/"><u>2024 Approved Expert Techniques for Gameplay Recordings via OBS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boosting-engagement-joint-video-strategies-for-growth-for-2024/"><u>Boosting Engagement Joint Video Strategies for Growth for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-criteria-for-picking-premium-film-professionals/"><u>In 2024, Criteria for Picking Premium Film Professionals</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-v30t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme V30T</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/librecam-x-live-streaming-experience-analyzed/"><u>LibreCam X Live Streaming Experience Analyzed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mobile-animation-made-easy-top-8-apps/"><u>New Mobile Animation Made Easy Top 8 Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-10-explainer-video-tools-to-boost-your-brand-for-2024/"><u>New Top 10 Explainer Video Tools to Boost Your Brand for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-fcpx-fix-it-handbook-solving-common-problems/"><u>Updated 2024 Approved The FCPX Fix-It Handbook Solving Common Problems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-webm-video-compression-made-easy-best-online-services/"><u>Updated 2024 Approved WebM Video Compression Made Easy Best Online Services</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-digital-trailer-development-companies-online-for-2024/"><u>Updated Digital Trailer Development Companies Online for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-avi-files-on-windows-8-with-ease-2023s-top-editor/"><u>Updated In 2024, Edit AVI Files on Windows 8 with Ease 2023S Top Editor</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/watch-dvds-on-windows-10-top-10-free-player-software-for-2024/"><u>Watch DVDs on Windows 10 Top 10 Free Player Software for 2024</u></a></li>
 </ul></div>
 

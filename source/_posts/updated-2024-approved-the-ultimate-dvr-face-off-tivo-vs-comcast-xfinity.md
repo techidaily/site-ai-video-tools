@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate DVR Face-Off TiVo vs Comcast Xfinity
-date: 2024-12-17T20:41:36.423Z
-updated: 2024-12-25T00:41:27.476Z
+date: 2025-01-02T06:59:34.925Z
+updated: 2025-01-03T08:17:04.994Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -48,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  TiVo interface
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -99,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
@@ -107,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
@@ -120,15 +128,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -145,22 +145,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-blitz-30-second-guide-to-fast-thumbnails/"><u>[New] 2024 Approved Blitz 30-Second Guide to Fast Thumbnails</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-prime-desktopmobile-communication-alternatives-to-zoom/"><u>[New] In 2024, Prime Desktop/Mobile Communication Alternatives to Zoom</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-recordevaluator-critique/"><u>[Updated] RecordEvaluator Critique</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-realme-c67-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme C67 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-top-10-best-4k-video-converters/"><u>FREE Top 10 Best 4K Video Converters</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-x7b-by-drfone-android/"><u>Full Guide to Unlock Your Honor X7b</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-meizu-21-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Meizu 21</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-capture-every-move-top-motion-tracking-apps-for-android-and-ios/"><u>New 2024 Approved Capture Every Move Top Motion Tracking Apps for Android and iOS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-combine-videos-without-branding-top-7-tools-reviewed/"><u>New 2024 Approved Combine Videos Without Branding Top 7 Tools Reviewed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-and-fabulous-the-best-fcpx-plugins-you-need/"><u>New 2024 Approved Free and Fabulous The Best FCPX Plugins You Need</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-motion-to-still-a-guide-to-converting-videos-to-photos-10-best-converters/"><u>New 2024 Approved From Motion to Still A Guide to Converting Videos to Photos 10 Best Converters</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-show-off-your-gaming-skills-how-to-share-ps4-screenshots-online/"><u>New 2024 Approved Show Off Your Gaming Skills How to Share PS4 Screenshots Online</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-animation-magic-top-8-photo-animation-tools/"><u>New 2024 Approved Unlock Animation Magic Top 8 Photo Animation Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-resume-builder-showdown-top-4-picks-free-resources/"><u>New 2024 Approved Video Resume Builder Showdown Top 4 Picks Free Resources</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-windows-8-mp4-video-editor-simplify-your-editing-experience/"><u>New 2024 Approved Windows 8 MP4 Video Editor Simplify Your Editing Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pattern-masks-privateipsipnage0-privateipsiprange1-if-lenprivateipsiprange-)-1-else/"><u>Pattern, Masks = Private_ips[ip_nage][0], Private_ips[ip_range][1] if Len(private_ips[ip_range]) > 1 Else [</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-need-privilege-escalation-issue-fixing-error-740/"><u>Tackling Need Privilege Escalation Issue: Fixing Error 740</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-elite-corporate-space-for-secure-storage/"><u>[New] Elite Corporate Space for Secure Storage</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-best-of-country-top-20-tunes-for-dancing-stress-free-vibes-tiktok/"><u>[New] In 2024, Best of Country Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-weaving-pictures-into-a-musical-tapestry/"><u>[New] In 2024, Weaving Pictures Into a Musical Tapestry</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-free-to-profitable-a-video-marketing-masterclass-for-vimeo-for-2024/"><u>[Updated] From Free to Profitable A Video Marketing Masterclass for Vimeo for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/combining-multiple-spotify-playlists-the-ultimate-walkthrough/"><u>Combining Multiple Spotify Playlists: The Ultimate Walkthrough</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-ringtone-recommendations-for-your-chromium-phone/"><u>In 2024, Ringtone Recommendations for Your Chromium Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-recording-verbal-notes-for-2024/"><u>Innovative Approaches to Recording Verbal Notes for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-videoleap-on-macbook-a-quick-start-guide-to-downloading-and-using/"><u>New In 2024, Videoleap on MacBook A Quick Start Guide to Downloading and Using</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mastering-final-cut-pro-a-step-by-step-guide-to-flipping-clips-for-2024/"><u>New Mastering Final Cut Pro A Step-by-Step Guide to Flipping Clips for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-webm-to-mp3-conversion-software/"><u>New Top-Rated WebM to MP3 Conversion Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-free-video-blurring-easy-online-solution-for-2024/"><u>New Unlock Free Video Blurring Easy Online Solution for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-top-online-video-flipper-tools-for-2024/"><u>The Top Online Video Flipper Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-must-play-mobile-gaming-apps/"><u>Top 8 Must-Play Mobile Gaming Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-au-direttamente-in-wav-senza-costi-usando-leditor-di-video-movavi/"><u>Trasforma I Tuoi File .au Direttamente in WAV Senza Costi Usando L'editor Di Video Movavi</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-noisy-to-pro-how-to-remove-background-noise-in-final-cut-pro-x-like-a-pro/"><u>Updated 2024 Approved From Noisy to Pro How to Remove Background Noise in Final Cut Pro X Like a Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-replace-pinnacle-studio-on-your-mac-with-these-top-picks-for-2024/"><u>Updated Replace Pinnacle Studio on Your Mac with These Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-free-and-paid-sony-vegas-alternatives-for-windows/"><u>Updated The Best Free and Paid Sony Vegas Alternatives for Windows</u></a></li>
 </ul></div>
 
