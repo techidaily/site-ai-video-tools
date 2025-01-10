@@ -1,7 +1,7 @@
 ---
 title: Reduce File Size Download VirtualDub for MPEG2 Compression for 2024
-date: 2024-11-07T16:52:28.217Z
-updated: 2024-11-13T23:13:39.194Z
+date: 2025-01-07T22:43:04.159Z
+updated: 2025-01-10T07:13:53.604Z
 tags: 
   - video editing software
   - video editing
@@ -30,15 +30,16 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Set Up Video Compression
@@ -52,17 +53,22 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -81,21 +87,7 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -112,22 +104,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[Updated] 2024 Approved Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-photography-rookies-digest-prime-cams/"><u>[Updated] In 2024, Photography Rookies Digest Prime Cams</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-smart-techniques-for-large-video-movement-between-iphones-and-macs/"><u>[Updated] In 2024, Smart Techniques for Large Video Movement Between iPhones & Macs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/apple-device-woes-five-challenges-faced-when-sending-tokens-of-love-through-technology/"><u>Apple Device Woes: Five Challenges Faced When Sending Tokens of Love Through Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-itel-a05s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel A05s Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-pro-vlc-top-10-hidden-player-powers/"><u>In 2024, Pro-VLC Top 10 Hidden Player Powers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-efficiency-how-to-document-your-google-collaborations/"><u>In 2024, Unlocking Efficiency How to Document Your GooGle Collaborations</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/active-achievements-the-click-based-reward-for-2024/"><u>Interactive Achievements The Click-Based Reward for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-get-started-with-video-editing-best-tools-for-newcomers-for-2024/"><u>New Get Started with Video Editing Best Tools for Newcomers for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-compress-videos-in-minutes-10-free-online-tools-with-no-software/"><u>New In 2024, Compress Videos in Minutes 10 Free Online Tools with No Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-epic-music-videos-with-these-10-top-rated-tools/"><u>New In 2024, Create Epic Music Videos with These 10 Top-Rated Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-stunning-intros-top-10-pc-software-online-and-offline/"><u>New In 2024, Create Stunning Intros Top 10 PC Software Online and Offline</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows-users/"><u>New In 2024, Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-moving-top-rated-motion-tracking-apps-for-mobile/"><u>New In 2024, Get Moving Top-Rated Motion Tracking Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-movies-for-free-top-rated-video-editing-software/"><u>New In 2024, Make Movies for Free Top-Rated Video Editing Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-8-best-animation-maker-for-beginners-and-pros/"><u>New In 2024, Top 8 Best Animation Maker for Beginners and Pros</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-understanding-tseries-financial-gain-in-youtube-space/"><u>[New] Understanding TSeries' Financial Gain in YouTube Space</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-and-easy-xbox-one-image-snaps-for-gaming/"><u>[Updated] In 2024, Quick & Easy Xbox One Image Snaps for Gaming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-key-strategies-to-restore-iphones-dictation-feature/"><u>5 Key Strategies to Restore iPhone's Dictation Feature</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-prime-valorant-video-thumbnails-on-youtube-for-2024/"><u>Crafting Prime Valorant Video Thumbnails on YouTube for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-methods-flipping-film-frames-using-vlc/"><u>Easy Methods Flipping Film Frames Using VLC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-dual-display-capture/"><u>In 2024, Dual Display Capture</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-an-eye-out-essential-windows-steps-that-might-hide-viruses/"><u>Keeping an Eye Out: Essential Windows Steps That Might Hide Viruses</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-trim-cut-and-edit-avi-videos-top-software-for-windows-mac-and-mobile/"><u>New In 2024, Trim, Cut, and Edit AVI Videos Top Software for Windows, MAC, and Mobile</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-jaycut-tutorial-unlock-the-power-of-free-online-video-editing-for-2024/"><u>New Jaycut Tutorial Unlock the Power of Free Online Video Editing for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-tools-for-crafting-unforgettable-highlight-reels-for-2024/"><u>New The Best Tools for Crafting Unforgettable Highlight Reels for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-5-best-online-tone-generators-free-and-simple/"><u>Updated 2024 Approved 5 Best Online Tone Generators Free & Simple</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-public-domain-video-treasure-trove-best-sites-to-explore/"><u>Updated 2024 Approved Public Domain Video Treasure Trove Best Sites to Explore</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-of-free-tiktok-watermark-remover-websites/"><u>Updated In 2024, The Ultimate List of Free TikTok Watermark Remover Websites</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-15-adobe-premiere-plugins-for-effects-and-transitions-for-2024/"><u>Updated Top 15 Adobe Premiere Plugins for Effects and Transitions for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-video-editing-on-a-budget-top-free-special-effects-apps-for-mobile-for-2024/"><u>Updated Video Editing on a Budget Top Free Special Effects Apps for Mobile for 2024</u></a></li>
 </ul></div>
 

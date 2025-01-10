@@ -1,7 +1,7 @@
 ---
 title: Updated The Details Below Can Help You Make Color Correction Simply in Final Cut Pro for 2024
-date: 2024-11-10T18:10:15.227Z
-updated: 2024-11-13T16:58:01.476Z
+date: 2025-01-07T22:25:00.230Z
+updated: 2025-01-10T08:33:58.774Z
 tags: 
   - video editing software
   - video editing
@@ -75,9 +75,17 @@ As soon as you start working on **Color Board**, it is good to open Video Scopes
 
 ![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
 ![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3
 
@@ -87,6 +95,10 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
@@ -94,6 +106,10 @@ Now it is time to work on color correction directly. There are three types of co
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
 ![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4
 
@@ -104,6 +120,10 @@ It is possible to preview all the corrections on the original image before makin
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -120,33 +140,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-insta-twist-techniques-manual-flipping-photos-and-videos-for-social-media-success/"><u>[New] 2024 Approved The Insta Twist Techniques Manual Flipping Photos and Videos for Social Media Success</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-enhance-film-magic-with-final-cuts-top-10-effect-tools/"><u>[Updated] 2024 Approved Enhance Film Magic with Final Cut's Top 10 Effect Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-definitive-io-screen-recorder-guidebook/"><u>[Updated] 2024 Approved The Definitive IO Screen Recorder Guidebook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-gaining-ground-on-the-groundswell-of-online-viewers/"><u>2024 Approved Gaining Ground on the Groundswell of Online Viewers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y55s-5g-2023-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y55s 5G (2023) is off? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-steps-for-converting-dvd-content-onto-a-portable-external-hard-disk/"><u>Effortless Steps for Converting DVD Content Onto a Portable External Hard Disk</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-srt-audio-file-handling-for-oses/"><u>In 2024, SRT Audio File Handling for OSes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software-for-2024/"><u>New FCP or LumaFusion The Pros and Cons of Each Video Editing Software for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-free-video-trimming-and-merging-tools-for-beginners-2023-update-for-2024/"><u>New Free Video Trimming and Merging Tools for Beginners (2023 Update) for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-here-is-a-list-of-top-5-free-mov-joiners-to-help-you-easily-achieve-that-for-2024/"><u>New Here Is a List of Top 5 Free MOV Joiners to Help You Easily Achieve That for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-video-editing-magic-top-special-effects-apps-for-mobile-devices/"><u>New In 2024, Free Video Editing Magic Top Special Effects Apps for Mobile Devices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-no-more-scrolling-find-your-filmora-promo-code-now/"><u>New In 2024, No More Scrolling Find Your Filmora Promo Code Now</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-best-free-mpeg-video-splitters-a-comprehensive-guide/"><u>New In 2024, The Best Free MPEG Video Splitters A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-compatibility-making-shockwave-flash-work-again-in-google-chrome/"><u>Overcoming Compatibility: Making Shockwave Flash Work Again in Google Chrome</u></a></li>
-<li><a href="https://program-issues.techidaily.com/practice-good-hygiene-urinate-frequently-especially-after-sexual-activity-to-help-flush-out-bacteria-from-your-urinary-tract-wipe-from-front-to-back-when-us598/"><u>Practice Good Hygiene: Urinate Frequently, Especially After Sexual Activity, to Help Flush Out Bacteria From Your Urinary Tract. Wipe From Front to Back when Using the Restroom, Which Can Help Prevent Bacteria From Spreading From the Anus to the Urethra</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-perfect-timing-adjust-video-speed-in-snapchat-easily-for-2024/"><u>[New] Perfect Timing Adjust Video Speed in Snapchat Easily for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-srt-file-playback-windows-and-mac-integration/"><u>[Updated] 2024 Approved SRT File Playback Windows & Mac Integration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastery-of-gesture-recognition-all-methods-explained-for-2024/"><u>[Updated] Mastery of Gesture Recognition All Methods Explained for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-a-step-by-step-journey-to-pc-live-streams-master-tiktok-live/"><u>2024 Approved A Step-By-Step Journey to PC Live Streams – Master TikTok LIVE</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/easily-pulling-picture-moments-from-videos-for-windows-photos/"><u>Easily Pulling Picture Moments From Videos for Windows Photos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-11r-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus 11R Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-videoleap-on-macbook-a-quick-start-guide-to-downloading-and-using/"><u>New In 2024, Videoleap on MacBook A Quick Start Guide to Downloading and Using</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-vn-video-editor-pro-apk-a-comprehensive-review-of-its-features/"><u>New In 2024, VN Video Editor Pro Apk A Comprehensive Review of Its Features</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mastering-final-cut-pro-a-step-by-step-guide-to-flipping-clips-for-2024/"><u>New Mastering Final Cut Pro A Step-by-Step Guide to Flipping Clips for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-free-video-blurring-easy-online-solution-for-2024/"><u>New Unlock Free Video Blurring Easy Online Solution for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/pioneering-playgrounds-of-action-adventure-classics-top-10/"><u>Pioneering Playgrounds of Action-Adventure Classics (Top 10)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/principles-of-momentum-reversal-in-filming/"><u>Principles of Momentum Reversal in Filming</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/s-top-rated-free-music-recording-programs-a-comprehensive-list-for-2024/"><u>S Top-Rated Free Music Recording Programs A Comprehensive List for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-top-online-video-flipper-tools-for-2024/"><u>The Top Online Video Flipper Tools for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-free-video-cutting-tools-our-expert-picks/"><u>Updated 2024 Approved Best Free Video Cutting Tools Our Expert Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-local-video-casting-made-easy-chromecast-guide-for-windows-mac-android-and-ios/"><u>Updated In 2024, Local Video Casting Made Easy Chromecast Guide for Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-pip-a-step-by-step-guide-to-final-cut-pro-for-2024/"><u>Updated Mastering PiP A Step-by-Step Guide to Final Cut Pro for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/yl-software-tutorial-mastering-the-art-of-accepting-digital-coins-for-payment/"><u>YL Software Tutorial: Mastering the Art of Accepting Digital Coins for Payment</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

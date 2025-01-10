@@ -1,7 +1,7 @@
 ---
 title: New Make It a Valentines Day to Remember DIY Video Ideas for Your Loved One
-date: 2024-12-22T22:24:32.207Z
-updated: 2024-12-24T20:01:48.487Z
+date: 2025-01-03T00:26:50.633Z
+updated: 2025-01-09T23:47:45.513Z
 tags: 
   - video editing software
   - video editing
@@ -28,10 +28,6 @@ Finding ways to show your feelings isn’t always easy. In fact, [buying present
 
 **Creating a short Valentine’s Day video** shouldn’t be too hard, especially if you have a great story to tell. Besides, a video is something that will last, and your significant other will always be able to watch it no matter what the future brings. So, in this article, we are going to show you how to make a Valentine’s Day video on your Windows PC or Mac, or just with your mobile phones that will truly show how you feel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Make a Valentine’s Day Video on Windows and Mac
 
 There are hundreds of [video editing software for Windows](https://tools.techidaily.com/wondershare/filmora/download/) and Mac computers you can use to create a Valentine’s Day video, but in this article, we are going to use Filmora as an example. However, each of the steps we will cover can be used in other video editors for Mac and Windows. Let’s check how to make a Valentine’s Day video with Filmora.
@@ -39,7 +35,7 @@ There are hundreds of [video editing software for Windows](https://tools.techida
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. It all starts with an Idea
@@ -54,10 +50,6 @@ During the next step, you should add all video clips you would like to use in yo
 
 ![ Drag and drop valentines video footage to Filmora ](https://images.wondershare.com/filmora/article-images/drag-n-drop-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Optionally, you can use the Split tool to make cuts in a video clip and [remove parts you don’t want to include in the final version of the video](https://tools.techidaily.com/wondershare/filmora/download/). When done, you should right-click on each of the video clips you added to the timeline and select [the Color Correction](https://tools.techidaily.com/wondershare/filmora/download/) option. You can then proceed to fine-tune the Brightness, Contrast, Saturation, or Highlights values depending on how bright or vivid the colors in the original video are. This process can take a while, which is why it is important to be patient and go through it slowly.
 
 ### 3\. Add Romantic Filters and Elements
@@ -66,17 +58,21 @@ Filmora features Effects and Elements libraries that contain hundreds of differe
 
 ![ Drag and drop valentines element to video in Filmora9 ](https://images.wondershare.com/filmora/article-images/valentines-special-event-elements.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you find a romantic filter or element you want to apply to your footage, you should simply drag and drop it to the video track that is located directly above the one on which your footage is located. You should then position an [overlay, a filter, or an element](https://tools.techidaily.com/wondershare/filmora/download/) at the exact spot where you want them to appear in your video.
 
 ![ Drag and drop valentines transitions  to video in Filmora9 ](https://images.wondershare.com/filmora/article-images/valentines-special-event-transitions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In case you want to adjust the intensity of an effect you applied you should just double-click on it and then use the Alpha slider to adjust the effect’s intensity. Double-clicking on an element you placed on the timeline will grant you access to the Video tab where you can rotate it, change its on-screen position, or set its Opacity value.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Apply Text Layers
 
@@ -84,10 +80,14 @@ The Titles tab contains more than a hundred different Openers, End Credits, or T
 
 ![ Drag and drop valentines texts and titles  to video in Filmora9 ](https://images.wondershare.com/filmora/article-images/valentines-special-event-titles.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you [insert the text](https://tools.techidaily.com/wondershare/filmora/download/), you can pick the font, color, or this size of the text, as well as set the spacing between two lines of text. Optionally, you can use Filmora’s Advanced Text Edit window if you want to have complete control over all layers of text you add to your video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Create the Soundtrack
@@ -99,7 +99,7 @@ Music will give your video the rhythm and it will make it more entertaining to w
 You can also use Filmora’s library of [royalty-free songs](https://tools.techidaily.com/wondershare/filmora/download/) to create the soundtrack for the video you are making. Just head over to the Audio tab, pick a song from Electronic, Rock, or Tender & Sentimental categories, and add it to the timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Export the Video
@@ -114,10 +114,6 @@ If you find the process of making a Valentine’s Day video on Mac and Windows c
 
 ![Valentines Video Makers App for Android ](https://images.wondershare.com/filmora/article-images/2022/01/valentine-video-maker-app-android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Creating slow motion or fast forward videos is yet another option you’ll have at your disposal if you choose to edit your videos with this app. The best part is that you can create a new video with Valentine Video Maker in just a few minutes and share it on social media.
 
 ## Using Valentines Video Greetings Maker on iPhones
@@ -125,6 +121,10 @@ Creating slow motion or fast forward videos is yet another option you’ll have 
 Even though there are lots of different video editing apps for iPhones, very few of them enable their users to create customized Valentine’s Day messages. So if you would like to surprise the person you love with a beautiful Valentine’s Day message, you should install [Valentines Video Greetings Maker](https://apps.apple.com/us/app/valentines-greetings-maker/id804531269) on your iPhone.
 
 ![Valentines Video Makers App for iPhone ](https://images.wondershare.com/filmora/article-images/valentines-greetings-maker-ios-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The app lets you combine an unlimited number of images or videos and record your own customized voice message to accompany the video you created. Each video greeting you create can be shared on social media with a single tap or sent directly via email. Keep in mind that you must make an in-app purchase in order to be able to save your video greetings to the Photo Gallery.
 
@@ -149,22 +149,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-fading-sound-tracks-with-logic-pro/"><u>[New] 2024 Approved Fading Sound Tracks with Logic Pro</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-top-tips-for-masterful-looped-videos-on-instagram-for-2024/"><u>[New] Top Tips for Masterful Looped Videos on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-miniature-music-menus-actors-in-audio-world/"><u>[Updated] 2024 Approved Miniature Music Menus Actors in Audio World</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-actors-agreement-for-public-viewing/"><u>[Updated] Actors' Agreement for Public Viewing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-8-best-website-for-3d-graffiti-fonts/"><u>[Updated] In 2024, 8 Best Website for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-camera-screens-at-your-fingertips-review-of-top-free-recorders/"><u>[Updated] In 2024, Camera Screens at Your Fingertips Review of Top Free Recorders</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-optimize-video-views-with-these-top-5-link-shrinkers-for-2024/"><u>[Updated] Optimize Video Views with These Top 5 Link Shrinkers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finns-fiscal-flow-income-insights-from-youtube-icon-for-2024/"><u>Finn's Fiscal Flow Income Insights From YouTube Icon for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-unable-to-activate-hosted-wifi-on-windows-10/"><u>Fixing the Issue: Unable to Activate Hosted WiFi on Windows 10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-avi-video-cutting-tools-trim-and-split-avi-videos-multi-platform-for-2024/"><u>New Top-Rated AVI Video Cutting Tools Trim and Split AVI Videos Multi-Platform for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-vllo-for-mac-the-complete-package-download-and-alternatives-for-2024/"><u>New VLLO for Mac The Complete Package - Download and Alternatives for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/time-lapse-made-easy-2-simple-methods-to-speed-up-your-videos-for-2024/"><u>Time Lapse Made Easy 2 Simple Methods to Speed Up Your Videos for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-behind-the-scenes-10-successful-movies-that-owe-their-success-to-final-cut-pro/"><u>Updated In 2024, Behind the Scenes 10 Successful Movies That Owe Their Success to Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-flip-and-rotate-the-best-free-3gp-video-editors/"><u>Updated In 2024, Flip and Rotate The Best Free 3GP Video Editors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-free-dual-screen-video-editing-software-web-and-desktop-for-2024/"><u>Updated Top Free Dual-Screen Video Editing Software Web & Desktop for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-vignette-perfection-the-best-mobile-apps-for-adding-frames-and-borders-for-2024/"><u>Updated Vignette Perfection The Best Mobile Apps for Adding Frames and Borders for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/watermark-free-video-joining-7-top-rated-solutions-for-2024/"><u>Watermark-Free Video Joining 7 Top-Rated Solutions for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-bring-clarity-to-your-feed-a-guide-to-crafting-square-videos-in-imovie-for-2024/"><u>[New] Bring Clarity to Your Feed A Guide to Crafting Square Videos in iMovie for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-pioneering-film-making-skills-through-youtube-videos/"><u>[Updated] 2024 Approved Pioneering Film Making Skills Through YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-superior-video-capture-systems-the-1-to-18-list/"><u>[Updated] In 2024, Superior Video Capture Systems - The #1 to #18 List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-up-your-speaking-game-access-free-user-friendly-audio-alteration-tools/"><u>[Updated] Step Up Your Speaking Game - Access Free, User-Friendly Audio Alteration Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-selecting-the-top-5-youtube-grabber-software/"><u>2024 Approved Selecting the Top 5 YouTube Grabber Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-a14-4g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy A14 4G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900848326-explore-the-coolest-free-windows-11-skins-and-themes-available-now/"><u>Explore the Coolest FREE Windows 11 Skins and Themes Available Now!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-14-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi 14 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-note-50-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme Note 50 Phone with Broken Screen</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-sony-vegas-not-your-cup-of-tea-try-these-windows-alternatives-for-2024/"><u>New Sony Vegas Not Your Cup of Tea? Try These Windows Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-text-animation-made-easy-best-motion-tracking-tools/"><u>New Text Animation Made Easy Best Motion Tracking Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-visual-flow-color-matching-and-grading-in-powerdirector-for-beginners/"><u>New Visual Flow Color Matching and Grading in PowerDirector for Beginners</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mobile-video-editing-with-music-top-apps-for-android-and-ios/"><u>Updated 2024 Approved Mobile Video Editing with Music Top Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-rated-chroma-key-apps-for-mobile-free-downloads-for-android-and-ios/"><u>Updated In 2024, Top-Rated Chroma Key Apps for Mobile Free Downloads for Android & iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-quicktime-video-editing-made-easy-top-10-free-tools/"><u>Updated QuickTime Video Editing Made Easy Top 10 Free Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-efficient-editing-20-adobe-premiere-shortcuts-you-need/"><u>Updated Unlock Efficient Editing 20 Adobe Premiere Shortcuts You Need</u></a></li>
 </ul></div>
 

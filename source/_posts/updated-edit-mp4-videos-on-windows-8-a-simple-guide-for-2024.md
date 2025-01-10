@@ -1,7 +1,7 @@
 ---
 title: Updated Edit MP4 Videos on Windows 8 A Simple Guide for 2024
-date: 2024-09-28T08:28:01.696Z
-updated: 2024-10-01T07:11:36.340Z
+date: 2025-01-04T22:10:35.971Z
+updated: 2025-01-10T00:23:24.054Z
 tags: 
   - video editing software
   - video editing
@@ -50,6 +50,10 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 ![edit mp4 window 8](https://images.wondershare.com/filmora/article-images/change-video-speed-with-toolbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Split, Trim MP4 Videos
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
@@ -62,11 +66,19 @@ To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wonders
 
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Add Scene Transition
 
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -80,7 +92,15 @@ Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -97,26 +117,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/void-shaky-footage-proper-tripod-usage-techniques-in-vlog-creation/"><u>[New] Avoid Shaky Footage Proper Tripod Usage Techniques in Vlog Creation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-essential-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps-for-2024/"><u>[New] Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-choosing-the-right-lights-and-cameras-for-youtube-videos/"><u>[Updated] 2024 Approved Choosing the Right Lights & Cameras for YouTube Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-scaling-success-the-tactics-for-increasing-youtube-audiences/"><u>[Updated] 2024 Approved Scaling Success The Tactics for Increasing YouTube Audiences</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-weaving-the-art-of-photomontages/"><u>2024 Approved Image Weaving The Art of Photomontages</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-restoring-hibernation-mode/"><u>Mastering the Art of Restoring Hibernation Mode</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlock-efficient-video-editing-top-5-free-mpeg-video-splitters/"><u>New In 2024, Unlock Efficient Video Editing Top 5 Free MPEG Video Splitters</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-smoother-skin-in-minutes-a-plugin-free-fcpx-editing-technique-for-2024/"><u>New Smoother Skin in Minutes A Plugin-Free FCPX Editing Technique for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/share-screen-on-zoom-meeting-guide/"><u>Share Screen on Zoom Meeting Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/topmost-comfortable-ergonomic-keyboard-models/"><u>Topmost Comfortable Ergonomic Keyboard Models</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/transformation-gratuite-de-fichiers-pcx-en-images-jpeg-sur-internet-mouvavi/"><u>Transformation Gratuite De Fichiers PCX en Images JPEG Sur Internet - Mouvavi</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-a-swift-overview-of-vn-video-editor-for-pc-users-for-2024/"><u>Updated A Swift Overview of VN Video Editor for PC Users for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-edit-like-a-pro-the-ultimate-guide-to-gopro-hd-video-editing-for-2024/"><u>Updated Edit Like a Pro The Ultimate Guide to GoPro HD Video Editing for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-10-best-free-video-flipper-tools-to-rotate-your-clips/"><u>Updated In 2024, 10 Best Free Video Flipper Tools to Rotate Your Clips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-fine-tune-viewing-the-ultimate-zoom-journey/"><u>[New] 2024 Approved Fine-Tune Viewing The Ultimate Zoom Journey</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-color-the-top-15-gopro-luts-for-filmmaking/"><u>[New] Perfecting Color The Top 15 GoPro LUTs for Filmmaking</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-seamless-communication-with-top-tier-free-and-paid-zoom-applications-for-2024/"><u>[New] Unlocking Seamless Communication with Top-Tier Free & Paid Zoom Applications for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-identifying-instagram-disconnects/"><u>[Updated] 2024 Approved Identifying Instagram Disconnects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-composing-a-price-plan-for-audio-visual-song-clips/"><u>[Updated] Composing a Price Plan for Audio-Visual Song Clips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-of-capturing-stories-gopro-hero5-black-in-focus/"><u>2024 Approved The Art of Capturing Stories GoPro Hero5 Black in Focus</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-step-by-step-walkthrough-getting-your-rocket-league-game-running-smoothly-again/"><u>A Step-by-Step Walkthrough: Getting Your Rocket League Game Running Smoothly Again</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/asus-nuc-14-unleashed-powerhouse-performance-with-core-u-series-and-nvidia-rtx-4070-graphics/"><u>Asus NUC 14 Unleashed: Powerhouse Performance with Core U-Series and NVIDIA RTX 4070 Graphics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-13-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 13 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone XR</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola G54 5G FRP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-virtualdub-review-is-it-still-the-best-video-editor/"><u>New In 2024, Virtualdub Review Is It Still the Best Video Editor ?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-video-import-and-export-in-adobe-premiere-pro-2023-tips-and-tricks/"><u>New The Art of Video Import and Export in Adobe Premiere Pro 2023 Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleashing-the-power-of-lower-thirds-in-final-cut-pro-x-for-2024/"><u>New Unleashing the Power of Lower Thirds in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-create-animated-videos-10-best-cartoon-maker-apps-for-android-and-ios/"><u>Updated 2024 Approved Create Animated Videos 10 Best Cartoon Maker Apps for Android & iOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-show-off-your-gaming-skills-a-beginners-guide-to-sharing-ps4-screenshots/"><u>Updated 2024 Approved Show Off Your Gaming Skills A Beginners Guide to Sharing PS4 Screenshots</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-watermark-free-video-editing-7-top-merging-software/"><u>Updated 2024 Approved Watermark-Free Video Editing 7 Top Merging Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-free-filmora-no-strings-attached/"><u>Updated The Ultimate Guide to Free Filmora No Strings Attached</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-virtualdub-a-review-of-its-capabilities-and-limitations-plus-top-alternative-video-editors-for-2024/"><u>Updated Virtualdub A Review of Its Capabilities and Limitations, Plus Top Alternative Video Editors for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

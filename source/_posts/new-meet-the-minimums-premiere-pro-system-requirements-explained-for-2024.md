@@ -1,7 +1,7 @@
 ---
 title: New Meet the Minimums Premiere Pro System Requirements Explained for 2024
-date: 2024-10-27T18:23:55.123Z
-updated: 2024-10-30T03:34:02.128Z
+date: 2025-01-05T04:45:17.743Z
+updated: 2025-01-10T04:47:54.514Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,10 @@ We all know that [Adobe Premiere Pro](https://www.adobe.com/products/premiere.ht
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Minimum system requirement to run Premiere Pro on Windows and Mac in 2019
 
 Your computer should at least to meet **the minimum specification** below to run Premiere Pro, and if you need to edit some VR videos, your computer configuration should be higher according to [the minimum specifications list on their website](https://helpx.adobe.com/premiere-pro/system-requirements.html).
@@ -47,16 +51,7 @@ However, it is important to remember this is the minimum specification, and will
 ---
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check Computer Specifications
@@ -75,10 +70,7 @@ Checking the specification on your Mac is easy, just click the **Apple icon** in
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Computer for Premiere
@@ -113,16 +105,13 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
 
@@ -136,19 +125,6 @@ The Preset Tab makes setting up a new sequence much simpler. Choosing a preset e
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
 
 Because the presets do such a good job it is not really necessary to adjust anything in the settings tab, and unless you are trying to do something very specific.
@@ -156,6 +132,10 @@ Because the presets do such a good job it is not really necessary to adjust anyt
 While the standard presets are usually suitable, on occasion you may desire a custom setting. To do this, choose a sequence preset that is close to your media, and then make custom selections in the Settings tab. By selecting the Save Preset option on the Settings tab you can then create a custom setting with those parameters. Give the preset a suitable name in the Save Settings dialog and add any notes that are needed. The preset can be found in the Custom folder under Available Presets.
 
 Those with the Apple Prores Codec on their computers can use this as the preview codec if required. By choosing Quicktime as the preview format in a custom editing mode, and lastly Apple Prores as the required codec.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -178,15 +158,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevate-reality-making-everyday-phones-virtual-world-tools/"><u>[New] 2024 Approved Elevate Reality Making Everyday Phones Virtual World Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-faster-than-light-instagram-video-experience-for-mobile-users-for-2024/"><u>[New] Faster-Than-Light Instagram Video Experience for Mobile Users for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-video-enthusiasts-guide-to-the-best-photo-backdrop-swappers/"><u>[Updated] Video Enthusiasts' Guide to the Best Photo Backdrop Swappers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fulfilling-dreams-with-exceptional-customer-service-at-a-score-of-245/"><u>Fulfilling Dreams with Exceptional Customer Service, At a Score of 245</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>In 2024, Premium Picks Recommended Portals for Tapping Snapchat Tunes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-noisy-speakers-settings-in-windows/"><u>Navigating Noisy Speakers Settings in Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-merge-videos-without-logos-best-7-software-options/"><u>New Merge Videos Without Logos Best 7 Software Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-top-rated-video-collage-apps-for-iphone-and-ipad/"><u>New Unleash Your Creativity Top-Rated Video Collage Apps for iPhone and iPad</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-elevate-your-sound-10-best-music-video-directors-for-2024/"><u>Updated Elevate Your Sound 10 Best Music Video Directors for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-top-free-video-editing-tools-for-gamers/"><u>Updated In 2024, Best Top Free Video Editing Tools for Gamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-economical-videography-for-extreme-sports-enthusiasts/"><u>[New] Economical Videography for Extreme Sports Enthusiasts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-xr-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone XR</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-wi-fi-integration-a-comprehensive-guide-to-os-xwindows/"><u>Effortless Wi-Fi Integration: A Comprehensive Guide to OS X/Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flight-to-perfection-assessing-gopro-karmas-capabilities/"><u>In 2024, Flight to Perfection Assessing GoPro Karma's Capabilities</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-htc-u23-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On HTC U23 Pro Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/laughlab-design-suite-for-2024/"><u>LaughLab Design Suite for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlock-final-cut-pro-at-a-steal-explore-student-discounts/"><u>New In 2024, Unlock Final Cut Pro at a Steal Explore Student Discounts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-creative-prompts-for-generating-images-with-dall-e-3/"><u>Top 8 Creative Prompts for Generating Images with DALL-E 3</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-rated-avi-file-combiners-10-free-solutions-for-you/"><u>Updated 2024 Approved Top-Rated AVI File Combiners 10 Free Solutions for You</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-create-stunning-animations-the-ultimate-online-maker-list-for-2024/"><u>Updated Create Stunning Animations The Ultimate Online Maker List for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-divide-and-conquer-the-best-free-wmv-video-splitters-for-2024/"><u>Updated Divide and Conquer The Best Free WMV Video Splitters for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-free-mp4-video-editor-roundup-top-10-options-for-2024/"><u>Updated Free MP4 Video Editor Roundup Top 10 Options for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-clips-to-cinemascope-mastering-mac-video-production/"><u>Updated In 2024, From Clips to Cinemascope Mastering Mac Video Production</u></a></li>
 </ul></div>
 

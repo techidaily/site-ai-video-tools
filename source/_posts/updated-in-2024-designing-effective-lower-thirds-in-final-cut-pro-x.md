@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Designing Effective Lower Thirds in Final Cut Pro X
-date: 2024-11-10T16:01:55.384Z
-updated: 2024-11-13T18:01:24.693Z
+date: 2025-01-08T06:43:57.016Z
+updated: 2025-01-10T04:06:47.458Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,10 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -86,10 +90,11 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -116,13 +121,6 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
@@ -135,31 +133,15 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -187,6 +169,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -202,14 +188,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-instant-upload-tiktok-vids-to-your-fb-page-easily/"><u>[New] Instant Upload TikTok Vids to Your FB Page Easily</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-studio-masterclass-in-depth-xvideostudio-report-for-2024/"><u>[New] Studio Masterclass In-Depth XVideoStudio Report for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>[Updated] 2024 Approved Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-filmora-alternative-similar-features-at-zero-cost/"><u>New In 2024, Free Filmora Alternative Similar Features at Zero Cost</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-video-cutting-tools-for-mp4-expert-approved-options/"><u>New In 2024, Free Video Cutting Tools for MP4 Expert-Approved Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-steady-a-comprehensive-guide-to-the-best-free-online-video-stabilizers/"><u>New In 2024, Get Steady A Comprehensive Guide to the Best Free Online Video Stabilizers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-funniest-video-dubbing-apps-you-need-to-try/"><u>New In 2024, The Funniest Video Dubbing Apps You Need to Try</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-saving-your-email-data-from-outlook-365-to-onedrive-exploring-two-reliable-strategies/"><u>Step-by-Step Guide: Saving Your Email Data From Outlook 365 to OneDrive - Exploring Two Reliable Strategies</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-must-know-insights-before-investing-in-an-unlocked-phone-model/"><u>The Must-Know Insights Before Investing in an Unlocked Phone Model</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-from-basic-to-breathtaking-storytelling-through-smart-bokeh-use-for-2024/"><u>[New] From Basic to Breathtaking Storytelling Through Smart Bokeh Use for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outubers-essential-camera-guidebook-for-2024/"><u>[New] YouTubers' Essential Camera Guidebook for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-personalize-win11-panorama-selecting-stunning-walls/"><u>[Updated] Personalize Win11 Panorama Selecting Stunning Walls</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-quality-video-uplift-immaculate-resolution-for-2024/"><u>[Updated] Top Quality Video Uplift Immaculate Resolution for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-insta-share-tips-for-posting-youtube-videos/"><u>2024 Approved Insta-Share Tips for Posting YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-2023/"><u>最新技術によるDVDコピーガード解除: 2023年優れたソフトウェアガイド</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-weekend-with-apple-vision-pro-top-three-insights-unveiled-detailed-review/"><u>A Weekend with Apple Vision Pro: Top Three Insights Unveiled - Detailed Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing/"><u>Crafting Quality Podcasts IPhone & iPad Tips for Intense Interviewing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-xiaomi-redmi-note-12r-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Xiaomi Redmi Note 12R? Try These Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-no-cost-split-screen-video-editing-online-and-offline-tools-compared/"><u>New No-Cost Split Screen Video Editing Online and Offline Tools Compared</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-lg-k51-examined-when-elegant-appearance-meets-slow-processing-power/"><u>The LG K51 Examined: When Elegant Appearance Meets Slow Processing Power</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-no-cost-video-editors-for-side-by-side-videos-online-and-offline/"><u>Updated 2024 Approved Best No-Cost Video Editors for Side-by-Side Videos Online & Offline</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-ready-to-lol-the-best-face-swap-apps-for-mobile/"><u>Updated 2024 Approved Get Ready to LOL The Best Face Swap Apps for Mobile</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-without-limits-the-top-10-free-online-video-editors/"><u>Updated In 2024, Edit Without Limits The Top 10 Free Online Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-elevate-your-instagram-game-with-stop-motion-pro-tips-and-techniques/"><u>Updated In 2024, Elevate Your Instagram Game with Stop Motion Pro Tips and Techniques</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-your-creativity-best-movie-trailer-software-for-mac-and-windows/"><u>Updated In 2024, Unleash Your Creativity Best Movie Trailer Software for Mac and Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-8-free-online-video-stabilization-tools-for-smoother-footage/"><u>Updated Top 8 Free Online Video Stabilization Tools for Smoother Footage</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-the-power-of-stop-motion-on-instagram-tips-tricks-and-best-practices-for-2024/"><u>Updated Unlock the Power of Stop Motion on Instagram Tips, Tricks, and Best Practices for 2024</u></a></li>
 </ul></div>
 

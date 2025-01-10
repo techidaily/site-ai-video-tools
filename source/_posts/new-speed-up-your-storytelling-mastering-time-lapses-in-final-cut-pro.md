@@ -1,7 +1,7 @@
 ---
 title: New Speed Up Your Storytelling Mastering Time Lapses in Final Cut Pro
-date: 2024-12-17T22:28:54.053Z
-updated: 2024-12-24T19:07:30.353Z
+date: 2025-01-08T17:09:38.672Z
+updated: 2025-01-09T22:09:47.778Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Make a Time-Lapse Video in Final Cut Pro
@@ -55,7 +55,7 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
@@ -63,7 +63,7 @@ You can set any speed by adjusting the **Rate**. Reset the speed by clicking on 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
@@ -73,7 +73,7 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -83,7 +83,7 @@ If you have any questions about making time-lapse videos, feel free to drop a li
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -101,21 +101,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-understanding-diverse-flavors-in-windows-movie-maker/"><u>[Updated] 2024 Approved Understanding Diverse Flavors in Windows Movie Maker</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ideal-mp4-slicer-for-mac-boost-your-vlog-game/"><u>[Updated] Ideal MP4 Slicer for Mac Boost Your Vlog Game</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-leveraging-video-cropping-to-maximize-instagram-reach/"><u>2024 Approved Leveraging Video Cropping to Maximize Instagram Reach</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/breaking-down-power-and-performance-in-the-ibuypower-y60-premium-desktop-unveiled/"><u>Breaking Down Power and Performance in the iBuyPower Y60: Premium Desktop Unveiled</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-csr-bluetooth-driver/"><u>Download CSR Bluetooth Driver</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-big-sur-specifications-system-and-hardware-required/"><u>In 2024, Big Sur Specifications System & Hardware Required</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-magic-6-lite-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Magic 6 Lite Phone Screen?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-transform-your-videos-expert-techniques-for-achieving-a-professional-look-for-2024/"><u>New Transform Your Videos Expert Techniques for Achieving a Professional Look for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pc-compatibility-masterclass-setting-up-and-using-the-ps-vr/"><u>PC Compatibility Masterclass: Setting Up and Using the PS VR</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-rotation-rush-guide-mastering-instagrams-art-of-turned-around-content-for-2024/"><u>The Rotation Rush Guide Mastering Instagram's Art of Turned-Around Content for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/understanding-the-technicalities-of-fb-360-streaming/"><u>Understanding the Technicalities of FB 360 Streaming</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-tivo-or-comcast-which-dvr-is-right-for-you/"><u>Updated 2024 Approved TiVo or Comcast Which DVR Is Right for You ?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-your-creativity-top-free-video-editing-apps/"><u>Updated 2024 Approved Unleash Your Creativity Top Free Video Editing Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-get-audio-working-in-avidemux-proven-solutions-for-2024/"><u>Updated Get Audio Working in Avidemux Proven Solutions for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-save-on-filmora-expert-tips-to-find-working-coupon-codes/"><u>Updated Save on Filmora Expert Tips to Find Working Coupon Codes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-split-cut-and-trim-avi-files-like-a-pro-a-beginners-guide-for-2024/"><u>Updated Split, Cut, and Trim AVI Files Like a Pro A Beginners Guide for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-boost-engagement-with-top-tips-for-captivating-unboxing-videos/"><u>[New] 2024 Approved Boost Engagement with Top Tips for Captivating Unboxing Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-gear-vr-a-comprehensive-phone-compatibility-list-2023/"><u>[New] 2024 Approved Mastering Gear VR A Comprehensive Phone Compatibility List 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-find-excellence-in-hd-on-android-our-top-10-player-guide-for-2024/"><u>[New] Find Excellence in HD on Android Our Top 10 Player Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-10-tools-to-shield-photographic-work-for-2024/"><u>[New] Top 10 Tools to Shield Photographic Work for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210749205-9781841815350-find-your-power-tarot/"><u>Find Your Power: Tarot | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-logitech-g510-software-installation-guide-supports-windows-7-to-10/"><u>Official Logitech G510 Software Installation Guide - Supports Windows 7 to 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/redefine-creativity-the-ultimate-selection-of-best-android-drawing-apps/"><u>Redefine Creativity The Ultimate Selection of Best Android Drawing Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/s-hottest-explainer-video-creation-software-reviews-and-comparisons-for-2024/"><u>S Hottest Explainer Video Creation Software Reviews and Comparisons for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ultimate-playlist-of-scores-for-clips-for-2024/"><u>Ultimate Playlist of Scores for Clips for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unbiased-comparison-final-cut-pro-and-lumafusion-for-video-editors/"><u>Updated 2024 Approved Unbiased Comparison Final Cut Pro and LumaFusion for Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-vn-video-editor-app-review-is-it-worth-the-download/"><u>Updated 2024 Approved VN Video Editor App Review Is It Worth the Download?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-is-avs-video-editor-the-best-choice-for-you/"><u>Updated In 2024, Is AVS Video Editor the Best Choice for You ?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-maintain-anonymity-face-blurring-features-in-leading-video-editors/"><u>Updated Maintain Anonymity Face Blurring Features in Leading Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-cinematic-magic-enhance-your-everyday-videos-for-2024/"><u>Updated Unleash Cinematic Magic Enhance Your Everyday Videos for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-whats-next-after-virtualdub-a-review-of-the-top-video-editing-alternatives-for-2024/"><u>Updated Whats Next After Virtualdub? A Review of the Top Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-wmv-video-editing-on-a-budget-top-5-free-options/"><u>Updated WMV Video Editing on a Budget Top 5 Free Options</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-poco-x5-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Poco X5? | Dr.fone</u></a></li>
 </ul></div>
 

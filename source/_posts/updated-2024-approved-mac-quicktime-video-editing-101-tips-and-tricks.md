@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Mac QuickTime Video Editing 101 Tips and Tricks
-date: 2024-10-27T20:36:37.407Z
-updated: 2024-10-29T20:56:06.781Z
+date: 2025-01-06T19:12:54.873Z
+updated: 2025-01-09T16:00:01.642Z
 tags: 
   - video editing software
   - video editing
@@ -49,6 +49,10 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
@@ -57,9 +61,17 @@ Step3: Use a handle on both sides to resist the part of the film that you want t
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
 
@@ -85,13 +97,6 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 
 Step4: When you're done, click Done.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -109,10 +114,7 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Wondershare Filmora Worth for Trying?
@@ -122,20 +124,10 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -152,24 +144,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-uniting-visuals-the-desktop-and-web-way/"><u>[New] 2024 Approved Uniting Visuals The Desktop & Web Way</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-explore-top-10-premium-free-iosandroid-live-video-platforms-for-2024/"><u>[Updated] Explore Top 10 Premium-Free iOS/Android Live Video Platforms for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-recording-mp4-videos/"><u>[Updated] In 2024, Expert's Guide to Recording MP4 Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-streamers-toolkit-beyond-streamlabs-obs/"><u>2024 Approved Streamer's Toolkit Beyond Streamlabs OBS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1011/"><u>最新ウィンドウズ マイクラのビデオ撮影法: 10/11バージョンガイド</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cloud-service-pricing-a-comparative-look/"><u>Cloud Service Pricing A Comparative Look</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210389810-9781493047925-haunted-wisconsin-2nd-ed/"><u>Haunted Wisconsin (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-15-pro-max-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 15 Pro Max without Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-10-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 10 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-how-ps4-pro-brings-4k-gaming-to-life/"><u>In-Depth Analysis: How PS4 Pro Brings 4K Gaming to Life</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-your-footage-a-beginners-guide-to-flipping-clips-in-fcp/"><u>New In 2024, Transform Your Footage A Beginners Guide to Flipping Clips in FCP</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-s-most-popular-royalty-free-image-websites/"><u>New S Most Popular Royalty-Free Image Websites</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-wevideo-your-go-to-platform-for-easy-video-creation-for-2024/"><u>New WeVideo Your Go-To Platform for Easy Video Creation for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/revitalize-your-outdated-laptops-with-damn-small-linux-a-step-by-step-guide/"><u>Revitalize Your Outdated Laptops with Damn Small Linux: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-easy-video-reversal-top-online-solutions/"><u>Updated 2024 Approved Easy Video Reversal Top Online Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mp4-to-mp3-converter-the-ultimate-guide-to-audio-conversion/"><u>Updated 2024 Approved MP4 to MP3 Converter The Ultimate Guide to Audio Conversion</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-using-compressor-in-final-cut-pro-x-best-practices-and-workflows/"><u>Updated 2024 Approved Using Compressor in Final Cut Pro X Best Practices and Workflows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-streamline-your-video-editing-workflow-on-mac-with-mkvtoolnix/"><u>Updated Streamline Your Video Editing Workflow on Mac with MKVtoolnix</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-streaming-local-media-to-chromecast-on-windows-mac-android-and-ios-for-2024/"><u>Updated The Ultimate Guide to Streaming Local Media to Chromecast on Windows, Mac, Android, and iOS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-eye-catching-bgs-for-thumbnails-strategies-for-video-engagement-boost/"><u>[New] 2024 Approved Eye-Catching BGs for Thumbnails Strategies for Video Engagement Boost</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-ultimate-guide-to-scouting-for-best-free-srt-translation-tools/"><u>[New] In 2024, The Ultimate Guide to Scouting for Best Free SRT Translation Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-5-youtube-creators-subscription-leaders/"><u>[Updated] In 2024, Top 5 YouTube Creators Subscription Leaders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-methods-for-iphone-image-arrangement/"><u>[Updated] Innovative Methods for iPhone Image Arrangement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-leveraging-azures-speech-to-text-for-enterprise-solutions/"><u>2024 Approved Leveraging Azure's Speech-to-Text for Enterprise Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/compact-but-capable-a-comprehensive-apple-ipad-mini-5-assessment/"><u>Compact but Capable - A Comprehensive Apple iPad Mini 5 Assessment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd-iphoneipad/"><u>DVD轉檔專業列表 - iPhone/iPad影片轉換程式選擇</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-this-article-youll-get-to-know-the-best-free-online-video-editors-without-a-watermark-to-create-and-edit-videos-that-attract-thousands-of-views-for-2/"><u>New In This Article, Youll Get to Know the Best Free Online Video Editors without a Watermark to Create and Edit Videos that Attract Thousands of Views for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-record-like-a-pro-top-webcam-software-for-windows-10/"><u>New Record Like a Pro Top Webcam Software for Windows 10</u></a></li>
+<li><a href="https://win-studio.techidaily.com/optimize-computer-performance-20-strategies-to-address-overflowing-storage-and-condensed-memory-problems/"><u>Optimize Computer Performance: 20 Strategies to Address Overflowing Storage & Condensed Memory Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-solve-windows-11-microphone-issues/"><u>Troubleshooting Steps to Solve Windows 11 Microphone Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-the-power-of-video-metadata-on-mac-8-editor-recommendations/"><u>Updated 2024 Approved Unleash the Power of Video Metadata on Mac 8 Editor Recommendations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-avi-video-rotation-made-easy-top-free-software-for-2024/"><u>Updated AVI Video Rotation Made Easy Top Free Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-of-both-worlds-vn-video-editor-for-mac-and-its-alternatives/"><u>Updated In 2024, The Best of Both Worlds VN Video Editor for Mac and Its Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unraveling-the-mystery-how-premiere-and-after-effects-differ-in-video-production/"><u>Updated In 2024, Unraveling the Mystery How Premiere and After Effects Differ in Video Production</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-premiere-rush-vs-the-competition-top-4-rivals-for-2024/"><u>Updated Premiere Rush vs The Competition Top 4 Rivals for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/video-editing-showdown-virtualdub-vs-the-competition-for-2024/"><u>Video Editing Showdown Virtualdub vs The Competition for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voicecommand-mastery-with-android-and-gpt-synergy/"><u>VoiceCommand Mastery with Android & GPT Synergy</u></a></li>
 </ul></div>
 

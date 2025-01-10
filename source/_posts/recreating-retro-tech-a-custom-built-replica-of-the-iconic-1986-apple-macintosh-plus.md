@@ -1,7 +1,7 @@
 ---
 title: "Recreating Retro Tech: A Custom-Built Replica of the Iconic 1986 Apple Macintosh Plus"
-date: 2024-11-22T04:15:19.611Z
-updated: 2024-11-24T11:45:20.003Z
+date: 2025-01-05T08:58:12.407Z
+updated: 2025-01-09T23:46:45.305Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,17 +81,18 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-revolutionize-your-facebook-experience-with-auto-play-videos-for-2024/"><u>[New] Revolutionize Your Facebook Experience with Auto-Play Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-funny-faces-crafting-7-cheeky-youtube-comedy-videos/"><u>[Updated] Funny Faces Crafting 7 Cheeky YouTube Comedy Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unbeatable-ps1-emulators-for-high-quality-gaming/"><u>[Updated] In 2024, Unbeatable PS1 Emulators for High-Quality Gaming</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-quick-and-easy-extracting-hd-videos-from-vimeo-to-mp4-format-for-2024/"><u>[Updated] Quick & Easy Extracting HD Videos From Vimeo to MP4 Format for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-mend-shaky-or-stuttering-visual-content-a-complete-home-based-video-restoration-manual-with-subtitles/"><u>How To Mend Shaky or Stuttering Visual Content – A Complete Home-Based Video Restoration Manual (With Subtitles)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-14-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 14 Pro Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-trending-android-apps-on-google-play-this-month-for-2024/"><u>New Top-Trending Android Apps on Google Play This Month for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-c67-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme C67 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-future-in-flight-djis-mavic-pro-breakdown-for-2024/"><u>The Future in Flight DJI's Mavic Pro Breakdown for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-flip-it-how-to-reverse-video-in-final-cut-pro-2023-update/"><u>Updated 2024 Approved Flip It! How to Reverse Video in Final Cut Pro 2023 Update</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-effortless-4k-video-editing-the-top-8-proxy-video-editors-for-2024/"><u>Updated Effortless 4K Video Editing The Top 8 Proxy Video Editors for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-avi-video-rotators-free-solutions-for-all-platforms/"><u>Updated Top-Rated AVI Video Rotators Free Solutions for All Platforms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-food-youtubers-you-should-follow/"><u>[New] 2024 Approved Top Food YouTubers You Should Follow</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-transforming-facebook-streams-into-flawless-records/"><u>[New] In 2024, Transforming Facebook Streams Into Flawless Records</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ranking-top-tools-convert-srt-files-with-zero-charge/"><u>[New] Ranking Top Tools Convert Srt Files with Zero Charge</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hearing-beginnings-mastering-volume-control-in-adobe-audition/"><u>[Updated] Hearing Beginnings Mastering Volume Control in Adobe Audition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-iconic-youtube-recognition-click-counter-awards/"><u>[Updated] Iconic YouTube Recognition - Click Counter Awards</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 13 Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-vlog-like-a-pro-best-video-editing-software-for-popular-platforms/"><u>New Vlog Like a Pro Best Video Editing Software for Popular Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sh-potential-the-finest-yoga-series-for-all-ages-for-2024/"><u>Unleash Potential The Finest Yoga Series for All Ages for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-mov-files-for-free-top-10-video-editing-software/"><u>Updated 2024 Approved Edit MOV Files for Free Top 10 Video Editing Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-if-you-are-struggling-to-figure-out-which-online-video-trimmer-is-for-you-then-here-is-a-list-of-the-10-best-free-online-video-trimmers/"><u>Updated In 2024, If You Are Struggling to Figure Out Which Online Video Trimmer Is for You, Then Here Is a List of the 10 Best Free Online Video Trimmers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-waxs-potential-a-beginners-guide-to-video-editing/"><u>Updated In 2024, Unlock Waxs Potential A Beginners Guide to Video Editing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-transform-your-videos-top-free-and-paid-android-video-editing-apps-for-2024/"><u>Updated Transform Your Videos Top Free and Paid Android Video Editing Apps for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/xbox-one-users-guide-effective-techniques-for-screenshotting-gameplay/"><u>Xbox One User's Guide: Effective Techniques for Screenshotting Gameplay</u></a></li>
 </ul></div>
 

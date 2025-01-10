@@ -1,7 +1,7 @@
 ---
 title: New Reverse, Rewind, Repeat Mastering Video Reversal in Final Cut Pro
-date: 2024-12-31T23:57:02.838Z
-updated: 2025-01-03T07:57:10.056Z
+date: 2025-01-08T21:40:56.020Z
+updated: 2025-01-10T08:22:30.278Z
 tags: 
   - video editing software
   - video editing
@@ -48,6 +48,10 @@ On the other side rewind is also an interesting feature for video editing where 
 
 Although it is possible to get the rewind effect in videos with simple reverse option but still Apple platform supports both of these as standalone options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to reverse a clip in Final Cut Pro
 
 You might have heard about Retiming effect in videos where we either speed up our clip or slow it down by certain time factor so that a desired effect can be achieved. There are two types of retiming effects: Variable speed type and constant speed format. FCP is capable enough to merge the reverse option with retiming effects so that something innovative can be developed even with simple editing efforts.
@@ -62,10 +66,6 @@ Now you need to go to the pop up menu where an option for reverse the clip is av
 
 ![ How to reverse a clip in Final Cut Pro ](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hit that reverse option.
 
 ![ Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
@@ -75,10 +75,6 @@ Hit that reverse option.
 In case if you want to customize speed of reversed clip then use retiming handle and drag it to right or left as per need of decreasing or increasing the clip speed.
 
 ![ Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **Step 4:**
 
@@ -104,6 +100,10 @@ Drag the retiming handler to adjust the speed as per need.
 
 ![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 4:**
 
 Play the clip to view editing effects.
@@ -114,33 +114,33 @@ Play the clip to view editing effects.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 1**: To upload a video, first click "Import." You may also simply drag and drop media files into the Media Library, and they will display on the preview/program monitor. You may see your videos in waveform display and Vectorscope format after you've added them to the timeline. You may also watch a live filmstrip preview to see what's going on in the video.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: Place the video on the video track by dragging and dropping it. You may select Speed and Duration by right-clicking it on the track. Then, on the Custom Speed panel, enable the Reverse Speed option. You may also select Reverse by clicking the Speed symbol in the toolbar.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3**: Click “Export” to save your file.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -157,21 +157,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-freezing-points-to-inviting-landscapes-for-2024/"><u>[New] From Freezing Points to Inviting Landscapes for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-audiences-favorites-top-10-mobility-friendly-players/"><u>[Updated] 2024 Approved Audience's Favorites Top 10 Mobility-Friendly Players</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones/"><u>[Updated] In 2024, A Step-by-Step Guide to Video Editing Filters on Computers & Phones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-blending-calendar-coordination-with-mobile-and-computing-zoom-times/"><u>2024 Approved Blending Calendar Coordination with Mobile & Computing Zoom Times</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-expert-techniques-for-gameplay-recordings-via-obs/"><u>2024 Approved Expert Techniques for Gameplay Recordings via OBS</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/boosting-engagement-joint-video-strategies-for-growth-for-2024/"><u>Boosting Engagement Joint Video Strategies for Growth for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-criteria-for-picking-premium-film-professionals/"><u>In 2024, Criteria for Picking Premium Film Professionals</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-v30t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme V30T</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/librecam-x-live-streaming-experience-analyzed/"><u>LibreCam X Live Streaming Experience Analyzed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-mobile-animation-made-easy-top-8-apps/"><u>New Mobile Animation Made Easy Top 8 Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-10-explainer-video-tools-to-boost-your-brand-for-2024/"><u>New Top 10 Explainer Video Tools to Boost Your Brand for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-fcpx-fix-it-handbook-solving-common-problems/"><u>Updated 2024 Approved The FCPX Fix-It Handbook Solving Common Problems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-webm-video-compression-made-easy-best-online-services/"><u>Updated 2024 Approved WebM Video Compression Made Easy Best Online Services</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-digital-trailer-development-companies-online-for-2024/"><u>Updated Digital Trailer Development Companies Online for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-avi-files-on-windows-8-with-ease-2023s-top-editor/"><u>Updated In 2024, Edit AVI Files on Windows 8 with Ease 2023S Top Editor</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/watch-dvds-on-windows-10-top-10-free-player-software-for-2024/"><u>Watch DVDs on Windows 10 Top 10 Free Player Software for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-exclusive-list-top-20-open-source-pubg-slideshows/"><u>[New] 2024 Approved Exclusive List Top 20 Open-Source PUBG Slideshows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-premier-selector-master-your-video-grabs/"><u>[New] 2024 Approved The Premier Selector Master Your Video Grabs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ordinary-to-enchantment-crafting-spectacular-backgrounds-on-youtube/"><u>[New] In 2024, From Ordinary to Enchantment Crafting Spectacular Backgrounds on YouTube</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-8t-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 8T 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updates-for-your-bluetooth-adapter-newest-generic-drivers-for-windows-computers-free/"><u>Install Updates for Your Bluetooth Adapter - Newest Generic Drivers for Windows Computers (Free)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-your-glitch-on-top-free-online-generators-for-distorted-designs/"><u>New 2024 Approved Get Your Glitch On Top Free Online Generators for Distorted Designs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-gopro-video-post-production-on-mac-a-comprehensive-tutorial/"><u>New 2024 Approved GoPro Video Post-Production on Mac A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-finest-the-ultimate-list-of-2d-animation-software-free-paid-and-everything-in-between/"><u>New 2024 Approved S Finest The Ultimate List of 2D Animation Software Free, Paid, and Everything In Between</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-virtualdub-the-good-the-bad-and-the-best-alternatives-for-you/"><u>New 2024 Approved Virtualdub The Good, the Bad, and the Best Alternatives for You</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-create-marketing-videos-ultimate-guide/"><u>New In 2024, How to Create Marketing Videos Ultimate Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-your-pictures-focus-with-gaussian-blur-for-2024/"><u>Perfect Your Picture's Focus with Gaussian Blur for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-review-why-amazon-basicss-7-port-usb-30-hub-stands-out/"><u>The Essential Review: Why Amazon Basics's 7-Port USB 3.0 Hub Stands Out</u></a></li>
 </ul></div>
 
