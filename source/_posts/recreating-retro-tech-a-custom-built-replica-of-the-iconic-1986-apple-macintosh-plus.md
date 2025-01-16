@@ -1,7 +1,7 @@
 ---
 title: "Recreating Retro Tech: A Custom-Built Replica of the Iconic 1986 Apple Macintosh Plus"
-date: 2025-01-05T08:58:12.407Z
-updated: 2025-01-09T23:46:45.305Z
+date: 2025-01-13T01:18:25.197Z
+updated: 2025-01-15T20:21:30.259Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,18 +81,22 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-food-youtubers-you-should-follow/"><u>[New] 2024 Approved Top Food YouTubers You Should Follow</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-transforming-facebook-streams-into-flawless-records/"><u>[New] In 2024, Transforming Facebook Streams Into Flawless Records</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-ranking-top-tools-convert-srt-files-with-zero-charge/"><u>[New] Ranking Top Tools Convert Srt Files with Zero Charge</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hearing-beginnings-mastering-volume-control-in-adobe-audition/"><u>[Updated] Hearing Beginnings Mastering Volume Control in Adobe Audition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-iconic-youtube-recognition-click-counter-awards/"><u>[Updated] Iconic YouTube Recognition - Click Counter Awards</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 13 Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-vlog-like-a-pro-best-video-editing-software-for-popular-platforms/"><u>New Vlog Like a Pro Best Video Editing Software for Popular Platforms</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/sh-potential-the-finest-yoga-series-for-all-ages-for-2024/"><u>Unleash Potential The Finest Yoga Series for All Ages for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-mov-files-for-free-top-10-video-editing-software/"><u>Updated 2024 Approved Edit MOV Files for Free Top 10 Video Editing Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-if-you-are-struggling-to-figure-out-which-online-video-trimmer-is-for-you-then-here-is-a-list-of-the-10-best-free-online-video-trimmers/"><u>Updated In 2024, If You Are Struggling to Figure Out Which Online Video Trimmer Is for You, Then Here Is a List of the 10 Best Free Online Video Trimmers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-waxs-potential-a-beginners-guide-to-video-editing/"><u>Updated In 2024, Unlock Waxs Potential A Beginners Guide to Video Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-transform-your-videos-top-free-and-paid-android-video-editing-apps-for-2024/"><u>Updated Transform Your Videos Top Free and Paid Android Video Editing Apps for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-one-users-guide-effective-techniques-for-screenshotting-gameplay/"><u>Xbox One User's Guide: Effective Techniques for Screenshotting Gameplay</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-craft-digital-laughter-kapwing-meme-maker/"><u>[New] Craft Digital Laughter – Kapwing Meme Maker</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-missing-options-in-windows-nvidia-control-panel/"><u>Addressing Missing Options in Windows Nvidia Control Panel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-the-true-worth-of-snapchats-ai-innovation/"><u>Breaking Down the True Worth of Snapchat's AI Innovation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-downloading-and-watching-netflix-movies-on-windowsmac-computers/"><u>Comprehensive Guide: Downloading and Watching Netflix Movies on Windows/Mac Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-best-4-ai-tools-for-dynamic-story-creation/"><u>Explore the Best 4 AI Tools for Dynamic Story Creation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-more-for-less-with-the-powerful-and-economic-arcshell-ar-5-reviewed-here/"><u>Get More for Less with the Powerful and Economic Arcshell AR-5 Reviewed Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-graphics-glitches-in-rust-a-step-by-step-guide/"><u>How to Overcome Graphics Glitches in Rust: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-chromebook-video-editors-secret-running-windows-and-mac-apps-with-ease/"><u>New The Chromebook Video Editors Secret Running Windows and Mac Apps with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-mystery-why-is-my-dell-usb-port-not-responding/"><u>Solve the Mystery: Why Is My Dell USB Port Not Responding?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-rated-home-theater-systems-in-22024/"><u>Top-Rated Home Theater Systems in 2^2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-upgrade-samsung-enhances-its-copilotplus-pc-featuring-advanced-ai-capabilities-insights-from-zdnet/"><u>Unveiling the Latest Upgrade: Samsung Enhances Its Copilot+ PC Featuring Advanced AI Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-online-video-editing-for-free-the-top-options-compared/"><u>Updated 2024 Approved Online Video Editing for Free The Top Options Compared</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-subtitle-editing-software-for-mac-subtitle-edit-alternatives-for-2024/"><u>Updated Best Free Subtitle Editing Software for Mac (Subtitle Edit Alternatives) for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-amateur-to-pro-the-top-10-vlog-editing-apps-for-mobile-devices-for-2024/"><u>Updated From Amateur to Pro The Top 10 Vlog Editing Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mastering-time-in-fcpx-freeze-frames-slow-mo-and-more/"><u>Updated In 2024, Mastering Time in FCPX Freeze Frames, Slow-Mo, and More</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-vn-video-editor-pc-review-is-it-the-right-choice-for-you/"><u>Updated In 2024, VN Video Editor PC Review Is It the Right Choice for You?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-record-like-a-boss-final-cut-pro-voice-over-hacks/"><u>Updated Record Like a Boss Final Cut Pro Voice Over Hacks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2025-01-06T06:04:48.888Z
-updated: 2025-01-10T00:51:57.154Z
+date: 2025-01-11T19:24:31.005Z
+updated: 2025-01-15T16:02:21.433Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -49,6 +53,10 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
@@ -58,16 +66,12 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -82,17 +86,9 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
@@ -104,6 +100,10 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
@@ -111,7 +111,7 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
@@ -141,24 +141,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-movavis-enhanced-toolset-examining-plus-edition-2024/"><u>[New] Movavi's Enhanced Toolset Examining Plus Edition 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-charm-your-way-into-a-friends-tiktok-show/"><u>[Updated] 2024 Approved How to Charm Your Way Into a Friend’s TikTok Show</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-longevity-in-the-clouds-top-10-drone-selections-for-2024/"><u>[Updated] Longevity in the Clouds Top 10 Drone Selections for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-star-moment-analysis-for-2024/"><u>[Updated] Vimeo Star Moment Analysis for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-to-obtain-new-bluetooth-driver-software-from-microsoft-for-windows-users/"><u>Easy Steps to Obtain New Bluetooth Driver Software From Microsoft for Windows Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c65-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C65 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 13 Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-peeking-beyond-ustream-live-stream-options/"><u>In 2024, Peeking Beyond Ustream Live Stream Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-color-matching-secrets-expert-tips-for-a-cohesive-look-for-2024/"><u>New Final Cut Pro Color Matching Secrets Expert Tips for a Cohesive Look for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-game-recording-made-easy-3-options-for-every-gamer-for-2024/"><u>New Game Recording Made Easy 3 Options for Every Gamer for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-anonymize-your-footage-best-software-for-face-blur-effects/"><u>New In 2024, Anonymize Your Footage Best Software for Face Blur Effects</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-endless-entertainment-10-best-free-online-video-loopers/"><u>New In 2024, Endless Entertainment 10 Best Free Online Video Loopers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-master-video-storytelling-with-adobe-premiere-pro-on-mac/"><u>New In 2024, Master Video Storytelling with Adobe Premiere Pro on Mac</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mastering-animation-drawing-the-7-best-software-solutions/"><u>New In 2024, Mastering Animation Drawing The 7 Best Software Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-s-top-free-cctv-software-for-home-and-business-security/"><u>New In 2024, S Top Free CCTV Software for Home and Business Security</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-sony-digital-camcorder-video-editing-tutorial-for-beginners/"><u>New In 2024, Sony Digital Camcorder Video Editing Tutorial for Beginners</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-following-paragraphs-concerns-on-how-to-easily-make-touching-dvd-movies/"><u>New In 2024, The Following Paragraphs Concerns on How to Easily Make Touching DVD Movies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-comprehensive-guide-to-latest-computer-gear/"><u>Tom's Tech Hub: Comprehensive Guide to Latest Computer Gear</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-instantly-design-custom-coverage-for-your-short-videos-for-2024/"><u>[Updated] How To Instantly Design Custom Coverage For Your Short Videos for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-free-tv-streaming-9-sites-you-need-to-know/"><u>2024 Approved Free TV Streaming 9 Sites You Need To Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-demystifying-instagram-selfies-a-comprehensive-guide/"><u>In 2024, Demystifying Instagram Selfies A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-5-best-online-stop-motion-makers-on-2023-freeandpaid/"><u>New 2024 Approved 5 Best Online Stop Motion Makers on 2023 Free&Paid</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-convert-mp4-to-mp3-top-tools-for-easy-audio-extraction/"><u>New 2024 Approved Convert MP4 to MP3 Top Tools for Easy Audio Extraction</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-and-fabulous-the-best-online-video-merger-tools-of-the-year/"><u>New 2024 Approved Free and Fabulous The Best Online Video Merger Tools of the Year</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-simplify-your-storytelling-easy-movie-making-techniques/"><u>New 2024 Approved Simplify Your Storytelling Easy Movie Making Techniques</u></a></li>
 </ul></div>
 

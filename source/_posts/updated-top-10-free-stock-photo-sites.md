@@ -1,7 +1,7 @@
 ---
 title: Updated Top 10 Free Stock Photo Sites
-date: 2025-01-02T18:33:58.471Z
-updated: 2025-01-10T02:38:10.989Z
+date: 2025-01-10T19:48:06.443Z
+updated: 2025-01-16T02:17:07.955Z
 tags: 
   - video editing software
   - video editing
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
  A simple google search will reveal hundreds of websites that let you download public domain and royalty-free images. Which source you’re going to use depends on the type of image you’re looking for, since some websites are dedicated only to photography, while others feature impressive collections of public domain images of artworks. In addition, you’ll only want to download public domain images from the websites that offer information about the author because using a public domain image without crediting its author is strictly prohibited.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Websites for Downloading Public Domain Images
 
  We’ve searched the Internet and we utilized our results to compile a collection of the most reliable websites that grant its users access to vast numbers of public domain images. Let’s take a look at some of the best websites that let you download public domain images.
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![Public Domain Images from Pexels ](https://images.wondershare.com/filmora/article-images/pexels-public-domain-images.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Graphic designers and all other creatives in constant need of a fresh supply of public domain images don’t need a special introduction to Pexels. The stock image platform is dedicated to photography and video, so you can’t use it to search for vectors or clip art. Even so, you can use Pexles to search for public domain images based on a particular keyword or browse through its collection of free images and discover photos spontaneously. Clicking on the Popular Searches tab will enable you to see the images from Light, Nature or Animals and it will shorten the amount of time you have to spend looking for a photo you want to download.
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
 ![Public Domain Images from Plxabay ](https://images.wondershare.com/filmora/article-images/plxabay-public-domain.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Besides offering an impressive collection of royalty-free photos, Pixabay also lets you search for public domain vectors, illustrations, and videos. The website hosts more than a million high-resolution photos and videos you can download for free. To make things even better, becoming a member of the Pixabay’s community and creating an account on this platform won’t take more than a few minutes of your time. Pixabay also offers advanced search tools that enable you to combine searches, search for the author of an image or group search terms. In addition, you can also browse through the photographers that contribute their images to the platform on a regular basis.
 
 **Pros:**
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![wikimedia commons ](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![Flickr commons ](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
@@ -128,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 #### 5. [Unsplash](https://unsplash.com/public-domain-images)
 
 ![Unsplash public domain image  ](https://images.wondershare.com/filmora/article-images/unsplash-public-domain-images.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With a library that contains over 800,000 photos, Unsplash is easily one of the largest websites that offer public domain images. All pictures on this platform are organized into different categories, which makes finding a photo you want to use in a commercial or non-commercial project a relatively simple process. Alternatively, you can insert a keyword into a search bar and Unsplash will show you the results within seconds. However, the images you can find on this platform are similar to those you can purchase on stock photography websites, although some of them have an artistic touch that is hard to find on the majority of stock photos.
 
@@ -190,6 +186,10 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 #### 9. [NYPL Digital Gallery](https://digitalcollections.nypl.org/)
 
 ![NYPL Digital Gallery  ](https://images.wondershare.com/filmora/article-images/digitalcollections.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  NYPL Digital Gallery is an excellent resource for anyone who is not interested in stock photography. The New Your Public Library has made hundreds of thousands of historical images available to the public and you can use it to browse through items, collections or divisions. Before you enter a keyword you should click on the search only public domain materials tick box to ensure that the search results are going to display only images that can be used without restrictions. Additionally, the NYPL Digital Gallery lets you browse through its collection of digital books while its collections of photographs include the work of some of the highly esteemed American photographers.
 
@@ -253,24 +253,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-exploring-the-metaverses-humorous-realms-together/"><u>[New] In 2024, Exploring the Metaverse's Humorous Realms Together</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>[Updated] 2024 Approved Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-android-guide-enhance-your-video/"><u>2024 Approved Android Guide Enhance Your Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-vs-multimetaverse-elucidating-the-variances-ultimate-guide/"><u>2024 Approved Metaverse Vs. MultiMetaverse Elucidating the Variances (Ultimate Guide)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ace-your-career-in-ai-discover-the-best-five-specialized-courses-for-prompt-engineering/"><u>Ace Your Career in AI: Discover the Best Five Specialized Courses for Prompt Engineering</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-oneplus-ace-3-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 OnePlus Ace 3 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/copilot-mode-free-access-to-gpt-4s-best-features/"><u>Copilot Mode: Free Access to GPT-4's Best Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-online-sessions-with-essential-zoom-transformations/"><u>In 2024, Revolutionize Online Sessions with Essential Zoom Transformations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-want-to-edit-your-nikon-video-files-here-a-powerful-yet-easy-to-use-nikon-video-editor-is-introduced-for-you-to-easily-achieve-that/"><u>New In 2024, Want to Edit Your Nikon Video Files? Here, a Powerful yet Easy-to-Use Nikon Video Editor Is Introduced for You to Easily Achieve That</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-online-dailymotion-converter-convert-videos-to-any-format-for-free-for-2024/"><u>New Online Dailymotion Converter Convert Videos to Any Format for Free for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-track-your-moves-best-apps-for-android-and-iphone/"><u>New Track Your Moves Best Apps for Android and iPhone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unlock-pro-quality-sound-top-10-audio-editing-software-tools/"><u>New Unlock Pro-Quality Sound Top 10 Audio Editing Software Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-video-invitation-design-made-easy-top-apps-for-iphone-and-android-for-2024/"><u>New Video Invitation Design Made Easy Top Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/0-no-cost-youtube-sbd-tools/"><u>Top 10 No-Cost YouTube SBD Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-and-clear-top-websites-for-public-domain-video-downloads/"><u>Updated 2024 Approved Free and Clear Top Websites for Public Domain Video Downloads</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-update-your-avi-editing-game-windows-8-video-editor-2023/"><u>Updated 2024 Approved Update Your AVI Editing Game Windows 8 Video Editor 2023</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mastering-video-rotation-a-simple-and-efficient-process/"><u>Updated In 2024, Mastering Video Rotation A Simple and Efficient Process</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-stunning-gopro-footage-easy-editing-for-beginners-for-2024/"><u>Updated Unlock Stunning GoPro Footage Easy Editing for Beginners for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-veritable-value-of-voice-podcasters-earnings-analysis/"><u>[New] The Veritable Value of Voice Podcasters’ Earnings Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screen-capture-clarity-with-irecorder-tech-for-2024/"><u>[Updated] Screen Capture Clarity with iRecorder Tech for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-most-recent-hp-deskjet-2652-driver-for-multiple-windows-os-versions/"><u>How to Install the Most Recent HP DeskJet 2652 Driver for Multiple Windows OS Versions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-5-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor Magic 5 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-transcendence-in-music-mixing-crossfade-unveiled/"><u>In 2024, Transcendence in Music Mixing Crossfade Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mend-wireless-module-issue-in-latitude-laptop/"><u>Mend Wireless Module Issue in Latitude Laptop</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-vn-video-editor-apk-a-comprehensive-review-for-android-users-for-2024/"><u>New VN Video Editor APK A Comprehensive Review for Android Users for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/reduce-server-load-and-increase-speed-by-compressing-images-on-your-site/"><u>Reduce Server Load and Increase Speed by Compressing Images on Your Site</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unlock-the-secrets-of-top-performance-the-toms-hardware-resource/"><u>Unlock the Secrets of Top Performance: The Tom's Hardware Resource</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-best-image-to-video-makers-online-free-and-paid/"><u>Updated 2024 Approved 10 Best Image to Video Makers Online Free & Paid</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-6-most-useful-adobe-premiere-tips-for-better-video-editing/"><u>Updated 2024 Approved 6 Most Useful Adobe Premiere Tips for Better Video Editing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-discover-the-top-10-free-game-download-sites-for-pc-and-android/"><u>Updated 2024 Approved Discover the Top 10 Free Game Download Sites for PC and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-videopad-video-editor-2023-a-detailed-review-and-recommendation/"><u>Updated Videopad Video Editor 2023 A Detailed Review and Recommendation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-yosemite-video-editing-101-a-beginners-guide-to-editing-videos-on-mac/"><u>Updated Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac</u></a></li>
 </ul></div>
 

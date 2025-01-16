@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2025-01-04T01:08:52.605Z
-updated: 2025-01-10T08:12:50.803Z
+date: 2025-01-08T19:11:15.136Z
+updated: 2025-01-15T22:36:51.740Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -58,6 +58,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
@@ -65,7 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -86,10 +90,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -99,7 +99,7 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,20 +171,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>[New] The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-your-complete-manual-on-live-streaming-platforms-for-2024/"><u>[Updated] Your Complete Manual on Live Streaming Platforms for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/defeating-the-blue-screen-expert-tips-for-fixing-critical-errors/"><u>Defeating the Blue Screen: Expert Tips for Fixing Critical Errors</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-poco-f5-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Poco F5 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastery-over-instagrams-integration-with-music-emoji-features/"><u>In 2024, Mastery Over Instagram's Integration with Music Emoji Features</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nubia-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nubia FRP Bypass</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-converting-mp4-to-mp3-best-converters-and-methods/"><u>New The Ultimate Guide to Converting MP4 to MP3 Best Converters and Methods</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-top-rated-explainer-video-production-software/"><u>Updated 2024 Approved Best Top-Rated Explainer Video Production Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-edit-like-a-pro-setting-up-your-computer-for-premiere-pro-for-2024/"><u>Updated Edit Like a Pro Setting Up Your Computer for Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-from-start-to-finish-a-complete-guide-to-editing-mp4-videos-on-mac-and-windows-for-2024/"><u>Updated From Start to Finish A Complete Guide to Editing MP4 Videos on Mac and Windows for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-audio-transitions-2-methods-for-fading-in-and-out-in-final-cut-pro/"><u>Updated Mastering Audio Transitions 2 Methods for Fading In and Out in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-ranking-the-top-text-motion-tracking-solutions/"><u>Updated Ranking the Top Text Motion Tracking Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-smooth-audio-transitions-2-methods-to-fade-in-and-out-in-fcp/"><u>Updated Smooth Audio Transitions 2 Methods to Fade In and Out in FCP</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210655591-9781454941033-wicca-essential-oils-magic/"><u>Wicca Essential Oils Magic | Free Book</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-delving-into-vllo-user-testimonies-for-2024/"><u>[New] Delving Into VLLO User Testimonies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eal-of-credibility-writing-journalisms-finale-for-2024/"><u>[New] Seal of Credibility Writing Journalism's Finale for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-dji-spark-review-best-mini-drone-for-taking-selfie-for-2024/"><u>[Updated] DJI Spark Review Best Mini Drone for Taking Selfie for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-game-14-must-see-vids-for-youtube-gaming-success-for-2024/"><u>[Updated] Elevate Your Game 14 Must-See Vids for YouTube Gaming Success for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-extract-youtube-media-directly/"><u>[Updated] In 2024, How to Extract YouTube Media Directly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/anonymizing-videos-tips-for-keeping-personal-data-hidden/"><u>Anonymizing Videos Tips for Keeping Personal Data Hidden</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-extravaganza-snag-the-lenovo-thinkpad-l14-gen-3-at-a-jaw-dropping-77-discount-limited-time-offer/"><u>Cyber Monday Extravaganza: Snag the Lenovo ThinkPad L14 Gen 3 at a Jaw-Dropping 77% Discount - Limited Time Offer!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-lava-blaze-2-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Lava Blaze 2 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-zero-to-hero-master-lip-syncing-with-these-5-amazing-apps-for-2024/"><u>New From Zero to Hero Master Lip Syncing with These 5 Amazing Apps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avi-file-editing-software-for-windows-8-fast-and-reliable/"><u>New In 2024, AVI File Editing Software for Windows 8 Fast and Reliable</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-cloud-based-vertical-video-editing-software-top-picks-2023/"><u>New In 2024, Cloud-Based Vertical Video Editing Software Top Picks 2023</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-find-the-suggestions-for-sites-that-are-alternatives-to-the-filmora-coupon-code-reddit-these-coupon-sites-offer-different-deals-and-discounts/"><u>New In 2024, Find the Suggestions for Sites that Are Alternatives to the Filmora Coupon Code Reddit. These Coupon Sites Offer Different Deals and Discounts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-green-screen-magic-top-10-apps-for-android-and-ios-users/"><u>New In 2024, Free Green Screen Magic Top 10 Apps for Android and iOS Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-video-splitter-and-merger-tools-for-beginners-top-picks/"><u>New In 2024, Free Video Splitter and Merger Tools for Beginners Top Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-take-your-chromebook-to-the-next-level-installing-linux-made-easy/"><u>New In 2024, Take Your Chromebook to the Next Level Installing Linux Made Easy</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-of-adobe-premiere-pro-shortcuts-for-beginners-and-pros/"><u>New In 2024, The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ar-streamers-summit-global-subscriber-counts-showcased-for-2024/"><u>Stellar Streamers' Summit Global Subscriber Counts Showcased for 2024</u></a></li>
 </ul></div>
 

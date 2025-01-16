@@ -1,7 +1,7 @@
 ---
 title: Video Editing Essentials for Mac OS X Yosemite Tips and Tricks for 2024
-date: 2025-01-09T01:41:46.505Z
-updated: 2025-01-09T21:18:28.693Z
+date: 2025-01-12T00:16:24.191Z
+updated: 2025-01-15T17:08:57.688Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,6 @@ Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new
 
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1. Import media files to edit
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
@@ -41,7 +37,11 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
@@ -54,15 +54,15 @@ You have two different ways to edit the video. One is to double click the video 
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Add transition and other effects**
 
@@ -71,7 +71,7 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -85,7 +85,7 @@ After you preview the effect, just click the “Export” button to export the v
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -103,24 +103,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-visionary-visual-effects-the-best-text-ideas-for-video-artistry/"><u>[New] In 2024, Visionary Visual Effects The Best Text Ideas for Video Artistry</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-optimize-your-windows-11-photo-viewing-include-audio-files-and-artistic-layers/"><u>[New] Optimize Your Windows 11 Photo Viewing Include Audio Files and Artistic Layers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discovering-where-youtube-video-management-happens/"><u>[Updated] In 2024, Discovering Where YouTube Video Management Happens</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-utilizing-search-to-expand-your-filters-for-2024/"><u>[Updated] Mastering Instagram Utilizing Search to Expand Your Filters for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/discover-the-ultimate-guide-to-free-ai-powered-video-improvement-tools-for-both-windows-and-macos-users/"><u>Discover the Ultimate Guide to Free AI-Powered Video Improvement Tools for Both Windows and macOS Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-persistent-windows-update-error-0x8023c401c-in-latest-versions-of-microsoft-os/"><u>Effective Fixes for the Persistent 'Windows Update Error 0X802^3C401C' In Latest Versions of Microsoft OS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2016-cannot-access-the-file-error-by-stellar-guide/"><u>Fixed Microsoft Excel 2016 Cannot Access the File Error</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-g2-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo G2 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-exploring-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-free-mov-video-splitters/"><u>New The Ultimate List of Free MOV Video Splitters</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-vegas-or-premiere-choosing-the-best-video-editing-software-for-your-needs/"><u>New Vegas or Premiere? Choosing the Best Video Editing Software for Your Needs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-cropping-videos-like-a-pro-tips-tricks-and-techniques-using-avidemux/"><u>Updated In 2024, Cropping Videos Like a Pro Tips, Tricks, and Techniques Using Avidemux</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-filmmaking-software-is-important-for-editor-who-want-to-make-excellent-videos-in-this-article-you-will-learn-8-best-filmmaking-software-to-u/"><u>Updated In 2024, Filmmaking Software Is Important for Editor Who Want to Make Excellent Videos. In This Article, You Will Learn 8 Best Filmmaking Software to Use. Check This Out</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-video-playback-speed-in-quicktime-tips-and-tricks-for-2024/"><u>Updated Mastering Video Playback Speed in QuickTime Tips and Tricks for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-stream-your-personal-video-collection-to-chromecast-a-beginners-guide/"><u>Updated Stream Your Personal Video Collection to Chromecast A Beginners Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-mac-video-editors-similar-to-vsdc-for-2024/"><u>Updated Top Mac Video Editors Similar to VSDC for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-vignette-apps-for-mobile-devices-free-and-premium-options/"><u>Updated Top Vignette Apps for Mobile Devices Free and Premium Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-videoleap-for-macbook-download-install-and-edit-like-a-pro-for-2024/"><u>Updated Videoleap for MacBook Download, Install, and Edit Like a Pro for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-beyond-views-and-likes-pursuing-profits-on-youtube/"><u>[New] 2024 Approved Beyond Views and Likes Pursuing Profits on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/10-websites-for-premium-quality-vector-stock-images-for-2024/"><u>10 Websites for Premium-Quality Vector Stock Images for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-13c-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi 13C 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95783067-9781620553930-frontiers-of-psychedelic-consciousness/"><u>Frontiers of Psychedelic Consciousness | Free Book</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-subtitle-integration-in-wmp/"><u>In 2024, Mastering Subtitle Integration in WMP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-countdown-timers-in-final-cut-pro-x/"><u>New Unleash the Power of Countdown Timers in Final Cut Pro X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-windows-icon-arrangement-easily/"><u>Refreshing Windows Icon Arrangement Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-upstart-halt-fixes-for-unresponsive-boot-sequence/"><u>Resolving Windows 11 Upstart Halt: Fixes for Unresponsive Boot Sequence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-and-science-of-broadcasting-in-real-time-for-2024/"><u>The Art and Science of Broadcasting in Real Time for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-of-the-best-top-5-video-editing-apps-for-iphone-users/"><u>Updated 2024 Approved Best of the Best Top 5 Video Editing Apps for iPhone Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-flat-to-fabulous-converting-videos-to-vr-with-ease/"><u>Updated 2024 Approved From Flat to Fabulous Converting Videos to VR with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleashing-the-power-of-lower-thirds-in-fcpx-video-editing/"><u>Updated 2024 Approved Unleashing the Power of Lower Thirds in FCPX Video Editing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-started-with-microsoft-video-editor-easy-video-editing-for-windows-users/"><u>Updated In 2024, Get Started with Microsoft Video Editor Easy Video Editing for Windows Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-natural-looking-skin-in-fcpx-no-plugins-required/"><u>Updated Natural-Looking Skin in FCPX No Plugins Required</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/viral-visionaries-most-favored-instagram-filters-for-2024/"><u>Viral Visionaries Most Favored Instagram Filters for 2024</u></a></li>
 </ul></div>
 
