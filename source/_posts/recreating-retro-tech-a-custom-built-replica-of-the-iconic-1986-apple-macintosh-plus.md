@@ -1,7 +1,7 @@
 ---
 title: "Recreating Retro Tech: A Custom-Built Replica of the Iconic 1986 Apple Macintosh Plus"
-date: 2025-01-13T01:18:25.197Z
-updated: 2025-01-15T20:21:30.259Z
+date: 2025-01-21T00:36:25.004Z
+updated: 2025-01-21T17:35:36.921Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,22 +81,15 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-craft-digital-laughter-kapwing-meme-maker/"><u>[New] Craft Digital Laughter – Kapwing Meme Maker</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-missing-options-in-windows-nvidia-control-panel/"><u>Addressing Missing Options in Windows Nvidia Control Panel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-the-true-worth-of-snapchats-ai-innovation/"><u>Breaking Down the True Worth of Snapchat's AI Innovation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-downloading-and-watching-netflix-movies-on-windowsmac-computers/"><u>Comprehensive Guide: Downloading and Watching Netflix Movies on Windows/Mac Computers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-best-4-ai-tools-for-dynamic-story-creation/"><u>Explore the Best 4 AI Tools for Dynamic Story Creation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-more-for-less-with-the-powerful-and-economic-arcshell-ar-5-reviewed-here/"><u>Get More for Less with the Powerful and Economic Arcshell AR-5 Reviewed Here!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-graphics-glitches-in-rust-a-step-by-step-guide/"><u>How to Overcome Graphics Glitches in Rust: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-chromebook-video-editors-secret-running-windows-and-mac-apps-with-ease/"><u>New The Chromebook Video Editors Secret Running Windows and Mac Apps with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-mystery-why-is-my-dell-usb-port-not-responding/"><u>Solve the Mystery: Why Is My Dell USB Port Not Responding?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-rated-home-theater-systems-in-22024/"><u>Top-Rated Home Theater Systems in 2^2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-upgrade-samsung-enhances-its-copilotplus-pc-featuring-advanced-ai-capabilities-insights-from-zdnet/"><u>Unveiling the Latest Upgrade: Samsung Enhances Its Copilot+ PC Featuring Advanced AI Capabilities - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-online-video-editing-for-free-the-top-options-compared/"><u>Updated 2024 Approved Online Video Editing for Free The Top Options Compared</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-subtitle-editing-software-for-mac-subtitle-edit-alternatives-for-2024/"><u>Updated Best Free Subtitle Editing Software for Mac (Subtitle Edit Alternatives) for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-from-amateur-to-pro-the-top-10-vlog-editing-apps-for-mobile-devices-for-2024/"><u>Updated From Amateur to Pro The Top 10 Vlog Editing Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mastering-time-in-fcpx-freeze-frames-slow-mo-and-more/"><u>Updated In 2024, Mastering Time in FCPX Freeze Frames, Slow-Mo, and More</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-vn-video-editor-pc-review-is-it-the-right-choice-for-you/"><u>Updated In 2024, VN Video Editor PC Review Is It the Right Choice for You?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-record-like-a-boss-final-cut-pro-voice-over-hacks/"><u>Updated Record Like a Boss Final Cut Pro Voice Over Hacks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-selecting-fps-for-videos-why-not-both-30-or-60-in-2024/"><u>[New] Selecting FPS for Videos Why Not Both, 30 or 60, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spotlight-on-premium-360cameras-for-professionals/"><u>[New] Spotlight on Premium 360°Cameras for Professionals</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unraveling-the-secrets-of-inshot-editing-excellence/"><u>[Updated] In 2024, Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-intel-wi-fi-6-ax200-drivers-windows-1110/"><u>Download & Update Intel Wi-Fi 6 AX200 Drivers - Windows 11/10</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-lumafusion-for-mac-explore-the-best-video-editing-alternatives-for-2024/"><u>New Get Lumafusion for Mac Explore the Best Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-reverse-video-online-the-ultimate-guide/"><u>New In 2024, Reverse Video Online The Ultimate Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-subtitle-editing-in-fcpx-best-practices-and-techniques/"><u>New In 2024, Subtitle Editing in FCPX Best Practices and Techniques</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-ipad-video-editors-top-5/"><u>New In 2024, The Ultimate Guide to iPad Video Editors Top 5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-race-for-excellence-comparing-gemini-and-chatgpt/"><u>The Race for Excellence: Comparing Gemini and ChatGPT</u></a></li>
 </ul></div>
 

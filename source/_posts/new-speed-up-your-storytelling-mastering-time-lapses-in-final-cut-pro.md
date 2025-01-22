@@ -1,7 +1,7 @@
 ---
 title: New Speed Up Your Storytelling Mastering Time Lapses in Final Cut Pro
-date: 2025-01-08T19:36:49.261Z
-updated: 2025-01-16T00:38:39.018Z
+date: 2025-01-15T07:28:21.393Z
+updated: 2025-01-21T21:05:31.697Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Make a Time-Lapse Video in Final Cut Pro
@@ -55,7 +55,7 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
@@ -63,7 +63,7 @@ You can set any speed by adjusting the **Rate**. Reset the speed by clicking on 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
@@ -73,7 +73,7 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -83,7 +83,7 @@ If you have any questions about making time-lapse videos, feel free to drop a li
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -101,15 +101,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/uick-and-clean-video-extraction-for-all-screens/"><u>[New] Quick and Clean Video Extraction for All Screens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-editors-toolkit-maximizing-the-impact-of-gopro-videos/"><u>[New] The Editor's Toolkit Maximizing the Impact of GoPro Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-fostering-fandoms-top-three-storytelling-techniques/"><u>[Updated] 2024 Approved Fostering Fandoms Top Three Storytelling Techniques</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/decouvrez-les-3-meilleures-methodes-efficaces-pour-restaurer-vos-informations-a-partir-dune-mbr-corrompue-etapes-simplifiees/"><u>Découvrez Les 3 Meilleures Méthodes Efficaces Pour Restaurer Vos Informations À Partir D’une MBR Corrompue : Étapes Simplifiées</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-foddian-games-foundational-roots/"><u>Exploring Foddian Games' Foundational Roots</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-guide-to-apples-new-studio-monitor-detailed-specs-unique-attributes-and-crucial-data-you-cant-miss-expert-analysis/"><u>In-Depth Guide to Apple's New Studio Monitor: Detailed Specs, Unique Attributes & Crucial Data You Can't Miss | Expert Analysis</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-download-kinemaster-for-macos-a-beginners-guide/"><u>New In 2024, Download KineMaster for macOS A Beginners Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-reverse-video-online-the-ultimate-guide/"><u>New In 2024, Reverse Video Online The Ultimate Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-subtitle-editing-in-fcpx-best-practices-and-techniques/"><u>New In 2024, Subtitle Editing in FCPX Best Practices and Techniques</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-16-best-avi-video-cutters-for-all-platforms/"><u>New In 2024, The Ultimate List 16 Best AVI Video Cutters for All Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-filmoras-easy-steps-to-convert-avi-files-into-vibrant-gifs-on-all-platforms/"><u>[Updated] Filmora’s Easy Steps to Convert AVI Files Into Vibrant GIFs on All Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-how-you-can-profit-from-youtube-content/"><u>[Updated] In 2024, Unveiling How You Can Profit From YouTube Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-viewers-to-earners-journey-calculating-necessary-counts/"><u>[Updated] In 2024, Viewers to Earner's Journey Calculating Necessary Counts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-heart-of-filmora-10-engaging-editing-capabilities/"><u>[Updated] The Heart of Filmora 10 Engaging Editing Capabilities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-6s-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 6s Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-steadicams-for-capturing-quality-uav-visuals/"><u>Ideal Steadicams for Capturing Quality UAV Visuals</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-through-our-curated-selection-of-top-free-offline-kart-and-racer-games-for-enthusiasts/"><u>Navigate Through Our Curated Selection of Top Free Offline Kart & Racer Games for Enthusiasts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-the-perfect-frame-top-vignette-apps-for-ios-and-android-devices/"><u>New 2024 Approved Get the Perfect Frame Top Vignette Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-make-a-dvd-from-your-videos-a-tutorial-for-windows-and-mac-users/"><u>New 2024 Approved Make a DVD From Your Videos A Tutorial for Windows and Mac Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mpeg-video-splitting-made-easy-top-5-free-tools/"><u>New 2024 Approved MPEG Video Splitting Made Easy Top 5 Free Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-converting-webm-files-to-mp3/"><u>New 2024 Approved The Ultimate Guide to Converting WebM Files to MP3</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-10-free-best-quicktime-mov-movie-editors/"><u>New 2024 Approved Top 10 Free Best QuickTime (MOV) Movie Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-video-combiners-with-no-watermark-limitations/"><u>New 2024 Approved Top Video Combiners with No Watermark Limitations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-cropping-101-learn-how-to-use-avidemux-like-a-pro/"><u>New 2024 Approved Video Cropping 101 Learn How to Use Avidemux Like a Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-free-avi-video-combining-tools-no-watermarks-or-trials-for-2024/"><u>New Best Free AVI Video Combining Tools No Watermarks or Trials for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-process-of-granting-access-in-facebook/"><u>The Process of Granting Access in Facebook</u></a></li>
 </ul></div>
 

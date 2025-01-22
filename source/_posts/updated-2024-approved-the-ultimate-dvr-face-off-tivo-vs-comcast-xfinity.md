@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate DVR Face-Off TiVo vs Comcast Xfinity
-date: 2025-01-11T16:41:55.344Z
-updated: 2025-01-15T16:40:00.847Z
+date: 2025-01-17T18:37:45.896Z
+updated: 2025-01-21T16:44:28.963Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  The menus are slightly different, as you can see below.
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Comcast interface
 
@@ -58,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Summary**
@@ -124,11 +124,11 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -145,24 +145,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-laptop-white-screen-issue/"><u>[FIXED] Laptop White Screen Issue</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-quintet-at-the-pinnacle-youtube-subscribers/"><u>[New] 2024 Approved The Quintet at the Pinnacle YouTube Subscribers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-free-software-strategies-for-efficient-educational-streaming-for-2024/"><u>[New] Free Software Strategies for Efficient Educational Streaming for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-jokesonscreen-pro/"><u>[New] In 2024, JokesOnScreen Pro</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-deep-dive-into-the-top-9-youtube-downloader-apps-for-android/"><u>[Updated] 2024 Approved A Deep Dive Into the Top 9 YouTube Downloader Apps for Android</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-strategic-campaign-planning-for-health-brands/"><u>2024 Approved Strategic Campaign Planning for Health Brands</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-x90s-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on X90S.</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/expert-document-management-master-document-processing-with-abbycads-cutting-edge-intelligence/"><u>Expert Document Management: Master Document Processing with AbbyCAD's Cutting-Edge Intelligence</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/1723262383588-gamers-alert-grab-a-high-performance-alienware-aurora-r16-rtx-4080-plus-i9-and-shave-off-500-from-the-price/"><u>Gamers Alert: Grab a High-Performance Alienware Aurora R16 (RTX 4080 + I9) and Shave Off $500 From the Price!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-m1-pro-and-m1-max-a-comparative-insight-into-apples-latest-chips/"><u>In 2024, M1 Pro and M1 Max - A Comparative Insight Into Apple's Latest Chips</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-notch-mts-video-editors-5-recommendations-for-2024/"><u>New Top-Notch MTS Video Editors 5 Recommendations for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-free-webm-video-editors-you-need-to-try-for-2024/"><u>The Best Free WebM Video Editors You Need to Try for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-historical-data-your-complete-guide-to-leveraging-the-wayback-machine/"><u>Unlocking Historical Data: Your Complete Guide to Leveraging the Wayback Machine</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cartoonize-your-photos-in-seconds/"><u>Updated 2024 Approved Cartoonize Your Photos in Seconds</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-combine-multiple-avi-files-into-one-top-10-free-avi-merger-tools-for-2024/"><u>Updated Combine Multiple AVI Files Into One Top 10 Free AVI Merger Tools for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-elevate-your-storytelling-a-step-by-step-ken-burns-effect-tutorial/"><u>Updated In 2024, Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-rated-free-flv-video-editing-tools/"><u>Updated In 2024, Top-Rated Free FLV Video Editing Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mac-video-editing-made-easy-discover-the-best-software-for-you-for-2024/"><u>Updated Mac Video Editing Made Easy Discover the Best Software for You for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-transform-your-videos-into-audio-top-ios-and-android-apps-for-2024/"><u>Updated Transform Your Videos Into Audio Top iOS and Android Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-monthly-earnings-from-youtube-as-a-content-creator/"><u>[Updated] In 2024, Monthly Earnings From YouTube as a Content Creator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instagrams-algorithm-unlocked-optimizing-your-reels/"><u>[Updated] Instagram’s Algorithm Unlocked Optimizing Your Reels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-resolving-imovie-cuts-understanding-crop-rationale/"><u>[Updated] Resolving iMovie Cuts Understanding Crop Rationale</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-immersive-journeys-vr-tours-explained/"><u>2024 Approved Unlocking Immersive Journeys VR Tours Explained</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/aomei-fonebackup-ios/"><u>AOMEI FoneBackup 簡易指南：如何有效地從 iOS 設備中备份数据</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns/"><u>In 2024, Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-guide-to-creating-engaging-video-posts/"><u>In 2024, The Ultimate Guide to Creating Engaging Video Posts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782161-9781594776359-kabbalistic-tarot/"><u>Kabbalistic Tarot | Free Book</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-pc-intro-makers-online-vs-offline/"><u>New The Ultimate Guide to PC Intro Makers Online vs Offline</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-whiteboard-animation-made-easy-top-5-hand-drawn-video-creators-for-2024/"><u>New Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-easy-conversion-tips-changing-amr-recordings-to-wav-audio-quality/"><u>Quick & Easy Conversion Tips: Changing AMR Recordings to WAV Audio Quality</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-filmora-for-free-no-cost-no-virus-no-hassle/"><u>Updated 2024 Approved Get Filmora for Free No Cost, No Virus, No Hassle</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-shrink-your-files-9-best-free-video-compression-tools-for-windows-10/"><u>Updated 2024 Approved Shrink Your Files 9 Best Free Video Compression Tools for Windows 10</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-elevate-your-lessons-top-10-educational-animation-software-for-2024/"><u>Updated Elevate Your Lessons Top 10 Educational Animation Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-10plus-best-free-mkv-cutters/"><u>Updated In 2024, Top 10+ Best Free MKV Cutters</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-make-memories-shine-video-editing-secrets-for-amateur-filmmakers/"><u>Updated Make Memories Shine Video Editing Secrets for Amateur Filmmakers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-movie-magic-for-minis-teach-your-child-to-create-their-own-films/"><u>Updated Movie Magic for Minis Teach Your Child to Create Their Own Films</u></a></li>
 </ul></div>
 

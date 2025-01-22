@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Make a Video with Photos and Music
-date: 2025-01-08T21:58:37.474Z
-updated: 2025-01-15T20:53:08.837Z
+date: 2025-01-15T22:27:33.084Z
+updated: 2025-01-22T02:22:11.304Z
 tags: 
   - video editing software
   - video editing
@@ -38,7 +38,7 @@ Filmora has built-in royalty free audio effects that you can use to touch up you
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 1\. Import media files
@@ -51,10 +51,6 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
@@ -63,11 +59,19 @@ Adding transitions between images can make the story go smoothly. Go Transitions
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Apply title and effects
 
 If you want to express your feelings or explain something in the slideshow, you can simply add texts to the image. Click Titles at the top to browse the available caption styles. Once you've picked a title style, drag it to the Timeline.
 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. Select music
 
@@ -82,7 +86,7 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -111,14 +115,10 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -136,24 +136,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-smart-strategies-showcase-ranking-best-trivia-video-streams/"><u>[New] In 2024, Smart Strategies Showcase Ranking Best Trivia Video Streams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premier-playwright-gateway/"><u>[New] Premier Playwright Gateway</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-group-video-chat-apps-for-video-conferences-and-meetings-for-2024/"><u>[New] Top Group Video Chat Apps For Video Conferences and Meetings for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-life-to-your-unused-laptop-keyboard-article-name-358-characters/"><u>Bring Back Life to Your 'Unused' Laptop Keyboard - Article Name — 358 Characters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-top-tech-titans-chatgpt-vs-microsofts-bing-chat-in-the-generative-ai-arena/"><u>Comparing Top Tech Titans: ChatGPT Vs. Microsoft's Bing Chat in the Generative AI Arena</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-xiaomi-civi-3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Xiaomi Civi 3</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-barriers-joining-games-via-xbox-zoom/"><u>In 2024, Breaking Barriers Joining Games via Xbox Zoom</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-no-more-format-issues-a-comprehensive-guide-to-chromecast-video-streaming-for-2024/"><u>New No More Format Issues A Comprehensive Guide to Chromecast Video Streaming for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unlock-your-creativity-top-movie-making-software-for-home-dvds-for-2024/"><u>New Unlock Your Creativity Top Movie Making Software for Home DVDs for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-virtualdub-vs-top-competitors-a-comprehensive-comparison/"><u>New Virtualdub vs Top Competitors A Comprehensive Comparison</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ram-in-formato-wma-trasformare-online-e-gratuito-la-guida-completa-al-metodo-movavi/"><u>RAM in Formato WMA: Trasformare Online E Gratuito - La Guida Completa Al Metodo Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-logitech-configuration-problems-on-pc-with-these-steps/"><u>Solve Your Logitech Configuration Problems on PC with These Steps</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-whistleblowers-testimony-a-look-into-fb-operations/"><u>The Whistleblower's Testimony: A Look Into FB Operations</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-flipping-videos-in-final-cut-pro/"><u>Updated 2024 Approved The Ultimate Guide to Flipping Videos in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-dual-view-video-editing-the-best-apps-for-ios-and-android-for-2024/"><u>Updated Dual-View Video Editing The Best Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-free-video-rotation-software-top-10-picks-for-flipping-footage-for-2024/"><u>Updated Free Video Rotation Software Top 10 Picks for Flipping Footage for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-windows-10-essentials-top-free-video-compressors/"><u>Updated In 2024, Windows 10 Essentials Top Free Video Compressors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-fcp-audio-a-step-by-step-guide-for-video-editors-for-2024/"><u>Updated Mastering FCP Audio A Step-by-Step Guide for Video Editors for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-webm-video-compression-made-easy-best-online-services-for-2024/"><u>Updated WebM Video Compression Made Easy Best Online Services for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/each-audience-zenith-peak-watch-timings-uncovered/"><u>[New] Reach Audience Zenith - Peak Watch Timings Uncovered</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone without Google Account?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>In 2024, Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tream-platform-push-facebook-vs-youtube-and-periscope-for-2024/"><u>Livestream Platform Push Facebook Vs. YouTube & Periscope for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-video-vibes-for-top-tier-unpacked-videos-for-2024/"><u>Mastering Video Vibes for Top-Tier Unpacked Videos for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-16-top-rated-free-avi-video-rotation-tools-for-all-devices-for-2024/"><u>New 16 Top-Rated Free AVI Video Rotation Tools for All Devices for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-final-cut-pro-transitions-3-essential-methods-for-pro-editors/"><u>New 2024 Approved Final Cut Pro Transitions 3 Essential Methods for Pro Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-3d-animation-software-is-not-easy-to-find-some-makers-are-even-free-and-simple-if-you-want-to-know-which-are-the-8-best-3d-animation-/"><u>New 2024 Approved Free 3D Animation Software Is Not Easy to Find. Some Makers Are Even Free and Simple. If You Want to Know Which Are the 8 Best 3D Animation Software, Check It Out</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-video-metadata-editing-on-mac-top-8-picks/"><u>New 2024 Approved The Ultimate Guide to Video Metadata Editing on Mac (Top 8 Picks)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-vertical-video-potential-top-editing-apps-for-mobile/"><u>New 2024 Approved Unlock Vertical Video Potential Top Editing Apps for Mobile</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-virtualdub-the-good-the-bad-and-the-best-alternatives-for-you/"><u>New 2024 Approved Virtualdub The Good, the Bad, and the Best Alternatives for You</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-chroma-keying-in-fcp-x-tips-tricks-and-best-practices-for-2024/"><u>New Chroma Keying in FCP X Tips, Tricks, and Best Practices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-steps-to-create-timed-photos-on-the-iphone/"><u>Simple Steps to Create Timed Photos on the iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-premier-html5-video-players-list-for-2024/"><u>Unveiling The Premier HTML5 Video Players List for 2024</u></a></li>
 </ul></div>
 
