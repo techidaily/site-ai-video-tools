@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate Time Lapse Crash Course Final Cut Pro Edition
-date: 2025-01-19T18:42:36.975Z
-updated: 2025-01-22T00:52:01.901Z
+date: 2025-01-27T19:35:19.660Z
+updated: 2025-01-29T18:55:48.348Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Make a Time-Lapse Video in Final Cut Pro
@@ -55,7 +55,7 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
@@ -63,7 +63,7 @@ You can set any speed by adjusting the **Rate**. Reset the speed by clicking on 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
@@ -73,7 +73,7 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -83,7 +83,7 @@ If you have any questions about making time-lapse videos, feel free to drop a li
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -101,15 +101,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>[New] 2024 Approved Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-10-best-action-cameras-for-diving-or-snorkelling/"><u>[Updated] Top 10 Best Action Cameras For Diving Or Snorkelling</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-transformation-tutorial-sdr-to-high-dynamic-range-video-upgrading/"><u>2024 Approved The Ultimate Transformation Tutorial SDR to High-Dynamic Range Video Upgrading</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-error-code-0x80240017-once-and-for-all/"><u>How to Fix Windows Update Error Code 0X80240017 Once and For All</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-reno-11-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Reno 11 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-fitness-trackers-5-must-ask-questions-before-buying/"><u>Navigating the World of Fitness Trackers: 5 Must-Ask Questions Before Buying</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-discover-the-best-public-domain-images-top-10-sites/"><u>New 2024 Approved Discover the Best Public Domain Images Top 10 Sites</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-script-to-screen-a-kids-guide-to-movie-making/"><u>New 2024 Approved From Script to Screen A Kids Guide to Movie Making</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-of-web-based-vertical-video-editors/"><u>New 2024 Approved The Ultimate List of Web-Based Vertical Video Editors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-trim-mkv-files-with-the-best-mkv-trimmer-on-mac/"><u>New 2024 Approved Trim MKV Files with the Best MKV Trimmer on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-15-advanced-tips-for-sports-broadcasting-nba/"><u>[New] 15 Advanced Tips for Sports Broadcasting (NBA)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-masterful-tiktok-makeovers-swap-video-backdrop-in-easy-steps/"><u>[New] 2024 Approved Masterful TikTok Makeovers Swap Video Backdrop in Easy Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ideal-choices-11-beginner-waterproof-cams-for-child-videographers/"><u>[Updated] Ideal Choices 11 Beginner Waterproof Cams For Child Videographers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-guide-overcoming-the-obstacle-of-outlook-not-starting-properly/"><u>Easy Guide: Overcoming the Obstacle of Outlook Not Starting Properly</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-90-pro-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Honor 90 Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-virtualdub-vs-the-competition-a-comprehensive-review-and-alternative-guide/"><u>Updated 2024 Approved Virtualdub Vs. The Competition A Comprehensive Review and Alternative Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-flat-to-fabulous-converting-videos-to-vr-with-ease-for-2024/"><u>Updated From Flat to Fabulous Converting Videos to VR with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-16-free-avi-video-rotator-tools-a-comprehensive-guide-for-all-devices/"><u>Updated In 2024, 16 Free AVI Video Rotator Tools A Comprehensive Guide for All Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>Updated In 2024, Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
 </ul></div>
 

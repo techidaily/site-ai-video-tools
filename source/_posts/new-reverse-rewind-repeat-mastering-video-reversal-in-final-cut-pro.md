@@ -1,7 +1,7 @@
 ---
 title: New Reverse, Rewind, Repeat Mastering Video Reversal in Final Cut Pro
-date: 2025-01-14T18:38:30.897Z
-updated: 2025-01-22T03:43:10.165Z
+date: 2025-01-27T17:16:59.766Z
+updated: 2025-01-29T20:02:05.166Z
 tags: 
   - video editing software
   - video editing
@@ -63,7 +63,7 @@ Now you need to go to the pop up menu where an option for reverse the clip is av
 ![ How to reverse a clip in Final Cut Pro ](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hit that reverse option.
@@ -100,6 +100,10 @@ Drag the retiming handler to adjust the speed as per need.
 
 ![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 4:**
 
 Play the clip to view editing effects.
@@ -110,37 +114,33 @@ Play the clip to view editing effects.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1**: To upload a video, first click "Import." You may also simply drag and drop media files into the Media Library, and they will display on the preview/program monitor. You may see your videos in waveform display and Vectorscope format after you've added them to the timeline. You may also watch a live filmstrip preview to see what's going on in the video.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2**: Place the video on the video track by dragging and dropping it. You may select Speed and Duration by right-clicking it on the track. Then, on the Custom Speed panel, enable the Reverse Speed option. You may also select Reverse by clicking the Speed symbol in the toolbar.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Click “Export” to save your file.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
 
@@ -157,18 +157,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-pixels-of-laughter-mobile-apps-transform-images/"><u>[New] 2024 Approved Pixels of Laughter Mobile Apps Transform Images</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-curating-the-best-mac-snipping-software-compilation/"><u>[Updated] Curating the Best Mac Snipping Software Compilation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-expand-your-viewing-realm-on-youtube-platforms/"><u>[Updated] Expand Your Viewing Realm on YouTube Platforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-tips-for-a-seamless-phone-screen-record/"><u>[Updated] In 2024, Tips for a Seamless Phone Screen Record</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-defi-understanding-the-core-concepts-of-decentralized-financial-systems/"><u>Decoding DeFi: Understanding the Core Concepts of Decentralized Financial Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-epson-wf-2650-printer-software-for-windows-computers/"><u>Download the Epson WF-2650 Printer Software for Windows Computers</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-c32-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia C32 Devices | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-list-top-9-multi-device-collaboration-apps-iosandroid-reviewed/"><u>In 2024, Essential List Top 9 Multi-Device Collaboration Apps iOS/Android Reviewed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-mastering-wax-a-step-by-step-guide-to-free-video-editing-for-2024/"><u>New Mastering Wax A Step-by-Step Guide to Free Video Editing for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-digital-trailer-creation-tools/"><u>New Top Digital Trailer Creation Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-6-economical-action-cams-available-for-99-or-below/"><u>Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-cut-color-and-create-top-video-editing-software-for-vloggers/"><u>Updated In 2024, Cut, Color, and Create Top Video Editing Software for Vloggers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-seamless-edits-3-effective-transition-strategies-in-final-cut-pro/"><u>Updated In 2024, Unlock Seamless Edits 3 Effective Transition Strategies in Final Cut Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturing-the-action-top-four-ways-to-record-on-xbox-one/"><u>[New] 2024 Approved Capturing the Action Top Four Ways to Record on Xbox One</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-spectaculous-visual-story-builder-suite/"><u>[New] In 2024, Spectaculous Visual Story Builder Suite</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-instantly-access-fb-videos-on-your-apple-entertainment-center-for-2024/"><u>[New] Instantly Access FB Videos on Your Apple Entertainment Center for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-spark-inspiration-free-premium-designs-for-video-marketers/"><u>[Updated] 2024 Approved Spark Inspiration Free, Premium Designs for Video Marketers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>[Updated] In 2024, Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/boost-your-apple-experience-the-ultimate-guide-to-using-the-freestyle2-blue-platform/"><u>Boost Your Apple Experience: The Ultimate Guide to Using the Freestyle2 Blue Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-location-not-detected-on-iphone-swiftly-and-simply-a-step-by-step-guide/"><u>Fix 'Location Not Detected' On iPhone Swiftly and Simply – A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-wax-video-editing-software-tips-tricks-and-tutorials/"><u>New Wax Video Editing Software Tips, Tricks, and Tutorials</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-blueprint-for-conquering-metas-user-command-zone/"><u>The Blueprint for Conquering Meta's User Command Zone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-free-sound-effects-for-final-cut-pro-editors/"><u>Updated 2024 Approved The Ultimate Guide to Free Sound Effects for Final Cut Pro Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-4-alternatives-to-adobe-premiere-rush/"><u>Updated 2024 Approved Top 4 Alternatives to Adobe Premiere Rush</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-editors-paradise-10-essential-software-solutions/"><u>Updated 2024 Approved Video Editors Paradise 10 Essential Software Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-take-your-videos-to-the-next-level-insider-video-editing-tips-and-tricks/"><u>Updated In 2024, Take Your Videos to the Next Level Insider Video Editing Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-streamline-your-videos-10-top-rated-free-online-video-trimmers-for-2024/"><u>Updated Streamline Your Videos 10 Top-Rated Free Online Video Trimmers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-realme-11x-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme 11X 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

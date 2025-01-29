@@ -1,7 +1,7 @@
 ---
 title: "Recreating Retro Tech: A Custom-Built Replica of the Iconic 1986 Apple Macintosh Plus"
-date: 2025-01-21T00:36:25.004Z
-updated: 2025-01-21T17:35:36.921Z
+date: 2025-01-23T17:33:17.437Z
+updated: 2025-01-29T20:24:50.149Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,15 +81,20 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-selecting-fps-for-videos-why-not-both-30-or-60-in-2024/"><u>[New] Selecting FPS for Videos Why Not Both, 30 or 60, In 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-spotlight-on-premium-360cameras-for-professionals/"><u>[New] Spotlight on Premium 360°Cameras for Professionals</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unraveling-the-secrets-of-inshot-editing-excellence/"><u>[Updated] In 2024, Unraveling the Secrets of InShot Editing Excellence</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-intel-wi-fi-6-ax200-drivers-windows-1110/"><u>Download & Update Intel Wi-Fi 6 AX200 Drivers - Windows 11/10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-get-lumafusion-for-mac-explore-the-best-video-editing-alternatives-for-2024/"><u>New Get Lumafusion for Mac Explore the Best Video Editing Alternatives for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-reverse-video-online-the-ultimate-guide/"><u>New In 2024, Reverse Video Online The Ultimate Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-subtitle-editing-in-fcpx-best-practices-and-techniques/"><u>New In 2024, Subtitle Editing in FCPX Best Practices and Techniques</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-ipad-video-editors-top-5/"><u>New In 2024, The Ultimate Guide to iPad Video Editors Top 5</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-race-for-excellence-comparing-gemini-and-chatgpt/"><u>The Race for Excellence: Comparing Gemini and ChatGPT</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-premier-artist-blending-images-and-harmony/"><u>[Updated] 2024 Approved Premier Artist Blending Images & Harmony</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-your-channels-a-guide-to-best-youtube-seo-resources-for-2024/"><u>[Updated] Boost Your Channels A Guide to Best YouTube SEO Resources for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-cover-videos-a-step-by-step-guide-for-2024/"><u>[Updated] Facebook Cover Videos A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-expert-tips-to-enhance-your-live-fb-broadcast-quality-pcmac/"><u>In 2024, Expert Tips to Enhance Your Live FB Broadcast Quality (PC/Mac)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-online-video-rotators/"><u>New The Ultimate List of Online Video Rotators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-vlc-video-cutter-for-mac-trim-and-preserve-quality-with-ease-for-2024/"><u>New VLC Video Cutter for Mac Trim and Preserve Quality with Ease for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/perfect-the-art-of-posting-large-photos-on-instagram-effortlessly/"><u>Perfect the Art of Posting Large Photos on Instagram Effortlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-display-on-win11-fixed-release/"><u>Restore Display on Win11 Fixed Release</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-gaming-thumbs-for-immersive-experience-for-2024/"><u>Top Gaming Thumbs for Immersive Experience for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-break-free-from-adobe-premiere-rush-discover-the-top-4-alternative-video-editors/"><u>Updated 2024 Approved Break Free From Adobe Premiere Rush Discover the Top 4 Alternative Video Editors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unlock-free-video-blurring-easy-online-solution/"><u>Updated 2024 Approved Unlock Free Video Blurring Easy Online Solution</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-adobe-premiere-pro-cs6-free-download-for-mac-os-x-for-2024/"><u>Updated Adobe Premiere Pro CS6 Free Download for Mac OS X for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-generate-neon-text-in-seconds-8-user-friendly-online-tools/"><u>Updated In 2024, Generate Neon Text in Seconds 8 User-Friendly Online Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Itel P55+? | Dr.fone</u></a></li>
 </ul></div>
 

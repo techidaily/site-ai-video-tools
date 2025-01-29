@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial
-date: 2025-01-15T06:47:16.255Z
-updated: 2025-01-21T19:22:50.591Z
+date: 2025-01-23T19:27:46.262Z
+updated: 2025-01-29T16:57:42.507Z
 tags: 
   - video editing software
   - video editing
@@ -32,10 +32,6 @@ This article introduces the readers to Final Cut Pro and explains how to add the
 * [Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?](#Part2)
 * [Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?](#Part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1: How to Make a Ken Burns Effect in Final Cut Pro?**
 
 Final Cut Pro is user-friendly software and makes it easy for you to create a Ken Burns Effect without having advanced skills and expertise. So, are you interested in knowing the best part? Given below are a few simple steps to create Ken Burns Effect and make your pictures and videos look adorable.
@@ -45,6 +41,10 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
 _![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Check Your Settings**
 
@@ -79,7 +79,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 _![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5: Add a Freeze Frame**
@@ -93,7 +93,7 @@ You’re not done yet because you need to hold your picture at the end of the an
 _![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 6: Adjust the Duration of the Freeze Frame**
@@ -126,10 +126,6 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -140,7 +136,7 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -165,6 +161,10 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -180,24 +180,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-pantheon-of-popularity-instagrams-top-25-icons-for-2024/"><u>[New] The Pantheon of Popularity Instagram's Top 25 Icons for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-harness-the-power-of-picture-in-progressive-screen-with-chrome/"><u>[Updated] Harness the Power of Picture in Progressive Screen with Chrome</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-personalize-your-youtube-watch-experience-with-alerts-and-notes-for-2024/"><u>[Updated] Personalize Your Youtube Watch Experience with Alerts & Notes for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-tactics-capturing-high-quality-sports-streams-online/"><u>Essential Tactics Capturing High-Quality Sports Streams Online</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-7-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 7 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>In 2024, How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-smartscreen-capture-v11-professional/"><u>In 2024, SmartScreen Capture V11 Professional</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-leap-practical-steps-towards-complete-linguistic-integration/"><u>Language Leap: Practical Steps Towards Complete Linguistic Integration</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-watermark-free-video-editing-the-top-7-merging-solutions/"><u>New In 2024, Watermark-Free Video Editing The Top 7 Merging Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-notch-mts-video-editors-5-recommendations-for-2024/"><u>New Top-Notch MTS Video Editors 5 Recommendations for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-free-webm-video-editors-you-need-to-try-for-2024/"><u>The Best Free WebM Video Editors You Need to Try for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-aifc-in-aiff-online-senza-costi-utilizzando-il-servizio-di-movavi/"><u>Trasforma I Tuoi File AIFC in AIFF Online Senza Costi Utilizzando Il Servizio Di Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-yahoo-mail-issues-steps-to-resolve-non-receipt-of-emails/"><u>Troubleshooting Yahoo Mail Issues: Steps to Resolve Non-Receipt of Emails</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-fcp-x-shortcut-adding-effects-in-3-simple-steps/"><u>Updated 2024 Approved The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-storytelling-made-easy-best-iphone-and-ipad-collage-apps-2023/"><u>Updated 2024 Approved Video Storytelling Made Easy Best iPhone and iPad Collage Apps 2023</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-combine-multiple-avi-files-into-one-top-10-free-avi-merger-tools-for-2024/"><u>Updated Combine Multiple AVI Files Into One Top 10 Free AVI Merger Tools for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-rated-free-flv-video-editing-tools/"><u>Updated In 2024, Top-Rated Free FLV Video Editing Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-time-stopping-tips-mastering-freeze-frames-in-your-videos/"><u>Updated Time-Stopping Tips Mastering Freeze Frames in Your Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-transform-your-videos-into-audio-top-ios-and-android-apps-for-2024/"><u>Updated Transform Your Videos Into Audio Top iOS and Android Apps for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-android-no-cost-video-capture-tool-for-2024/"><u>[New] Android No-Cost Video Capture Tool for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-3-efficient-methods-for-saving-youtubes-standardized-images/"><u>[Updated] 3 Efficient Methods for Saving YouTube's Standardized Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-detailed-examination-of-chilled-treat-recorders/"><u>[Updated] Detailed Examination of Chilled Treat Recorders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-securing-snapshots-across-android-and-mac-platforms/"><u>2024 Approved Securing Snapshots Across Android and Mac Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-y27s-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo Y27s</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/from-snap-to-share-the-ultimate-guide-to-archiving-photos-for-2024/"><u>From Snap to Share The Ultimate Guide to Archiving Photos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-realtime-idevice-screen-record-latest-methods/"><u>In 2024, Realtime iDevice Screen Record - Latest Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-pro-audio-editing-essentials-top-8-software-for-industry-experts/"><u>New Pro Audio Editing Essentials Top 8 Software for Industry Experts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-editing-essentials-how-to-split-clips-in-windows-live-movie-maker-2023-update-for-2024/"><u>New Video Editing Essentials How to Split Clips in Windows Live Movie Maker (2023 Update) for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-sony-xperia-5-overview-a-miniature-marvel-with-a-premium-tag/"><u>The Sony Xperia 5 Overview: A Miniature Marvel with a Premium Tag</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-digitizing-and-saving-faded-frames-for-2024/"><u>The Ultimate Guide to Digitizing and Saving Faded Frames for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-accelerate-video-playback-in-quicktime-a-step-by-step-guide/"><u>Updated 2024 Approved Accelerate Video Playback in QuickTime A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-avi-editor-for-windows-8-easily-edit-avi-files-on-pc-2023-update-for-2024/"><u>Updated AVI Editor for Windows 8 Easily Edit AVI Files on PC-2023 Update for 2024</u></a></li>
 </ul></div>
 

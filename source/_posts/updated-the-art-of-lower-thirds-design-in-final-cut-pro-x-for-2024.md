@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2025-01-15T23:09:03.913Z
-updated: 2025-01-21T19:14:41.646Z
+date: 2025-01-26T18:00:29.515Z
+updated: 2025-01-29T18:50:10.680Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,6 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -52,7 +48,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -66,6 +62,10 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -94,7 +94,7 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -121,10 +121,6 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
@@ -142,6 +138,10 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -162,7 +162,7 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -188,22 +188,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-leading-25-icons-setting-social-trends-on-insta-for-2024/"><u>[New] The Leading 25 Icons Setting Social Trends on Insta for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-swift-and-simple-method-for-screenshots-on-ios-devices/"><u>[Updated] 2024 Approved Swift and Simple Method for Screenshots on IOS Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-peak-performance-frames-per-second-slow-motion/"><u>In 2024, Peak Performance Frames Per Second Slow Motion</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-10plus-best-image-to-video-makers-online-free-and-paid/"><u>New 2024 Approved 10+ Best Image to Video Makers Online Free & Paid</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-easily-remove-tiktok-watermarks-best-online-solutions/"><u>New 2024 Approved Easily Remove TikTok Watermarks Best Online Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-expert-approved-audio-editing-tools-top-10-list/"><u>New 2024 Approved Expert-Approved Audio Editing Tools Top 10 List</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-fcpxs-full-potential-the-top-10-plugins-you-should-know-about/"><u>New 2024 Approved Unlock FCPXs Full Potential The Top 10 Plugins You Should Know About</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-with-the-help-of-fcp-you-can-easily-create-various-changes-to-audio-file-with-time-one-can-adjust-volume-fading-and-apply-audio-enhancemen/"><u>New 2024 Approved With the Help of FCP You Can Easily Create Various Changes to Audio File with Time, One Can Adjust Volume Fading and Apply Audio Enhancement as per Need</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-best-adobe-premiere-pro-extensions-free-and-essential-downloads-for-2024/"><u>New Best Adobe Premiere Pro Extensions Free and Essential Downloads for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-bring-your-videos-to-life-a-beginners-guide-to-cartoon-conversion-for-2024/"><u>New Bring Your Videos to Life A Beginners Guide to Cartoon Conversion for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-design-and-send-video-invites-on-the-go-best-mobile-apps-for-2024/"><u>New Design and Send Video Invites On-the-Go Best Mobile Apps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/secure-your-home-with-style-expert-analysis-of-the-yale-assure-lock-2-plus-and-its-compatibility-with-iphones/"><u>Secure Your Home with Style: Expert Analysis of the Yale Assure Lock 2 Plus and Its Compatibility with iPhones</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/should-you-opt-for-extended-warranty-with-applecareplus-services/"><u>Should You Opt for Extended Warranty with AppleCare+ Services?</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/step-by-step-guide-adjusting-your-profile-preferences-via-the-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Profile Preferences via the Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/step-by-step-tutorial-on-effortless-lacie-hdd-upgrades-or-fixes/"><u>Step-by-Step Tutorial on Effortless Lacie HDD Upgrades or Fixes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/44k544og44od44ox44oq44kk44k544og44od44ox44os44k344ou77ya44or44k944kz44oz44gl44kj44oq44ki44or44k44kk44og6ywn5lplush6yyy55s744gu5oqa6kgt/"><u>ステップバイステップレシピ：パソコンからリアルタイム配信録画の技術</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-video-recording-gear-guide/"><u>2024 Approved Best Video Recording Gear Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210925795-9780639939537-acta-non-verba/"><u>Acta Non Verba | Free Book</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210420618-9781739840419-being-in-nature/"><u>Being in Nature | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-software-hp-laserjet-pro-m506-printer-drivers/"><u>Download & Update Software: HP LaserJet Pro M506 Printer Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-smart-7-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Smart 7 Pattern Lock Screen</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-can-you-fix-a-damaged-graphics-card-insights-from-yl-computings-expertise/"><u>How Can You Fix a Damaged Graphics Card? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-income-comparison-exercise-monetizing-videos-on-dailymovement-and-youtube/"><u>In 2024, Income Comparison Exercise Monetizing Videos on DailyMovement & YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wi-fi-troubleshooting-in-windows-11-os-environment/"><u>Mastering Wi-Fi Troubleshooting in Windows 11 OS Environment</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mkv-video-trimming-made-easy-best-mac-apps-2023-for-2024/"><u>New MKV Video Trimming Made Easy Best Mac Apps 2023 for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-retrograde-your-footage-easy-vhs-effects-in-final-cut-pro-for-2024/"><u>New Retrograde Your Footage Easy VHS Effects in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-lag-eradicate-call-of-duty-warzone-directx-glitch-in-four-quick-steps/"><u>No More Lag! Eradicate Call of Duty: Warzone DirectX Glitch in Four Quick Steps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-fcpx-freebie-list-10-plugins-you-cant-miss-for-2024/"><u>The Ultimate FCPX Freebie List 10 Plugins You Cant Miss for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-solutions-to-overcome-gta-5s-freezing-issues-easily/"><u>Ultimate Solutions to Overcome GTA 5'S Freezing Issues Easily</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-list-7-video-mergers-with-no-watermarks/"><u>Updated 2024 Approved The Ultimate List 7 Video Mergers with No Watermarks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-videopad-video-editor-review-a-closer-look-at-its-capabilities-and-limitations/"><u>Updated 2024 Approved Videopad Video Editor Review A Closer Look at Its Capabilities and Limitations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-like-a-pro-top-iphone-video-editing-apps/"><u>Updated In 2024, Edit Like a Pro Top iPhone Video Editing Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-morph-your-mug-the-top-face-swap-apps-for-ios-and-android/"><u>Updated In 2024, Morph Your Mug The Top Face Swap Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-simplest-online-tone-generators-our-top-picks/"><u>Updated Simplest Online Tone Generators Our Top Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-free-mpeg-video-splitters-top-5-reviews/"><u>Updated The Ultimate Guide to Free MPEG Video Splitters Top 5 Reviews</u></a></li>
 </ul></div>
 
