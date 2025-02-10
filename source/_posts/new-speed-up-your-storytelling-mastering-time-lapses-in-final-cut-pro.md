@@ -1,7 +1,7 @@
 ---
 title: New Speed Up Your Storytelling Mastering Time Lapses in Final Cut Pro
-date: 2025-01-25T16:46:24.451Z
-updated: 2025-01-29T18:51:39.757Z
+date: 2025-02-03T03:00:52.383Z
+updated: 2025-02-09T16:19:14.608Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Make a Time-Lapse Video in Final Cut Pro
@@ -55,7 +55,7 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
@@ -63,7 +63,7 @@ You can set any speed by adjusting the **Rate**. Reset the speed by clicking on 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
@@ -73,7 +73,7 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -83,7 +83,7 @@ If you have any questions about making time-lapse videos, feel free to drop a li
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -101,24 +101,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-perfected-podcasts-iphones-seamless-audio-download-routines/"><u>[New] Perfected Podcasts IPhone's Seamless Audio Download Routines</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1-ultimate-guide-restoring-your-windows-registry-after-damage-expert-tips-from-yl-computing/"><u>1. Ultimate Guide: Restoring Your Windows Registry After Damage - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-highpoint-rocket-1608a-expansion-unit-amplified-drive-capacity-and-enhanced-performance/"><u>Comprehensive Analysis of HighPoint Rocket 1608A Expansion Unit: Amplified Drive Capacity & Enhanced Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/honest-scholarship-steering-clear-from-chatgpt-dependence/"><u>Honest Scholarship: Steering Clear From ChatGPT Dependence</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-s18-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo S18 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y36i-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y36i</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-echoes-of-time-unveiling-the-secrets-to-snapchat-reverse/"><u>In 2024, Echoes of Time Unveiling the Secrets to Snapchat Reverse</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-note-12-4g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi Note 12 4G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-honor-play-40c-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Honor Play 40C Phone? Unlock It Now</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleashing-creativity-the-top-10-final-cut-pro-movies/"><u>New In 2024, Unleashing Creativity The Top 10 Final Cut Pro Movies</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-merge-wmv-videos-without-cost-top-free-tools/"><u>New Merge WMV Videos Without Cost Top Free Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-movie-magic-for-minis-teach-your-child-to-create-their-own-films-for-2024/"><u>New Movie Magic for Minis Teach Your Child to Create Their Own Films for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-both-worlds-lumafusion-for-mac-and-its-alternatives/"><u>New The Best of Both Worlds Lumafusion for Mac and Its Alternatives</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-the-best-movie-trailer-creation-software-for-mac-and-pc-for-2024/"><u>New The Best of the Best Movie Trailer Creation Software for Mac and PC for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unbiased-avs-video-editor-review-is-it-the-right-choice-for-you-for-2024/"><u>New Unbiased AVS Video Editor Review Is It the Right Choice for You for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-virtualdub-replacements-top-picks-for-video-editing/"><u>New VirtualDub Replacements Top Picks for Video Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-resize-your-video-tips-and-tricks-for-perfect-dimensions/"><u>Updated In 2024, Resize Your Video Tips and Tricks for Perfect Dimensions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-shortcut-making-reaction-videos-with-filmora-for-2024/"><u>Updated The Ultimate Shortcut Making Reaction Videos with Filmora for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windowstop10/"><u>Windowsで使える優秀な無料ビデオ編集アプリケーションTop10選</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-thrifty-computer-solutions-through-perfect-obs-arrangement/"><u>[New] 2024 Approved Thrifty Computer Solutions Through Perfect OBS Arrangement</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-full-access-your-in-depth-look-at-fcp/"><u>[New] In 2024, Full Access Your In-Depth Look at FCP</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlock-creative-potential-in-filmmaking-with-filmora-answers/"><u>[New] Unlock Creative Potential in Filmmaking with Filmora Answers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-is-sns-hdr-pro-worth-it-top-alternatives-reviewed/"><u>[Updated] Is SNS HDR Pro Worth It? Top Alternatives Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-srt-to-sub-streamlining-your-video-captions/"><u>2024 Approved SRT to SUB Streamlining Your Video Captions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-se-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone SE Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-channel-lockdowns-device-specific-tips/"><u>Mastering YouTube Channel Lockdowns Device-Specific Tips</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-most-popular-royalty-free-image-websites/"><u>New S Most Popular Royalty-Free Image Websites</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-wevideo-your-go-to-platform-for-easy-video-creation-for-2024/"><u>New WeVideo Your Go-To Platform for Easy Video Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-communication-how-to-utilize-chatgpts-translation-features/"><u>The Future of Communication: How to Utilize ChatGPT’s Translation Features</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-using-compressor-in-final-cut-pro-x-best-practices-and-workflows/"><u>Updated 2024 Approved Using Compressor in Final Cut Pro X Best Practices and Workflows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-streaming-local-media-to-chromecast-on-windows-mac-android-and-ios-for-2024/"><u>Updated The Ultimate Guide to Streaming Local Media to Chromecast on Windows, Mac, Android, and iOS for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators-for-2024/"><u>Updated Top 10 AI Subtitle Translators for Content Creators for 2024</u></a></li>
 </ul></div>
 

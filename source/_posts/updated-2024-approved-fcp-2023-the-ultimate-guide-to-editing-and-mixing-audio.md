@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCP 2023 The Ultimate Guide to Editing and Mixing Audio
-date: 2025-01-25T16:52:04.150Z
-updated: 2025-01-29T19:25:21.847Z
+date: 2025-02-07T18:50:31.483Z
+updated: 2025-02-09T17:49:23.350Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ Those of you reading this article as a guide to audio editing of videos on Final
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to edit audio on FCP
 
 There are 2 ways of editing audio of videos on FCP-clip-level audio editing and advanced audio editing.
@@ -46,17 +50,9 @@ While dragging the audio or video clip onto the timeline you have surely seen th
 
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -67,10 +63,6 @@ The job of the tiny white points on the right and left side of the clip is to ap
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
@@ -85,17 +77,25 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
 
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
 
@@ -104,7 +104,7 @@ The Audio Inspector would allow you to apply the following effects:
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -122,24 +122,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-viewability-creating-custom-youtube-thumbnails/"><u>[New] In 2024, Enhancing Viewability Creating Custom YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-5-iphone-x87-photoshoot-background-swappers/"><u>[New] Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-gameplay-revolution-elevating-ram-usage-for-minecraft/"><u>[Updated] In 2024, Gameplay Revolution Elevating Ram Usage for Minecraft</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-synchronizing-podcast-drops-with-audience-behavior-for-2024/"><u>[Updated] Synchronizing Podcast Drops with Audience Behavior for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-windows-wizardry-for-swift-image-editing-for-2024/"><u>[Updated] Window's Wizardry for Swift Image Editing for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-the-future-of-wearables-will-apple-watch-series-8-outshine-its-predecessor-the-series-10-a-deep-dive-with-zdnet/"><u>Comparing the Future of Wearables: Will Apple Watch Series 8 Outshine Its Predecessor, the Series 10? A Deep Dive with ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expanding-your-workspace-a-guide-to-connecting-two-monitors-on-macos/"><u>Expanding Your Workspace: A Guide to Connecting Two Monitors on macOS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-aural-archive-discussion-and-judgment/"><u>In 2024, Aural Archive Discussion & Judgment</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-digital-duel-diaries-record-galaxy-gamer-stories/"><u>In 2024, Digital Duel Diaries Record Galaxy Gamer Stories</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-mac-video-editing-made-easy-vn-video-editor-and-more-for-2024/"><u>New Mac Video Editing Made Easy VN Video Editor and More for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-no-cost-vob-video-editing-top-5-tools-you-need/"><u>New No-Cost VOB Video Editing Top 5 Tools You Need</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-cinematic-color-grading-in-final-cut-pro-x-for-2024/"><u>New The Art of Cinematic Color Grading in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-choice-final-cut-pro-or-lumafusion-for-your-video-needs-for-2024/"><u>The Ultimate Choice Final Cut Pro or LumaFusion for Your Video Needs for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-mini-movie-mogul-a-step-by-step-guide-for-kids/"><u>Updated In 2024, The Mini Movie Mogul A Step-by-Step Guide for Kids</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-secret-to-viral-lip-sync-videos-5-must-try-apps/"><u>Updated In 2024, The Secret to Viral Lip Sync Videos 5 Must-Try Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-shaky-footage-no-problem-fcpx-video-stabilization-tips/"><u>Updated Shaky Footage? No Problem! FCPX Video Stabilization Tips</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-vhs-effect-in-fcp-a-beginners-guide-to-retro-editing/"><u>Updated The VHS Effect in FCP A Beginners Guide to Retro Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-watch-local-videos-on-chromecast-a-comprehensive-guide-for-windows-mac-android-and-ios-users/"><u>Updated Watch Local Videos on Chromecast A Comprehensive Guide for Windows, Mac, Android, and iOS Users</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1728473082668-sd/"><u>プライバシー保護：マイクロSDカードから完全なデータ消去法</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-seamlessly-posting-online-content-to-ig-storypost/"><u>[New] Seamlessly Posting Online Content to IG Story/Post</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-visual-potential-incorporating-new-fonts-in-ae/"><u>[New] Unleashing Visual Potential Incorporating New Fonts in AE</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-enhancing-portraits-the-power-of-motion-blur-in-faces/"><u>[Updated] In 2024, Enhancing Portraits The Power of Motion Blur in Faces</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/breaking-down-power-and-performance-in-the-ibuypower-y60-premium-desktop-unveiled/"><u>Breaking Down Power and Performance in the iBuyPower Y60: Premium Desktop Unveiled</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/fix-your-frozen-windows-at-startup-with-these-effective-solutions-by-yl-computing/"><u>Fix Your Frozen Windows at Startup with These Effective Solutions by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-y78-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Y78 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 11 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installation-guide-logitech-pro-high-definition-webcam-software-for-windows-os/"><u>Installation Guide: Logitech Pro High-Definition Webcam Software for Windows OS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-transform-your-videos-expert-techniques-for-achieving-a-professional-look-for-2024/"><u>New Transform Your Videos Expert Techniques for Achieving a Professional Look for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-trimming-3gp-videos-tips-tricks-and-best-practices-for-2024/"><u>New Trimming 3GP Videos Tips, Tricks, and Best Practices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-crackling-sounds-from-speakers-on-microsoft-operating-systems/"><u>Troubleshooting Crackling Sounds From Speakers on Microsoft Operating Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-tivo-or-comcast-which-dvr-is-right-for-you/"><u>Updated 2024 Approved TiVo or Comcast Which DVR Is Right for You ?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-your-creativity-top-free-video-editing-apps/"><u>Updated 2024 Approved Unleash Your Creativity Top Free Video Editing Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-get-audio-working-in-avidemux-proven-solutions-for-2024/"><u>Updated Get Audio Working in Avidemux Proven Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcp-audio-editing-essentials-a-step-by-step-guide/"><u>Updated In 2024, FCP Audio Editing Essentials A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-save-on-filmora-expert-tips-to-find-working-coupon-codes/"><u>Updated Save on Filmora Expert Tips to Find Working Coupon Codes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-split-cut-and-trim-avi-files-like-a-pro-a-beginners-guide-for-2024/"><u>Updated Split, Cut, and Trim AVI Files Like a Pro A Beginners Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2025-01-24T17:26:51.490Z
-updated: 2025-01-29T18:00:07.469Z
+date: 2025-02-05T23:17:36.189Z
+updated: 2025-02-09T16:11:57.523Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -59,7 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -67,10 +67,6 @@ For more details, please refer to this article: [How to Resize a Video to Right 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -91,7 +87,7 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -101,6 +97,10 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,20 +171,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ideal-ios-companions-best-ps2-game-simulators/"><u>[New] 2024 Approved Ideal iOS Companions Best PS2 Game Simulators</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-in-search-of-perfect-sound-top-10-podcast-microphones/"><u>[New] 2024 Approved In Search of Perfect Sound Top 10 Podcast Microphones</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-editorsuite-showcase-video-editor-features-and-reviews/"><u>[New] EditorSuite Showcase – Video Editor Features & Reviews</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-quieting-audible-outputs-a-windowsmac-guide-for-2024/"><u>[New] Quieting Audible Outputs A Windows/Mac Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-screen-flickering-in-windows-10/"><u>[Solved] Screen Flickering in Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/create-custom-iphone/"><u>Create Custom iPhone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c33-2023-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C33 2023 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-video-voiceover-software-for-pc-the-top-6-contenders/"><u>New In 2024, Video Voiceover Software for PC The Top 6 Contenders</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-make-unforgettable-video-invites-with-these-mobile-apps/"><u>New Make Unforgettable Video Invites with These Mobile Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-mp4-to-mp3-conversion-on-mobile-the-best-apps-and-tools/"><u>New MP4 to MP3 Conversion on Mobile The Best Apps and Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-best-online-platforms-to-convert-images-to-videos/"><u>Updated 2024 Approved 10 Best Online Platforms to Convert Images to Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-cartoonize-your-photos-in-seconds-for-2024/"><u>Updated Cartoonize Your Photos in Seconds for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-create-music-for-free-top-11-daws-for-beginners-and-pros/"><u>Updated In 2024, Create Music for Free Top 11 DAWs for Beginners and Pros</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-5-best-free-mpeg-video-splitters-for-2024/"><u>Updated Top 5 Best Free MPEG Video Splitters for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-easy-steps-how-to-master-the-best-of-9-free-youtube-logomakers/"><u>[Updated] Easy Steps How to Master the Best of 9 Free YouTube Logomakers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-redefining-user-engagement-with-top-10-video-editors/"><u>[Updated] Redefining User Engagement with Top 10 Video Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-overcoming-obstacles-in-iphone-xs-facial-detection-system/"><u>2024 Approved Overcoming Obstacles in iPhone X’s Facial Detection System</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-y100-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y100 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/experience-ultra-clarity-in-xiaomis-screen-capture-technology/"><u>Experience Ultra Clarity in Xiaomi's Screen Capture Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ghostly-lens-takedown-reviews/"><u>In 2024, Ghostly Lens Takedown Reviews</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mac-video-tag-editor-8-best-tools-for-easy-organization/"><u>New Mac Video Tag Editor 8 Best Tools for Easy Organization</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-videopad-video-editor-review-and-comparison-best-video-editing-software/"><u>New Videopad Video Editor Review and Comparison Best Video Editing Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/spice-up-your-recipes-now-the-transformative-benefits-of-investing-in-the-paprika-app/"><u>Spice Up Your Recipes Now! The Transformative Benefits of Investing in the Paprika App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-reducing-audio-intensity-in-videos/"><u>Step-by-Step Guide: Reducing Audio Intensity in Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-a-clearer-audio-experience-with-less-subwoofer-noise/"><u>Troubleshooting Techniques for a Clearer Audio Experience with Less Subwoofer Noise</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro/"><u>Updated In 2024, Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-filmmaking-on-a-shoestring-10-essential-low-budget-tools/"><u>Updated In 2024, Filmmaking on a Shoestring 10 Essential Low-Budget Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-watermark-free-video-editing-top-10-online-tools-you-need-to-know-for-2024/"><u>Updated Watermark-Free Video Editing Top 10 Online Tools You Need to Know for 2024</u></a></li>
 </ul></div>
 

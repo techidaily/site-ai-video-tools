@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Hacks Smooth Skin without Breaking the Bank (or Using Plugins)
-date: 2025-01-23T17:08:42.400Z
-updated: 2025-01-29T18:14:48.427Z
+date: 2025-02-09T03:13:08.373Z
+updated: 2025-02-09T20:42:42.749Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ Fortunately, we have the best solutions to fix the skin tone issue by using FCPX
 > * [Part 4: How to Smooth Skin in Filmora?](#part4)
 > * [Part 5: How to smooth skin in Adobe Pro?](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Add a Skin Smoother Effect without Plugins in Final Cut Pro?
 
 Smoothening the skin in Final Cut Pro is very simple. Simply select the video, choose Video effects to be applied, and adjust the percentages from the Inspector pane. You will get wrinkle-free skin with an astonishing look. While multiple plugins are also available to apply a skin smoother effect, you can use the built-in features of Final Cut Pro to smoothen the skin and decrease the amount of contrast.
@@ -45,6 +49,10 @@ Here’s how you can do this:
 step1Choose the starting image and edit the clip into the timeline. Press Option and make a connected copy of the clip by dragging it up. The start and end points should match for syncing. In the Effects Browser, drag Blur > Gaussian Blur to apply the blur effect on the upper clip.
 
 ![Skin_Smoother_Effect_1](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 step2Open the Inspector pan and select Compositing from its bottom. Switch the Blend Mode to Lighten and adjust the Opacity slider as per your desired glow. Usually, 40 to 45% is ideal.
 
@@ -80,10 +88,6 @@ Color Finale is a user-friendly, fine-tuned, and fully-featured professional ski
 
 ![color-finale-2](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-color-finale-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Price:** $152
 
 **Software Requirements:** FCP 10.4.8 - 10.5.1
@@ -108,10 +112,6 @@ A comprehensive FCP tool with 89 individual plugins to apply the next-generation
 * A variety of cool presents and text generators; and
 * Number counters, chromatic aberration, VHS looks, camera shake, glitch effects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to adopt Skin Smoothing Plugins into FCPX?
 
 Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
@@ -121,25 +121,25 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
 
 Wondershare Filmora features advanced tuning tools and a variety of video filters and overlays. Learn how to smooth skin or beautify your face in the video with this advanced video-editing software.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
@@ -182,15 +182,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essence-of-whatsapp-call-conversations/"><u>[Updated] The Essence of WhatsApp Call Conversations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unleash-full-potential-with-camcapturers-innovations-for-2024/"><u>[Updated] Unleash Full Potential with CamCapturer's Innovations for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionary-marketing-tactics-keyword-essentials/"><u>2024 Approved Revolutionary Marketing Tactics Keyword Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fresh-take-on-the-enhanced-sony-s6500-media-device-for-2024/"><u>Fresh Take on the Enhanced Sony S6500 Media Device for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fresh-talent-8-rapidly-rising-online-stars-for-2024/"><u>Fresh Talent 8 Rapidly Rising Online Stars for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-10-free-online-video-looper-tools/"><u>New The Ultimate List 10 Free Online Video Looper Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-a-comprehensive-guide-to-making-video-slideshows-with-final-cut-pro-for-2024/"><u>New Unleash Your Creativity A Comprehensive Guide to Making Video Slideshows with Final Cut Pro for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-sound-on-windows-via-driver-update/"><u>Troubleshooting Sound on Windows via Driver Update</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-movie-magic-at-your-fingertips-effortless-video-enhancement/"><u>Updated In 2024, Movie Magic at Your Fingertips Effortless Video Enhancement</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-solve-avidemux-no-audio-problem-easy-fixes/"><u>Updated In 2024, Solve Avidemux No Audio Problem Easy Fixes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-master-the-art-of-backup-phones-camera-roll-upload-to-social-apps/"><u>[New] 2024 Approved Master the Art of Backup Phone's Camera Roll Upload to Social Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-gifs-transforming-vimeo-videos-into-animated-graphics/"><u>[New] 2024 Approved Mastering GIFs Transforming Vimeo Videos Into Animated Graphics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-essential-facetune-walkthrough-for-stunning-photos-for-2024/"><u>[New] The Essential Facetune Walkthrough for Stunning Photos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-maximizing-views-on-tiktok-unboxing-content/"><u>[Updated] Maximizing Views on TikTok Unboxing Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-googles-podcast-uploading-guide/"><u>[Updated] Navigating Google's Podcast Uploading Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-apple-and-tile-exploring-superior-alternatives-for-your-wallet-airtag-needs/"><u>Beyond Apple and Tile: Exploring Superior Alternatives for Your Wallet AirTag Needs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/omic-hold-techniques-for-clarity-for-2024/"><u>Ergonomic Hold Techniques for Clarity for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guia-paso-a-paso-para-realizar-una-respaldo-de-windows-7-antes-de-la-actualizacion-a-windows-11/"><u>Guía Paso a Paso Para Realizar Una Respaldo De Windows 7 Antes De La Actualización a Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/maximize-your-results-with-these-10-free-jpeg-to-gif-tools/"><u>Maximize Your Results with These 10 Free JPEG-to-GIF Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-discover-the-best-public-domain-images-top-10-sites/"><u>New 2024 Approved Discover the Best Public Domain Images Top 10 Sites</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-script-to-screen-a-kids-guide-to-movie-making/"><u>New 2024 Approved From Script to Screen A Kids Guide to Movie Making</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-art-of-audio-fading-2-pro-tips-for-final-cut-pro-users/"><u>New 2024 Approved The Art of Audio Fading 2 Pro Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-free-avi-video-rotators-2023-edition/"><u>New 2024 Approved The Ultimate Guide to Free AVI Video Rotators (2023 Edition)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-online-video-editing-on-chromebook/"><u>New 2024 Approved The Ultimate Guide to Online Video Editing on Chromebook</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-trim-mkv-files-with-the-best-mkv-trimmer-on-mac/"><u>New 2024 Approved Trim MKV Files with the Best MKV Trimmer on Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-watermark-free-tiktok-videos-top-online-removal-services/"><u>New 2024 Approved Watermark-Free TikTok Videos Top Online Removal Services</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-elevate-your-video-game-top-online-editors-for-chromebook-for-2024/"><u>New Elevate Your Video Game Top Online Editors for Chromebook for 2024</u></a></li>
 </ul></div>
 
