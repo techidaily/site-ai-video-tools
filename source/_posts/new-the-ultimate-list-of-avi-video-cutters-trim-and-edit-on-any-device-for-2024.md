@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate List of AVI Video Cutters Trim and Edit on Any Device for 2024
-date: 2025-02-06T17:45:57.396Z
-updated: 2025-02-10T02:24:22.535Z
+date: 2025-02-16T22:59:04.154Z
+updated: 2025-02-19T19:54:20.797Z
 tags: 
   - video editing software
   - video editing
@@ -40,6 +40,10 @@ Part 7: Bottom Line
 
 Part 8: FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Best AVI Video Cutter to Trim/Cut AVI Video on Windows and MAC – Filmora Video Cutter \[with steps\]
 
 Filmora by Wondershare is a star video editor with outstanding outcomes. Whether you have a MAC or Windows PC, you can download Filmora regardless of your operating system. The program best serves those who intend to make high-quality videos. The software provides editing support for all video formats, including AVI.
@@ -55,10 +59,6 @@ So does Filmora helps cut and trim AVI videos? Yes! It does if you follow these 
 First, [download](https://tools.techidaily.com/wondershare/filmora/download/) Filmora Video Editor by choosing your operating system, as seen in the screenshot below.
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run the setup and let it finish without any pause or break.
 
@@ -92,6 +92,10 @@ You will see the video on the timeline with its preview on the “Preview Screen
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Cutting Your Video in Filmora**
 
 Here comes the core step you have been waiting for. But before you go any further, you need to know about the “Playhead.”
@@ -101,7 +105,7 @@ Playhead is an orange-reddish marker you can find on the timeline.
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It has an important role in cutting your videos.
@@ -126,10 +130,6 @@ And place the playhead anywhere on the clip. And click on the “scissor” icon
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If done correctly, there should be three clips now of the same video, as you can observe in this screenshot.
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-14.jpg)
@@ -142,10 +142,6 @@ Keep in mind that there are three clips on the timeline. Now, if you want to rem
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, right-click on the mouse and choose “Cut” from the menu.
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-16.jpg)
@@ -157,6 +153,10 @@ Then, click the “Play” button under the preview screen to see the results.
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-17.jpg)
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can see in the above two screenshots that there’s a jump between the scenes due to cuts, confirming that video has been cut significantly.
 
@@ -178,10 +178,6 @@ Choose “Save Project” from the “File” menu.
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-20.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Select the directory to save the project, rename the new video, and click the “Save” button.
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-21.jpg)
@@ -193,10 +189,6 @@ Click on the “Export” button to save the video in AVI or any other video for
 ## Part 2: Top 3 Free AVI Video Cutter on Windows
 
 As a Windows user, finding an excellent video cutter is relatively easy. However, not all software permits importing AVI videos. In the same way, some video trimmers come at a price. So if you really don’t want to pay and enjoy cutting your AVI files, try using these three video cutting tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Microsoft Photos (Windows 10)
 
@@ -321,13 +313,13 @@ This MAC’s video editor is ideal for beginners. Many home users and small busi
 * It takes a lot of time to export videos
 * iMovie needs high HDD storage space
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### VideoPad by NCH
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-27.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [VideoPad](https://www.nchsoftware.com/videopad/index.html) by NCH is a beginner-level video editor with all the basic features. The software is specifically designed for home movie makers. That is why VideoPad is easy to understand and use.
 
@@ -365,13 +357,13 @@ VideoPad supports video files, including AVI, WMV, MPEG, MOV, MP4, ASF, and XviD
 * The auto speech feature performs poorly
 * The free version has annoying notifications
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Xilisoft Video Cutter
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-28.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Xilisoft Video Cutter](http://www.xilisoft.com/video-cutter-mac.html) is the simplest tool to cut videos on MAC. This software has a straightforward option to cut the clip after importing it to the timeline. The program is fast and has a user-friendly interface.
 
@@ -394,10 +386,6 @@ Moreover, you can polish your videos by merging multiple clips or increasing the
 
 * The trial version is free to use but limits you from enjoying extra features
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Top 3 Free AVI Video Cutter on Android
 
 After capturing nice videos with your Android mobile phone, you may need to cut unnecessary scenes to make your clips look professional. While there are numerous Android cutters, not all support the AVI format. So below, you will find the 3 best AVI video cutters for Android, which are free to use.
@@ -405,6 +393,10 @@ After capturing nice videos with your Android mobile phone, you may need to cut 
 ### Quick – Video Editor & Maker
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Quick – Video Editor & Maker](https://play.google.com/store/apps/details?id=com.quick.videoeditor&hl=en&gl=US) is a free video editor with PRO results. Many photographers and vloggers love using this app to cut clips immediately. Furthermore, the application offers a wide range of options to assure you don’t have to look to any other tool to rotate or compress video. Quick – Video Editor & Maker lets you import videos in all major formats, including AVI, MPEG, WMA, and more.
 
@@ -423,6 +415,10 @@ After capturing nice videos with your Android mobile phone, you may need to cut 
 
 * Lack of updates
 * Some users complain about app crash
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Funimate Video Editor & Maker
 
@@ -455,6 +451,10 @@ Plus, you can use the app to add custom animations, effects, and many other exci
 ## Part 5: Top 3 Free AVI Video Cutter on iPhone
 
 No wonder iPhone’s camera captures high-quality videos. But the problem begins when there’s no free app to cut AVI videos. So if you’re recording great spots, but deep inside, you really want to remove some parts, then these 3 free AVI video cutters will work smoothly on your iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cut, Trim, Split Video Editor
 
@@ -506,6 +506,10 @@ The app supports multiple video file types, including MOV, MP4, AVI, MPEG, MPEG-
 
 * Output videos require high mobile storage space
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: Top 3 Free AVI Video Cutter Online
 
 Don’t want to install video cutters on your MAC, Windows, smartphone, or any other device? No problem! You can use online video cutters and trimmers to split, cut, or trim your clips for free.
@@ -515,10 +519,6 @@ However, the problem still exists in online tools, as not all web-based editors 
 ### Kapwing
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-35.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Kapwing](https://www.kapwing.com/studio/editor) is an online video editor best for casual creatives, such as Vloggers and YouTubers. You can use this web-based platform to cut your videos. Gladly, Kapwing supports all AVI incomings. You can upload your AVI video files to this platform and use its trim or split feature. To do that, you need to upload your AVI video and choose the “Trim” or “Split” tool to see the magic. Once done with the trimming process, you can explore Kapwing's other incredible traits and apply them to your project.
 
@@ -647,17 +647,22 @@ But, guess what? These **top 16 AVI video cutters** for Windows, MAC, Android, i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-file-transportation-hacks-efficient-ways-to-upload-on-pc-for-2024/"><u>[New] File Transportation Hacks Efficient Ways to Upload on PC for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/iuewoewwruawueazleaqnuwumuawhpluss7tuabouwplusqtog5a245pyd5aac5l2v5lplusu5b6p5lif5asx44cb6kkr6kag6jol5oiw5yig6zmk55qe5pww5o2uig/"><u>簡單方法搞定文件恢復: 學會如何修復丟失、被覆蓋或删除的数据</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-20-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark 20</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-10-streaming-services-worth-a-try/"><u>In 2024, Top 10 Streaming Services Worth a Try</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719575254325-mondly-champion-of-language-learning-germany-resonates/"><u>Mondly: Champion of Language Learning - Germany Resonates</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-dailymotion-converter-download-and-convert-videos-in-seconds/"><u>New In 2024, Free Dailymotion Converter Download and Convert Videos in Seconds</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-macos-compatible-how-to-download-and-use-videoleap/"><u>New In 2024, MacOS Compatible How to Download and Use Videoleap</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-rock-solid-footage-8-best-free-online-video-stabilizers/"><u>New In 2024, Rock-Solid Footage 8 Best Free Online Video Stabilizers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-s-ultimate-guide-to-online-stop-motion-creation-top-picks/"><u>New In 2024, S Ultimate Guide to Online Stop Motion Creation Top Picks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-best-online-video-editors-for-vertical-format-videos/"><u>New In 2024, The Best Online Video Editors for Vertical Format Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ranch-raiders-best-friendly-farmers-game-roster/"><u>Ranch Raiders Best Friendly Farmer's Game Roster</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-for-updating-your-amd-graphics-driver-with-minimal-hassle/"><u>Simple Steps for Updating Your AMD Graphics Driver with Minimal Hassle</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unparalleled-video-quality-the-ultimate-18-list/"><u>[New] 2024 Approved Unparalleled Video Quality - The Ultimate #18 List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-step-by-step-guide-to-embedding-timestamp-metadata/"><u>[New] A Step-by-Step Guide to Embedding Timestamp Metadata</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-techniques-for-live-broadcasting-recorded-videographies-on-fb/"><u>[New] Techniques for Live Broadcasting Recorded Videographies on FB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevating-user-engagement-with-detailed-video-chapters-in-youtube/"><u>[Updated] 2024 Approved Elevating User Engagement with Detailed Video Chapters in YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-nba-game-broadcasting-select-the-best-platforms/"><u>[Updated] 2024 Approved NBA Game Broadcasting Select the Best Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chime-catcher-where-to-securely-download-tones/"><u>Chime Catcher Where to Securely Download Tones</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/essential-tips-and-tools-for-successful-remote-work-insights-from-zdnet/"><u>Essential Tips and Tools for Successful Remote Work: Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-reno-10-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Reno 10 Pro 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-subtitle-edit-for-mac-not-working-try-these-alternatives-for-2024/"><u>New Subtitle Edit for Mac Not Working? Try These Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/no-cost-split-screen-video-editors-online-and-offline-options-reviewed-for-2024/"><u>No-Cost Split Screen Video Editors Online and Offline Options Reviewed for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/1723262427118-unleash-gaming-power-snag-the-alienware-aurora-r16-with-nvidias-rtx-4080-super-and-intel-i9-cpu-at-a-500-discounted-price/"><u>Unleash Gaming Power: Snag the Alienware Aurora R16 With NVIDIA's RTX 4080 Super and Intel I9 CPU at a $500 Discounted Price!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-list-12-best-animation-software-for-online-video-creation/"><u>Updated 2024 Approved The Ultimate List 12 Best Animation Software for Online Video Creation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-get-lumafusion-for-mac-explore-the-best-video-editing-alternatives-for-2024/"><u>Updated Get Lumafusion for Mac Explore the Best Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-mp4-video-trimmers-top-picks/"><u>Updated In 2024, Free MP4 Video Trimmers Top Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-make-stunning-animated-videos-with-these-10-free-whiteboard-tools-for-windows-and-mac/"><u>Updated Make Stunning Animated Videos with These 10 Free Whiteboard Tools for Windows and Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-merge-wmv-videos-without-cost-top-free-tools/"><u>Updated Merge WMV Videos Without Cost Top Free Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Lower Thirds Like a Pro Expert Techniques for Final Cut Pro X
-date: 2025-02-02T23:58:37.196Z
-updated: 2025-02-10T05:07:53.732Z
+date: 2025-02-13T19:16:51.989Z
+updated: 2025-02-19T22:14:29.334Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,6 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -52,11 +48,11 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -127,10 +123,6 @@ In the home screen, import the video that requires the edits and then tap the �
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
@@ -138,7 +130,7 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
@@ -146,6 +138,10 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -164,6 +160,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 **Minimalistic collection**
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -188,21 +188,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-brevity-in-action-shortening-youtube-video-content/"><u>[New] In 2024, Brevity in Action Shortening YouTube Video Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-preventing-complete-loss-of-visuals-in-youtube-streaming/"><u>[New] In 2024, Preventing Complete Loss of Visuals in YouTube Streaming</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-list-top-10-zero-dollar-videochats-with-desktops/"><u>[Updated] 2024 Approved Elite List Top 10 Zero-Dollar Videochats with Desktops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-iconic-written-movements-unveiled/"><u>[Updated] Iconic Written Movements Unveiled</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ace-titles-essentials-for-digital-marketing-success-for-2024/"><u>Ace Titles Essentials for Digital Marketing Success for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-free-digital-animation-tools-comparative-guide/"><u>Discover the Leading Free Digital Animation Tools - Comparative Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-12-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-facebooks-premier-evolution-the-five-must-know-features/"><u>In 2024, Facebook's Premier Evolution The Five Must-Know Features</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-a23-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy A23 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-10-timecode-conversion-tools-for-accurate-timing-web-ios-android-for-2024/"><u>Top 10 Timecode Conversion Tools for Accurate Timing (Web, iOS, Android) for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-virtualdub-replacements-for-video-editing-for-2024/"><u>Top VirtualDub Replacements for Video Editing for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-transform-your-footage-the-ultimate-1080p-video-editor/"><u>Updated 2024 Approved Transform Your Footage The Ultimate 1080P Video Editor</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-turn-your-memories-into-a-cinematic-video-experience/"><u>Updated 2024 Approved Turn Your Memories Into a Cinematic Video Experience</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-chromebook-video-editor-roundup-top-picks-for-2024/"><u>Updated Chromebook Video Editor Roundup Top Picks for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-final-cut-pro-x-hacks-10-must-have-free-plugins/"><u>Updated In 2024, Final Cut Pro X Hacks 10 Must-Have Free Plugins</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-best-movie-trailer-makers-for-windows-and-mac/"><u>Updated In 2024, The Ultimate List Best Movie Trailer Makers for Windows and Mac</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-win10-users-efficiently-using-zoom-video-conferencing/"><u>[Updated] In 2024, Win10 Users Efficiently Using Zoom Video Conferencing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-snaptweet-transporter-swift-transfer-of-tweets-content-for-2024/"><u>[Updated] SnapTweet Transporter Swift Transfer of Tweets' Content for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-note-30i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Note 30i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-downloading-and-installing-wacom-intuos-3-drivers-on-your-pc-seamless-work-integration/"><u>Guide to Downloading & Installing Wacom Intuos 3 Drivers on Your PC - Seamless Work Integration</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-does-a-cluttered-system-impact-performance-insights-from-yl-software-experts/"><u>How Does a Cluttered System Impact Performance: Insights From YL Software Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-s18e-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo S18e to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software-for-2024/"><u>New FCP or LumaFusion The Pros and Cons of Each Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-video-editing-software-top-5-imovie-alternatives-this-year-for-2024/"><u>New Free Video Editing Software Top 5 iMovie Alternatives This Year for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-audio-fade-ins-and-outs-made-easy-2-fcp-techniques/"><u>New In 2024, Audio Fade Ins and Outs Made Easy 2 FCP Techniques</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-divide-and-conquer-the-best-free-wmv-video-splitters/"><u>New In 2024, Divide and Conquer The Best Free WMV Video Splitters</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-3gp-video-rotator-review-top-rated-options/"><u>New In 2024, Free 3GP Video Rotator Review Top-Rated Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-motion-to-still-the-ultimate-guide-to-video-to-image-conversion/"><u>New In 2024, From Motion to Still The Ultimate Guide to Video to Image Conversion</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-zero-to-hero-top-10-cartoon-video-makers-for-beginners/"><u>New In 2024, From Zero to Hero Top 10 Cartoon Video Makers for Beginners</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme/"><u>New In 2024, Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme ?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-subtitle-editing-on-mac-alternatives-to-subtitle-edit/"><u>New In 2024, The Ultimate Guide to Subtitle Editing on Mac Alternatives to Subtitle Edit</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-7-audio-de-singer-tools-for-effective-vocal-elimination/"><u>New Top 7 Audio De-Singer Tools for Effective Vocal Elimination</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-sony-xperia-10-v-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Sony Xperia 10 V? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-list-of-iphone-extras-upgrade-your-device-today/"><u>The Ultimate List of iPhone Extras - Upgrade Your Device Today!</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/windows-11-uefi-u-bot-usb/"><u>Windows 11 UEFI 下启动 U-Bot USB 制作指南：简单三条法则</u></a></li>
 </ul></div>
 

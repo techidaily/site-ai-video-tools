@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2025-02-06T04:13:20.674Z
-updated: 2025-02-10T01:25:54.049Z
+date: 2025-02-17T05:42:10.015Z
+updated: 2025-02-19T16:00:29.187Z
 tags: 
   - video editing software
   - video editing
@@ -50,7 +50,7 @@ Here is our clip - a fearsome polar bear.
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To apply an effect, first select the clip in the Timeline.
@@ -61,13 +61,13 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -82,9 +82,17 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
@@ -96,10 +104,6 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
@@ -107,7 +111,7 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
@@ -121,10 +125,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -141,17 +141,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-free-online-platform-convert-any-fb-video-into-a-song/"><u>[New] In 2024, Free Online Platform Convert Any FB Video Into a Song</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-yt-videos-for-igtv-presence/"><u>2024 Approved Maximizing YT Videos for IGTV Presence</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/croatias-official-language/"><u>Croatia's Official Language</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-gt-10-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix GT 10 Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x6-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X6 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-huawei-p60-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Huawei P60 Phone Pattern Lock</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/snicker-studio-cybernetic-cackles/"><u>Snicker Studio Cybernetic Cackles</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-boost-video-clarity-top-10-free-online-enhancement-tools-for-2024/"><u>Updated Boost Video Clarity Top 10 Free Online Enhancement Tools for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-expert-picks-top-online-vertical-video-editors-for-2024/"><u>Updated Expert Picks Top Online Vertical Video Editors for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mobile-video-mastery-top-split-screen-apps-for-iphone-and-android/"><u>Updated In 2024, Mobile Video Mastery Top Split Screen Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-20-best-adobe-premiere-title-templates-free-download/"><u>Updated Unleash Your Creativity 20 Best Adobe Premiere Title Templates Free Download</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-creating-compelling-cost-free-youtube-intros/"><u>[Updated] 2024 Approved Creating Compelling, Cost-Free YouTube Intros</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebooks-easy-path-uploading-videos-via-pc-and-android-devices/"><u>[Updated] In 2024, Facebook's Easy Path Uploading Videos via PC and Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721813842605-exciting-times-for-everyone-gpt-4-is-now-free-plus-still-shines-with-6-benefits/"><u>Exciting Times for Everyone: GPT-4 Is Now Free; Plus Still Shines with 6 Benefits</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-x5-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco X5 Phone Screen?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y200-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y200 Phone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-animation-software-10-best-2d-tools-for-beginners-and-pros/"><u>New 2024 Approved S Top Animation Software 10 Best 2D Tools for Beginners and Pros</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-split-merge-and-more-top-free-mpeg-video-processing-tools/"><u>New 2024 Approved Split, Merge, and More Top Free MPEG Video Processing Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-fcpx-freebie-list-10-plugins-you-cant-miss/"><u>New 2024 Approved The Ultimate FCPX Freebie List 10 Plugins You Cant Miss</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-free-animation-tools-for-windows-and-mac-users/"><u>New 2024 Approved Top Free Animation Tools for Windows and Mac Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vsdc-not-your-cup-of-tea-try-these-mac-video-editor-alternatives/"><u>New 2024 Approved VSDC Not Your Cup of Tea? Try These Mac Video Editor Alternatives</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncovering-your-fb-block-list-a-guide/"><u>Uncovering Your FB Block List: A Guide</u></a></li>
 </ul></div>
 

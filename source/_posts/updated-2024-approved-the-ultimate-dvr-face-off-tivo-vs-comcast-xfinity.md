@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate DVR Face-Off TiVo vs Comcast Xfinity
-date: 2025-02-07T22:34:02.087Z
-updated: 2025-02-09T20:35:23.120Z
+date: 2025-02-18T22:07:14.405Z
+updated: 2025-02-19T23:43:09.740Z
 tags: 
   - video editing software
   - video editing
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. TiVo vs Comcast: Connection to a network
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. TiVo vs Comcast: Recording capacity
 
  The new TiVo, the Roamio, has as many as six tuners that can record at the same time with up to 150 hours of high definition programming. You’ll never have another scheduling conflict again!
@@ -94,16 +94,12 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
@@ -111,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
@@ -128,7 +120,15 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -145,20 +145,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-transforming-drones-into-cinematic-experiences-with-editing/"><u>[New] In 2024, Transforming Drones Into Cinematic Experiences with Editing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera/"><u>[Updated] In 2024, Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-eye-candy-for-digital-performances/"><u>2024 Approved Ultimate Eye Candy for Digital Performances</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/battlefield-4-audio-problems-discover-proven-fixes-now/"><u>Battlefield 4 Audio Problems? Discover Proven Fixes Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/bluetooth-compatibility-solved-download-zexmo-adapter-drivers-for-windows-operating-systems-win11-win7-win8/"><u>Bluetooth Compatibility Solved: Download Zexmo Adapter Drivers for Windows Operating Systems (Win11, Win7, Win8)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-nord-n30-se-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus Nord N30 SE Device SIM</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-brother-hl-l237aster-printer-drivers-easy-and-secure-download/"><u>Get the Newest Brother HL-L237aster Printer Drivers – Easy and Secure Download!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-drone-cameras-10-for-professional-filmmaking/"><u>In 2024, Best Drone Cameras #10 For Professional Filmmaking</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-9-best-free-video-cutting-software-for-mp4-format/"><u>New 2024 Approved 9 Best Free Video Cutting Software for MP4 Format</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-affordable-video-editing-solutions-for-creators/"><u>New 2024 Approved Affordable Video Editing Solutions for Creators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-final-cut-face-off-what-sets-pro-apart-from-express/"><u>New 2024 Approved Final Cut Face-Off What Sets Pro Apart From Express</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-green-screen-magic-top-10-apps-for-android-and-ios-users/"><u>New 2024 Approved Free Green Screen Magic Top 10 Apps for Android and iOS Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-best-in-class-audio-editing-software-for-music-and-post-production-for-2024/"><u>New Best-in-Class Audio Editing Software for Music and Post-Production for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-ditch-the-search-get-exclusive-filmora-discounts-here-for-2024/"><u>New Ditch the Search Get Exclusive Filmora Discounts Here for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-list-free-online-video-conferencing-software/"><u>[Updated] In 2024, The Ultimate List Free Online Video Conferencing Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-stills-to-motion-creating-engaging-timelapse-videos-on-ipad/"><u>2024 Approved From Stills to Motion Creating Engaging Timelapse Videos on iPad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quick-fixes-for-seamless-phone-screencasting/"><u>2024 Approved Quick Fixes for Seamless Phone Screencasting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-opportunities-where-youtube-collaborations-thrive/"><u>Finding Opportunities Where YouTube Collaborations Thrive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-install-and-manage-arduino-unos-drivers-in-your-windows-system/"><u>How to Correctly Install and Manage Arduino Uno's Drivers in Your Windows System</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317747-9781401930035-indigo-celebration/"><u>Indigo Celebration | Free Book</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/nes-switch-brawlers-the-ultimate-10-game-guide/"><u>NES Switch Brawlers The Ultimate 10-Game Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-streamline-your-video-editing-workflow-on-mac-with-mkvtoolnix-for-2024/"><u>New Streamline Your Video Editing Workflow on Mac with MKVtoolnix for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/solutions-for-when-your-game-keeps-crashingfreezing-insights-from-yl-computing-and-yl-software/"><u>Solutions for When Your Game Keeps Crashing/Freezing: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cutting-edge-mkv-editing-tools-for-mac/"><u>Updated 2024 Approved Cutting-Edge MKV Editing Tools for Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-replace-vsdc-with-these-top-notch-video-editors-on-mac/"><u>Updated In 2024, Replace VSDC with These Top-Notch Video Editors on Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-top-10-webm-to-mp4-converters-for-flawless-video-conversion/"><u>Updated The Top 10 WebM to MP4 Converters for Flawless Video Conversion</u></a></li>
 </ul></div>
 

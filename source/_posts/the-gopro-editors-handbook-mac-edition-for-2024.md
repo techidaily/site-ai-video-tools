@@ -1,7 +1,7 @@
 ---
 title: The GoPro Editors Handbook Mac Edition for 2024
-date: 2025-01-27T18:03:08.859Z
-updated: 2025-01-29T16:12:34.761Z
+date: 2025-02-12T16:33:28.916Z
+updated: 2025-02-19T21:12:20.458Z
 tags: 
   - video editing software
   - video editing
@@ -42,15 +42,15 @@ First, download Wondershare Filmora X for free. After installing it, you have to
 
 ![import](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/3.import-media-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on File, then Import Media. Another drop-down menu will open from which you can select whether you want to import media files, a media folder, media from your camera or phone, or with Filmora’s Instant Cutter Tool.
 
 If you have a Mac with a Touch Bar, you can use the Touch Bar Controls to import your videos.
 
 You May Also Like: [Touch Bar on Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Section 2. Basic Editing Tips for Gopro Video on Filmora
 
@@ -63,6 +63,10 @@ Want to give your videos a vintage look? You can do that by adding filters and o
 If you don’t like the filters or overlays you’ve chosen, you can easily remove them by clicking them in the timeline and pressing Delete on your keyboard.
 
 ![filter 9 mac](https://images.wondershare.com/filmora/guide/filter-9-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Elements and Transitions
 
@@ -79,16 +83,16 @@ Split Screen is a powerful feature that allows you to edit multiple videos in tw
 
 ![apply split screen](https://images.wondershare.com/filmora/guide/filmora9-mac-apply-split-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can also add audio to your GoPro videos on Mac to make them more attractive. Filmora video editor for Mac has copyright-free music, but you can import your own music, too, using the same import methods described above.
 
 * Once imported, drag and drop your audio into the Audio Track in the timeline.
 * If you want to edit the file, double-click on it and it’ll take you to the Audio editing panel where you can apply effects and change the volume and pitch.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Section 3. Advance Editing tips for Gopro Video on Filmora
 
@@ -102,13 +106,13 @@ his feature lets you track objects in your videos so that other objects can move
 
 ![motion track](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.motion-track.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**. Place the Target Box over the object you want to track and click Start Tracking.
 
 ![box](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**. Select the media that you want to move with the tracked object. Remember that this media already has to be in the timeline.
 
@@ -124,10 +128,6 @@ Wondershare video editor for Mac also lets you color correct multiple videos as 
 
 ![color match](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/34.color-match.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**. Place the playback line on the video you color corrected and then select the other videos you want to color correct.
 
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/34.done.jpg)
@@ -137,7 +137,7 @@ Wondershare video editor for Mac also lets you color correct multiple videos as 
 ![done](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/34.done.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you feel the colors don’t match, you can open the Comparison Preview and use the slider to adjust the colors.
@@ -152,17 +152,21 @@ If you want to temporarily reduce one audio track volume so that another is more
 
 ![ajust audio](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.ajust-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**. Check the “lower the volume of other clips” box.
 
 ![audio ducking](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.audio-ducking.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**. Once you press OK, the volume of every other audio track will be lowered. You can adjust the ducking level to achieve your desired effect.
 
 Mastering these three features will make your videos stand out, so spend some time playing around with them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -173,10 +177,6 @@ Editing GoPro videos on Mac can be confusing, but it isn’t as difficult as peo
 You May Also Like: [Tips and Tricks for GoPro: Get the Most from Your GoPro](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -193,22 +193,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-enlightened-exercits-discovering-the-most-inspiring-yogis-online/"><u>[New] In 2024, Enlightened Exercits - Discovering the Most Inspiring Yogis Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-conquering-remote-work-mastering-the-use-of-zoom-and-gmail/"><u>[Updated] In 2024, Conquering Remote Work Mastering the Use of Zoom and Gmail</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-tips-for-shooting-high-quality-youtube-videos/"><u>[Updated] In 2024, Top Tips for Shooting High-Quality YouTube Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-10-gps-drones-with-steady-trail-following-features/"><u>[Updated] Top 10 GPS Drones with Steady Trail-Following Features</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-clips-to-masterpiece-syncing-audio-and-video-in-final-cut-pro-x-2024/"><u>From Clips to Masterpiece Syncing Audio and Video in Final Cut Pro X 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-s24-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy S24 Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-integrating-diverse-iphone-media-formats-together/"><u>In 2024, Integrating Diverse iPhone Media Formats Together</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-create-stunning-bokeh-top-apps-for-iphone-and-android/"><u>New 2024 Approved Create Stunning Bokeh Top Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-expert-approved-free-video-splitting-tools/"><u>New 2024 Approved Expert-Approved Free Video Splitting Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fcpx-freezing-or-crashing-try-these-quick-fixes/"><u>New 2024 Approved FCPX Freezing or Crashing? Try These Quick Fixes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-recording-voice-overs-in-fcp-like-a-pro-top-tips-and-tricks/"><u>New 2024 Approved Recording Voice Overs in FCP Like a Pro Top Tips & Tricks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-10-free-surveillance-software-options/"><u>New 2024 Approved Top 10 Free Surveillance Software Options</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-best-split-screen-video-editor-online-and-offline-for-2024/"><u>New Best Split Screen Video Editor Online & Offline for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-convert-video-to-live-photo-top-apps-and-tutorials-for-2024/"><u>New Convert Video to Live Photo Top Apps and Tutorials for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-easy-peasy-video-editing-top-free-software-for-newcomers-for-2024/"><u>New Easy Peasy Video Editing Top Free Software for Newcomers for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tracing-the-development-of-battery-powered-cars/"><u>Tracing the Development of Battery-Powered Cars</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-art-of-adaptation-uploading-your-horizon-content-to-instagram-tv/"><u>[Updated] In 2024, The Art of Adaptation Uploading Your Horizon Content to Instagram TV</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lgs-visionary-360-camera-review-and-technological-advances/"><u>[Updated] LG's Visionary 360 Camera Review and Technological Advances</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-reinstate-missing-watch-thumbnail/"><u>[Updated] Reinstate Missing Watch Thumbnail</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-video-extraction-creating-mp3s-in-minutes/"><u>2024 Approved FB Video Extraction Creating MP3s in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016891089-fast-track-fixes-for-bluetooth-speaker-latency-learn-how-now/"><u>Fast Track Fixes for Bluetooth Speaker Latency – Learn How Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo S17 Pro Bootloader Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-merge-multiple-mov-files-for-free-top-tools/"><u>New Merge Multiple MOV Files for Free Top Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-merge-videos-without-logos-best-7-software-options/"><u>New Merge Videos Without Logos Best 7 Software Options</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-top-rated-video-collage-apps-for-iphone-and-ipad/"><u>New Unleash Your Creativity Top-Rated Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-endless-scroll-problems-with-excel-on-windows/"><u>Tackle Endless Scroll Problems with Excel on Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-spelling-challenge-overcoming-hard-words-to-spell-and-pronounce/"><u>The Spelling Challenge: Overcoming Hard Words to Spell and Pronounce</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-started-with-video-editing-best-tools-for-newcomers/"><u>Updated 2024 Approved Get Started with Video Editing Best Tools for Newcomers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-your-creativity-the-best-animation-makers-for-beginners-and-pros/"><u>Updated 2024 Approved Unleash Your Creativity The Best Animation Makers for Beginners and Pros</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-videopad-video-editing-software-a-comprehensive-review-and-guide/"><u>Updated 2024 Approved Videopad Video Editing Software A Comprehensive Review and Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-elevate-your-sound-10-best-music-video-directors-for-2024/"><u>Updated Elevate Your Sound 10 Best Music Video Directors for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-top-free-video-editing-tools-for-gamers/"><u>Updated In 2024, Best Top Free Video Editing Tools for Gamers</u></a></li>
 </ul></div>
 
